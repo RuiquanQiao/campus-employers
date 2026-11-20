@@ -7,6 +7,7 @@ Each employer becomes a short list of the fields the page shows (the order is FI
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import sys
 import time
@@ -28,14 +29,18 @@ def main() -> int:
         recs = json.loads(f.read_text(encoding="utf-8"))
         rows = [[r.get(k) or ("" if k not in ("aliases", "cities", "hires", "roles") else []) for k in FIELDS]
                 for r in recs]
-        (out / f"{f.stem}.json").write_text(json.dumps({"fields": FIELDS, "rows": rows}, ensure_ascii=False,
-                                                        separators=(",", ":")), encoding="utf-8")
+        body = json.dumps({"fields": FIELDS, "rows": rows}, ensure_ascii=False, separators=(",", ":"))
+        (out / f"{f.stem}.json").write_text(body, encoding="utf-8")
         countries.append({"code": f.stem, "employers": len(recs),
                           "careers": sum(bool(r.get("campus_site")) for r in recs),
-                          "system": sum(bool(r.get("system")) for r in recs)})
+                          "system": sum(bool(r.get("system")) for r in recs),
+                          "sha": hashlib.sha256(body.encode("utf-8")).hexdigest()[:12]})
         print(f"{f.stem}: {len(recs)} employers")
-    (out / "index.json").write_text(json.dumps({"updated": time.strftime("%Y-%m-%d"), "countries": countries},
-                                               ensure_ascii=False, indent=1), encoding="utf-8")
+    # "version" is the build time, so a copy built later the same day is still told apart; "sha" lets a reader
+    # download only the countries whose file changed.
+    index = {"updated": time.strftime("%Y-%m-%d"), "version": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+             "countries": countries}
+    (out / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
     return 0
 
 
