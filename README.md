@@ -9,18 +9,31 @@ Why: a graduate from an ordinary family knows the ten biggest names and little e
 SOE subsidiaries, foreign R&D centres and research institutes that hire thousands of graduates a year are invisible
 unless someone already works there. This list is meant to be that someone.
 
+**Browse it:** https://ruiquanqiao.github.io/campus-employers/ (search, filter by country, industry and type).
+
 ## Files
 
-- `data/cn/<sector>-NN.jsonl`: one employer per line, grouped by sector, one file per batch as it was confirmed.
-- `data/cn/<sector>.todo.txt`: employers that belong in the sector and are not in it yet (a later pass adds them).
+- `data/<country>/<sector>-NN.jsonl`: one employer per line, grouped by sector, one file per batch as it was
+  confirmed. `cn` is mainland China; other countries use their two-letter code (`au`, `sg`, `hk`…) and are listed
+  by `INTL_BRIEF.md`, with `notes` saying who may apply (citizenship, work rights).
+- `data/<country>/<sector>.todo.txt`: employers that belong in the sector and are not in it yet.
 - `scripts/validate.py`: checks every file (`python scripts/validate.py`), and with `--merge` writes
-  `dist/cn.json` (all sectors, duplicates merged).
+  `dist/<country>.json` (all sectors, duplicates merged). `scripts/build_site.py` then writes the browsing page's
+  data (`docs/data/`); the page itself is `docs/index.html`, served by GitHub Pages.
 
 ## Where it stands (2026-11)
 
-7,750 employers in 25 sectors (`dist/cn.json`), about 5,400 with a confirmed homepage and 1,958 with a confirmed
-careers site; for about 1,100 of those the recruiting system is known, so Resume Studio can scan them with no AI.
-Many state-owned employers' sites answer only inside mainland China and still wait for a browser pass.
+| Where | Employers | Careers site confirmed | Recruiting system known |
+|---|---|---|---|
+| Mainland China (`cn`) | 7,750 | 1,973 | 1,074 |
+| Australia (`au`) | 1,250 | 770 | 209 |
+| Singapore (`sg`) | 588 | 367 | 101 |
+| Hong Kong (`hk`) | 391 | 180 | 45 |
+
+Many state-owned employers' sites in mainland China answer only from inside it and still wait for a browser pass.
+Outside China, `notes` (who may apply: citizenship, permanent residency, work rights) is filled only where it was
+known for certain, mostly for the public sector; the rest waits for a pass that reads each graduate page. The United
+Kingdom, the United States, Japan and Germany come next.
 
 ## How it is built
 

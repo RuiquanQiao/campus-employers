@@ -41,13 +41,30 @@ SYSTEMS = [
     (r"^(xiaoyuan|campus)\.zhaopin\.com$", "智联"),
     (r"^campus\.51job\.com$|^jobs\.51job\.com$", "前程无忧"),
     (r"(^|\.)dajie\.com$", "大街"),
+    # outside mainland China
+    (r"(^|\.)myworkdayjobs\.com$|(^|\.)myworkdaysite\.com$", "Workday"),
+    (r"(^|\.)pageuppeople\.com$", "PageUp"),
+    (r"(^|\.)successfactors\.(com|eu)$|(^|\.)sapsf\.(com|eu)$", "SuccessFactors"),
+    (r"(^|\.)oraclecloud\.com$", "Oracle"),
+    (r"(^|\.)taleo\.net$", "Taleo"),
+    (r"(^|\.)greenhouse\.io$", "Greenhouse"),
+    (r"(^|\.)lever\.co$", "Lever"),
+    (r"(^|\.)avature\.net$", "Avature"),
+    (r"(^|\.)eightfold\.ai$", "Eightfold"),
+    (r"(^|\.)smartrecruiters\.com$", "SmartRecruiters"),
+    (r"(^|\.)icims\.com$", "iCIMS"),
+    (r"(^|\.)workable\.com$", "Workable"),
+    (r"(^|\.)ashbyhq\.com$", "Ashby"),
 ]
-CAMPUS = re.compile(r"校园招聘|校招|应届|毕业生|campus|graduate|xiaoyuan|school|students?", re.I)
+COUNTRY = "cn"   # set by --country: only mainland China's sites are asked for their Chinese variant
+CAMPUS = re.compile(r"校园招聘|校招|应届|毕业生|管理培训生|campus|graduate|xiaoyuan|school|students?|early.?careers?|"
+                    r"emerging.?talent|future.?talent|vacation|intern(ship)?s?|summer|trainee", re.I)
 CAREERS = re.compile(r"招聘|加入我们|加入.{0,4}(我们|团队)|人才(招聘|发展|中心)|^人才$|职位|岗位|join\s*us|careers?|jobs?\b|recruit", re.I)
 CAREER_URL = re.compile(r"career|job|zhaopin|recruit|campus|talent|joinus|join-us|/hr\b|^https?://hr\.|xiaoyuan", re.I)
 ANCHOR = re.compile(r"<a\b[^>]*?href\s*=\s*[\"']([^\"'#][^\"']*)[\"'][^>]*>(.*?)</a>", re.I | re.S)
 TAG = re.compile(r"<[^>]+>")
-RAW = re.compile(r"https?://[\w.-]+\.(?:zhiye\.com|mokahr\.com|hotjob\.cn|jobs\.feishu\.cn|iguopin\.com)[^\s\"'<>]*", re.I)
+RAW = re.compile(r"https?://[\w.-]+\.(?:zhiye\.com|mokahr\.com|hotjob\.cn|jobs\.feishu\.cn|iguopin\.com|myworkdayjobs\.com|"
+                 r"pageuppeople\.com|greenhouse\.io|lever\.co|avature\.net|eightfold\.ai)[^\s\"'<>]*", re.I)
 BOT = re.compile(r"EO_Bot|acw_sc__v2|__jsl_clearance|_0x[0-9a-f]{4}|document\.cookie\s*=|location\.href\s*=", re.I)
 ABROAD = re.compile(r"^/(au|us|uk|en|en-\w+|global|int|intl|eu|de|fr|jp|sg|my|th|br|mx)(/|$)", re.I)
 SKIP = re.compile(r"\.(pdf|docx?|xlsx?|jpg|png|gif|zip|rar)$|^(mailto|javascript|tel):", re.I)
@@ -66,7 +83,11 @@ def links(page: str, base: str) -> list[tuple[str, str]]:
             continue
         title = re.search(r"title\s*=\s*[\"']([^\"']+)", text)
         label = html.unescape(TAG.sub("", text)).strip() or (title.group(1) if title else "")
-        u = urljoin(base, href)
+        try:   # a page's template left in place (http://[site_url]/…) is no address: urlsplit rejects it
+            u = urljoin(base, href)
+            urlsplit(u).hostname
+        except ValueError:
+            continue
         if u.startswith(("http://", "https://")):
             out.append((u.split("#")[0], re.sub(r"\s+", " ", label)[:60]))
     return out
@@ -124,6 +145,8 @@ def homepage(url: str) -> tuple[int, str, str]:
     their foreign site (byd.com -> /au, midea.com -> /au, iflytek.com -> /en), whose links lead to no 校招, so the
     Chinese variants of the address are tried then."""
     status, final, page = fetch(url)
+    if COUNTRY != "cn":
+        return status, final, page
     if status and status < 400 and not ABROAD.search(urlsplit(final).path) and not urlsplit(final).hostname.startswith(("en.", "global.")):
         return status, final, page
     u = urlsplit(url)
@@ -194,7 +217,8 @@ def studio_detectors(path: Path | None):
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--sector", help="only data/cn/<sector>-*.jsonl")
+    ap.add_argument("--country", default="cn", help="data/<country>/ (cn, au, sg, hk…)")
+    ap.add_argument("--sector", help="only data/<country>/<sector>-*.jsonl")
     ap.add_argument("--limit", type=int, default=0, help="at most this many employers (a trial run)")
     ap.add_argument("--dry", action="store_true", help="report only, rewrite nothing")
     ap.add_argument("--file", help="one .jsonl file instead (a trial)")
@@ -205,7 +229,9 @@ def main() -> int:
     studio = Path(args.studio) if args.studio else ROOT.parent / "resume-studio"
     detectors = studio_detectors(studio)
     files = [Path(args.file)] if args.file else sorted(
-        (ROOT / "data" / "cn").glob(f"{args.sector}-*.jsonl" if args.sector else "*.jsonl"))
+        (ROOT / "data" / args.country).glob(f"{args.sector}-*.jsonl" if args.sector else "*.jsonl"))
+    global COUNTRY
+    COUNTRY = args.country
     content = {f: [json.loads(x) for x in f.read_text(encoding="utf-8-sig").splitlines() if x.strip()] for f in files}
     work = [(f, r) for f, recs in content.items() for r in recs if r.get("website") and not r.get("campus_site")]
     if args.new_only:   # only employers no earlier run of this sector looked at (dist/find-report-<sector>.tsv)
@@ -266,7 +292,7 @@ def main() -> int:
     print(f"{found} of {len(work)} careers sites found")
     out = ROOT / "dist"
     out.mkdir(exist_ok=True)
-    name = f"find-report{'-' + args.sector if args.sector else ''}{time.strftime('-new-%m%d%H%M') if args.new_only else ''}"
+    name = f"find-report{'' if args.country == 'cn' else '-' + args.country}{'-' + args.sector if args.sector else ''}{time.strftime('-new-%m%d%H%M') if args.new_only else ''}"
     (out / f"{name}.tsv").write_text("sector\temployer\twebsite\thomepage\tcareers site\tsystem\ttried\n"
                                           + "\n".join(report) + "\n", encoding="utf-8")
     if not args.dry:

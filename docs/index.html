@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>校招雇主库</title>
+<meta name="description" content="An open directory of employers that hire new graduates, with their careers sites and recruiting systems.">
+<style>
+:root {
+  --bg: #f6f6f8; --surface: #ffffff; --text: #1d1d1f; --muted: #6e6e73; --faint: #a1a1a6;
+  --line: #e4e4e9; --hover: #f1f2f6; --accent: #3d5afe; --accent-soft: #e9edff; --warn: #9a5b00; --warn-soft: #fff4e0;
+  --fs-s: 12.5px; --fs-m: 14px; --fs-l: 15px; --fs-xl: 24px;
+  --font: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161719; --surface: #1e1f22; --text: #ececef; --muted: #a0a0a8; --faint: #6c6c74;
+    --line: #2d2e33; --hover: #25262a; --accent: #8193ff; --accent-soft: #262c4d; --warn: #f0b35a; --warn-soft: #3a2c16;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161719; --surface: #1e1f22; --text: #ececef; --muted: #a0a0a8; --faint: #6c6c74;
+  --line: #2d2e33; --hover: #25262a; --accent: #8193ff; --accent-soft: #262c4d; --warn: #f0b35a; --warn-soft: #3a2c16;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--bg); color: var(--text); font: 400 var(--fs-m)/1.55 var(--font); }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.ced-wrap { max-width: 1180px; margin: 0 auto; padding: 32px 24px 64px; }
+
+.ced-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.ced-head h1 { font-size: var(--fs-xl); font-weight: 600; margin: 0 0 6px; letter-spacing: 0.01em; }
+.ced-lead { color: var(--muted); margin: 0; max-width: 68ch; }
+.ced-tools { display: flex; gap: 8px; flex-shrink: 0; }
+.ced-btn { font: inherit; font-size: var(--fs-s); color: var(--muted); background: var(--surface); border: 1px solid var(--line);
+  border-radius: 7px; padding: 5px 10px; cursor: pointer; white-space: nowrap; }
+.ced-btn:hover { color: var(--text); background: var(--hover); }
+
+.ced-countries { display: flex; gap: 8px; margin: 28px 0 14px; overflow-x: auto; padding-bottom: 2px; }
+.ced-country { font: inherit; text-align: left; background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  padding: 10px 14px 9px; min-width: 150px; cursor: pointer; color: var(--text); flex-shrink: 0; }
+.ced-country:hover { background: var(--hover); }
+.ced-country[aria-pressed="true"] { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
+.ced-country b { display: block; font-weight: 600; font-size: var(--fs-m); }
+.ced-country span { color: var(--muted); font-size: var(--fs-s); }
+.ced-bar { height: 3px; background: var(--line); border-radius: 2px; margin-top: 8px; overflow: hidden; }
+.ced-bar i { display: block; height: 100%; background: var(--accent); }
+
+.ced-filters { display: grid; grid-template-columns: minmax(220px, 1fr) 200px 180px auto; gap: 8px; align-items: center; }
+.ced-filters input[type="search"], .ced-filters select { font: inherit; color: var(--text); background: var(--surface);
+  border: 1px solid var(--line); border-radius: 8px; height: 38px; padding: 0 12px; width: 100%; min-width: 0; }
+.ced-filters input[type="search"] { font-size: var(--fs-l); }
+.ced-filters input[type="search"]:focus, .ced-filters select:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.ced-check { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: var(--fs-s); white-space: nowrap; cursor: pointer; }
+.ced-check input { accent-color: var(--accent); margin: 0; }
+.ced-count { color: var(--muted); font-size: var(--fs-s); margin: 14px 2px 8px; }
+
+.ced-list { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+.ced-row, .ced-colhead { display: grid; grid-template-columns: minmax(0, 2.3fr) minmax(0, 1.6fr) 120px 96px minmax(0, 1.3fr);
+  gap: 16px; padding: 11px 18px; align-items: start; }
+.ced-colhead { color: var(--faint); font-size: var(--fs-s); border-bottom: 1px solid var(--line); padding-top: 9px; padding-bottom: 9px; }
+.ced-row { border-top: 1px solid var(--line); cursor: pointer; }
+.ced-row:first-of-type { border-top: 0; }
+.ced-row:hover { background: var(--hover); }
+.ced-row[aria-expanded="true"] { background: var(--hover); }
+.ced-name { font-weight: 600; overflow-wrap: anywhere; }
+.ced-sub { color: var(--muted); font-size: var(--fs-s); overflow-wrap: anywhere; }
+.ced-note { display: inline-block; margin-top: 4px; color: var(--warn); background: var(--warn-soft); font-size: var(--fs-s);
+  border-radius: 5px; padding: 1px 7px; overflow-wrap: anywhere; }
+.ced-tag { display: inline-block; font-size: var(--fs-s); color: var(--muted); border: 1px solid var(--line); border-radius: 999px;
+  padding: 0 8px; white-space: nowrap; }
+.ced-links { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+.ced-links a { overflow-wrap: anywhere; }
+.ced-none { color: var(--faint); }
+.ced-detail { display: none; grid-column: 1 / -1; padding: 4px 0 4px; }
+.ced-row[aria-expanded="true"] .ced-detail { display: grid; grid-template-columns: max-content 1fr; gap: 4px 18px; }
+.ced-detail dt { color: var(--faint); font-size: var(--fs-s); padding-top: 1px; }
+.ced-detail dd { margin: 0; overflow-wrap: anywhere; }
+.ced-more { display: block; width: 100%; font: inherit; color: var(--accent); background: var(--surface); border: 0;
+  border-top: 1px solid var(--line); padding: 12px; cursor: pointer; }
+.ced-more:hover { background: var(--hover); }
+.ced-empty { padding: 48px 18px; text-align: center; color: var(--muted); }
+.ced-foot { color: var(--muted); font-size: var(--fs-s); margin-top: 28px; max-width: 80ch; }
+.ced-foot p { margin: 0 0 6px; }
+
+@media (max-width: 860px) {
+  .ced-filters { grid-template-columns: 1fr 1fr; }
+  .ced-filters input[type="search"] { grid-column: 1 / -1; }
+  .ced-colhead { display: none; }
+  .ced-row { grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; }
+  .ced-c-ind, .ced-c-links { grid-column: 1 / -1; }
+  .ced-c-nat { grid-column: 2; grid-row: 1; }
+  .ced-check { grid-column: 1 / -1; }
+  .ced-c-hq { display: none; }
+  .ced-links { flex-direction: row; flex-wrap: wrap; gap: 2px 14px; }
+}
+@media (max-width: 520px) {
+  .ced-wrap { padding: 20px 16px 48px; }
+  .ced-head { flex-direction: column; }
+  .ced-country { min-width: 132px; }
+  .ced-row { padding: 11px 14px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="ced-wrap">
+  <header class="ced-head">
+    <div>
+      <h1 data-t="title">校招雇主库</h1>
+      <p class="ced-lead" id="lead"></p>
+    </div>
+    <div class="ced-tools">
+      <button class="ced-btn" id="lang" type="button">English</button>
+      <a class="ced-btn" href="https://github.com/RuiquanQiao/campus-employers" data-t="github">GitHub 仓库</a>
+    </div>
+  </header>
+
+  <nav class="ced-countries" id="countries" aria-label="Country"></nav>
+
+  <div class="ced-filters">
+    <input type="search" id="q" autocomplete="off" data-tp="search">
+    <select id="industry" aria-label="Industry"></select>
+    <select id="nature" aria-label="Type"></select>
+    <label class="ced-check"><input type="checkbox" id="only"><span data-t="only">仅显示已核实招聘官网</span></label>
+  </div>
+  <div class="ced-count" id="count" aria-live="polite"></div>
+
+  <div class="ced-list" id="list" role="list"></div>
+
+  <footer class="ced-foot">
+    <p data-t="foot1"></p>
+    <p id="foot2"></p>
+  </footer>
+</div>
+<script>
+"use strict";
+const REPO = "https://github.com/RuiquanQiao/campus-employers";
+const T = {
+  zh: {
+    title: "校招雇主库", github: "GitHub 仓库", lang: "English", search: "搜索公司名称、简称、行业或城市",
+    lead: (n, c, k) => `收录 ${k} 个国家和地区招收应届毕业生的 ${n} 家雇主，其中 ${c} 家已核实招聘官网。点击任一行可查看详情。`,
+    only: "仅显示已核实招聘官网", allInd: "全部行业", allNat: "全部性质",
+    count: (n, all) => n === all ? `共 ${n} 家` : `筛选出 ${n} 家（共 ${all} 家）`,
+    careers: (c, n) => `${c} 家有招聘官网`, employers: n => `${n} 家`,
+    col: ["雇主", "行业", "性质", "总部", "招聘"], site: "招聘官网", home: "官网", none: "暂无",
+    more: n => `加载更多（剩余 ${n} 家）`, empty: "未找到符合条件的雇主。请调整关键词或筛选条件。",
+    loading: "正在加载数据…", failed: "数据加载失败，请刷新页面重试。",
+    d: { full_name: "全称", aliases: "别名", parent: "上级单位", cities: "招聘城市", listed: "上市信息", scale: "规模",
+         hires: "招聘类型", roles: "常见岗位", system: "招聘系统", notes: "申请条件" },
+    foot1: "雇主名单由 AI 依据行业知识整理；官网与招聘官网均由程序打开页面核实，未经核实的信息不予显示。招聘系统已识别的招聘官网，可在 Resume Studio 中直接扫描岗位。",
+    foot2: (d) => `数据更新于 ${d}。如发现错漏，请在 <a href="${REPO}/issues">GitHub Issues</a> 提交；完整数据见 <a href="${REPO}/tree/main/dist">dist 目录</a>。`,
+    countries: { cn: "中国大陆", au: "澳大利亚", sg: "新加坡", hk: "中国香港", gb: "英国", us: "美国", jp: "日本", de: "德国" },
+    nature: { "cn.central_soe": "央企", "cn.local_soe": "地方国企", "cn.state_finance": "国有金融", "cn.private": "民营企业",
+      "cn.foreign": "外资及合资", "cn.public": "事业单位", "cn.university": "高校及科研院所", "cn.civil": "党政机关",
+      company: "企业", state: "国有企业", government: "政府机构", research: "高校及科研机构", nonprofit: "非营利组织" },
+    hires: { "校招": "校园招聘", "实习": "实习", "社招": "社会招聘", graduate: "应届生项目", internship: "实习", experienced: "社会招聘" },
+  },
+  en: {
+    title: "Graduate Employer Directory", github: "GitHub", lang: "中文", search: "Search by name, abbreviation, industry or city",
+    lead: (n, c, k) => `${n} employers that hire new graduates ${k === 1 ? "in one country" : `across ${k} countries and regions`}; ${c} have a verified careers site. Select a row for details.`,
+    only: "Verified careers site only", allInd: "All industries", allNat: "All types",
+    count: (n, all) => n === all ? `${n} employers` : `${n} of ${all} employers`,
+    careers: (c, n) => `${c} with careers site`, employers: n => `${n} employers`,
+    col: ["Employer", "Industry", "Type", "Head office", "Apply"], site: "Careers site", home: "Website", none: "Not available",
+    more: n => `Show more (${n} remaining)`, empty: "No employers match. Try other keywords or filters.",
+    loading: "Loading data…", failed: "The data could not be loaded. Reload the page to try again.",
+    d: { full_name: "Registered name", aliases: "Also known as", parent: "Parent", cities: "Hiring cities", listed: "Listing",
+         scale: "Size", hires: "Hires", roles: "Typical roles", system: "Recruiting system", notes: "Eligibility" },
+    foot1: "The employer list is compiled by AI from industry knowledge; every homepage and careers site was opened and checked by a script, and nothing unverified is shown. Careers sites whose recruiting system is identified can be scanned directly in Resume Studio.",
+    foot2: (d) => `Updated ${d}. Report an error in <a href="${REPO}/issues">GitHub Issues</a>; the full data is in the <a href="${REPO}/tree/main/dist">dist folder</a>.`,
+    countries: { cn: "Mainland China", au: "Australia", sg: "Singapore", hk: "Hong Kong SAR", gb: "United Kingdom", us: "United States", jp: "Japan", de: "Germany" },
+    nature: { "cn.central_soe": "Central SOE", "cn.local_soe": "Local SOE", "cn.state_finance": "State-owned finance",
+      "cn.private": "Private", "cn.foreign": "Foreign & JV", "cn.public": "Public institution", "cn.university": "University & research",
+      "cn.civil": "Government", company: "Company", state: "State-owned", government: "Government", research: "University & research",
+      nonprofit: "Nonprofit" },
+    hires: { "校招": "Campus hiring", "实习": "Internship", "社招": "Experienced", graduate: "Graduate programme", internship: "Internship", experienced: "Experienced" },
+  },
+};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fmt = n => n.toLocaleString("en-US");
+const PAGE = 100;
+let lang = (navigator.language || "").toLowerCase().startsWith("zh") ? "zh" : "en";
+try { const saved = localStorage.getItem("ced-lang"); if (saved === "zh" || saved === "en") lang = saved; } catch {}
+let index = null, country = "", data = {}, rows = [], shown = PAGE, open = new Set();
+
+const natLabel = n => T[lang].nature[n] || T[lang].nature[String(n).split(".")[1]] || n;
+const t = () => T[lang];
+
+function applyText() {
+  document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
+  document.title = t().title;
+  document.querySelectorAll("[data-t]").forEach(el => { const v = t()[el.dataset.t]; if (typeof v === "string") el.textContent = v; });
+  $("q").placeholder = t().search;
+  $("lang").textContent = t().lang;
+  if (index) {
+    const n = index.countries.reduce((a, c) => a + c.employers, 0), c = index.countries.reduce((a, c) => a + c.careers, 0);
+    $("lead").textContent = t().lead(fmt(n), fmt(c), index.countries.length);
+    $("foot2").innerHTML = t().foot2(index.updated);
+  }
+}
+
+function drawCountries() {
+  $("countries").innerHTML = index.countries.map(c => `
+    <button class="ced-country" type="button" data-cc="${c.code}" aria-pressed="${c.code === country}">
+      <b>${esc(t().countries[c.code] || c.code.toUpperCase())}</b>
+      <span>${t().employers(fmt(c.employers))}${lang === "zh" ? "，" : ", "}${t().careers(fmt(c.careers))}</span>
+      <div class="ced-bar" aria-hidden="true"><i style="width:${(100 * c.careers / Math.max(1, c.employers)).toFixed(1)}%"></i></div>
+    </button>`).join("");
+}
+
+async function load(cc) {
+  if (!data[cc]) {
+    $("list").innerHTML = `<div class="ced-empty">${esc(t().loading)}</div>`;
+    const r = await fetch(`data/${cc}.json`);
+    if (!r.ok) throw new Error(r.status);
+    const j = await r.json();
+    data[cc] = j.rows.map(a => {
+      const o = Object.fromEntries(j.fields.map((f, i) => [f, a[i]]));
+      o._k = [o.name, o.full_name, ...(o.aliases || []), o.industry, o.sub, o.hq, ...(o.cities || []), o.parent]
+        .join("\u0001").toLowerCase();
+      return o;
+    });
+  }
+}
+
+function fillSelects() {
+  const all = data[country] || [];
+  const cnt = (k) => { const m = new Map(); all.forEach(o => m.set(o[k], (m.get(o[k]) || 0) + 1)); return [...m].filter(x => x[0]).sort((a, b) => b[1] - a[1]); };
+  const keep = (id) => $(id).value;
+  const ind = keep("industry"), nat = keep("nature");
+  $("industry").innerHTML = `<option value="">${esc(t().allInd)}</option>` + cnt("industry").map(([v, n]) => `<option value="${esc(v)}">${esc(v)}（${fmt(n)}）</option>`).join("");
+  $("nature").innerHTML = `<option value="">${esc(t().allNat)}</option>` + cnt("nature").map(([v, n]) => `<option value="${esc(v)}">${esc(natLabel(v))}（${fmt(n)}）</option>`).join("");
+  if ([...$("industry").options].some(o => o.value === ind)) $("industry").value = ind;
+  if ([...$("nature").options].some(o => o.value === nat)) $("nature").value = nat;
+  if (lang !== "zh") document.querySelectorAll(".ced-filters option").forEach(o => o.textContent = o.textContent.replace("（", " (").replace("）", ")"));
+}
+
+function filter() {
+  const words = $("q").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const ind = $("industry").value, nat = $("nature").value, only = $("only").checked;
+  rows = (data[country] || []).filter(o => (!ind || o.industry === ind) && (!nat || o.nature === nat) && (!only || o.campus_site)
+    && words.every(w => o._k.includes(w)));
+  if (words.length) {   // an exact or leading name match first
+    const w = words.join(" ");
+    const rank = o => (o.name.toLowerCase() === w || (o.aliases || []).some(a => a.toLowerCase() === w)) ? 0 : o.name.toLowerCase().startsWith(w) ? 1 : 2;
+    rows = rows.map((o, i) => [rank(o), i, o]).sort((a, b) => a[0] - b[0] || a[1] - b[1]).map(x => x[2]);
+  }
+  shown = PAGE;
+  draw();
+}
+
+function cell(label, v) { return v ? `<dt>${esc(label)}</dt><dd>${v}</dd>` : ""; }
+
+function row(o, i) {
+  const d = t().d, join = a => (a || []).map(esc).join(lang === "zh" ? "、" : ", ");
+  const links = [o.campus_site && `<a href="${esc(o.campus_site)}" target="_blank" rel="noopener">${esc(t().site)}</a>`,
+                 o.website && `<a href="${esc(o.website)}" target="_blank" rel="noopener">${esc(t().home)}</a>`].filter(Boolean);
+  const k = country + ":" + o.name;
+  return `<div class="ced-row" role="listitem" tabindex="0" data-k="${esc(k)}" aria-expanded="${open.has(k)}">
+    <div><div class="ced-name">${esc(o.name)}</div>
+      ${o.full_name && o.full_name !== o.name ? `<div class="ced-sub">${esc(o.full_name)}</div>` : ""}
+      ${o.notes ? `<span class="ced-note">${esc(o.notes)}</span>` : ""}</div>
+    <div class="ced-c-ind">${esc(o.industry)}${o.sub ? `<div class="ced-sub">${esc(o.sub)}</div>` : ""}</div>
+    <div class="ced-c-nat"><span class="ced-tag">${esc(natLabel(o.nature))}</span></div>
+    <div class="ced-c-hq">${esc(o.hq)}</div>
+    <div class="ced-c-links ced-links">${links.length ? links.join("") : `<span class="ced-none">${esc(t().none)}</span>`}
+      ${o.system ? `<span class="ced-sub">${esc(o.system)}</span>` : ""}</div>
+    <dl class="ced-detail">
+      ${cell(d.aliases, join(o.aliases))}${cell(d.parent, esc(o.parent))}${cell(d.cities, join(o.cities))}
+      ${cell(d.listed, esc(o.listed))}${cell(d.scale, esc(o.scale))}
+      ${cell(d.hires, join((o.hires || []).map(h => t().hires[h] || h)))}${cell(d.roles, join(o.roles))}
+      ${cell(d.system, esc(o.system))}${cell(d.notes, esc(o.notes))}
+    </dl></div>`;
+}
+
+function draw() {
+  const all = (data[country] || []).length;
+  $("count").textContent = t().count(fmt(rows.length), fmt(all));
+  if (!rows.length) { $("list").innerHTML = `<div class="ced-empty">${esc(t().empty)}</div>`; return; }
+  const c = t().col;
+  $("list").innerHTML = `<div class="ced-colhead" aria-hidden="true"><div>${c[0]}</div><div>${c[1]}</div><div>${c[2]}</div><div>${c[3]}</div><div>${c[4]}</div></div>`
+    + rows.slice(0, shown).map(row).join("")
+    + (rows.length > shown ? `<button class="ced-more" type="button" id="more">${esc(t().more(fmt(rows.length - shown)))}</button>` : "");
+}
+
+function saveHash() {
+  const p = new URLSearchParams();
+  if ($("q").value.trim()) p.set("q", $("q").value.trim());
+  if ($("industry").value) p.set("industry", $("industry").value);
+  if ($("nature").value) p.set("type", $("nature").value);
+  if ($("only").checked) p.set("careers", "1");
+  history.replaceState(null, "", "#" + country + (p.toString() ? "?" + p : ""));
+}
+
+async function pick(cc) {
+  country = cc;
+  drawCountries();
+  try { await load(cc); } catch { $("list").innerHTML = `<div class="ced-empty">${esc(t().failed)}</div>`; return; }
+  fillSelects();
+  filter();
+}
+
+let timer = 0;
+$("q").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { filter(); saveHash(); }, 120); });
+["industry", "nature", "only"].forEach(id => $(id).addEventListener("change", () => { filter(); saveHash(); }));
+$("countries").addEventListener("click", e => {
+  const b = e.target.closest("[data-cc]");
+  if (b && b.dataset.cc !== country) { $("industry").value = ""; $("nature").value = ""; pick(b.dataset.cc).then(saveHash); }
+});
+$("list").addEventListener("click", e => {
+  if (e.target.closest("a")) return;
+  if (e.target.id === "more") { shown += PAGE; draw(); return; }
+  const r = e.target.closest(".ced-row");
+  if (!r) return;
+  const on = r.getAttribute("aria-expanded") !== "true";
+  r.setAttribute("aria-expanded", on);
+  on ? open.add(r.dataset.k) : open.delete(r.dataset.k);
+});
+$("list").addEventListener("keydown", e => {
+  const r = e.target.closest(".ced-row");
+  if (r && (e.key === "Enter" || e.key === " ") && e.target === r) { e.preventDefault(); r.click(); }
+});
+$("lang").addEventListener("click", () => {
+  lang = lang === "zh" ? "en" : "zh";
+  try { localStorage.setItem("ced-lang", lang); } catch {}
+  applyText(); drawCountries(); fillSelects(); draw();
+});
+
+(async () => {
+  applyText();
+  try {
+    const r = await fetch("data/index.json");
+    index = await r.json();
+  } catch { $("list").innerHTML = `<div class="ced-empty">${esc(t().failed)}</div>`; return; }
+  applyText();
+  const [cc, qs] = location.hash.slice(1).split("?");
+  const p = new URLSearchParams(qs || "");
+  if (p.get("q")) $("q").value = p.get("q");
+  if (p.get("careers")) $("only").checked = true;
+  await pick(index.countries.some(c => c.code === cc) ? cc : index.countries[0].code);
+  if (p.get("industry") || p.get("type")) { $("industry").value = p.get("industry") || ""; $("nature").value = p.get("type") || ""; filter(); }
+})();
+</script>
+</body>
+</html>
