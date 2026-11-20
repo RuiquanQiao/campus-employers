@@ -1,0 +1,9 @@
+Still missing from local-soe-east (names to be confirmed from each 国资委 list; none of the lines in local-soe-east-*.jsonl has a verified careers site yet, and only part have a homepage in local-soe-east.websites.tsv):
+江苏: 泰州 / 常州 / 淮安 / 宿迁 / 扬州 / 镇江 / 南通 市属国资集团 other than those written; 县市区级 (江阴, 常熟, 宜兴, 太仓) 国资集团
+浙江: 嘉兴 / 绍兴 / 金华 / 台州 / 衢州 / 丽水 / 舟山 / 湖州 市属 groups beyond the ones written; 义乌 (义乌市国有资本运营), 诸暨, 慈溪, 余姚 县市级国资
+福建: 莆田 / 龙岩 / 三明 / 南平 / 宁德 / 漳州 市属 groups beyond the ones written
+山东: 济宁 / 临沂 / 潍坊 / 淄博 / 泰安 / 威海 / 东营 / 日照 / 德州 / 聊城 市属 groups beyond the ones written; 山东省 provincial subsidiaries (山东高速, 山东能源, 鲁商 each have many listed arms)
+广东: 揭阳 / 茂名 / 肇庆 / 清远 / 韶关 / 梅州 / 阳江 / 河源 / 汕尾 / 潮州 / 云浮 市属国资; 广州 区属国资 (天河, 黄埔, 南沙, 番禺, 白云); 佛山 / 东莞 镇街级 are not wanted
+广东省属 subsidiaries with own 校招: 广东能源集团 listed arms (粤电力, 广东电力发展), 广晟有色, 广新控股 listed arms
+北京 / 天津 / 河北: district-level 国资 (北京: 海淀, 朝阳, 通州, 大兴, 亦庄; 天津: 滨海新区各街); 河北 市属 (秦皇岛, 承德, 衡水, 邢台) 国资集团
+上海: district-level 国资 (浦东, 徐汇, 静安, 长宁, 杨浦 各区属国资集团)

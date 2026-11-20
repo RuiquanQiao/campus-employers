@@ -1,0 +1,20 @@
+HCL科技中国 (印度IT服务)
+威普罗中国 Wipro (印度IT服务)
+网存科技 NetApp
+瞻博网络中国 Juniper
+派拓网络中国 Palo Alto Networks
+飞塔 Fortinet 中国
+联华电子 / 和舰芯片 (UMC)
+芯科科技中国 Silicon Labs
+Skyworks 中国
+凌云逻辑 Cirrus Logic 中国
+微星 MSI / 技嘉 Gigabyte 中国
+铠侠 Kioxia / 迪思科 Disco 中国
+彭博 Bloomberg / 路孚特 LSEG 技术中心
+万事达卡 / 维萨 技术中心
+艺电 EA 中国
+佳明 Garmin 中国
+康耐视 Cognex 中国
+HERE 地图中国
+Equinix 中国
+websites of 山特维克中国, 开利中国, 英格索兰中国, 日立电梯中国, 西门子医疗中国 not known for certain (left out of tsv)

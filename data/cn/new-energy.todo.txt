@@ -1,0 +1,4 @@
+SITES: no employer in new-energy-05..09 has a campus_site; websites missing for about 70 of them (the verifier needs them found by search).
+FILL: scale/funding for all; roles for all of 05..09.
+NOT WRITTEN: 蔚来能源 (auto agent), 依威能源, 星络充电, 许继风电, 天能重工 (manufacturing has it), 中车风电 (check), 联合动力 (check)
+LIKELY MISSING (not brainstormed in depth): 比克/力神 sub-brands, 中汽新能源, 海基, perovskite makers (极电光能, 纤纳光电, 协鑫光电), 钠电 (传艺科技, 众钠能源), 固态电池 (赣锋 sub), 锂电回收 (华宏科技 written; 天奇股份, 光华), 光伏逆变 (图腾, 正泰安能 exists), 风电运维, 光热发电 (首航高科, 中控太阳能), 地热/生物质 (凯迪, 光大环境 not new-energy).

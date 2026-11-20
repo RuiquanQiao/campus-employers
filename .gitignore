@@ -1,0 +1,4 @@
+__pycache__/
+# run reports, rewritten by every run
+dist/*-report*.tsv
+dist/_t.txt

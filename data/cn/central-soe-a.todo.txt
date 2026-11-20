@@ -1,0 +1,17 @@
+# central-soe-a: still missing after the 2026-11 list-only pass (all nature cn.central_soe). Most of the earlier todo is now written (central-soe-a-08..12) or sits in other sectors' files (telecom-media, construction, energy-materials, auto, research).
+# Leave to research-*: the numbered institutes (research agents), not written here on purpose
+中国电科：1所至58所（14所、38所、29所、10所、54所、55所、58所等）
+航空工业：601所至631所等各研究所、一飞院至六飞院
+中国船舶集团：七〇一所、七〇二所、七〇八所、七一一所、七一九所、七二五所、七二六所等
+兵器工业：西安近代化学研究所、兵器工业第五二研究所、中国兵器装备研究院
+航天科技集团：一院、三院（航天科工另有一院、五院、七院、八院、十院、航天科工二院之外的院所）
+# Subsidiaries not yet written
+兵装：重庆建设工业、江陵机器、江南工业、红光、晋西工业、豪格斯
+航空工业：中航电子旧称下属、航空工业集团信息技术中心、中航锂电除外
+中国航发：航发贵阳所、航发四川燃气涡轮研究院（624所）、航发沈阳发动机研究所（606所）、航发动力控制所（609所）
+中国电科公司：中电科太力、中电科芯片之外的各研究所下属公司
+中国电子：中国电子系统工程第二/第四建设、中国电子信息产业发展研究院（赛迪）
+中国移动：各省公司由 telecom-media 负责；中国移动终端公司
+国家电网/南方电网：各地市供电公司（不单独列）
+# Groups not yet confirmed on 国资委's list (check against current list before adding)
+中国中免之外的中国旅游集团下属；中国国新下属；中国诚通下属各公司

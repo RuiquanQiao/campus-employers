@@ -1,0 +1,7 @@
+# construction: not written (no web search in this pass)
+- 418 of 472 written lines lack a website:  subsidiaries (中建一局…八局 etc.) have no homepage I know for certain, left "" for the site crawler to find from the parent group's site.
+中铁十三局 (unsure it exists as a separate recruiting entity)
+中国水电建设集团十五工程局 sub-companies
+各省交通投资集团下属路桥公司 (四川路桥 / 山东路桥 already elsewhere; 湖南路桥, 江西交建, 云南路桥 not listed)
+中国建筑各局下属专业公司 (中建二局二公司 etc.): not branch-level by brief
+装饰: 深装总, 神州长城, 奇信股份, 美芝 (not confirmed still operating)

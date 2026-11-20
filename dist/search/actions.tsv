@@ -1,0 +1,473 @@
+大同银行	merge	山西银行	merged into 山西银行
+晋中银行	merge	山西银行	merged into 山西银行
+阳泉银行	merge	山西银行	merged into 山西银行
+华融湘江银行	rename	{"name":"湖南银行","full_name":"湖南银行股份有限公司"}	renamed 湖南银行
+乌鲁木齐农村商业银行	skip		probably folded, unconfirmed
+众邦银行	merge	汉口银行	taken over by regulator 2026-07; business going to 汉口银行
+新疆汇和银行	merge	新疆银行	absorbed by 新疆银行
+苏宁消费金融	rename	{"name":"南银法巴消费金融","full_name":"南银法巴消费金融有限公司"}	renamed 南银法巴消费金融 (2022-08)
+沃尔沃汽车金融	remove	沃尔沃融资租赁（中国）	dissolution approved (2026); business to 沃尔沃融资租赁（中国）
+辽宁省农村信用社联合社	remove	辽宁农商银行	revoked 2026; business with 辽宁农商银行
+贵州省农村信用社联合社	rename	{"name":"贵州农村商业联合银行","full_name":"贵州农村商业联合银行股份有限公司"}	now 贵州农村商业联合银行 (2025-12)
+山西省农村信用社联合社	rename	{"name":"山西农商联合银行","full_name":"山西农村商业联合银行股份有限公司"}	now 山西农商联合银行 (2023)
+河南省农村信用社联合社	rename	{"name":"河南农商银行"}	now 河南农商银行
+江苏省农村信用社联合社	skip		becoming 江苏农商联合银行, not yet confirmed done
+长银消费金融	skip		note says check
+小米消费金融	skip		note says check hq
+国家电投远达环保	rename	{"name":"电投水电","full_name":"国家电投集团水电股份有限公司"}	renamed 国家电投集团水电股份有限公司 (电投水电, 600292), 2026-01
+国家电投吉林电力	skip		note names the listed 吉电股份 rename but this record's full name is 吉林能源投资有限公司, a different entity; renamed entity handled under 吉电股份
+中核华原钛白	rename	{"name":"中核钛白","full_name":"中核华原钛白股份有限公司"}	now 中核钛白 (002145)
+中核集团中核苏阀	rename	{"name":"中核科技","full_name":"中核苏阀科技实业股份有限公司"}	listed short name now 中核科技 (000777)
+国家能源集团国电科学技术研究院	rename	{"name":"国家能源集团科学技术研究院","full_name":"国家能源集团科学技术研究院有限公司"}	now 国家能源集团科学技术研究院有限公司
+国家能源集团宝日希勒能源	rename	{"name":"国能宝日希勒能源"}	now 国能宝日希勒能源
+国网智能电网研究院	skip		possibly merged, check
+国网电力科学研究院	merge	南瑞集团	same entity as 南瑞集团: merge
+山东电工电气集团	parent	中国电气装备集团	now under 中国电气装备集团, not 国家电网
+国能英力特	skip		control may pass, pending
+中核集团中核霞浦核电	skip		not found as named, check
+广州供电局	full_name	广东电网有限责任公司广州供电局	full name 广东电网有限责任公司广州供电局
+中国航空油料集团	parent	中国石化	became wholly owned subsidiary of 中国石化 (2026-07)
+招商局金融	rename	{"name":"招商金控","full_name":"招商局金融控股有限公司"}	now 招商局金融控股 (招商金控), 2022-09
+中海油东方石化	skip		being sold, not completed
+航天科工火箭	rename	{"name":"快舟航天","full_name":"快舟航天空间科技有限公司"}	renamed 快舟航天空间科技有限公司 (2026-07-31)
+中航资本	rename	{"name":"中航产融","full_name":"中航工业产融控股股份有限公司"}	renamed 中航工业产融控股 (中航产融), 2021
+中航电测	skip		short name changing, in progress
+中国石化管道储运	skip		may no longer exist, check
+中航信托	skip		trusteeship is not a change of entity or parent
+中铁第三勘察设计院	merge	中国铁路设计集团	same employer as 中国铁路设计集团
+中交第一公路工程局	rename	{"name":"中交一公局","full_name":"中交一公局集团有限公司"}	renamed 中交一公局集团有限公司 (2018)
+中交地产	skip		plans to rename, unconfirmed
+中铁工业	full_name	中铁高新工业股份有限公司	registered 中铁高新工业股份有限公司 (600528)
+中国电建新能源集团	rename	{"name":"中电建新能源集团","full_name":"中电建新能源集团股份有限公司"}	now 中电建新能源集团股份有限公司
+中国长安汽车集团	parent		split off from 兵器装备集团 as a central enterprise (2025-07-29), so no parent
+中国市政工程西北设计研究院	skip		note already matches data: parent is already 中国建筑
+中国市政工程中南设计研究总院	parent	中信环境	part of 中信环境
+中铁建设集团	parent	中国铁建	belongs to 中国铁建, not 中国中铁
+中铁十五局	hq	上海	hq 上海, not 洛阳
+中电工程	alias	中国电力工程顾问集团	now 中国电力工程顾问集团 (CPECC; 中电工程 is its short form)
+中国建材国际工程	merge	中国中材国际工程	covered by 中国中材国际工程: merge
+中冶集团武汉勘察研究院	rename	{"name":"中冶武勘","full_name":"中冶武勘工程技术有限公司"}	now 中冶武勘工程技术
+中冶置业	parent	五矿地产	sold to 五矿地产 (2025-26)
+中煤第三建设	nature	cn.local_soe	merged into 中煤矿山建设集团 (安徽国资委): fix nature
+中煤第三建设	parent	中煤矿山建设集团	merged into 中煤矿山建设集团: fix parent
+中国煤炭地质总局	rename	{"name":"中煤地质总局"}	now 中煤地质总局
+中粮置地	rename	{"name":"大悦城地产","full_name":"大悦城地产有限公司"}	now 大悦城地产
+苏州设计研究院	merge	启迪设计集团	now 启迪设计集团: same employer, merge
+中设设计集团	alias	江苏中设集团	is 江苏中设集团
+黑龙江建工集团	rename	{"name":"黑龙江省建设投资集团","full_name":"黑龙江省建设投资集团有限公司"}	now 黑龙江省建设投资集团
+天津房地产集团	skip		debt default and restructuring is not a change of entity
+中国化学工程第十一建设	hq	开封	hq 开封, not 太原
+中国核工业第二二建设	hq	武汉	hq 武汉, not 北京
+浙江大东吴集团	hq	湖州	hq 湖州, not 嘉兴
+铁汉生态	rename	{"name":"中节能铁汉","full_name":"中节能铁汉生态环境股份有限公司"}	now 中节能铁汉生态环境
+旭辉永升服务	rename	{"name":"永升服务"}	now 永升服务
+天虹股份	rename	{"name":"天虹数科商业","full_name":"天虹数科商业股份有限公司"}	now 天虹数科商业
+洪涛股份	skip		note says check
+泰禾集团	skip		note says check
+恒大物业	parent	太盟投资集团	sold to 太盟 (PAG)
+新城悦服务	skip		trading suspension is not a change of entity
+德尔玛	hq	佛山	hq 佛山, not 深圳
+天邦食品	hq	余姚	hq 余姚, not 南京
+华润置地商业物业	merge	华润万象生活	is 华润万象生活: merge
+湖南省交通规划勘察设计院	parent	湖南轨道集团	under 湖南轨道集团
+锦泓集团	hq	上海	hq 上海
+欣贺股份	hq	厦门	hq 厦门
+拉芳家化	hq	汕头	hq 汕头
+一鸣食品	hq	温州	hq 温州
+五得利	missing		no record named 五得利
+伊力特	hq	伊宁	hq 伊宁
+书亦烧仙草	hq	成都	hq 成都
+乐凯撒	hq	深圳	hq 深圳
+华味亨	hq	杭州	hq 杭州
+欣和企业	hq	烟台	hq 烟台
+卡士	missing		no record named 卡士
+惠泉啤酒	parent	燕京啤酒	controlled by 燕京啤酒 (hq 泉州 already correct)
+雅生活服务	rename	{"name":"雅生活智慧城市服务"}	now 雅生活智慧城市服务
+合肥百货	rename	{"name":"合百集团"}	now 合百集团
+中百集团	rename	{"name":"中百控股集团","full_name":"中百控股集团股份有限公司"}	now 中百控股集团
+华润怡宝	parent	华润饮料	group now 华润饮料
+新华都	rename	{"name":"新华都科技","full_name":"新华都科技股份有限公司"}	now 新华都科技
+汇源	missing		no record named 汇源
+慈文传媒	nature	cn.local_soe	controlled by 江西出版传媒: fix nature
+慈文传媒	parent	江西出版传媒	controlled by 江西出版传媒: fix parent
+日日顺供应链	parent	海尔集团	parent 海尔集团
+妙可蓝多	parent	蒙牛	controlled by 蒙牛
+顺丰同城	skip		parent already 顺丰控股
+首商股份	merge	王府井	merged into 王府井 (2021), delisted
+鄂武商	rename	{"name":"武商集团","full_name":"武商集团股份有限公司"}	now 武商集团
+伽蓝集团	rename	{"name":"自然堂集团"}	renamed 自然堂集团 (2024-01)
+零食很忙	rename	{"name":"鸣鸣很忙"}	merged into 鸣鸣很忙 (2023-11); becomes the 鸣鸣很忙 record
+赵一鸣零食	remove	鸣鸣很忙	merged into 鸣鸣很忙 (2023-11); 鸣鸣很忙 not yet a separate record (it arises from the 零食很忙 rename)
+好想来	parent	万辰集团	parent 万辰集团
+新飞电器	remove		assets sold at auction (2018)
+维也纳酒店	skip		data parent is already 锦江酒店
+铂涛集团	skip		data parent is already 锦江酒店
+如家酒店	parent	首旅如家	part of 首旅如家
+瑷尔博士	parent	山东福瑞达	parent 山东福瑞达
+果多美	parent	百果园	parent 百果园
+洪九果品	hq	重庆	hq 重庆
+鲜丰水果	hq	杭州	hq 杭州
+帅丰电器	hq	嵊州	hq 嵊州
+联邦家私	hq	佛山	hq 佛山
+德尔未来	hq	苏州	hq 苏州
+中骏集团	hq	上海	hq 上海
+中国普天	parent	中国电子科技集团	merged into 中国电子科技集团 (2021)
+大唐移动	rename	{"name":"中信科移动","full_name":"中信科移动通信技术股份有限公司"}	now part of 中信科移动
+清越科技	skip		delisting started is not dissolution; company still operates
+柔宇科技	skip		operating status unclear, check
+合力泰	hq	莆田	hq 莆田, not 吉安
+惠科股份	merge	惠科	same employer as 惠科: merge
+铖昌科技	hq	杭州	hq 杭州, not 无锡
+本川智能	hq	南京	hq 南京, not 深圳
+蓝特光学	hq	嘉兴	hq 嘉兴, not 上海
+中维世纪	skip		note gives only province 山东, not a city
+佳禾智能	hq	东莞	hq 东莞, not 惠州
+宇阳科技	hq	深圳	hq 深圳, not 东莞
+吉电股份	rename	{"name":"电投绿能","full_name":"国电投绿色能源股份有限公司"}	renamed 国电投绿色能源股份有限公司 (电投绿能) on 2026-02-04
+贵研铂业	full_name	云南省贵金属新材料控股集团股份有限公司	full name now 云南省贵金属新材料控股集团股份有限公司
+新集能源	full_name	中煤新集能源股份有限公司	full name 中煤新集能源股份有限公司
+津能集团	full_name	天津能源投资集团有限公司	group is 天津能源投资集团有限公司
+港华燃气	rename	{"name":"港华智慧能源","full_name":"港华智慧能源有限公司"}	renamed 港华智慧能源有限公司
+天山铝业	full_name	天山铝业集团股份有限公司	full name 天山铝业集团股份有限公司
+天山铝业	hq	上海	hq 上海 since 2024-04
+万凯新材	hq	海宁	hq 海宁, not 杭州
+金能科技	hq	青岛	hq 青岛, not 德州
+西部建设	hq	成都	hq 成都, not 乌鲁木齐
+中盐内蒙古化工	alias	中盐化工	listed as 中盐化工 (600328)
+云图控股	full_name	成都云图控股股份有限公司	full name 成都云图控股股份有限公司
+九丰能源	full_name	江西九丰能源股份有限公司	full name 江西九丰能源股份有限公司
+九鼎新材	full_name	江苏九鼎新材料股份有限公司	full name 江苏九鼎新材料股份有限公司
+京博控股	full_name	山东京博控股集团有限公司	full name 山东京博控股集团有限公司
+江苏国信	full_name	江苏省国信集团有限公司	full name 江苏省国信集团有限公司
+四川化工控股	skip		possibly absorbed, unconfirmed
+上峰水泥	skip		about a searched homepage, not a field this file changes
+点点互动	hq	北京	hq 北京, not 深圳
+点点互动	parent	世纪华通	subsidiary of 世纪华通
+凯撒文化	hq	深圳	hq 深圳, not 汕头
+君海游戏	full_name	广州君海网络科技有限公司	full name 广州君海网络
+君海游戏	hq	广州	hq 广州, not 深圳
+艺画开天	hq	武汉	hq 武汉, not 成都
+沃华医药	full_name	山东沃华医药科技股份有限公司	full name 山东沃华
+燃石医学	hq	广州	hq 广州, not 北京
+博拓生物	full_name	杭州博拓生物科技有限公司	full name 杭州博拓
+博拓生物	hq	杭州	hq 杭州, not 珠海
+术锐机器人	full_name	北京术锐机器人股份有限公司	full name 北京术锐机器人, not 术锐技术（上海）
+医联	full_name	成都医云科技有限公司	Medlinker, 成都医云
+医联	hq	成都	hq 成都, not 北京
+剂泰医药	alias	剂泰科技	same company as 剂泰科技 (07666.HK): duplicate
+江中药业	rename	{"name":"华润江中"}	renamed 华润江中 in 2025
+达仁堂	full_name	津药达仁堂集团股份有限公司	full name 津药达仁堂 since 2022
+济川药业	skip		full name only "likely"
+零氪科技	skip		note says check status
+北京住总集团	merge	北京城建集团	merged into 北京城建集团 in 2019
+天津津联控股	parent	泰达控股	now under 泰达控股 (2020)
+天津农垦集团	skip		possibly, unconfirmed
+常山药业	full_name	河北常山生化药业股份有限公司	full name 河北常山生化药业股份有限公司
+凤凰医疗	rename	{"name":"华润凤凰医疗","full_name":"华润凤凰医疗控股有限公司"}	now 华润凤凰医疗控股有限公司
+赛维时代	full_name	赛维时代科技股份有限公司	full name 赛维时代科技股份有限公司
+凯利泰	skip		ST is a listing status, not a name change
+傲基股份	full_name	傲基（深圳）跨境商务股份有限公司	full name 傲基（深圳）跨境商务股份有限公司
+康拓医疗	full_name	西安康拓医疗技术股份有限公司	full name 西安康拓医疗技术股份有限公司
+康拓医疗	hq	西安	hq 西安, not 北京
+心通医疗	hq	上海	hq 上海, not 杭州
+济民可信	hq	南昌	hq 南昌, not 台州
+贝康医疗	hq	苏州	hq 苏州, not 深圳
+路歌	full_name	合肥维天运通信息科技股份有限公司	operating company 合肥维天运通信息科技股份有限公司
+路歌	hq	合肥	hq 合肥
+世和基因	full_name	南京世和基因生物技术股份有限公司	full name 南京世和基因生物技术股份有限公司
+世和基因	hq	南京	hq 南京, not 上海
+康圣环球	full_name	康圣环球基因技术有限公司	full name 康圣环球基因技术有限公司 (9960.HK)
+康宁医院	hq	温州	hq 温州, not 深圳
+童程童美	skip		operating difficulty is not dissolution
+七猫	full_name	上海七猫文化传媒有限公司	run by 上海七猫文化传媒有限公司
+七猫	hq	上海	hq 上海, not 北京
+航旅纵横	full_name	中航信移动科技有限公司	legal entity 中航信移动科技有限公司
+英特集团	full_name	浙江英特集团股份有限公司	full name 浙江英特集团股份有限公司
+飞书深诺	full_name	上海飞书深诺数字科技集团股份有限公司	full name 上海飞书深诺数字科技集团股份有限公司
+河北港口集团	skip		planned rename, unconfirmed
+江苏汇鸿国际集团	rename	{"name":"苏豪汇鸿","full_name":"江苏苏豪汇鸿集团股份有限公司"}	now 江苏苏豪汇鸿集团股份有限公司, under 江苏苏豪控股集团 since 2023-07
+江苏省新华发行集团	skip		appears as ..., unconfirmed
+江苏苏盐井神	alias	江苏井神盐化	formerly 江苏井神盐化
+南京城建集团	full_name	南京市城市建设投资控股(集团)有限责任公司	full name 南京市城市建设投资控股(集团)有限责任公司; injection is future
+浙江省铁路投资集团	remove	浙江省交通投资集团	absorbed by 浙江省交通投资集团 and deregistered (2016)
+浙江省水利水电投资集团	merge	浙江省新能源投资集团	renamed 浙江省新能源投资集团股份有限公司, duplicate of that line
+浙江省交通规划设计研究院	rename	{"name":"浙江数智交院","full_name":"浙江数智交院科技股份有限公司"}	renamed 浙江数智交院科技股份有限公司 (2020-12)
+安徽水利开发	merge	安徽建工集团	now 安徽建工集团股份有限公司: duplicate of 安徽建工集团
+安徽省皖能股份	merge	皖能电力	now 皖能电力 (000543)
+安徽国控集团	merge	安徽省国有资本运营控股集团	same entity as 安徽省国有资本运营控股集团: duplicate
+合肥市工业投资控股(集团)	remove	合肥市产业投资控股(集团)	merged into 合肥市产业投资控股(集团) in 2015-03
+上海科技创业投资(集团)	remove	上海国有资本投资	merged into 新上海科创集团 (2021-12), then 上海国有资本投资 (2024)
+宁波水务集团	skip		full name only "likely"
+杭州市城市建设投资集团	alias	杭州城投集团	usually called 杭州城投集团
+山东发展投资集团	rename	{"name":"山东发展投资控股集团","full_name":"山东发展投资控股集团有限公司"}	merged into 山东发展投资控股集团有限公司 (registered 2025-07)
+山东路桥集团	full_name	山东高速路桥集团股份有限公司	listed 山东高速路桥集团股份有限公司 (000498)
+山东省交通运输集团	skip		possibly not an employer, no such company found
+日照港	skip		parent already 山东港口集团
+山东省水务	skip		no company found
+山东省文化产业投资	skip		only a fund found, not this employer
+山东省国际信托	alias	山东国信	known as 山东国信 (1697.HK)
+青岛海发国有资本投资运营	alias	青岛西海岸发展(集团)有限公司	named 青岛西海岸发展(集团)有限公司 until 2021-10-29
+福建省冶金(控股)	rename	{"name":"福建省产业控股集团","full_name":"福建省产业控股集团有限公司"}	merged with 福建省三钢 into 福建省产业控股集团 (2025-05-27)
+福建省三钢(集团)	remove	福建省产业控股集团	merged into 福建省产业控股集团 (2025-05-27); that record arises from the 福建省冶金(控股) rename
+福建省能源集团	merge	福建省能源石化集团	merged with 福建省石化集团 into 福建省能源石化集团 (2021-08): duplicate
+福建省永安林业(集团)	parent	中国林业集团	controlling shareholder now 中国林业集团
+佛山市燃气集团	rename	{"name":"佛燃能源集团","full_name":"佛燃能源集团股份有限公司"}	renamed 佛燃能源集团 (2020-03)
+珠海格力集团	skip		unclear which entity formed 珠海科技产业集团 with 珠海华发
+北京首创股份	rename	{"name":"首创环保","full_name":"北京首创生态环保集团股份有限公司"}	renamed 北京首创生态环保集团股份有限公司 (2021-06)
+北京京煤集团	merge	北京能源集团	merged into 北京能源集团 (2014): duplicate
+北京王府井百货集团	merge	王府井	now 王府井集团股份有限公司; same as existing 王府井 record
+北京首都农业集团	merge	北京首农食品集团	merged into 北京首农食品集团 (2017-12)
+天津津滨发展	rename	{"name":"天津滨海发展"}	now 天津滨海发展 on SZSE
+天津生态城投资开发有限公司	full_name	中新天津生态城投资开发有限公司	full name 中新天津生态城投资开发有限公司
+广东省广弘控股	full_name	广东广弘控股股份有限公司	listed 广东广弘控股股份有限公司
+广东南方出版传媒集团	full_name	南方出版传媒股份有限公司	listed 南方出版传媒股份有限公司
+广州市广百集团	full_name	广州市广百股份有限公司	listed 广州市广百股份有限公司
+北京市勘察设计研究院	parent	中国节能环保集团	subsidiary of 中国节能环保集团
+宁波热电	rename	{"name":"宁波能源集团","full_name":"宁波能源集团股份有限公司"}	renamed 宁波能源集团 (2020-12), stock 600982
+杭州汽轮动力集团	full_name	杭州汽轮动力集团股份有限公司	renamed 杭州汽轮动力集团股份有限公司 (2023-04)
+天津市地下铁道集团	merge	天津轨道交通集团	merged into 天津轨道交通集团 (2017)
+青岛公交集团	remove	青岛城运控股集团	merged into 青岛城运控股集团 (2020)
+淄博矿业集团	merge	山东能源集团	merged into 山东能源集团 (2011)
+日照市城市建设投资集团	parent	日照国控投资集团	reorganised under 日照国控投资集团 (2025)
+泰安市国有资本运营集团	skip		name may no longer exist, unconfirmed
+菏泽市国有资本投资集团	rename	{"name":"菏泽投资发展集团"}	former name of 菏泽投资发展集团
+淮安市投资控股集团	parent	淮安市城市发展投资控股集团	subsidiary of 淮安市城市发展投资控股集团
+台州市交通投资集团	parent	台州市国有资本运营集团	subsidiary of 台州市国有资本运营集团
+江苏国经控股集团	hq	常州	hq 常州, not 南京
+河北省港口集团	hq	唐山	hq 唐山, not 秦皇岛
+河北省港口集团	alias	秦皇岛港务集团	formerly 秦皇岛港务集团
+上海梅林正广和	rename	{"name":"光明肉业","full_name":"上海光明肉业集团股份有限公司"}	now 上海光明肉业集团
+深圳市水务集团	merge	深圳市环境水务集团	now 深圳市环境水务集团 (2019-05): duplicate
+深圳市远致投资	rename	{"name":"深圳市资本运营集团","full_name":"深圳市资本运营集团有限公司"}	now 深圳市资本运营集团有限公司
+广州水务集团	merge	广州水投集团	known as 广州水投集团
+广州轻工工贸集团	remove	广州国际商贸集团	business folded into 广州国际商贸集团 (2025)
+广州国资发展控股	skip		possible duplicate, unconfirmed
+广州工业投资控股集团	skip		likely/possible duplicate, unconfirmed
+广东省农垦集团	skip		possible duplicate, unconfirmed
+广东省广业集团	rename	{"name":"广东省环保集团","full_name":"广东省环保集团有限公司"}	now 广东省环保集团
+广西广投能源	merge	广西能源集团	pre-2023 name of 广西能源集团: duplicate
+广西华锡集团	alias	中国锡锑集团	known as 中国锡锑集团 in news
+海南天然橡胶产业集团	alias	海南橡胶	listed 海南橡胶
+湖北省宏泰国有资本投资运营集团	rename	{"name":"湖北宏泰集团","full_name":"湖北宏泰集团有限公司"}	now 湖北宏泰集团
+湖北省文化旅游投资集团	rename	{"name":"湖北文化旅游集团","full_name":"湖北文化旅游集团有限公司"}	now 湖北文化旅游集团
+湖北省担保集团	full_name	湖北省融资担保集团有限公司	registered as 湖北省融资担保集团
+武汉地产开发投资集团	rename	{"name":"武汉城市建设集团","full_name":"武汉城市建设集团有限公司"}	now 武汉城市建设集团
+湖南湘投控股集团	merge	湖南能源集团	reorganised into 湖南能源集团 (2024-03): duplicate
+湖南华菱钢铁集团	rename	{"name":"湖南钢铁集团","full_name":"湖南钢铁集团有限公司"}	renamed 湖南钢铁集团 (2022)
+湖南建设投资集团	skip		describes how this entity was formed, no change
+湖南省水运建设投资集团	remove	湖南省港航水利集团	now within 湖南省港航水利集团
+湖南有色金属控股集团	parent	中国五矿	now under 中国五矿
+长沙先导投资控股集团	merge	长沙城市发展集团	merged into 长沙城市发展集团 (2019-09)
+郑州城市发展集团	alias	郑州地产集团	formerly 郑州地产集团
+晋能控股煤业集团	alias	大同煤矿集团	formerly 大同煤矿集团
+山西华阳新材料	skip		refers to the listed company's former group name, no field to change
+陕西交通控股集团	skip		describes formation, no change
+粤海集团	skip		two hq cities given, ambiguous
+晋能控股集团	skip		unconfirmed
+四川省铁路产业投资集团	merge	四川蜀道投资集团	merged into 四川蜀道投资集团 (2021-04-02)
+四川省投资集团	skip		restructuring planned
+四川剑南春集团	hq	绵竹	hq 绵竹 (德阳), not 绵阳
+成都建工集团	parent	成都兴城投资集团	equity transferred to 成都兴城投资集团 (2018)
+成都数据集团	alias	成都大数据集团	formerly 成都大数据集团 (2023-07)
+重庆对外经贸集团	rename	{"name":"重庆千信对外经济合作集团"}	now 重庆千信对外经济合作集团
+贵州能源集团	skip		describes this entity absorbing another, no change to this record
+贵阳市城市建设投资集团	rename	{"name":"贵阳市基础设施建设投资集团","full_name":"贵阳市基础设施建设投资集团有限公司"}	now 贵阳市基础设施建设投资集团
+云南省贵金属新材料控股集团	skip		note says check against energy-materials line
+新疆建工集团	rename	{"name":"中建新疆建工集团"}	is 中建新疆建工集团
+新疆建工集团	parent	中国建筑	a 中国建筑 subsidiary
+新疆建工集团	nature	cn.central_soe	a 中国建筑 subsidiary
+内蒙古能源集团	full_name	内蒙古能源发电投资集团有限公司	full name 内蒙古能源发电投资集团
+黑龙江辰能投资集团	rename	{"name":"黑龙江省新产业投资集团"}	renamed 黑龙江省新产业投资集团
+南昌工业控股集团	rename	{"name":"南昌市产业投资集团"}	renamed 南昌市产业投资集团 (2024)
+洛阳国宏投资控股集团	remove	洛阳工控集团	reorganised into 洛阳工控集团 (2024-06)
+河南航空港投资集团	alias	郑州航空港兴港投资集团	renamed 2022-09 from 郑州航空港兴港投资集团
+湖南粮食集团	merge	湖南农业发展投资集团	merged into 湖南农业发展投资集团 (2022-07)
+广西金融投资集团	remove	广投集团	merged into 广投集团 (2019-12-31)
+重庆商社集团	merge	重庆百货	absorbed into 重庆百货, entity to be cancelled
+重庆市水利投资集团	skip		being taken over, in progress
+云南城投集团	rename	{"name":"云南省康旅控股集团","full_name":"云南省康旅控股集团有限公司"}	now 云南省康旅控股集团
+云南冶金集团	skip		taking 51% is in progress
+新疆城建	rename	{"name":"卓郎智能"}	now 卓郎智能 (600545)
+靖远煤电	rename	{"name":"甘肃能化"}	listed company renamed 甘肃能化 (2022)
+哈尔滨工业投资集团	skip		possibly renamed, unconfirmed
+珠海港控股集团	skip		plan only
+新疆新能源集团	skip		stake move does not change this entity
+吉林省信用担保投资集团	rename	{"name":"吉林省信用融资担保投资集团","full_name":"吉林省信用融资担保投资集团有限公司"}	now 吉林省信用融资担保投资集团
+陕西燃气集团	parent	延长石油集团	now wholly owned by 延长石油集团
+深圳市盐田港集团	rename	{"name":"深圳港集团","full_name":"深圳港集团有限公司"}	renamed 深圳港集团 (2023-03)
+万讯自控	hq	深圳	hq 深圳, not 北京
+伟创电气	skip		hq already 苏州
+南方泵业	rename	{"name":"南方中金环境","full_name":"南方中金环境股份有限公司"}	renamed 南方中金环境 (300145) in 2016-03
+金通灵	full_name	金通灵科技集团股份有限公司	now 金通灵科技集团股份有限公司
+华沿机器人	skip		大族机器人 already an alias; name 华沿机器人 already current
+易事特	skip		ST is a listing status
+太原重工	skip		ST is a listing status
+韩通船舶重工	remove	江苏新韩通	closed 2020-06; successor 江苏新韩通
+西王集团	skip		bond default is not a change of entity
+万控智造	full_name	万控智造股份有限公司	万控智造 (603070) is not 置信电气
+万控智造	hq	乐清	万控智造 (603070, 乐清)
+太平洋造船	hq	上海	hq 上海, not 大连
+图南股份	hq	丹阳	hq 丹阳, not 常州
+英杰电气	hq	德阳	hq 德阳, not 成都
+鑫磊股份	hq	温岭	hq 温岭, not 杭州
+中电电机	hq	无锡	hq 无锡, not 上海
+江苏华辰	hq	徐州	hq 徐州, not 盐城
+深蓝航天	full_name	江苏深蓝航天有限公司	registered as 江苏深蓝航天
+蓝科高新	full_name	甘肃蓝科石化高新装备股份有限公司	full name 甘肃蓝科石化高新装备
+华峰化学	hq	瑞安	hq 瑞安, not 温州
+新界泵业	hq	温岭	hq 温岭
+卫星集团	rename	{"name":"卫星化学","full_name":"卫星化学股份有限公司"}	is 卫星化学 (嘉兴)
+中国重工	remove	中国船舶	absorbed by 中国船舶 by share swap (planned 2025-01, date passed)
+北摩高科	full_name	北京北摩高科摩擦材料股份有限公司	full name 北京北摩高科摩擦材料股份有限公司 (002985)
+弘亚数控	alias	广州弘亚数控	now 广州弘亚数控 KDT Machinery Group
+鼎泰高科	full_name	广东鼎泰高科技术股份有限公司	full name 广东鼎泰高科技术股份有限公司 (301377)
+鼎泰高科	hq	东莞	hq 东莞, not 深圳
+中钨高新	hq	株洲	hq 株洲, not 长沙
+蔚蓝锂芯	full_name	江苏蔚蓝锂芯集团股份有限公司	full name 江苏蔚蓝锂芯集团股份有限公司
+英可瑞	full_name	深圳市英可瑞科技股份有限公司	full name 深圳市英可瑞科技股份有限公司
+弘元绿能	skip		duplicate of 上机数控; this record (new name) is kept and 上机数控 is merged into it
+上机数控	merge	弘元绿能	now 弘元绿能: duplicate
+泰胜风能	skip		renamed 2025-02 but new name not given
+诺德股份	rename	{"name":"诺德新材料","full_name":"诺德新材料股份有限公司"}	renamed 诺德新材料股份有限公司
+天际股份	rename	{"name":"天际新能源","full_name":"天际新能源科技股份有限公司"}	now 天际新能源科技股份有限公司
+科恒股份	full_name	江门市科恒实业股份有限公司	full name 江门市科恒实业股份有限公司
+美畅股份	full_name	杨凌美畅新材料股份有限公司	full name 杨凌美畅新材料股份有限公司
+美畅股份	hq	杨凌	hq 杨凌, not 杭州
+中一科技	full_name	湖北中一科技股份有限公司	full name 湖北中一科技股份有限公司
+中一科技	hq	云梦	hq 云梦, not 广东
+长远锂科	rename	{"name":"五矿新能源材料","full_name":"五矿新能源材料(湖南)股份有限公司"}	now 五矿新能源材料(湖南)股份有限公司
+清陶能源	full_name	清陶(昆山)能源发展集团股份有限公司	full name 清陶(昆山)能源发展集团股份有限公司
+彩虹新能源	full_name	彩虹集团新能源股份有限公司	full name 彩虹集团新能源股份有限公司 (0438.HK)
+重塑科技	rename	{"name":"重塑能源"}	now 重塑能源 (Refire)
+昆明机床	full_name	通用技术集团昆明机床股份有限公司	now 通用技术集团昆明机床股份有限公司
+超华科技	skip		delisting risk is not dissolution
+一道新能	hq	衢州	hq 衢州, not 苏州
+中科电气	hq	岳阳	hq 岳阳, not 长沙
+道氏技术	hq	佛山	hq 佛山, not 珠海
+中伟股份	hq	铜仁	hq 铜仁, not 贵阳
+瑞泰新材	hq	张家港	hq 张家港, not 广州
+万润新能	hq	十堰	hq 十堰, not 襄阳
+明冠新材	hq	宜春	hq 宜春, not 九江
+凯金能源	hq	东莞	hq 东莞, not 惠州
+沃太能源	hq	南通	hq 南通
+通灵股份	full_name	江苏通灵电器股份有限公司	full name 江苏通灵电器股份有限公司 (扬中)
+通灵股份	hq	扬中	(扬中)
+寒锐钴业	full_name	南京寒锐钴业股份有限公司	listed company is 南京寒锐钴业股份有限公司 (300618)
+寒锐钴业	hq	南京	hq 南京; 赣州 is a subsidiary plant
+西藏珠峰	hq	上海	hq 上海, not 拉萨
+湘电风能	rename	{"name":"哈电风能"}	renamed 哈电风能 (2021-05)
+中国海装	parent	中船科技	wholly owned by 中船科技 (2022)
+国鸿氢能	skip		hq already 嘉兴
+川能动力	alias	川化股份	formerly 川化股份 (2018-09)
+川发龙蟒	alias	成都三泰	formerly 成都三泰
+西藏矿业	parent	中国宝武	largest shareholder 中国宝武 since 2020-06
+中科星城	hq	长沙	hq 长沙宁乡, not 益阳
+华夏人寿	rename	{"name":"瑞众人寿","full_name":"瑞众人寿保险有限责任公司"}	business taken over by new 瑞众人寿 (2023)
+华夏人寿	hq	北京	瑞众人寿 is registered in Beijing
+华锐风电	parent	大连重工装备集团	controlled by 大连重工装备集团 (delisting itself is not removal)
+台海核电	rename	{"name":"荣发核电"}	renamed 荣发核电 (2023-06)
+佳电股份	full_name	哈尔滨电气集团佳木斯电机股份有限公司	full name 哈尔滨电气集团佳木斯电机股份有限公司
+嘉泽新能	full_name	嘉泽新能源股份有限公司	renamed 嘉泽新能源股份有限公司 (2024-09)
+国泰君安证券资产管理	rename	{"name":"国泰海通证券资产管理","full_name":"上海国泰海通证券资产管理有限公司"}	now 上海国泰海通证券资产管理有限公司
+万和证券	skip		becoming controlling shareholder, not a completed change
+劳合社再保险（中国）	rename	{"name":"劳合社保险（中国）","full_name":"劳合社保险（中国）有限公司"}	renamed 劳合社保险（中国）有限公司 (2010)
+四川信托	rename	{"name":"四川天府信托","full_name":"四川天府信托有限公司"}	renamed 四川天府信托有限公司 (2025-11)
+方正东亚信托	rename	{"name":"国通信托","full_name":"国通信托有限责任公司"}	renamed 国通信托有限责任公司
+江西国际信托	rename	{"name":"雪松国际信托"}	became 中江国际信托, now 雪松国际信托
+施罗德基金	skip		possibly renamed, check
+民生信托	skip		possibly renamed, check
+海通期货	parent	国泰海通证券	now controlled by 国泰海通
+双一科技	skip		correct full name not given
+帕瓦股份	full_name	浙江帕瓦新能源股份有限公司	is 浙江帕瓦新能源 (688184, 诸暨)
+帕瓦股份	hq	诸暨	诸暨, not 长沙
+追日电气	full_name	湖北追日电气股份有限公司	full name 湖北追日电气股份有限公司
+追日电气	hq	襄阳	hq 襄阳, not 北京
+欧普泰	hq	上海	hq 上海, not 苏州
+中天国富证券	hq	贵阳	hq 贵阳, not 深圳
+大业信托	hq	广州	hq 广州, not 太原
+中信保诚基金	hq	上海	hq 上海, not 北京
+同方全球人寿	hq	深圳	hq 深圳
+国氢科技	parent	国家电投	brand belongs to 国家电投, not 国家能源集团
+派瑞氢能	full_name	中船(邯郸)派瑞氢能科技有限公司	full name 中船(邯郸)派瑞氢能科技有限公司
+国富氢能	full_name	江苏国富氢能技术装备股份有限公司	full name 江苏国富氢能技术装备股份有限公司 (02582.HK)
+奥动新能源	full_name	奥动新能源股份有限公司	now 奥动新能源股份有限公司 (2025-03)
+宏源期货	skip		to be absorbed, year unknown
+新湖期货	full_name	新湖期货股份有限公司	full name 新湖期货股份有限公司
+重庆渝康资产经营	rename	{"name":"华润渝康资产管理","full_name":"华润渝康资产管理有限公司"}	now 华润渝康资产管理有限公司
+中信金融资产管理	alias	中国华融资产管理	renamed 2024-01 from 中国华融资产管理
+安徽省资产管理	rename	{"name":"国厚资产","full_name":"国厚资产管理股份有限公司"}	provincial AMC is 国厚资产管理股份有限公司
+高盛高华证券	rename	{"name":"高盛（中国）证券","full_name":"高盛(中国)证券有限责任公司"}	renamed 高盛(中国)证券有限责任公司 (2023-06-28)
+合肥量子信息国家实验室	rename	{"name":"合肥国家实验室"}	now 合肥国家实验室
+中证信息技术服务	hq	北京	hq 北京, not 深圳
+大地期货	hq	杭州	hq 杭州, not 北京
+花旗证券（中国）	hq	上海	approved 2026-10-23, hq 上海, not 北京
+大和证券（中国）	hq	北京	hq 北京, not 上海
+航天科工微电子系统研究院	hq	成都	hq 成都, not 重庆
+航天科技集团第十研究院	rename	{"name":"贵州航天技术研究院"}	now 贵州航天技术研究院 (贵阳)
+航天科技集团第十研究院	parent	中国航天科工集团	belongs to 航天科工
+中国航天科技集团第七研究院（航天七院）	rename	{"name":"四川航天技术研究院"}	now 四川航天技术研究院
+中国航天科技集团第四研究院（航天四院）	rename	{"name":"航天动力技术研究院"}	now 航天动力技术研究院
+北京卫星环境工程研究所（航天五院529所）	rename	{"name":"北京卫星环境工程研究所（航天五院511所）"}	is 511所, not 529所
+上海空间推进研究所（航天八院801所）	rename	{"name":"上海空间推进研究所（航天六院801所）"}	801所 belongs to 航天六院, not 航天八院
+中国工程物理研究院材料研究所	hq	江油	located in 江油
+北京宇航系统工程研究所（航天一院十四所）	rename	{"name":"北京宇航系统工程研究所"}	not 航天一院十四所
+辽宁实验室	skip		ambiguous
+太湖实验室	full_name	深海技术科学太湖实验室	full name 深海技术科学太湖实验室
+中国船舶集团第七六〇研究所	rename	{"name":"湖海试验研究中心（大连基地）"}	now 湖海试验研究中心（大连基地）
+中国电子科技集团公司第五十四研究所	alias	石家庄通信测控技术研究所	also 石家庄通信测控技术研究所
+航空工业北京航空材料研究院（621所）	parent	中国航空发动机集团	now under 中国航发 (AECC), not 航空工业
+中国兵器工业第二〇八研究所	skip		note says check parent
+中国兵器装备集团自动化研究所	skip		note says check parent
+煤科院西安研究院	full_name	中煤科工西安研究院（集团）有限公司	full name 中煤科工西安研究院（集团）有限公司
+煤科院重庆研究院	full_name	中煤科工集团重庆研究院有限公司	full name 中煤科工集团重庆研究院有限公司
+电信科学技术研究院有限公司（大唐电信科技）	parent	中国信科	wholly owned by 中国信息通信科技集团
+中国联通研究院	skip		describes formation in 2020, no change
+中国移动国际	hq	香港	hq 香港, not 北京
+中国电信国际	hq	香港	hq 香港, not 北京
+天翼数字生活科技	hq	南京	hq 南京, not 广州
+天翼视联科技	full_name	天翼视联科技股份有限公司	now 天翼视联科技股份有限公司 (2025-08)
+中移铁通	full_name	中移铁通有限公司	full name 中移铁通有限公司
+央视动漫	full_name	央视动漫集团有限公司	now 央视动漫集团有限公司
+北京文化	full_name	北京京西文化旅游股份有限公司	full name 北京京西文化旅游股份有限公司 (000802)
+出版传媒	full_name	北方联合出版传媒(集团)股份有限公司	full name 北方联合出版传媒(集团)股份有限公司 (601999)
+紫光学大	rename	{"name":"学大教育","full_name":"学大(厦门)教育科技集团股份有限公司"}	renamed 学大(厦门)教育科技集团股份有限公司 (000526)
+凯文教育	full_name	北京凯文德信教育科技股份有限公司	full name 北京凯文德信教育科技股份有限公司
+睿见教育	rename	{"name":"光正教育"}	renamed 光正教育 (2021-09)
+宇华教育	skip		delisting from HKEX is not dissolution
+巨人教育	remove		closed 2021-08
+精锐教育	skip		only "halted 2021"; what was halted is unclear
+优胜教育	remove		collapsed around 2020
+瑞思学科英语	skip		looks inactive, check
+金逸影视	full_name	广州金逸影视传媒股份有限公司	full name 广州金逸影视传媒股份有限公司
+中国联通国际	hq	香港	hq 香港
+南航物流	full_name	南方航空物流股份有限公司	full name 南方航空物流股份有限公司
+东莞轨道交通	rename	{"name":"东莞轨道公交集团","full_name":"东莞轨道公交集团有限公司"}	renamed 东莞轨道公交集团有限公司
+珠海交通集团	rename	{"name":"珠海交通控股集团"}	merged into 珠海交通控股集团 (2024)
+贵州机场集团	rename	{"name":"贵州民航产业集团","full_name":"贵州民航产业集团有限公司"}	renamed 贵州民航产业集团有限公司 (2022-12)
+青海省机场集团	full_name	西部机场集团青海机场有限公司	is 西部机场集团青海机场有限公司
+青海省机场集团	parent	西部机场集团	under 西部机场集团
+宁夏机场	full_name	西部机场集团宁夏机场有限公司	is 西部机场集团宁夏机场公司
+宁夏机场	parent	西部机场集团	under 西部机场集团
+山西机场集团	parent	山西航空产业集团	now under 山西航空产业集团有限公司
+西藏自治区机场集团	full_name	中国民用航空西藏自治区机场集团有限公司	full name 中国民用航空西藏自治区机场集团有限公司
+温州市铁路与轨道交通投资集团	parent	温州市交通发展集团	transferred to 温州市交通发展集团 (2025)
+大连地铁	parent	大连交通集团	now under 大连交通集团
+中视传媒	hq	上海	hq 上海
+豌豆思维	hq	广州	operating company in 广州
+新通教育	hq	杭州	hq 杭州
+民生教育	hq	北京	hq 北京
+中国东方教育	hq	合肥	hq 合肥
+华北高速	merge	招商公路	absorbed by 招商公路 and delisted
+荣庆物流	rename	{"name":"希杰荣庆物流","full_name":"希杰荣庆物流供应链有限公司"}	now 希杰荣庆物流供应链有限公司 (CJ Rokin)
+享道出行	full_name	享道出行(上海)科技股份有限公司	now 享道出行(上海)科技股份有限公司
+中邮科技	hq	上海	hq 上海, not 北京
+优速快递	skip		sources disagree
+山东海运	hq	青岛	hq 青岛, not 烟台
+嘉诚国际	hq	广州	hq 广州, not 宁波
+风神物流	hq	广州	hq 广州花都, not 武汉
+中储股份	hq	北京	hq 北京, not 天津
+鲜生活冷链	hq	成都	hq 成都, not 北京
+纵腾集团	full_name	福建纵腾网络有限公司	registered 福建纵腾网络有限公司
+纵腾集团	hq	福州	registered in 福州
+江苏远洋运输	parent	江苏省港口集团	under 江苏省港口集团
+广物控股	full_name	广东省广物控股集团有限公司	data full name differs from 广东省广物控股集团: fix
