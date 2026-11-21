@@ -26,14 +26,24 @@ unless someone already works there. This list is meant to be that someone.
 | Where | Employers | Careers site confirmed | Recruiting system known |
 |---|---|---|---|
 | Mainland China (`cn`) | 7,750 | 1,973 | 1,074 |
-| Australia (`au`) | 1,250 | 770 | 209 |
+| Australia (`au`) | 3,822 | 2,174 | 449 |
+| United States (`us`) | 5,234 | 3,329 | 1,334 |
 | Singapore (`sg`) | 588 | 367 | 101 |
 | Hong Kong (`hk`) | 391 | 180 | 45 |
 
 Many state-owned employers' sites in mainland China answer only from inside it and still wait for a browser pass.
-Outside China, `notes` (who may apply: citizenship, permanent residency, work rights) is filled only where it was
-known for certain, mostly for the public sector; the rest waits for a pass that reads each graduate page. The United
-Kingdom, the United States, Japan and Germany come next.
+
+**Who may apply.** Outside China, `notes` says who may apply (citizenship, permanent residency, work rights). For
+Australia each employer's graduate page was read (`CHECK_BRIEF.md`): 773 employers have their graduate or intern
+programme confirmed from their own site, 265 of them with a rule the page states, quoted in
+`dist/checks/au-*.out.jsonl`; `scripts/verify_notes.py` reopened each page and found the quoted sentence on 221 of
+the 265 (the rest are pages that build their text in the browser, or could not be reopened). The United States check
+is under way. The United Kingdom, Japan and Germany come next.
+
+How the check runs: `scripts/checks.py split <cc>` cuts a country into batches; `scripts/grad_pages.py` opens each
+employer's careers and graduate pages with no AI and keeps the sentences about an intake and about eligibility; an
+agent decides from those and from the employer's own pages; `scripts/checks.py apply <cc>` writes only confirmed
+results from the employer's own site (a job board's listing is not taken).
 
 ## How it is built
 
