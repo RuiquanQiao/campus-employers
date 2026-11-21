@@ -13512,7 +13512,8 @@
 ],
 "notes": "",
 "sources": [
-"https://agency10.successfactors.com/login"
+"https://agency10.successfactors.com/login",
+"https://jobs.queenslandrail.com.au/content/Our-Graduate-Program/?locale=en_GB"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -13631,7 +13632,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mainfreight.com/australia/en-nz/au-careers/graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -13639,9 +13640,11 @@
 "roles": [
 "Graduate trainee"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Final-semester students or those who have completed their studies",
+"sources": [
+"https://www.mainfreight.com/australia/en-nz/au-careers/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mainfreight.com/australia"
 },
@@ -13666,15 +13669,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.dhl.com/au-en/home/supply-chain/about-us/careers-at-dhl-supply-chain/dhl-supply-chain-career-opportunities.html",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.dhl.com/au-en/home/supply-chain/about-us/careers-at-dhl-supply-chain/dhl-supply-chain-career-opportunities.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dhl.com/au-en"
 },
@@ -13769,7 +13774,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.kuehne-nagel.com/global/en/blogarticle/how-contract-logistics-creates-summer-memories"
+"https://jobs.kuehne-nagel.com/global/en/blogarticle/how-contract-logistics-creates-summer-memories",
+"https://jobs.kuehne-nagel.com/nl/nl/job/17711/Graduate-Trainee"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -13825,15 +13831,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.maersk.com/careers/vacancies/wd/LEAD-Program_R160493/jt-lead-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.maersk.com/careers/vacancies/wd/LEAD-Program_R160493/jt-lead-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.maersk.com/local-information/oceania/australia"
 },
@@ -13988,13 +13996,13 @@
 "campus_site": "https://career10.successfactors.com/career?company=stocklanddP2",
 "system": "SuccessFactors",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://career10.successfactors.com/career?company=stocklanddP2"
+"https://career10.successfactors.com/career?company=stocklanddP2",
+"https://www.stockland.com.au/careers/graduate-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -14026,7 +14034,7 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
 "https://www.mirvac.com/careers/internship"
 ],
@@ -14053,13 +14061,13 @@
 "campus_site": "https://dexus.wd3.myworkdayjobs.com/DexusCareers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://dexus.wd3.myworkdayjobs.com/DexusCareers"
+"https://dexus.wd3.myworkdayjobs.com/DexusCareers",
+"https://www.dexus.com/careers/graduate-program.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -14146,16 +14154,17 @@
 "listed": "ASX GMG",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://au.goodman.com/-/media/project/goodman/australia/files/about-goodman/careers/goodman-scholarship-brochure.pdf",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://au.goodman.com/-/media/project/goodman/australia/files/about-goodman/careers/goodman-scholarship-brochure.pdf"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://au.goodman.com"
 },
@@ -14177,15 +14186,17 @@
 "listed": "ASX VCX",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.vicinity.com.au/about-us/careers/graduate-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian citizens and permanent residents only; undergraduate degree completed within the last 18 months",
+"sources": [
+"https://www.vicinity.com.au/about-us/careers/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.vicinity.com.au"
 },
@@ -14219,9 +14230,10 @@
 "Graduate engineer",
 "Graduate project manager"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://lendlease.wd3.myworkdayjobs.com/LendleaseCareers/job/Sydney---CBD/Expressions-of-Interest---Graduates---Undergraduates_REQ-7065294"
+"https://lendlease.wd3.myworkdayjobs.com/LendleaseCareers/job/Sydney---CBD/Expressions-of-Interest---Graduates---Undergraduates_REQ-7065294",
+"https://www.lendlease.com/careers/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -14252,7 +14264,7 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents, or others with their own visa allowing work for the whole programme",
 "sources": [
 "https://www.frasersproperty.com.au/careers/graduate-program"
 ],
@@ -14491,15 +14503,18 @@
 "listed": "ASX TAH",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.tabcorp.com.au/careers/graduates-and-interns",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.tabcorp.com.au/careers/graduates-and-interns"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.tabcorp.com.au"
 },
@@ -43650,9 +43665,10 @@
 "Graduate engineer",
 "Graduate scientist"
 ],
-"notes": "",
+"notes": "Applicants must have the right to work in Australia",
 "sources": [
-"https://careers.pageuppeople.com/659/ci/en/subscribe/"
+"https://careers.pageuppeople.com/659/ci/en/subscribe/",
+"https://www.seqwater.com.au/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -43679,7 +43695,8 @@
 "campus_site": "https://www.stanwell.com/info-hub/article/tarong-overhaul-to-support-reliability-jobs-and-local-economy",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer",
@@ -43687,7 +43704,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.stanwell.com/info-hub/article/tarong-overhaul-to-support-reliability-jobs-and-local-economy"
+"https://www.stanwell.com/info-hub/article/tarong-overhaul-to-support-reliability-jobs-and-local-economy",
+"https://careers.stanwell.com/early-careers-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -43720,7 +43738,8 @@
 ],
 "notes": "",
 "sources": [
-"https://career10.successfactors.com/career?company=csenergylt&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=4UnaqrmghgbbKcR%2bJwC2fJGxm4gktWncX12cU0m1yEU%3d"
+"https://career10.successfactors.com/career?company=csenergylt&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=4UnaqrmghgbbKcR%2bJwC2fJGxm4gktWncX12cU0m1yEU%3d",
+"https://www.csenergy.com.au/careers/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -43741,7 +43760,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://worksafe.qld.gov.au/about/careers/workcover/graduate-program",
 "system": "",
 "hires": [
 "graduate"
@@ -43751,8 +43770,10 @@
 "Graduate (technology and data)"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://worksafe.qld.gov.au/about/careers/workcover/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.worksafe.qld.gov.au/about-us/careers"
 ],
@@ -43780,7 +43801,8 @@
 "campus_site": "https://www.qic.com/About-QIC/Careers-and-Graduate-Program",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate investment analyst"
@@ -43812,7 +43834,8 @@
 "campus_site": "https://www.unitywater.com/about-us/careers/our-career-pathways/graduate-program",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
@@ -43850,9 +43873,10 @@
 "roles": [
 "Graduate auditor"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents only",
 "sources": [
-"https://www.qao.qld.gov.au/working-with-us/career-opportunities"
+"https://www.qao.qld.gov.au/working-with-us/career-opportunities",
+"https://www.qao.qld.gov.au/working-with-us/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -43878,7 +43902,8 @@
 "campus_site": "https://www.watercorporation.com.au/about-us/careers",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer",
@@ -43887,7 +43912,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.watercorporation.com.au/about-us/careers"
+"https://www.watercorporation.com.au/about-us/careers",
+"https://www.watercorporation.com.au/about-us/careers/career-pathways"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -43918,7 +43944,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.westernpower.com.au/about/careers/"
+"https://www.westernpower.com.au/about/careers/",
+"https://careers.westernpower.com.au/lp/Graduate%20Opportunities/5643649b5ed597c2/?locale=en_GB"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -43942,7 +43969,8 @@
 "campus_site": "https://www.synergy.net.au/About-us/Careers/Early-Career-Programs",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer",
@@ -44020,7 +44048,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.mainroads.wa.gov.au/about-main-roads/working-with-us/careers/"
+"https://www.mainroads.wa.gov.au/about-main-roads/working-with-us/careers/",
+"https://www.mainroads.wa.gov.au/about-main-roads/working-with-us/students-and-graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44110,7 +44139,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.icwa.wa.gov.au/careers/graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -44119,8 +44148,10 @@
 "Graduate (actuarial and analytics)"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.icwa.wa.gov.au/careers/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.icwa.wa.gov.au/about-us/careers"
 ],
@@ -44143,7 +44174,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.sawater.com.au/about-us/careers/entry-level-programs/graduate-program",
 "system": "",
 "hires": [
 "graduate"
@@ -44154,8 +44185,10 @@
 "Graduate (digital and technology)"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.sawater.com.au/about-us/careers/entry-level-programs/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.sawater.com.au/about-us/careers"
 ],
@@ -44181,7 +44214,8 @@
 "campus_site": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate nurse",
@@ -44190,7 +44224,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/"
+"https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/",
+"https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44213,18 +44248,21 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://dit.sa.gov.au/careers/entry-level-pathways/graduate-program",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer",
 "Graduate planner"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://dit.sa.gov.au/careers/entry-level-pathways/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.dit.sa.gov.au/about_us/careers"
 ],
@@ -44257,7 +44295,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.treasury.sa.gov.au/careers"
+"https://www.treasury.sa.gov.au/careers",
+"https://www.treasury.sa.gov.au/careers/academy"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44316,7 +44355,8 @@
 "campus_site": "https://hydro-tasmania-careers.careerpages.rec-marketing.dc2.pageuppeople.com/jobs/search",
 "system": "PageUp",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer",
@@ -44324,7 +44364,8 @@
 ],
 "notes": "",
 "sources": [
-"https://hydro-tasmania-careers.careerpages.rec-marketing.dc2.pageuppeople.com/jobs/search"
+"https://hydro-tasmania-careers.careerpages.rec-marketing.dc2.pageuppeople.com/jobs/search",
+"https://www.hydro.com.au/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44356,7 +44397,8 @@
 ],
 "notes": "",
 "sources": [
-"https://career10.successfactors.com/career?company=tasmaniannP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&site=VjItekU2b1RxaW9LendsLzhXY0dPZ1cxUT09&_s.crb=%2fjJe0CBv7vnqVvr1l3qQtewjQ"
+"https://career10.successfactors.com/career?company=tasmaniannP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&site=VjItekU2b1RxaW9LendsLzhXY0dPZ1cxUT09&_s.crb=%2fjJe0CBv7vnqVvr1l3qQtewjQ",
+"https://www.tasnetworks.com.au/Careers/Graduate-Program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44380,14 +44422,16 @@
 "campus_site": "https://www.iconwater.com.au/About-Us/Careers/Traineeships",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
 ],
-"notes": "",
+"notes": "Internship applicants must be an Australian citizen or have a working visa",
 "sources": [
-"https://www.iconwater.com.au/About-Us/Careers/Traineeships"
+"https://www.iconwater.com.au/About-Us/Careers/Traineeships",
+"https://www.iconwater.com.au/about-us/careers/internships-work-experience"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44412,7 +44456,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.powerwater.com.au/about/careers/early-careers-programs/power-and-water-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -44421,8 +44465,10 @@
 "Graduate engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.powerwater.com.au/about/careers/early-careers-programs/power-and-water-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.powerwater.com.au/about-us/careers"
 ],
@@ -44475,17 +44521,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.development.vic.gov.au/careers/intern-program",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [
 "Graduate (development)"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.development.vic.gov.au/careers/intern-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.development.vic.gov.au/careers"
 ],
@@ -44509,7 +44557,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nsw.gov.au/departments-and-agencies/customer-service/careers/grow-us",
 "system": "",
 "hires": [
 "graduate"
@@ -44518,9 +44566,11 @@
 "Graduate scientist",
 "Graduate policy officer"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Graduated within the last two years",
+"sources": [
+"https://www.nsw.gov.au/departments-and-agencies/customer-service/careers/grow-us"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.nsw.gov.au/careers/grow-with-us",
 "https://iworkfor.nsw.gov.au/",
@@ -44585,18 +44635,21 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.health.vic.gov.au/careers/employment-programs-for-students-and-graduates",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate policy officer",
 "Graduate (data and analytics)"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.health.vic.gov.au/careers/employment-programs-for-students-and-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.health.vic.gov.au/about/careers"
 ],
@@ -44621,7 +44674,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.deeca.vic.gov.au/careers-and-volunteering/science-graduate-program",
 "system": "",
 "hires": [
 "graduate"
@@ -44631,8 +44684,10 @@
 "Graduate policy officer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.deeca.vic.gov.au/careers-and-volunteering/science-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.deeca.vic.gov.au/about-us/careers"
 ],
@@ -44659,14 +44714,16 @@
 "campus_site": "https://career10.successfactors.com/career?company=cityofsydn",
 "system": "SuccessFactors",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate (generalist)"
 ],
 "notes": "",
 "sources": [
-"https://career10.successfactors.com/career?company=cityofsydn"
+"https://career10.successfactors.com/career?company=cityofsydn",
+"https://www.cityofsydney.nsw.gov.au/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44858,10 +44915,10 @@
 "campus_site": "https://www.nhmrc.gov.au/about-us/careers/indigenous-virtual-internship-program",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
-"notes": "Australian citizenship required (APS requirement)",
+"notes": "Australian citizens only; for Aboriginal and Torres Strait Islander students",
 "sources": [
 "https://www.nhmrc.gov.au/about-us/careers/indigenous-virtual-internship-program"
 ],
@@ -45011,15 +45068,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.naa.gov.au/about-us/employment/entry-level-programs/australian-government-graduate-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "Australian citizenship required (APS requirement)",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.naa.gov.au/about-us/employment/entry-level-programs/australian-government-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.naa.gov.au"
 },
@@ -45045,15 +45104,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.fedcourt.gov.au/about/employment/associates",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "Australian citizenship required (APS requirement)",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.fedcourt.gov.au/about/employment/associates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fedcourt.gov.au"
 },
@@ -45110,15 +45171,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://aifs.gov.au/main/work-with-us/australian-government-graduate-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "Australian citizenship required (APS requirement)",
-"sources": [],
-"checked": "",
+"notes": "Australian citizens only; security clearance required",
+"sources": [
+"https://aifs.gov.au/main/work-with-us/australian-government-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.aifs.gov.au"
 },
@@ -45262,15 +45325,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.pwss.gov.au/pwss-careers/parliament-of-australia-graduate-program-hr-stream",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "Australian citizenship required (APS requirement)",
-"sources": [],
-"checked": "",
+"notes": "Australian citizens only; security clearance required (Baseline)",
+"sources": [
+"https://www.pwss.gov.au/pwss-careers/parliament-of-australia-graduate-program-hr-stream"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.pwss.gov.au/pwss-careers",
 "https://www.pwss.gov.au/hr/recruitment",
@@ -45364,7 +45429,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.ausport.gov.au/ais_campus_agreements"
+"https://www.ausport.gov.au/ais_campus_agreements",
+"https://www.ausport.gov.au/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45417,15 +45483,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://humanrights.gov.au/our-work/human-resources/pathways",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "Australian citizenship required (APS requirement)",
-"sources": [],
-"checked": "",
+"sources": [
+"https://humanrights.gov.au/our-work/human-resources/pathways"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.humanrights.gov.au"
 },
@@ -45491,7 +45559,8 @@
 "roles": [],
 "notes": "Australian citizenship required (APS requirement)",
 "sources": [
-"https://www.apvma.gov.au/careers"
+"https://www.apvma.gov.au/careers",
+"https://www.apvma.gov.au/about/careers/graduate-development-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45529,7 +45598,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://healthnswgov.taleo.net/careersection/ex/profile.ftl??lang=en"
+"https://healthnswgov.taleo.net/careersection/ex/profile.ftl??lang=en",
+"https://slhd.health.nsw.gov.au/graduate-health-management-program/about"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45567,7 +45637,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.nsw.gov.au/health-and-wellbeing/health-infrastructure-projects/randwick-campus-redevelopment"
+"https://www.nsw.gov.au/health-and-wellbeing/health-infrastructure-projects/randwick-campus-redevelopment",
+"https://www.seslhd.health.nsw.gov.au/services-clinics/directory/careers-seslhd/seslhd-health-management-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -55157,12 +55228,14 @@
 "campus_site": "https://www.bayside.nsw.gov.au/your-council/careers",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.bayside.nsw.gov.au/your-council/careers"
+"https://www.bayside.nsw.gov.au/your-council/careers",
+"https://www.bayside.nsw.gov.au/your-council/careers/employment-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -55356,15 +55429,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ryde.nsw.gov.au/Council/Careers/Work-Experience",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ryde.nsw.gov.au/Council/Careers/Work-Experience"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ryde.nsw.gov.au"
 },
@@ -55410,15 +55485,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.lakemac.com.au/Our-Council/Careers/Trainee-apprentice-and-cadet-careers",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.lakemac.com.au/Our-Council/Careers/Trainee-apprentice-and-cadet-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.lakemac.com.au"
 },
@@ -55523,12 +55600,13 @@
 "campus_site": "https://www.shellharbour.nsw.gov.au/working-here/jobs-council",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.shellharbour.nsw.gov.au/working-here/jobs-council"
+"https://www.shellharbour.nsw.gov.au/working-here/jobs-council",
+"https://www.shellharbour.nsw.gov.au/working-here/cadetships-apprenticeships-and-traineeships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -55549,15 +55627,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.wsc.nsw.gov.au/Council/Careers-at-Council/Work-Experience-Apprenticeships-Traineeships-and-Cadets",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.wsc.nsw.gov.au/Council/Careers-at-Council/Work-Experience-Apprenticeships-Traineeships-and-Cadets"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wsc.nsw.gov.au"
 },
@@ -55576,15 +55657,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.tweed.nsw.gov.au/council/jobs-careers/career-options",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.tweed.nsw.gov.au/council/jobs-careers/career-options"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.tweed.nsw.gov.au"
 },
@@ -55603,15 +55686,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.pmhc.nsw.gov.au/Your-Council/About-us/Jobs/Entry-Pathways-Program",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.pmhc.nsw.gov.au/Your-Council/About-us/Jobs/Entry-Pathways-Program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.pmhc.nsw.gov.au"
 },
@@ -55657,15 +55742,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://wagga.nsw.gov.au/the-council/careers/traineeships-and-apprenticeships-at-council",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://wagga.nsw.gov.au/the-council/careers/traineeships-and-apprenticeships-at-council"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wagga.nsw.gov.au"
 },
@@ -55767,15 +55854,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.orange.nsw.gov.au/working-at-orange-city-council/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.orange.nsw.gov.au/working-at-orange-city-council/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.orange.nsw.gov.au"
 },
@@ -55821,15 +55910,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.lismore.nsw.gov.au/Council/Careers-at-Lismore-City-Council/Training-and-development-programs",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.lismore.nsw.gov.au/Council/Careers-at-Lismore-City-Council/Training-and-development-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.lismore.nsw.gov.au"
 },
@@ -55932,12 +56023,13 @@
 "campus_site": "https://www.bmcc.nsw.gov.au/careers",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.bmcc.nsw.gov.au/careers"
+"https://www.bmcc.nsw.gov.au/careers",
+"https://www.bmcc.nsw.gov.au/trainees"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -55958,15 +56050,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.hawkesbury.nsw.gov.au/your-council/careers-at-council/traineeships-and-apprenticeships",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.hawkesbury.nsw.gov.au/your-council/careers-at-council/traineeships-and-apprenticeships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hawkesbury.nsw.gov.au"
 },
@@ -55988,12 +56082,13 @@
 "campus_site": "https://www.wollondilly.nsw.gov.au/council/employment-opportunities/what-is-the-recruitment-process",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.wollondilly.nsw.gov.au/council/employment-opportunities/what-is-the-recruitment-process"
+"https://www.wollondilly.nsw.gov.au/council/employment-opportunities/what-is-the-recruitment-process",
+"https://www.wollondilly.nsw.gov.au/council/employment-opportunities/apprentice-trainee-cadet-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -56248,15 +56343,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Employment-Pathways",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Employment-Pathways"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hume.vic.gov.au"
 },
@@ -56275,15 +56372,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.whittlesea.vic.gov.au/About-us/Jobs/Work-experience-programs",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.whittlesea.vic.gov.au/About-us/Jobs/Work-experience-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.whittlesea.vic.gov.au"
 },
@@ -56364,15 +56463,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.monash.vic.gov.au/About-Us/Our-Organisation/Careers/Tertiary-Placement-Work-Experience-Traineeships",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.monash.vic.gov.au/About-Us/Our-Organisation/Careers/Tertiary-Placement-Work-Experience-Traineeships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.monash.vic.gov.au"
 },
@@ -56451,15 +56552,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.frankston.vic.gov.au/Council/Careers-and-Volunteering/Work-Ready-Program",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.frankston.vic.gov.au/Council/Careers-and-Volunteering/Work-Ready-Program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.frankston.vic.gov.au"
 },
@@ -56478,15 +56581,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mornpen.vic.gov.au/About-Us/Careers-Volunteering/Work-Experience",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.mornpen.vic.gov.au/About-Us/Careers-Volunteering/Work-Experience"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mornpen.vic.gov.au"
 },
@@ -56567,15 +56672,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.darebin.vic.gov.au/About-Council/Careers/Student-placement",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.darebin.vic.gov.au/About-Council/Careers/Student-placement"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.darebin.vic.gov.au"
 },
@@ -56594,15 +56701,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.banyule.vic.gov.au/About-us/Careers/Work-experience-and-tertiary-placement",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.banyule.vic.gov.au/About-us/Careers/Work-experience-and-tertiary-placement"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.banyule.vic.gov.au"
 },
@@ -56681,15 +56790,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.maroondah.vic.gov.au/About-Council/CareersMaroondah/Student-placements",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.maroondah.vic.gov.au/About-Council/CareersMaroondah/Student-placements"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.maroondah.vic.gov.au"
 },
@@ -56711,7 +56822,8 @@
 "campus_site": "https://www.manningham.vic.gov.au/about-council/careers",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -66054,13 +66166,13 @@
 "campus_site": "https://join.disneycareers.com/global/en/students-and-recent-graduates",
 "system": "",
 "hires": [
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://join.disneycareers.com/global/en/students-and-recent-graduates"
+"https://join.disneycareers.com/global/en/students-and-recent-graduates",
+"https://disneycareers.com/australia-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -66526,10 +66638,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://animallogic.com/careers/internships",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -66538,8 +66649,10 @@
 "Production assistant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://animallogic.com/careers/internships"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://explore.jobs.netflix.net/careers?pid=790301000102&Teams=Animation&Teams=Feature%20Animation%20-%20Art&Teams=Feature%20Animation%20-%20Editorial%20%2B%20Post&Teams=Feature%20Animation%20-%20Production%20Management&Teams=Feature%20Animation%20-%20Story&Teams=Feature%20Animation&domain=netflix.com&sort_by=relevance&triggerGoButton=false",
 "https://www.animallogic.com/careers"
@@ -66700,12 +66813,14 @@
 "campus_site": "https://www.aftrs.edu.au/about/our-campus/",
 "system": "",
 "hires": [
-"experienced"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Open to AFTRS students and graduates",
 "sources": [
-"https://www.aftrs.edu.au/about/our-campus/"
+"https://www.aftrs.edu.au/about/our-campus/",
+"https://www.aftrs.edu.au/internships-and-placements/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -66795,13 +66910,13 @@
 "campus_site": "https://fa-evmb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
 "system": "Oracle",
 "hires": [
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-evmb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+"https://fa-evmb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+"https://www.sydneyoperahouse.com/about-us/careers-and-other-opportunities/traineeships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -67022,8 +67137,7 @@
 "campus_site": "https://www.qpac.com.au/about/careers/work-experience-internships",
 "system": "",
 "hires": [
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -67382,16 +67496,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://mhnsw.au/zh/get-involved/tertiary-student-placements/",
 "system": "",
 "hires": [
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://mhnsw.au/zh/get-involved/tertiary-student-placements/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://mhnsw.au/about-us/careers"
 ],
@@ -67416,16 +67531,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://australian.museum/get-involved/student-opportunities/general-internships/",
 "system": "",
 "hires": [
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Open to current Australian tertiary students",
+"sources": [
+"https://australian.museum/get-involved/student-opportunities/general-internships/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://australian.museum/about/careers"
 ],
@@ -68191,13 +68307,13 @@
 "campus_site": "https://www.sportspeople.com.au/jobs/89895-sporting-schools-coordinator-australian-athletics",
 "system": "",
 "hires": [
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.sportspeople.com.au/jobs/89895-sporting-schools-coordinator-australian-athletics"
+"https://www.sportspeople.com.au/jobs/89895-sporting-schools-coordinator-australian-athletics",
+"https://www.athletics.com.au/participant-hub/high-performance/wellbeing-hub/education-and-career/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -68256,12 +68372,13 @@
 "campus_site": "https://www.racingnsw.com.au/guide-to-racing/careers-training/",
 "system": "",
 "hires": [
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.racingnsw.com.au/guide-to-racing/careers-training/"
+"https://www.racingnsw.com.au/guide-to-racing/careers-training/",
+"https://www.racingnsw.com.au/guide-to-racing/careers-training/general-information/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -68424,7 +68541,7 @@
 "campus_site": "https://www.venueswest.wa.gov.au/careers/work-experience-and-traineeships",
 "system": "",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -68945,12 +69062,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://salvationarmy.wd3.myworkdayjobs.com/en-US/Salvos"
+"https://salvationarmy.wd3.myworkdayjobs.com/en-US/Salvos",
+"https://www.salvationarmy.org.au/careers/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -69249,13 +69367,13 @@
 "campus_site": "https://jobs.wwf.org.au/jobs?utm_source=sniply&utm_campaign=sniply&utm_medium=sniply",
 "system": "",
 "hires": [
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.wwf.org.au/jobs?utm_source=sniply&utm_campaign=sniply&utm_medium=sniply"
+"https://jobs.wwf.org.au/jobs?utm_source=sniply&utm_campaign=sniply&utm_medium=sniply",
+"https://wwf.org.au/about-us/jobs-at-wwf"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -69380,12 +69498,13 @@
 "campus_site": "https://www.bushheritage.org.au/who-we-are/careers",
 "system": "",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas for paid internships",
 "sources": [
-"https://www.bushheritage.org.au/who-we-are/careers"
+"https://www.bushheritage.org.au/who-we-are/careers",
+"https://www.bushheritage.org.au/who-we-are/people/students-interns"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -69578,13 +69697,13 @@
 "campus_site": "https://www.ssi.org.au/get-involved/careers/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Placement must be a required component of the student's course, minimum 100 hours",
 "sources": [
-"https://www.ssi.org.au/get-involved/careers/"
+"https://www.ssi.org.au/get-involved/careers/",
+"https://www.ssi.org.au/get-involved/volunteering-students-interns/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73590,7 +73709,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://vincents.com.au/careers"
+"https://vincents.com.au/careers",
+"https://vincents.com.au/our-story/grad-interns-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73700,7 +73820,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.wlf.com.au/careers",
 "system": "",
 "hires": [
 "graduate",
@@ -73708,8 +73828,10 @@
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.wlf.com.au/careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wlf.com.au"
 },
@@ -73823,8 +73945,7 @@
 "campus_site": "https://rodgersreidy.com/careers/rodgers-reidy-graduate-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -73974,8 +74095,7 @@
 "campus_site": "https://www.heffron.com.au/about-us/student-career-pathways",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -74552,8 +74672,7 @@
 "campus_site": "https://www.rmcg.com.au/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -75125,8 +75244,7 @@
 "campus_site": "https://www.woodsbagot.com/global-studio/careers/australia-graduate-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -75186,13 +75304,13 @@
 "campus_site": "https://www.batessmart.com/news-ideas/a-revitalised-health-campus-built-around-light-landscape-and-community",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.batessmart.com/news-ideas/a-revitalised-health-campus-built-around-light-landscape-and-community"
+"https://www.batessmart.com/news-ideas/a-revitalised-health-campus-built-around-light-landscape-and-community",
+"https://www.batessmart.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75471,7 +75589,6 @@
 "campus_site": "https://rothelowman.com.au/practice/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -75559,8 +75676,7 @@
 "campus_site": "https://www.hayball.com.au/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -75704,16 +75820,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://thomsonadsett.com/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://thomsonadsett.com/careers/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://thomsonadsett.com/careers/"
 ],
@@ -75771,7 +75888,7 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian residency or an appropriate work visa is required for the entire work period",
 "sources": [
 "https://www.blp.com.au/careers/studentsgrads/"
 ],
@@ -75856,13 +75973,13 @@
 "campus_site": "https://www.graypuksand.com.au/project/hester-hornbrook-academy-city-campus/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.graypuksand.com.au/project/hester-hornbrook-academy-city-campus/"
+"https://www.graypuksand.com.au/project/hester-hornbrook-academy-city-campus/",
+"https://www.graypuksand.com.au/join-us/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76451,11 +76568,10 @@
 "campus_site": "https://napierblakeley.com/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Students who have completed second year or further of their degree",
 "sources": [
 "https://napierblakeley.com/careers/"
 ],
@@ -76483,8 +76599,7 @@
 "campus_site": "https://www.slattery.com.au/about/careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -77506,9 +77621,10 @@
 "Risk Advisory graduate",
 "Technology graduate"
 ],
-"notes": "Requires full Australian work rights",
+"notes": "Final-year students or graduated within 24 months; those needing a visa must apply for a Temporary Graduate (485) or 189 visa",
 "sources": [
-"https://www.deloitte.com/au/en/careers/students.html"
+"https://www.deloitte.com/au/en/careers/students.html",
+"https://www.deloitte.com/au/en/careers/students/how-we-hire.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77597,9 +77713,10 @@
 "Strategy and Transactions graduate",
 "Technology Consulting graduate"
 ],
-"notes": "Requires full Australian work rights",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://www.ey.com/en_au/careers/students-apply-here"
+"https://www.ey.com/en_au/careers/students-apply-here",
+"https://www.ey.com/en_au/careers/2027-graduate-program-student-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77642,9 +77759,10 @@
 "Deal Advisory graduate",
 "Technology graduate"
 ],
-"notes": "Requires full Australian work rights",
+"notes": "Open to international students with full working rights",
 "sources": [
-"https://jobs.smartrecruiters.com/ni/KPMGAustralia1/aaef69fa-96af-4485-82a8-288dc81122a4-2027-kpmg-graduate-program"
+"https://jobs.smartrecruiters.com/ni/KPMGAustralia1/aaef69fa-96af-4485-82a8-288dc81122a4-2027-kpmg-graduate-program",
+"https://kpmg.com/au/en/careers/graduates/faq.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77709,7 +77827,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.deloitte.com/au/en/careers/students/how-we-hire.html",
 "system": "",
 "hires": [
 "graduate",
@@ -77719,9 +77837,11 @@
 "Economics graduate",
 "Analyst"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Final-year students or graduated within 24 months; those needing a visa must apply for a Temporary Graduate (485) or 189 visa",
+"sources": [
+"https://www.deloitte.com/au/en/careers/students/how-we-hire.html"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.deloitte.com/au/en/careers/students.html",
 "https://www.deloitte.com/au/en/careers/students/brightstart.html",
@@ -77750,15 +77870,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.deloitte.com/au/en/careers/students/how-we-hire.html",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Final-year students or graduated within 24 months; those needing a visa must apply for a Temporary Graduate (485) or 189 visa",
+"sources": [
+"https://www.deloitte.com/au/en/careers/students/how-we-hire.html"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.deloitte.com/au/en/careers/students.html",
 "https://www.deloitte.com/au/en/careers/students/brightstart.html",
@@ -77869,7 +77992,7 @@
 "Tax graduate",
 "Advisory graduate"
 ],
-"notes": "",
+"notes": "Open to international students with full working rights",
 "sources": [
 "https://www.bdo.com.au/en-au/about/early-careers"
 ],
@@ -77911,9 +78034,10 @@
 "Tax graduate",
 "Advisory graduate"
 ],
-"notes": "",
+"notes": "Open to international students with full working rights",
 "sources": [
-"https://grantthorntonaus.wd105.myworkdayjobs.com/GTA"
+"https://grantthorntonaus.wd105.myworkdayjobs.com/GTA",
+"https://www.grantthornton.com.au/careers/student-opportunities/the-application-process/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77954,7 +78078,8 @@
 ],
 "notes": "",
 "sources": [
-"https://rsmaus.wd105.myworkdayjobs.com/RSMCareers"
+"https://rsmaus.wd105.myworkdayjobs.com/RSMCareers",
+"https://www.rsm.global/australia/careers/student-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77981,11 +78106,10 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.pitcher.com.au/careers/student-careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Audit graduate",
@@ -77993,8 +78117,10 @@
 "Business advisory graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.pitcher.com.au/careers/student-careers/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.pitcher.com.au/careers/student-careers/",
 "https://www.pitcher.com.au/careers/student-careers/perth-student-careers/",
@@ -78029,8 +78155,7 @@
 "campus_site": "https://nexia.com.au/about-us/careers/student-opportunities/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Audit graduate",
@@ -78147,8 +78272,7 @@
 "campus_site": "https://williambuck.com/careers/graduates/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Audit graduate",
@@ -78193,9 +78317,10 @@
 "Audit graduate",
 "Tax graduate"
 ],
-"notes": "",
+"notes": "Open to international students with full working rights",
 "sources": [
-"https://hlb.com.au/careers/graduates-students/"
+"https://hlb.com.au/careers/graduates-students/",
+"https://hlb.com.au/careers/graduates-students/applying-for-a-role/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78234,7 +78359,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.pkf.com.au/careers/high-school-leavers-program/"
+"https://www.pkf.com.au/careers/high-school-leavers-program/",
+"https://www.pkf.com.au/careers/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78295,13 +78421,13 @@
 "campus_site": "https://clientapps.jobadder.com/55681/forvis-mazars?keyword=graduate",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens, Australian permanent residents or visa holders with full working rights",
 "sources": [
-"https://clientapps.jobadder.com/55681/forvis-mazars?keyword=graduate"
+"https://clientapps.jobadder.com/55681/forvis-mazars?keyword=graduate",
+"https://clientapps.jobadder.com/55681/forvis-mazars/921487/tax-graduate"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78399,8 +78525,7 @@
 "campus_site": "https://www.mcgrathnicol.com/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Restructuring graduate",
@@ -78486,7 +78611,8 @@
 ],
 "notes": "",
 "sources": [
-"https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/?locationCountry=d903bb3fedad45039383f6de334ad4db"
+"https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/?locationCountry=d903bb3fedad45039383f6de334ad4db",
+"https://www.fticonsulting.com/australia/careers/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78662,7 +78788,6 @@
 "campus_site": "https://www.bain.com/careers/work-with-us/students/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -78671,7 +78796,8 @@
 ],
 "notes": "Requires Australian work rights",
 "sources": [
-"https://www.bain.com/careers/work-with-us/students/"
+"https://www.bain.com/careers/work-with-us/students/",
+"https://www.bain.com/careers/work-with-us/internships-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78714,7 +78840,8 @@
 ],
 "notes": "Requires Australian work rights",
 "sources": [
-"https://accenture.wd103.myworkdayjobs.com/AccentureCareers/userHome"
+"https://accenture.wd103.myworkdayjobs.com/AccentureCareers/userHome",
+"https://www.accenture.com/au-en/careers/life-at-accenture/entry-level"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78965,8 +79092,7 @@
 "campus_site": "https://www.capgemini.com/au-en/careers/career-paths/students-and-graduates/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Technology graduate",
@@ -79034,10 +79160,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ibm.com/au-en/careers/career-opportunities",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -79046,8 +79171,10 @@
 "Data & AI graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ibm.com/au-en/careers/career-opportunities"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://au.newsroom.ibm.com/2022-05-25-Auckland-schools-work-with-industry-to-fast-track-students-into-tech-careers?asPDF=1",
 "https://twitter.com/share?url=http%3A%2F%2Fau.newsroom.ibm.com%2F2022-05-25-Auckland-schools-work-with-industry-to-fast-track-students-into-tech-careers",
@@ -79189,7 +79316,8 @@
 ],
 "notes": "",
 "sources": [
-"https://talentacquisitiontiaras.com/2026-winners/"
+"https://talentacquisitiontiaras.com/2026-winners/",
+"https://www.thoughtworks.com/en-au/careers/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79478,14 +79606,16 @@
 "campus_site": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiAPAC",
 "system": "Workday",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Analyst"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents only",
 "sources": [
-"https://roberthalf.wd1.myworkdayjobs.com/ProtivitiAPAC"
+"https://roberthalf.wd1.myworkdayjobs.com/ProtivitiAPAC",
+"https://www.protiviti.com/au-en/students-graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79590,7 +79720,8 @@
 ],
 "notes": "Clerkship for penultimate-year law students; requires Australian work rights",
 "sources": [
-"https://allens.wd3.myworkdayjobs.com/Allens"
+"https://allens.wd3.myworkdayjobs.com/Allens",
+"https://graduates.allens.com.au/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79618,7 +79749,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ashurst.com/en/careers/students-and-graduates/australia-clerkship/",
 "system": "",
 "hires": [
 "graduate",
@@ -79628,9 +79759,11 @@
 "Clerk",
 "Graduate lawyer"
 ],
-"notes": "Clerkship for penultimate-year law students; requires Australian work rights",
-"sources": [],
-"checked": "",
+"notes": "Requires lawful working rights in Australia during the clerkship; penultimate or final-year law students",
+"sources": [
+"https://www.ashurst.com/en/careers/students-and-graduates/australia-clerkship/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.ashurst.com/en/careers/australia/"
 ],
@@ -79667,7 +79800,8 @@
 ],
 "notes": "Clerkship for penultimate-year law students; requires Australian work rights",
 "sources": [
-"https://claytonutz.wd3.myworkdayjobs.com/Claytonutz1"
+"https://claytonutz.wd3.myworkdayjobs.com/Claytonutz1",
+"https://www.claytonutz.com/careers/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79705,7 +79839,8 @@
 ],
 "notes": "Clerkship for penultimate-year law students; requires Australian work rights",
 "sources": [
-"https://www.corrs.com.au/careers/graduates-and-clerks"
+"https://www.corrs.com.au/careers/graduates-and-clerks",
+"https://corrs.com.au/graduates-and-clerks/application-process"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79735,7 +79870,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.hsfkramer.com/global/en/australia/early-careers/graduate-programme",
 "system": "",
 "hires": [
 "graduate",
@@ -79746,8 +79881,10 @@
 "Graduate lawyer"
 ],
 "notes": "Clerkship for penultimate-year law students; requires Australian work rights",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.hsfkramer.com/global/en/australia/early-careers/graduate-programme"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.herbertsmithfreehills.com/careers/australia"
 ],
@@ -79819,8 +79956,7 @@
 "campus_site": "https://career10.successfactors.com/career?career_company=minter&lang=en_GB&company=minter&site=&loginFlowRequired=true&_s.crb=%2bPRGlZjVdO8CpbjpPFT%2f3qANk8giDuhHp0fPzEjQabY%3d",
 "system": "SuccessFactors",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
@@ -79828,7 +79964,8 @@
 ],
 "notes": "Clerkship for penultimate-year law students; requires Australian work rights",
 "sources": [
-"https://career10.successfactors.com/career?career_company=minter&lang=en_GB&company=minter&site=&loginFlowRequired=true&_s.crb=%2bPRGlZjVdO8CpbjpPFT%2f3qANk8giDuhHp0fPzEjQabY%3d"
+"https://career10.successfactors.com/career?career_company=minter&lang=en_GB&company=minter&site=&loginFlowRequired=true&_s.crb=%2bPRGlZjVdO8CpbjpPFT%2f3qANk8giDuhHp0fPzEjQabY%3d",
+"https://careers.minterellison.com/go/Early-Careers/7844310/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79854,7 +79991,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.gtlaw.com.au/starthere",
 "system": "",
 "hires": [
 "graduate",
@@ -79865,8 +80002,10 @@
 "Graduate lawyer"
 ],
 "notes": "Clerkship for penultimate-year law students; requires Australian work rights",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.gtlaw.com.au/starthere"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.gtlaw.com.au/careers"
 ],
@@ -79906,7 +80045,8 @@
 ],
 "notes": "Clerkship for penultimate-year law students; requires Australian work rights",
 "sources": [
-"https://www.nortonrosefulbright.com/en-au/careers"
+"https://www.nortonrosefulbright.com/en-au/careers",
+"https://www.nortonrosefulbright.com/en-au/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79968,19 +80108,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.hallandwilcox.com.au/graduate-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
 "Graduate lawyer"
 ],
 "notes": "Clerkship for penultimate-year law students",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.hallandwilcox.com.au/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://careers.hallandwilcox.com.au/",
 "https://hallandwilcox.com.au/careers"
@@ -80008,7 +80149,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jws.com.au/work-with-us/careers/graduates/",
 "system": "",
 "hires": [
 "graduate",
@@ -80019,8 +80160,10 @@
 "Graduate lawyer"
 ],
 "notes": "Clerkship for penultimate-year law students",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jws.com.au/work-with-us/careers/graduates/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://jws.com.au/careers"
 ],
@@ -80044,7 +80187,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.jonesday.com/en/careers/locations/australia",
 "system": "",
 "hires": [
 "graduate",
@@ -80055,8 +80198,10 @@
 "Graduate lawyer"
 ],
 "notes": "Clerkship for penultimate-year law students",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.jonesday.com/en/careers/locations/australia"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.jonesday.com/en/worldwide/offices/sydney"
 },
@@ -80079,7 +80224,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.gadens.com/careers/early-careers",
 "system": "",
 "hires": [
 "graduate",
@@ -80090,8 +80235,10 @@
 "Graduate lawyer"
 ],
 "notes": "Clerkship for penultimate-year law students",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.gadens.com/careers/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.gadens.com/careers"
 ],
@@ -80154,7 +80301,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.dlapiper.com/early-careers/asia-pacific/au/graduate-programme.html",
 "system": "",
 "hires": [
 "graduate",
@@ -80164,9 +80311,11 @@
 "Clerk",
 "Graduate lawyer"
 ],
-"notes": "Clerkship for penultimate-year law students",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and permanent residents only",
+"sources": [
+"https://careers.dlapiper.com/early-careers/asia-pacific/au/graduate-programme.html"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.dlapiper.com/en-au/careers"
 ],
@@ -80239,9 +80388,10 @@
 "Clerk",
 "Graduate lawyer"
 ],
-"notes": "Clerkship for penultimate-year law students",
+"notes": "Australian or New Zealand citizens and permanent residents only; Canberra graduate program Australian citizens only, with security clearance",
 "sources": [
-"https://landers.com.au/careers/graduate-program"
+"https://landers.com.au/careers/graduate-program",
+"https://landers.com.au/careers/students-and-graduates-eligibility-criteria"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80265,7 +80415,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.maddocks.com.au/careers/clerkships-graduate-program",
 "system": "",
 "hires": [
 "graduate",
@@ -80276,8 +80426,10 @@
 "Graduate lawyer"
 ],
 "notes": "Clerkship for penultimate-year law students",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.maddocks.com.au/careers/clerkships-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.maddocks.com.au/careers"
 ],
@@ -80302,10 +80454,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.piperalderman.com.au/jobs/legal-engineering-internship-melbourne-melbourne-vic-australia",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -80313,8 +80464,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.piperalderman.com.au/jobs/legal-engineering-internship-melbourne-melbourne-vic-australia"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://careers.piperalderman.com.au/early-careers",
 "https://careers.piperalderman.com.au/careers-at-piper-alderman",
@@ -80382,7 +80535,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.tglaw.com.au/careers-2/graduates-and-clerkships",
 "system": "",
 "hires": [
 "graduate",
@@ -80393,8 +80546,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.tglaw.com.au/careers-2/graduates-and-clerkships"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.tglaw.com.au/careers"
 ],
@@ -80424,8 +80579,7 @@
 "campus_site": "https://www.sparke.com.au/join-us/graduate-program.jsp",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
@@ -80458,19 +80612,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cbp.com.au/Careers/graduate-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cbp.com.au/Careers/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.cbp.com.au/careers"
 ],
@@ -80500,8 +80655,7 @@
 "campus_site": "https://www.wottonkearney.com/join-us/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
@@ -80617,9 +80771,10 @@
 "Clerk",
 "Graduate lawyer"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents only; Canberra Australian citizens only, Baseline clearance",
 "sources": [
-"https://hwlebsworth.com.au/careers/"
+"https://hwlebsworth.com.au/careers/",
+"https://hwlebsworth.com.au/graduate-centre/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80641,7 +80796,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.russellkennedy.com.au/careers",
 "system": "",
 "hires": [
 "graduate",
@@ -80652,8 +80807,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.russellkennedy.com.au/careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rk.com.au"
 },
@@ -80676,7 +80833,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://millsoakley.com.au/?p=1750",
 "system": "",
 "hires": [
 "graduate",
@@ -80687,8 +80844,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://millsoakley.com.au/?p=1750"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.millsoakley.com.au/careers"
 ],
@@ -80712,7 +80871,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.abl.com.au/careers/law-graduates/",
 "system": "",
 "hires": [
 "graduate",
@@ -80723,8 +80882,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.abl.com.au/careers/law-graduates/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.abl.com.au"
 },
@@ -80748,19 +80909,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.kennedyslaw.com/en/careers-at-kennedys/early-careers/australia-graduate-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.kennedyslaw.com/en/careers-at-kennedys/early-careers/australia-graduate-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://kennedyslaw.com/en/offices/australia"
 },
@@ -80784,7 +80946,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.clydeco.com/en/early-careers/australia/",
 "system": "",
 "hires": [
 "graduate",
@@ -80795,8 +80957,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.clydeco.com/en/early-careers/australia/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.clydeco.com/en/offices/australia"
 },
@@ -80818,16 +80982,16 @@
 "campus_site": "https://addisons.com/careers/early-careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
 "Graduate lawyer"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents only",
 "sources": [
-"https://addisons.com/careers/early-careers/"
+"https://addisons.com/careers/early-careers/",
+"https://addisons.com/careers/early-careers/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80964,7 +81128,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.squirepattonboggs.com/join-us/student-and-graduate-opportunities/trainee-solicitor-program/"
+"https://www.squirepattonboggs.com/join-us/student-and-graduate-opportunities/trainee-solicitor-program/",
+"https://www.squirepattonboggs.com/join-us/student-and-graduate-opportunities/australia-law-graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81062,7 +81227,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.whitecase.com/careers/locations/australia/early-careers/our-offer/graduate-program",
 "system": "",
 "hires": [
 "graduate",
@@ -81073,8 +81238,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.whitecase.com/careers/locations/australia/early-careers/our-offer/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.whitecase.com"
 },
@@ -81142,7 +81309,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.slatergordon.com.au/careers/law-students"
+"https://www.slatergordon.com.au/careers/law-students",
+"https://www.slatergordon.com.au/careers/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81304,8 +81472,7 @@
 "campus_site": "https://www.bartier.com.au/careers/your-career",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
@@ -81339,8 +81506,7 @@
 "campus_site": "https://www.moray.com.au/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
@@ -81370,7 +81536,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.finlaysons.com.au/work-with-us/clerkship/",
 "system": "",
 "hires": [
 "graduate",
@@ -81381,8 +81547,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.finlaysons.com.au/work-with-us/clerkship/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.finlaysons.com.au"
 },
@@ -81465,19 +81633,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.rigbycooke.com.au/careers/our-graduate-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.rigbycooke.com.au/careers/our-graduate-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rigbycooke.com.au"
 },
@@ -81572,8 +81741,7 @@
 "campus_site": "https://www.vgso.vic.gov.au/careers-vgso",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Graduate lawyer",
@@ -81581,7 +81749,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.vgso.vic.gov.au/careers-vgso"
+"https://www.vgso.vic.gov.au/careers-vgso",
+"https://www.vgso.vic.gov.au/vgso-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81607,14 +81776,13 @@
 "campus_site": "https://cso.nsw.gov.au/careers/students-and-graduates.html",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Graduate lawyer",
 "Law clerk"
 ],
-"notes": "",
+"notes": "Applicants must be admitted to practise",
 "sources": [
 "https://cso.nsw.gov.au/careers/students-and-graduates.html"
 ],
@@ -81676,16 +81844,16 @@
 "campus_site": "https://www.taylorfry.com.au/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Actuarial graduate",
 "Data analytics graduate"
 ],
-"notes": "",
+"notes": "Students graduating within the next 12 to 18 months",
 "sources": [
-"https://www.taylorfry.com.au/careers/"
+"https://www.taylorfry.com.au/careers/",
+"https://www.taylorfry.com.au/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81773,17 +81941,17 @@
 "campus_site": "https://job-boards.anz.greenhouse.io/quantium",
 "system": "Greenhouse",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Data scientist",
 "Analytics consultant",
 "Data engineer"
 ],
-"notes": "",
+"notes": "Final-year students or graduated within the last 18 months; Graduate Visa (485) and permanent residency holders accepted",
 "sources": [
-"https://job-boards.anz.greenhouse.io/quantium"
+"https://job-boards.anz.greenhouse.io/quantium",
+"https://quantium.com/graduate-academy/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81846,7 +82014,6 @@
 "campus_site": "https://www.frontier-economics.com.au/careers/students/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -81993,7 +82160,7 @@
 "roles": [
 "Analyst"
 ],
-"notes": "",
+"notes": "Only candidates with a right to work in Australia; postgraduate students (honours and above)",
 "sources": [
 "https://houstonkemp.com/careers/"
 ],
@@ -82099,7 +82266,7 @@
 "campus_site": "https://www.marsdenjacob.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [
 "Analyst"
@@ -82135,13 +82302,13 @@
 "campus_site": "https://employmenthero.com/jobs/position/sgs-economics-and-planning-pty-ltd-internshipswork-placements-expression-of-interest-nde39/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [
 "Economist",
 "Planner"
 ],
-"notes": "",
+"notes": "Must have Australian permanent residency or the right to work in Australia",
 "sources": [
 "https://employmenthero.com/jobs/position/sgs-economics-and-planning-pty-ltd-internshipswork-placements-expression-of-interest-nde39/"
 ],
@@ -83094,7 +83261,7 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian citizens and permanent residents only",
 "sources": [
 "https://www.corcordis.com.au/careers/graduates-students"
 ],
@@ -83190,14 +83357,14 @@
 "campus_site": "https://urbis.com.au/careers/early-careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Graduate planner",
 "Graduate consultant"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens or permanent residents only",
 "sources": [
 "https://urbis.com.au/careers/early-careers"
 ],
@@ -83816,7 +83983,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.twobirds.com/en/careers/australia/summer-clerkship",
 "system": "",
 "hires": [
 "graduate",
@@ -83827,8 +83994,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.twobirds.com/en/careers/australia/summer-clerkship"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.twobirds.com/en/locations/australia"
 },
@@ -83862,7 +84031,8 @@
 ],
 "notes": "",
 "sources": [
-"https://ehpy.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002420777"
+"https://ehpy.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002420777",
+"https://www.pinsentmasons.com/careers/early-talent/australia/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83885,7 +84055,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://wallmans.com.au/careers/students-graduates/",
 "system": "",
 "hires": [
 "graduate",
@@ -83896,8 +84066,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://wallmans.com.au/careers/students-graduates/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wallmans.com.au"
 },
@@ -83919,8 +84091,7 @@
 "campus_site": "https://cowellclarke.com.au/careers/tax-academy",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
@@ -83951,7 +84122,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.hopgoodganim.com.au/careers/graduates-and-clerks/",
 "system": "",
 "hires": [
 "graduate",
@@ -83962,8 +84133,10 @@
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.hopgoodganim.com.au/careers/graduates-and-clerks/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hopgoodganim.com.au"
 },
@@ -84018,19 +84191,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.swaab.com.au/graduate-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
 "Graduate lawyer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.swaab.com.au/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://swaab.com.au"
 },
@@ -84231,16 +84405,16 @@
 "campus_site": "https://careers.pageuppeople.com/939/mw/en/listing",
 "system": "PageUp",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Clerk",
 "Graduate lawyer"
 ],
-"notes": "",
+"notes": "Law graduates not yet admitted",
 "sources": [
-"https://careers.pageuppeople.com/939/mw/en/listing"
+"https://careers.pageuppeople.com/939/mw/en/listing",
+"https://careers.pageuppeople.com/939/mw/en/job/494067/graduate"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84304,7 +84478,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.legalaid.nsw.gov.au/about-us/careers"
+"https://www.legalaid.nsw.gov.au/about-us/careers",
+"https://www.legalaid.nsw.gov.au/about-us/careers/crime-regional-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84331,7 +84506,7 @@
 "listed": "ASX BHP",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.bhp.com/careers/graduate-student-programs/australia",
 "system": "",
 "hires": [
 "graduate",
@@ -84343,8 +84518,10 @@
 "Data & technology graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.bhp.com/careers/graduate-student-programs/australia"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.bhp.com"
 },
@@ -84379,9 +84556,10 @@
 "Geoscience graduate",
 "Processing engineering graduate"
 ],
-"notes": "",
+"notes": "Must have the right to work in the country of the position (citizens, permanent residents, student or postgraduate work visa holders)",
 "sources": [
-"https://wd3.myworkdaysite.com/recruiting/riotinto/RioTinto_Careers"
+"https://wd3.myworkdaysite.com/recruiting/riotinto/RioTinto_Careers",
+"https://www.riotinto.com/en/careers/graduates-interns"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84417,9 +84595,10 @@
 "Geology graduate",
 "Technology graduate"
 ],
-"notes": "",
+"notes": "Final-year students or recently completed a relevant degree",
 "sources": [
-"https://career10.successfactors.com/careers?company=FMGL&site=&loginFlowRequired=true"
+"https://career10.successfactors.com/careers?company=FMGL&site=&loginFlowRequired=true",
+"https://careers-apply.fortescue.com/go/Graduate%2C-Vacation-and-Apprenticeship-Programs/7868510/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84441,7 +84620,7 @@
 "listed": "ASX S32",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.south32.net/careers/graduates-and-students",
 "system": "",
 "hires": [
 "graduate",
@@ -84452,8 +84631,10 @@
 "Geoscience graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.south32.net/careers/graduates-and-students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.south32.net"
 },
@@ -84476,7 +84657,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.newmont.com/content/StudentPrograms/?locale=en_US",
 "system": "",
 "hires": [
 "graduate",
@@ -84487,8 +84668,10 @@
 "Geology graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.newmont.com/content/StudentPrograms/?locale=en_US"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.newmont.com"
 },
@@ -84555,9 +84738,10 @@
 "Mining engineering graduate",
 "Geology graduate"
 ],
-"notes": "",
+"notes": "Right to work in the relevant jurisdiction before commencing employment",
 "sources": [
-"https://evolutionmining.com/careers/early-careers-program/"
+"https://evolutionmining.com/careers/early-careers-program/",
+"https://evolutionmining.com/careers/early-careers-program/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84591,9 +84775,10 @@
 "Geology graduate",
 "Business graduate"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens, or full working rights at the time of application",
 "sources": [
-"https://www.mineralresources.com.au/careers/early-career-pathways/"
+"https://www.mineralresources.com.au/careers/early-career-pathways/",
+"https://www.mineralresources.com.au/careers/early-career-pathways/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84619,7 +84804,8 @@
 "campus_site": "https://igo-careers.careerpages.rec-marketing.dc2.pageuppeople.com/make-a-difference-with-igo",
 "system": "PageUp",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Geology graduate",
@@ -84627,7 +84813,8 @@
 ],
 "notes": "",
 "sources": [
-"https://igo-careers.careerpages.rec-marketing.dc2.pageuppeople.com/make-a-difference-with-igo"
+"https://igo-careers.careerpages.rec-marketing.dc2.pageuppeople.com/make-a-difference-with-igo",
+"https://www.igo.com.au/site/work-with-us/career-pathways"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84652,15 +84839,17 @@
 "listed": "ASX PLS",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.pilbaraminerals.com.au/work-with-us/current-vacancies/",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.pilbaraminerals.com.au/work-with-us/current-vacancies/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.pilbaraminerals.com.au"
 },
@@ -84693,7 +84882,7 @@
 "Mining engineering graduate",
 "Geology graduate"
 ],
-"notes": "",
+"notes": "Students must have completed at least one full year of study",
 "sources": [
 "https://www.glencore.com.au/careers/early-career-programs"
 ],
@@ -84722,8 +84911,7 @@
 "campus_site": "https://jobs.smartrecruiters.com/my-applications/AngloAmericanDeBeersGroup?dcr_ci=AngloAmericanDeBeersGroup",
 "system": "SmartRecruiters",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Mining engineering graduate",
@@ -84731,7 +84919,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.smartrecruiters.com/my-applications/AngloAmericanDeBeersGroup?dcr_ci=AngloAmericanDeBeersGroup"
+"https://jobs.smartrecruiters.com/my-applications/AngloAmericanDeBeersGroup?dcr_ci=AngloAmericanDeBeersGroup",
+"https://www.angloamerican.com/careers/graduate-hub"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84754,7 +84943,7 @@
 "listed": "ASX WHC",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://whitehavencoal.com.au/people-careers/graduates-students/",
 "system": "",
 "hires": [
 "graduate"
@@ -84763,8 +84952,10 @@
 "Mining engineering graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://whitehavencoal.com.au/people-careers/graduates-students/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.whitehaven.com.au"
 },
@@ -84789,12 +84980,14 @@
 "campus_site": "https://career10.successfactors.com/career?career_company=yancoalaus&lang=en_GB&company=yancoalaus&site=&loginFlowRequired=true&_s.crb=XXGvmZ4xa6x8AtPwBG0mdxcT81w%3d",
 "system": "SuccessFactors",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://career10.successfactors.com/career?career_company=yancoalaus&lang=en_GB&company=yancoalaus&site=&loginFlowRequired=true&_s.crb=XXGvmZ4xa6x8AtPwBG0mdxcT81w%3d"
+"https://career10.successfactors.com/career?career_company=yancoalaus&lang=en_GB&company=yancoalaus&site=&loginFlowRequired=true&_s.crb=XXGvmZ4xa6x8AtPwBG0mdxcT81w%3d",
+"https://www.yancoal.com.au/careers/graduates-and-students/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84816,15 +85009,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.peabodyenergy.com/go/Graduate-and-Student-Programs/7980200/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.peabodyenergy.com/go/Graduate-and-Student-Programs/7980200/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://jobs.peabodyenergy.com/go/Graduate-and-Student-Programs/7980200/",
 "https://jobs.peabodyenergy.com",
@@ -84855,12 +85051,13 @@
 "campus_site": "https://newhopegroup.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://newhopegroup.com.au/careers/"
+"https://newhopegroup.com.au/careers/",
+"https://newhopegroup.com.au/bengalla-undergraduate-mining-program-an-investment-in-the-regions-future/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84928,7 +85125,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.pageuppeople.com/399/caw/en/listing/"
+"https://careers.pageuppeople.com/399/caw/en/listing/",
+"https://thiess.com/careers/graduates-and-students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84955,15 +85153,17 @@
 "campus_site": "https://www.macmahon.com.au/news/building-career-in-mining-how-to-find-graduate-job/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Mining engineering graduate",
 "Engineering graduate"
 ],
-"notes": "",
+"notes": "Australian citizens and permanent residents with applicable working rights, and Indonesian nationals with engineering qualifications",
 "sources": [
-"https://www.macmahon.com.au/news/building-career-in-mining-how-to-find-graduate-job/"
+"https://www.macmahon.com.au/news/building-career-in-mining-how-to-find-graduate-job/",
+"https://www.macmahon.com.au/careers/graduates-and-interns/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84989,14 +85189,16 @@
 "campus_site": "https://nrw.com.au/people-careers/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "",
 "sources": [
-"https://nrw.com.au/people-careers/"
+"https://nrw.com.au/people-careers/",
+"https://nrw.com.au/people-careers/vacation-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85023,7 +85225,8 @@
 "campus_site": "https://barminco.com.au/careers/your-career/graduate-program/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Mining engineering graduate",
@@ -85057,11 +85260,10 @@
 "listed": "ASX ORI",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.orica.com/careers/graduate-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Chemical engineering graduate",
@@ -85069,8 +85271,10 @@
 "Technology graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.orica.com/careers/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.orica.com"
 },
@@ -85106,9 +85310,10 @@
 "Civil and structural engineering graduate",
 "Electrical engineering graduate"
 ],
-"notes": "",
+"notes": "Must have the right to work in the country of application",
 "sources": [
-"https://www.worley.com/en/careers/our-programs"
+"https://www.worley.com/en/careers/our-programs",
+"https://www.worley.com/en/careers/our-programs/graduate"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85132,12 +85337,14 @@
 "campus_site": "https://career55.sapsf.eu/career?company=minasdeagu&rcm%5fsite%5flocale=en%5fGB&",
 "system": "SuccessFactors",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://career55.sapsf.eu/career?company=minasdeagu&rcm%5fsite%5flocale=en%5fGB&"
+"https://career55.sapsf.eu/career?company=minasdeagu&rcm%5fsite%5flocale=en%5fGB&",
+"https://www.sandfire.com.au/work-with-us/vacation-and-graduate-opportunities/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85164,7 +85371,8 @@
 "campus_site": "https://careers.goldfields.com/search/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Mining engineering graduate",
@@ -85172,7 +85380,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.goldfields.com/search/"
+"https://careers.goldfields.com/search/",
+"https://careers.goldfields.com/Australia/content/Graduates-and-Vacation-Students/?locale=en_GB"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85196,7 +85405,7 @@
 "campus_site": "https://www.regisresources.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -85225,7 +85434,7 @@
 "listed": "ASX WDS",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.woodside.com/careers/graduates-and-students",
 "system": "",
 "hires": [
 "graduate",
@@ -85236,9 +85445,11 @@
 "Geoscience graduate",
 "Technology graduate"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Final-year students or graduated within the last two years",
+"sources": [
+"https://www.woodside.com/careers/graduates-and-students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.woodside.com"
 },
@@ -85307,7 +85518,7 @@
 "Engineering graduate",
 "Geoscience graduate"
 ],
-"notes": "",
+"notes": "Australian citizens and permanent residents only",
 "sources": [
 "https://australia.chevron.com/work-with-us/career-pathways"
 ],
@@ -85334,19 +85545,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.shell.com.au/careers/students-and-graduates/degree-matcher/process-engineering.html",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate",
 "Commercial graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.shell.com.au/careers/students-and-graduates/degree-matcher/process-engineering.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.shell.com.au"
 },
@@ -85369,10 +85581,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://corporate.exxonmobil.com/locations/australia/our-approach/education-programs",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -85380,8 +85591,10 @@
 "Finance graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://corporate.exxonmobil.com/locations/australia/our-approach/education-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.exxonmobil.com.au"
 },
@@ -85407,8 +85620,7 @@
 "campus_site": "https://career10.successfactors.com/career?company=C0004019159P&loginFlowRequired=true&lang=en_GB&saveSearchRedirect=true&career_os=job_listing_summary&_s.crb=7d5NSjIEzoPxb1SERDTnbynQmk54Fr%2bZ1ybhQSPpxyM%3d",
 "system": "SuccessFactors",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate",
@@ -85416,7 +85628,8 @@
 ],
 "notes": "",
 "sources": [
-"https://career10.successfactors.com/career?company=C0004019159P&loginFlowRequired=true&lang=en_GB&saveSearchRedirect=true&career_os=job_listing_summary&_s.crb=7d5NSjIEzoPxb1SERDTnbynQmk54Fr%2bZ1ybhQSPpxyM%3d"
+"https://career10.successfactors.com/career?company=C0004019159P&loginFlowRequired=true&lang=en_GB&saveSearchRedirect=true&career_os=job_listing_summary&_s.crb=7d5NSjIEzoPxb1SERDTnbynQmk54Fr%2bZ1ybhQSPpxyM%3d",
+"https://www.inpex.com.au/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85441,19 +85654,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.bp.com/en/global/corporate/careers/students-and-graduates/locations/australia-and-new-zealand/graduate-programmes.html",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate",
 "Commercial graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.bp.com/en/global/corporate/careers/students-and-graduates/locations/australia-and-new-zealand/graduate-programmes.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.bp.com/en_au"
 },
@@ -85475,11 +85689,10 @@
 "listed": "ASX ALD",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.ampol.com.au/job/Alexandria-Head-Office-Ampol-Graduate-2026-Program-Engineering-(Electrical-or-Mechanical)-New/1221320001/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate",
@@ -85487,8 +85700,10 @@
 "Technology graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.ampol.com.au/job/Alexandria-Head-Office-Ampol-Graduate-2026-Program-Engineering-(Electrical-or-Mechanical)-New/1221320001/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ampol.com.au"
 },
@@ -85541,18 +85756,21 @@
 "listed": "ASX BPT",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://beachenergy.com.au/work-at-beach-energy/early-career-pathway/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Petroleum engineering graduate",
 "Geoscience graduate"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian citizens and permanent residents only",
+"sources": [
+"https://beachenergy.com.au/work-at-beach-energy/early-career-pathway/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.beachenergy.com.au"
 },
@@ -85618,8 +85836,7 @@
 "campus_site": "https://agl.wd3.myworkdayjobs.com/en-US/AGL_Recruitment/?cidi=AGL%7CB1001911",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate",
@@ -85628,7 +85845,8 @@
 ],
 "notes": "",
 "sources": [
-"https://agl.wd3.myworkdayjobs.com/en-US/AGL_Recruitment/?cidi=AGL%7CB1001911"
+"https://agl.wd3.myworkdayjobs.com/en-US/AGL_Recruitment/?cidi=AGL%7CB1001911",
+"https://www.agl.com.au/about-agl/careers/our-teams/energy-operations"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -87694,7 +87912,8 @@
 "campus_site": "https://ausenco.com/careers/graduate-student-programs/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
@@ -87921,14 +88140,16 @@
 "campus_site": "https://careers-cundall.icims.com/jobs/login?loginOnly=1&redirect=&in_iframe=1&hashed=-435709852",
 "system": "iCIMS",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
 ],
 "notes": "",
 "sources": [
-"https://careers-cundall.icims.com/jobs/login?loginOnly=1&redirect=&in_iframe=1&hashed=-435709852"
+"https://careers-cundall.icims.com/jobs/login?loginOnly=1&redirect=&in_iframe=1&hashed=-435709852",
+"https://www.cundall.com/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -87958,14 +88179,16 @@
 "campus_site": "https://tetratech.taleo.net/careersection/1/jobsearch.ftl?lang=en",
 "system": "Taleo",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://tetratech.taleo.net/careersection/1/jobsearch.ftl?lang=en"
+"https://tetratech.taleo.net/careersection/1/jobsearch.ftl?lang=en",
+"https://ndy.com/graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88027,14 +88250,16 @@
 "campus_site": "https://www.ttwengineers.com/early-careers/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
 ],
-"notes": "",
+"notes": "Internship is for penultimate-year engineering students",
 "sources": [
-"https://www.ttwengineers.com/early-careers/"
+"https://www.ttwengineers.com/early-careers/",
+"https://www.ttwengineers.com/au/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88062,10 +88287,11 @@
 "campus_site": "https://www.tonkintaylor.com/au/careers/early-career-opportunities/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Legally entitled to work in Australia on a permanent basis",
 "sources": [
 "https://www.tonkintaylor.com/au/careers/early-career-opportunities/"
 ],
@@ -88095,20 +88321,21 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.baesystems.com/careers/locations/australia/graduates",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate",
 "Software engineering graduate",
 "Business graduate"
 ],
-"notes": "Most roles require Australian citizenship and the ability to obtain a security clearance",
-"sources": [],
-"checked": "",
+"notes": "Australian citizens only; security clearance required",
+"sources": [
+"https://www.baesystems.com/careers/locations/australia/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.baesystems.com/en-aus"
 },
@@ -88134,7 +88361,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.thalesgroup.com/en/asia-pacific/australia/early-careers/graduates",
 "system": "",
 "hires": [
 "graduate",
@@ -88146,8 +88373,10 @@
 "Business graduate"
 ],
 "notes": "Many roles require Australian citizenship and a security clearance",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.thalesgroup.com/en/asia-pacific/australia/early-careers/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.thalesgroup.com/en/countries/asia-pacific/australia"
 },
@@ -88181,9 +88410,10 @@
 "Engineering graduate",
 "Software engineering graduate"
 ],
-"notes": "Australian citizenship and a security clearance required for most roles",
+"notes": "Security clearance required",
 "sources": [
-"https://lockheedmartin.eightfold.ai/careers"
+"https://lockheedmartin.eightfold.ai/careers",
+"https://www.lockheedmartin.com/en-au/careers/early-careers.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88213,15 +88443,15 @@
 "campus_site": "https://boeing.avature.net/mscap",
 "system": "Avature",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "Most roles require Australian citizenship and a security clearance",
 "sources": [
-"https://boeing.avature.net/mscap"
+"https://boeing.avature.net/mscap",
+"https://www.boeing.com.au"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88249,14 +88479,16 @@
 "campus_site": "https://www.saab.com/career/students",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
-"notes": "",
+"notes": "Australian citizens only",
 "sources": [
-"https://www.saab.com/career/students"
+"https://www.saab.com/career/students",
+"https://www.saab.com/markets/australia/careers/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88283,19 +88515,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.raytheonaustralia.com.au/gradx",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Engineering graduate",
 "Software engineering graduate"
 ],
-"notes": "Australian citizenship and a security clearance required for most roles",
-"sources": [],
-"checked": "",
+"notes": "Right to work in Australia required; security clearance required",
+"sources": [
+"https://www.raytheonaustralia.com.au/gradx"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rtx.com/raytheon/what-we-do/australia"
 },
@@ -88325,7 +88558,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.austaljobs.com"
+"https://www.austaljobs.com",
+"https://www.austaljobs.com/early-careers-australia"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88409,15 +88643,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.rheinmetall.com/en/career/careers-worldwide/australia/careers-worldwide-australia/graduates-interns",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Students in their penultimate or final year of undergraduate study (internship)",
+"sources": [
+"https://www.rheinmetall.com/en/career/careers-worldwide/australia/careers-worldwide-australia/graduates-interns"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rheinmetall-defence.com.au"
 },
@@ -88570,17 +88807,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cea.com.au/working-at-cea/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "Australian citizenship and a security clearance required",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cea.com.au/working-at-cea/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ceaaustralia.com"
 },
@@ -88675,7 +88914,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.bluescope.com/careers"
+"https://www.bluescope.com/careers",
+"https://www.bluescope.com/careers/join-our-team/careers-in-australia/learn-and-grow"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88703,14 +88943,16 @@
 "campus_site": "https://www.ridley.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Chemical engineering graduate"
 ],
 "notes": "",
 "sources": [
-"https://www.ridley.com.au/careers/"
+"https://www.ridley.com.au/careers/",
+"https://www.dynonobel.com.au/careers/students-graduates-apprenticeships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88865,9 +89107,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://www.holcim.com.au/careers"
+"https://www.holcim.com.au/careers",
+"https://www.holcim.com.au/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88890,15 +89133,18 @@
 "listed": "ASX ABC",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.adbri.com.au/careers/graduate-program/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.adbri.com.au/careers/graduate-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.adbri.com.au"
 },
@@ -88924,14 +89170,16 @@
 "campus_site": "https://alcoa.wd5.myworkdayjobs.com/Careers",
 "system": "Workday",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "",
 "sources": [
-"https://alcoa.wd5.myworkdayjobs.com/Careers"
+"https://alcoa.wd5.myworkdayjobs.com/Careers",
+"https://www.alcoa.com/careers/en/working-at-alcoa"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -88952,15 +89200,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.tomago.com.au/graduate-apprenticeship-program/",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.tomago.com.au/graduate-apprenticeship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.tomago.com.au/vacancies/"
 ],
@@ -89047,15 +89297,18 @@
 "listed": "ASX LYC",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.lynasrareearths.com/lynasrareearths/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.lynasrareearths.com/lynasrareearths/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://lynasrareearths.com"
 },
@@ -89165,18 +89418,21 @@
 "listed": "ASX ILU",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.iluka.com/documents/2024/careers/iluka-graduate-program/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Engineering graduate",
 "Geology graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.iluka.com/documents/2024/careers/iluka-graduate-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.iluka.com"
 },
@@ -89263,12 +89519,14 @@
 "campus_site": "https://www.rameliusresources.com.au/careers/join-our-talent-community/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.rameliusresources.com.au/careers/join-our-talent-community/"
+"https://www.rameliusresources.com.au/careers/join-our-talent-community/",
+"https://www.rameliusresources.com.au/careers/early-career-pathways/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89417,14 +89675,16 @@
 "campus_site": "https://www.komatsu.com/en-au/careers",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "",
 "sources": [
-"https://www.komatsu.com/en-au/careers"
+"https://www.komatsu.com/en-au/careers",
+"https://careers.komatsu.com.au/job/Brisbane-Head-Office-2027-Graduate-and-Intern-Expression-of-Interest/1211934166/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89450,7 +89710,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.caterpillar.com/en/jobs/r0000381729/pre-field-graduate-dealer-service-operations-product-support/",
 "system": "",
 "hires": [
 "graduate"
@@ -89458,9 +89718,11 @@
 "roles": [
 "Engineering graduate"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://careers.caterpillar.com/en/jobs/r0000381729/pre-field-graduate-dealer-service-operations-product-support/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.caterpillar.com/en/countries/australia.html"
 },
@@ -89736,14 +89998,15 @@
 "campus_site": "https://www.maptek.com/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [
 "Software engineering graduate"
 ],
 "notes": "",
 "sources": [
-"https://www.maptek.com/careers/"
+"https://www.maptek.com/careers/",
+"https://www.maptek.com/careers/internships/australian-internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89833,9 +90096,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://careers.pageuppeople.com/621/cw/en/listing/"
+"https://careers.pageuppeople.com/621/cw/en/listing/",
+"https://www.cleanaway.com.au/cleanaway-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -90020,15 +90284,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.subsea7.com/job/Perth-Graduate-Engineer/1345082755",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.subsea7.com/job/Perth-Graduate-Engineer/1345082755"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.subsea7.com"
 },
@@ -90078,15 +90345,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.gww.com.au/about/careers/early-career-development",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.gww.com.au/about/careers/early-career-development"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.gww.com.au/about/careers/early-career-development",
 "https://careers.gww.com.au/",
@@ -90153,9 +90422,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian citizens and permanent residents only",
 "sources": [
-"https://heidelbergmaterials.wd3.myworkdayjobs.com/Global_HM_Career_Site?locationCountry=d903bb3fedad45039383f6de334ad4db"
+"https://heidelbergmaterials.wd3.myworkdayjobs.com/Global_HM_Career_Site?locationCountry=d903bb3fedad45039383f6de334ad4db",
+"https://www.heidelbergmaterials.com.au/en/career/early-career-roles/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -90183,12 +90453,14 @@
 "campus_site": "https://www.infrabuild.com/about/careers-at-infrabuild/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Open to Australian and New Zealand citizens and visa holders with unlimited working rights",
 "sources": [
-"https://www.infrabuild.com/about/careers-at-infrabuild/"
+"https://www.infrabuild.com/about/careers-at-infrabuild/",
+"https://www.infrabuild.com/graduate/recruitment-process/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -90291,7 +90563,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program/"
+"https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program/",
+"https://www.siemens.com/au/en/company/jobs-and-careers/early-career-programs.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -90317,7 +90590,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://new.abb.com/au/gep",
 "system": "",
 "hires": [
 "graduate"
@@ -90326,8 +90599,10 @@
 "Engineering graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://new.abb.com/au/gep"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://new.abb.com/au"
 },
@@ -90350,15 +90625,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.se.com/australia",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.se.com/australia"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.se.com/au"
 },
@@ -90380,15 +90658,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.rockwellautomation.com/en-au/careers/leadership-development-program.html",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.rockwellautomation.com/en-au/careers/leadership-development-program.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rockwellautomation.com"
 },
@@ -90509,8 +90789,7 @@
 "campus_site": "https://www.hansenyuncken.com.au/people-culture/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Construction graduate",
@@ -90541,18 +90820,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.fdcbuilding.com.au/cadet/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Construction graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.fdcbuilding.com.au/cadet/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fdcgroup.com.au"
 },
@@ -90573,7 +90853,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://icon.co/graduate-program/",
 "system": "",
 "hires": [
 "graduate",
@@ -90583,8 +90863,10 @@
 "Construction graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://icon.co/graduate-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.icon.com.au"
 },
@@ -90638,7 +90920,8 @@
 "campus_site": "https://www.kane.com.au/careers/the-kane-way-program-trainees-graduates",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Construction graduate"
@@ -90671,14 +90954,15 @@
 "campus_site": "https://buildcorp.com.au/about-us/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [
 "Construction graduate"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://buildcorp.com.au/about-us/careers/"
+"https://buildcorp.com.au/about-us/careers/",
+"https://buildcorp.com.au/about-us/careers/cadet-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -90702,17 +90986,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.adcoconstruct.com.au/our-cadets-and-graduates",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Construction graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.adcoconstruct.com.au/our-cadets-and-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.adco.com.au"
 },
@@ -90763,17 +91050,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.winslow.com.au/work-with-us/graduate-program",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Construction graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.winslow.com.au/work-with-us/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.job-opportunities.com.au/job/Royston-Park-EOI-Engineering-Under-Graduates-SA-5070/1055460866/",
 "https://www.job-opportunities.com.au/",
@@ -90906,17 +91196,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.pittsh.com.au/graduates",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.pittsh.com.au/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.pittsh.com.au/careers"
 ],
@@ -90942,14 +91235,16 @@
 "campus_site": "https://epdj.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/?mode=job-locationhttps://epdj.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/?mode=job-location",
 "system": "Oracle",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate engineer"
 ],
 "notes": "",
 "sources": [
-"https://epdj.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/?mode=job-locationhttps://epdj.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/?mode=job-location"
+"https://epdj.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/?mode=job-locationhttps://epdj.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/?mode=job-location",
+"https://www.novasystems.com/entry-level-pathways"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -91074,18 +91369,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://electranet.com.au/careers/graduate-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Electrical engineering graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://electranet.com.au/careers/graduate-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.electranet.com.au"
 },
@@ -91176,14 +91472,16 @@
 "campus_site": "https://career5.successfactors.eu/career?career_company=ALSTOM&lang=en_GB&company=ALSTOM&site=&loginFlowRequired=true&_s.crb=SAdl8MdvanZIR7dE5GJnxJiRj3M%3d",
 "system": "SuccessFactors",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "",
 "sources": [
-"https://career5.successfactors.eu/career?career_company=ALSTOM&lang=en_GB&company=ALSTOM&site=&loginFlowRequired=true&_s.crb=SAdl8MdvanZIR7dE5GJnxJiRj3M%3d"
+"https://career5.successfactors.eu/career?career_company=ALSTOM&lang=en_GB&company=ALSTOM&site=&loginFlowRequired=true&_s.crb=SAdl8MdvanZIR7dE5GJnxJiRj3M%3d",
+"https://www.alstom.com/careers/students-graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -91205,17 +91503,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mobility.siemens.com/au/en/company/jobs.html",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.mobility.siemens.com/au/en/company/jobs.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mobility.siemens.com/au"
 },
@@ -91277,14 +91578,15 @@
 "campus_site": "https://jobs.bosch.com/en/?pages=1&country=au",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [
 "Engineering graduate"
 ],
 "notes": "",
 "sources": [
-"https://jobs.bosch.com/en/?pages=1&country=au"
+"https://jobs.bosch.com/en/?pages=1&country=au",
+"https://www.bosch.com.au/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -91305,16 +91607,17 @@
 "listed": "ASX CMM",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://capmetals.com.au/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://capmetals.com.au/careers/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.capricornmetals.com.au"
 },
@@ -91396,7 +91699,7 @@
 "campus_site": "https://orabandamining.com.au/early-career-programs/",
 "system": "",
 "hires": [
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -91482,15 +91785,17 @@
 "listed": "ASX AMI",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://aureliametals.com/work-with-us/our-culture/",
 "system": "",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://aureliametals.com/work-with-us/our-culture/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://aureliametals.com/work-with-us/our-benefits/"
 ],
@@ -92011,8 +92316,7 @@
 "campus_site": "https://coronadoglobal.com/jobs/graduate-discovery-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -92665,13 +92969,13 @@
 "campus_site": "https://heidelbergmaterials.wd3.myworkdayjobs.com/Global_HM_Career_Site?locationCountry=d903bb3fedad45039383f6de334ad4db",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian citizens and permanent residents only; final-year students or graduated within the last two years",
 "sources": [
-"https://heidelbergmaterials.wd3.myworkdayjobs.com/Global_HM_Career_Site?locationCountry=d903bb3fedad45039383f6de334ad4db"
+"https://heidelbergmaterials.wd3.myworkdayjobs.com/Global_HM_Career_Site?locationCountry=d903bb3fedad45039383f6de334ad4db",
+"https://www.heidelbergmaterials.com.au/en/career/early-career-roles/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -92692,16 +92996,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cementaustralia.com.au/working-cement-australia/graduate/faq-graduates",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Final-year students or recent graduates with citizenship or working rights in Australia",
+"sources": [
+"https://www.cementaustralia.com.au/working-cement-australia/graduate/faq-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.cementaustralia.com.au/vacancies",
 "https://www.cementaustralia.com.au/working-cement-australia"
@@ -93004,13 +93309,13 @@
 "campus_site": "https://www.duluxgroup.com.au/work-with-us/why-join-us/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Full Australian or New Zealand working rights required",
 "sources": [
-"https://www.duluxgroup.com.au/work-with-us/why-join-us/"
+"https://www.duluxgroup.com.au/work-with-us/why-join-us/",
+"https://www.duluxgroup.com.au/work-with-us/graduate/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -93066,13 +93371,13 @@
 "campus_site": "https://simedarby.wd3.myworkdayjobs.com/en-US/SimeCareerSite/details/START-SOMETHING-BIG---Tradesperson_JR105117?hiringCompany=557347981b02010193009bb484a20000",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://simedarby.wd3.myworkdayjobs.com/en-US/SimeCareerSite/details/START-SOMETHING-BIG---Tradesperson_JR105117?hiringCompany=557347981b02010193009bb484a20000"
+"https://simedarby.wd3.myworkdayjobs.com/en-US/SimeCareerSite/details/START-SOMETHING-BIG---Tradesperson_JR105117?hiringCompany=557347981b02010193009bb484a20000",
+"https://www.hastingsdeering.com.au/our-business/working-with-us/graduate-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -93098,7 +93403,6 @@
 "campus_site": "https://www.atlascopco.com/en-au/jobs/student-opportunities",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -93227,11 +93531,10 @@
 "campus_site": "https://www.deere.com.au/en/our-company/john-deere-careers/graduate-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
 "https://www.deere.com.au/en/our-company/john-deere-careers/graduate-program/"
 ],
@@ -93815,7 +94118,7 @@
 "campus_site": "https://www.emecogroup.com/join-us/",
 "system": "",
 "hires": [
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -93848,7 +94151,7 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Internship open to students beyond their 2nd year of university study",
 "sources": [
 "https://civmec.com.au/careers/vacation-program/"
 ],
@@ -93874,8 +94177,7 @@
 "campus_site": "https://www.gres.com.au/careers/grads.aspx",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -93922,8 +94224,8 @@
 "aliases": [],
 "nature": "au.company",
 "industry": "Resources, Energy & Engineering",
-"sub": "Mineral processing engineering",
-"parent": "CIMIC Group",
+"sub": "Mineral processing and operations",
+"parent": "",
 "hq": "Brisbane",
 "cities": [
 "Brisbane"
@@ -93934,12 +94236,14 @@
 "campus_site": "https://www.sedgman.com/people-and-careers/graduate-program",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Undergraduate program requires evidence of study and working rights",
 "sources": [
-"https://www.sedgman.com/people-and-careers/graduate-program"
+"https://www.sedgman.com/people-and-careers/graduate-program",
+"https://www.sedgman.com/people-and-careers/undergraduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -94056,8 +94360,7 @@
 "campus_site": "https://entechmanufacturing.com/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -94149,13 +94452,13 @@
 "campus_site": "https://www.sgs.com/en-au/our-company/careers-at-sgs",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.sgs.com/en-au/our-company/careers-at-sgs"
+"https://www.sgs.com/en-au/our-company/careers-at-sgs",
+"https://www.sgs.com/en-au/news/2022/07/graduate-opportunities-at-sgs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -94180,11 +94483,10 @@
 "campus_site": "https://www.bureauveritas.com.au/careers/attract-new-talents/2027-graduate-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian permanent residency or full working rights",
 "sources": [
 "https://www.bureauveritas.com.au/careers/attract-new-talents/2027-graduate-program"
 ],
@@ -94684,7 +94986,8 @@
 "campus_site": "https://senexenergy.com.au/careers/pathways/",
 "system": "",
 "hires": [
-"experienced"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -94855,7 +95158,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.basf.com/au/en/careers/graduates",
 "system": "",
 "hires": [
 "graduate",
@@ -94863,8 +95166,10 @@
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.basf.com/au/en/careers/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.basf.com/au/en/careers/graduates",
 "https://www.basf.com/au/en/careers",
@@ -95107,13 +95412,13 @@
 "campus_site": "https://www.ororagroup.com/careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.ororagroup.com/careers"
+"https://www.ororagroup.com/careers",
+"https://jobs.ororagroup.com/job/Melbourne-Graduate-Project-Engineer-VIC-3175/1140713801"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -95417,16 +95722,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.anduril.com/open-roles",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Security clearance required",
+"sources": [
+"https://www.anduril.com/open-roles"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.anduril.com"
 },
@@ -96482,10 +96789,11 @@
 "campus_site": "https://www.zinfra.com.au/careers/graduates",
 "system": "",
 "hires": [
-"experienced"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian citizens, permanent residents and Graduate Visa holders",
 "sources": [
 "https://www.zinfra.com.au/careers/graduates"
 ],
@@ -96687,7 +96995,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.wescef.com.au/"
+"https://careers.wescef.com.au/",
+"https://careers.wescef.com.au/content/Vacation-and-Graduate-Programs/?locale=en_GB"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -96800,11 +97109,10 @@
 "campus_site": "https://tetratechcoffey.com/careers/graduates/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Requires full working rights in Australia or New Zealand; does not sponsor work visas",
 "sources": [
 "https://tetratechcoffey.com/careers/graduates/"
 ],
@@ -96899,8 +97207,7 @@
 "campus_site": "https://www.psm.com.au/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -96932,8 +97239,7 @@
 "campus_site": "https://www.douglaspartners.com.au/join-our-team/jobs-at-douglas-partners/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -97053,12 +97359,14 @@
 "campus_site": "https://atcwilliams.com/why-join-us/",
 "system": "",
 "hires": [
-"experienced"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Vacation placements are open to local and international students",
 "sources": [
-"https://atcwilliams.com/why-join-us/"
+"https://atcwilliams.com/why-join-us/",
+"https://atcwilliams.com/graduate-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -97111,7 +97419,8 @@
 "campus_site": "https://pacificenergy.com.au/early-careers/",
 "system": "",
 "hires": [
-"experienced"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -99069,8 +99378,7 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -99494,13 +99802,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+"https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+"https://www.crowdstrike.com/en-au/careers/university-interns/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -100174,17 +100482,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.adobe.com/us/en/university-australia-page",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Interns must be in their final year of an accredited degree; graduates finishing a degree within the year before start",
+"sources": [
+"https://careers.adobe.com/us/en/university-australia-page"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.adobe.com/au"
 },
@@ -100305,12 +100614,10 @@
 "campus_site": "https://www.apple.com/careers/au/work-at-apple/students.html",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Open to students enrolled full-time in a degree",
 "sources": [
 "https://www.apple.com/careers/au/work-at-apple/students.html"
 ],
@@ -101279,14 +101586,13 @@
 "campus_site": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://sec.wd3.myworkdayjobs.com/Samsung_Careers"
+"https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
+"https://www.samsung.com/au/about-us/careers/your-career/fresh-graduates-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -101543,14 +101849,13 @@
 "campus_site": "https://jobs.dolby.com/careers?domain=dolby.com&triggerGoButton=false&start=0&pid=38257696&sort_by=timestamp&filter_seniority=0",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.dolby.com/careers?domain=dolby.com&triggerGoButton=false&start=0&pid=38257696&sort_by=timestamp&filter_seniority=0"
+"https://jobs.dolby.com/careers?domain=dolby.com&triggerGoButton=false&start=0&pid=38257696&sort_by=timestamp&filter_seniority=0",
+"https://www.dolby.com/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -101604,17 +101909,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ea.com/careers/early-careers",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ea.com/careers/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.ea.com/careers/early-careers",
 "https://www.ea.com/careers"
@@ -101860,17 +102165,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.capgemini.com/au-en/careers/career-paths/students-and-graduates/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.capgemini.com/au-en/careers/career-paths/students-and-graduates/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.capgemini.com/au-en/careers/career-paths/students-and-graduates/",
 "https://www.capgemini.com/careers/careeer-paths/students-and-graduates/fast-track-to-consulting/",
@@ -103338,14 +103643,13 @@
 "campus_site": "https://www.micromine.com/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Final-year students or graduated within the last 24 months",
 "sources": [
-"https://www.micromine.com/careers/"
+"https://www.micromine.com/careers/",
+"https://www.micromine.com/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -103368,17 +103672,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.deswik.com/software-graduate-opportunities",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.deswik.com/software-graduate-opportunities"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.deswik.com/software-graduate-opportunities",
 "https://www.deswik.com/current-openings",
@@ -105624,9 +105928,7 @@
 "campus_site": "https://www.interactive.com.au/company/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -105912,15 +106214,14 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Software engineer",
 "Data scientist",
 "Product designer"
 ],
-"notes": "",
+"notes": "Graduate Program is for students in their final year of study or recently graduated",
 "sources": [
 "https://www.atlassian.com/company/careers/earlycareers"
 ],
@@ -105945,21 +106246,22 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.lifeatcanva.com/en/early-careers/",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Software engineer",
 "Machine learning engineer",
 "Product designer"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Final-year students or about two years of experience in the field (Launchpad)",
+"sources": [
+"https://www.lifeatcanva.com/en/early-careers/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.canva.com/careers/"
 ],
@@ -105980,20 +106282,21 @@
 "listed": "ASX XRO",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.xero.com/au/graduate/",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Software engineer",
 "Data analyst"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Right to work full-time in Australia; under 12 months of professional experience",
+"sources": [
+"https://www.xero.com/au/graduate/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://careers.xero.com/",
 "https://www.xero.com/au/about/careers/"
@@ -106021,17 +106324,16 @@
 "campus_site": "https://www.wisetechglobal.com/careers/students-and-graduates/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Software developer",
 "Business analyst"
 ],
-"notes": "",
+"notes": "Full, unlimited working rights in Australia (Earn and Learn program)",
 "sources": [
-"https://www.wisetechglobal.com/careers/students-and-graduates/"
+"https://www.wisetechglobal.com/careers/students-and-graduates/",
+"https://www.wisetechglobal.com/careers/students-and-graduates/earn-and-learn-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -106092,8 +106394,7 @@
 "campus_site": "https://boards.greenhouse.io/cultureamp",
 "system": "Greenhouse",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Software engineer",
@@ -106101,7 +106402,8 @@
 ],
 "notes": "",
 "sources": [
-"https://boards.greenhouse.io/cultureamp"
+"https://boards.greenhouse.io/cultureamp",
+"https://www.cultureamp.com/company/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -106127,16 +106429,14 @@
 "campus_site": "https://www.rea-group.com/careers/graduate-programs/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Software engineer",
 "Data scientist",
 "Product analyst"
 ],
-"notes": "",
+"notes": "Full working rights and ability to apply for permanent residency in Australia",
 "sources": [
 "https://www.rea-group.com/careers/graduate-programs/"
 ],
@@ -106266,14 +106566,13 @@
 "campus_site": "https://www.nextdc.com/careers/graduate",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Data centre engineer",
 "Electrical engineer"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
 "https://www.nextdc.com/careers/graduate"
 ],
@@ -106335,12 +106634,10 @@
 "listed": "ASX TNE",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://technologyonecorp.com/careers",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Software developer",
@@ -106348,8 +106645,10 @@
 "Consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://technologyonecorp.com/careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.technologyonecorp.com/careers"
 ],
@@ -106626,11 +106925,10 @@
 "campus_site": "https://my.tanda.co/ats/apply/job/f80a6aca-30d9-4e5f-b248-df05bcffa6be",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Bachelor's degree completed within the last 12 months",
 "sources": [
 "https://my.tanda.co/ats/apply/job/f80a6aca-30d9-4e5f-b248-df05bcffa6be"
 ],
@@ -106881,9 +107179,8 @@
 "campus_site": "https://www.google.com/about/careers/applications/",
 "system": "",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Software engineer",
@@ -106891,7 +107188,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.google.com/about/careers/applications/"
+"https://www.google.com/about/careers/applications/",
+"https://www.google.com/about/careers/applications/jobs/results/116505799294886598-software-engineering-intern-summer-2026?location=Sydney+NSW"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -106922,16 +107220,16 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Software engineer",
 "Technical specialist"
 ],
-"notes": "",
+"notes": "Full-time students currently enrolled or within 12 months of graduation",
 "sources": [
-"https://careers.microsoft.com/v2/global/en/home.html"
+"https://careers.microsoft.com/v2/global/en/home.html",
+"https://careers.microsoft.com/students/us/en/aus-nz-fulltime-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -106958,21 +107256,21 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://amazon.jobs/en/jobs/10462014/software-development-graduate-aws-2027-sydney",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Solutions architect",
 "Software development engineer",
 "Cloud support associate"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Final-semester students or graduated within the last 24 months",
+"sources": [
+"https://amazon.jobs/en/jobs/10462014/software-development-graduate-aws-2027-sydney"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.amazon.jobs/en/teams/university-tech-jobs"
 ],
@@ -107001,12 +107299,11 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ibm.com/au-en/careers",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Software developer",
@@ -107014,8 +107311,10 @@
 "Technology support"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ibm.com/au-en/careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://au.newsroom.ibm.com/2022-05-25-Auckland-schools-work-with-industry-to-fast-track-students-into-tech-careers?asPDF=1",
 "https://twitter.com/share?url=http%3A%2F%2Fau.newsroom.ibm.com%2F2022-05-25-Auckland-schools-work-with-industry-to-fast-track-students-into-tech-careers",
@@ -107051,8 +107350,7 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Graduate sales",
@@ -107128,17 +107426,16 @@
 "campus_site": "https://careers.cisco.com/global/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Systems engineer",
 "Account manager"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://careers.cisco.com/global/en"
+"https://careers.cisco.com/global/en",
+"https://careers.cisco.com/global/en/job/2003496/Software-Engineer-Intern-Australia"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -107239,16 +107536,16 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Inside sales",
 "Technology consultant"
 ],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers"
+"https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers",
+"https://jobs.dell.com/employment/australia-graduates-jobs/5787/52810/2077456/2/3"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -107376,21 +107673,22 @@
 "listed": "ASX TLS",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.telstra.com.au/careers/students-and-graduates/telstra-graduate-program",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Technology graduate",
 "Data graduate",
 "Cyber security graduate"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "International students with unrestricted work rights may apply to technical pathways only",
+"sources": [
+"https://www.telstra.com.au/careers/students-and-graduates/telstra-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.telstra.com.au/aboutus/careers/graduates"
 ],
@@ -107419,17 +107717,16 @@
 "campus_site": "https://careers.optus.com.au/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Technology graduate",
 "Engineering graduate"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents only",
 "sources": [
-"https://careers.optus.com.au/"
+"https://careers.optus.com.au/",
+"https://careers.optus.com.au/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -107457,9 +107754,7 @@
 "campus_site": "https://fa-ewlx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Graduate engineer",
@@ -107467,7 +107762,8 @@
 ],
 "notes": "",
 "sources": [
-"https://fa-ewlx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+"https://fa-ewlx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+"https://www.tpgtelecom.com.au/careers/early-careers-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -107496,13 +107792,12 @@
 "campus_site": "https://www.vocus.com.au/about-vocus/graduate-and-early-careers",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Graduate engineer"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents only; final-year students or graduated within the last five years",
 "sources": [
 "https://www.vocus.com.au/about-vocus/graduate-and-early-careers"
 ],
@@ -107537,16 +107832,16 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Graduate engineer",
 "Technology graduate"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://nbn.wd3.myworkdayjobs.com/nbncareers"
+"https://nbn.wd3.myworkdayjobs.com/nbncareers",
+"https://www.nbnco.com.au/corporate-information/careers/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -107633,13 +107928,13 @@
 "campus_site": "https://careers.macquarietechnologygroup.com/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.macquarietechnologygroup.com/"
+"https://careers.macquarietechnologygroup.com/",
+"https://www.macquarietechnologygroup.com/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -107738,8 +108033,7 @@
 "campus_site": "https://www.cognizant.com/anz/en/cognizant-careers",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
@@ -107807,20 +108101,21 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://datacom.com/au/en/careers/graduates",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Graduate software developer",
 "Graduate consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://datacom.com/au/en/careers/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://datacom.com/au/en/careers"
 ],
@@ -107945,13 +108240,13 @@
 "campus_site": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/userHome",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/userHome"
+"https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/userHome",
+"https://www.kyndryl.com/au/en"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -108284,15 +108579,13 @@
 "campus_site": "https://www.gspace.com/career",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Aerospace engineer",
 "Software engineer"
 ],
-"notes": "",
+"notes": "Final-year students; graduated or graduating within the next 12 months",
 "sources": [
 "https://www.gspace.com/career"
 ],
@@ -108320,8 +108613,7 @@
 "campus_site": "https://www.fleetspace.com/careers",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -108381,10 +108673,10 @@
 "campus_site": "https://www.inovor.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Asks for Australian residents or citizens",
 "sources": [
 "https://www.inovor.com.au/careers/"
 ],
@@ -108751,17 +109043,16 @@
 "campus_site": "https://www.data3.com/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Graduate consultant",
 "Graduate engineer"
 ],
-"notes": "",
+"notes": "Internship for women currently studying undergraduate Information Technology",
 "sources": [
-"https://www.data3.com/careers/"
+"https://www.data3.com/careers/",
+"https://www.data3.com/pathways-to-employment/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -108996,19 +109287,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://cybercx.com.au/cyber-security-academy-cybercx/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Graduate cyber security consultant"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
+"sources": [
+"https://cybercx.com.au/cyber-security-academy-cybercx/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://cybercx.com.au/careers/"
 ],
@@ -109844,16 +110135,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.cognizant.com/studentandinterns/au/en/graduate-programs",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only; temporary visa holders cannot apply",
+"sources": [
+"https://careers.cognizant.com/studentandinterns/au/en/graduate-programs"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://careers.cognizant.com/global-en/pathways-and-programs/students-and-emerging-talent/",
 "https://www.cognizant.com/us/en/careers",
@@ -109884,20 +110176,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.smartrecruiters.com/Leidos1/743999709033502-graduate-systems-engineer",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Graduate software engineer",
 "Graduate systems engineer"
 ],
-"notes": "Roles are commonly Australian-citizen only and require a security clearance; check the posting",
-"sources": [],
-"checked": "",
+"notes": "Australian citizens only; security clearance required",
+"sources": [
+"https://jobs.smartrecruiters.com/Leidos1/743999709033502-graduate-systems-engineer"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.leidos.com/au"
 },
@@ -109921,16 +110213,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nec.com.au/insights/media/nec-australias-2020-graduate-program-opens",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.nec.com.au/insights/media/nec-australias-2020-graduate-program-opens"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://au.nec.com"
 },
@@ -109990,13 +110283,13 @@
 "campus_site": "https://www.cgi.com/au/en-au/article/careers/turning-theory-impact-my-cgi-internship-experience",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.cgi.com/au/en-au/article/careers/turning-theory-impact-my-cgi-internship-experience"
+"https://www.cgi.com/au/en-au/article/careers/turning-theory-impact-my-cgi-internship-experience",
+"https://cgi.com/au/en-au/careers/new-graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -110126,10 +110419,10 @@
 "campus_site": "https://www.rea-group.com/careers/graduate-programs/",
 "system": "",
 "hires": [
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Requires full working rights and the ability to apply for permanent residency in Australia before the programme starts",
 "sources": [
 "https://www.rea-group.com/careers/graduate-programs/"
 ],
@@ -110329,8 +110622,8 @@
 "campus_site": "https://www.okta.com/company/careers/intern-program/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer"
@@ -110443,14 +110736,13 @@
 "campus_site": "https://careers.sbs.com.au/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.sbs.com.au/"
+"https://careers.sbs.com.au/",
+"https://careers.sbs.com.au/from-cadetship-to-career-phoebe-mcilwraiths-sbs-journey/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -110819,12 +111111,13 @@
 "campus_site": "https://aussiebroadband.wd3.myworkdayjobs.com/Wholesale-External",
 "system": "Workday",
 "hires": [
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "International students need at least 12 months remaining on their Graduate visa and must be eligible for a work or training visa before it expires; graduated at most 2 years before the programme starts",
 "sources": [
-"https://aussiebroadband.wd3.myworkdayjobs.com/Wholesale-External"
+"https://aussiebroadband.wd3.myworkdayjobs.com/Wholesale-External",
+"https://careers.symbio.global/our-graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -110851,13 +111144,13 @@
 "campus_site": "https://www.rex.com.au/CareerOpportunities/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian citizens and permanent residents only",
 "sources": [
-"https://www.rex.com.au/CareerOpportunities/"
+"https://www.rex.com.au/CareerOpportunities/",
+"https://www.rex.com.au/CadetPilot/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -112800,11 +113093,10 @@
 "campus_site": "https://pon.com.au/careers/port-futures-program/port-of-newcastle-graduate-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian citizens and permanent residents only",
 "sources": [
 "https://pon.com.au/careers/port-futures-program/port-of-newcastle-graduate-program/"
 ],
@@ -112963,13 +113255,13 @@
 "campus_site": "https://tasports.com.au/careers",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://tasports.com.au/careers"
+"https://tasports.com.au/careers",
+"https://tasports.com.au/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -113232,16 +113524,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://pwcs.com.au/work-with-us/join-our-team",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Completed a relevant degree within the last two years or completing it this year",
+"sources": [
+"https://pwcs.com.au/work-with-us/join-our-team"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.pwcs.com.au"
 },
@@ -113358,16 +113651,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.cmacgm-group.com/job/Melbourne-Line-Management-Graduate/1290630801",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.cmacgm-group.com/job/Melbourne-Line-Management-Graduate/1290630801"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cma-cgm.com"
 },
@@ -114809,13 +115103,13 @@
 "campus_site": "https://northline-service-centre-careers.careerpages.rec-marketing.dc2.pageuppeople.com/jobs/search",
 "system": "PageUp",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://northline-service-centre-careers.careerpages.rec-marketing.dc2.pageuppeople.com/jobs/search"
+"https://northline-service-centre-careers.careerpages.rec-marketing.dc2.pageuppeople.com/jobs/search",
+"https://www.northline.com.au/zandile-mchive-shares-her-experience-in-northlines-graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -114912,7 +115206,7 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -116380,15 +116674,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.porsche.com/australia/aboutporsche/jobs/students/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.porsche.com/australia/aboutporsche/jobs/students/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.porsche.com/australia"
 },
@@ -116796,12 +117093,14 @@
 "campus_site": "https://www.westernportwater.com.au/about/careers/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.westernportwater.com.au/about/careers/"
+"https://www.westernportwater.com.au/about/careers/",
+"https://www.westernportwater.com.au/about/careers/career-programs-3/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -116970,15 +117269,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.g-mwater.com.au/about/careers",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.g-mwater.com.au/about/careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.g-mwater.com.au/about/careers"
 ],
@@ -117327,7 +117628,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.watertech.com.au/about/work-with-us/",
 "system": "",
 "hires": [
 "graduate",
@@ -117335,8 +117636,10 @@
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.watertech.com.au/about/work-with-us/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.watertech.com.au"
 },
@@ -117360,12 +117663,14 @@
 "campus_site": "https://wrmwater.com.au/careers/?doing_wp_cron=1795191194.8844230175018310546875",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://wrmwater.com.au/careers/?doing_wp_cron=1795191194.8844230175018310546875"
+"https://wrmwater.com.au/careers/?doing_wp_cron=1795191194.8844230175018310546875",
+"https://wrmwater.com.au/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -117521,9 +117826,10 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Working rights in Australia required; international students on an Australian student visa may apply to the Electrical Engineering graduate stream",
 "sources": [
-"https://www.powercor.com.au/careers/traineeships"
+"https://www.powercor.com.au/careers/traineeships",
+"https://www.powercor.com.au/careers/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -117551,9 +117857,10 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Working rights in Australia required; international students on an Australian student visa may apply to the Electrical Engineering graduate stream",
 "sources": [
-"https://career10.successfactors.com/career?company=C0001104384P&site=&lang=en_GB&requestParams=&login_ns=register&jobPipeline=Direct&clientId=jobs2web&navBarLevel=MY%5fPROFILE&_s.crb=Nl9fZktcluiXQSzt6F55FoZevnIwpCudvDt51RfwE6w%3d"
+"https://career10.successfactors.com/career?company=C0001104384P&site=&lang=en_GB&requestParams=&login_ns=register&jobPipeline=Direct&clientId=jobs2web&navBarLevel=MY%5fPROFILE&_s.crb=Nl9fZktcluiXQSzt6F55FoZevnIwpCudvDt51RfwE6w%3d",
+"https://www.unitedenergy.com.au/careers/our-graduate-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -117694,7 +118001,8 @@
 "campus_site": "https://www.actewagl.com.au/about/careers/student-and-graduate-programs",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -118324,7 +118632,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.globirdenergy.com.au/jobs/"
+"https://www.globirdenergy.com.au/jobs/",
+"https://www.globirdenergy.com.au/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119111,12 +119420,14 @@
 "campus_site": "https://shape.com.au/careers/",
 "system": "",
 "hires": [
+"internship",
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and permanent residents only",
 "sources": [
-"https://shape.com.au/careers/"
+"https://shape.com.au/careers/",
+"https://shape.com.au/careers/cadets/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119174,7 +119485,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.hickory.com.au/careers/"
+"https://www.hickory.com.au/careers/",
+"https://www.hickory.com.au/graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119369,15 +119681,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nsw.gov.au/departments-and-agencies/customer-service/careers/grow-us",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Completed an undergraduate or postgraduate degree within the last two years",
+"sources": [
+"https://www.nsw.gov.au/departments-and-agencies/customer-service/careers/grow-us"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.nsw.gov.au/careers/grow-with-us",
 "https://iworkfor.nsw.gov.au/",
@@ -119466,7 +119780,7 @@
 "campus_site": "https://partridge.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -119524,10 +119838,11 @@
 "campus_site": "https://costinroe.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Internships are for 4th-year civil/structural engineering students",
 "sources": [
 "https://costinroe.com.au/careers/"
 ],
@@ -119559,7 +119874,7 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Applicants must be at least in the second year of a relevant degree",
 "sources": [
 "https://www.rlb.com/oceania/careers/early-careers/"
 ],
@@ -119591,9 +119906,10 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Citizens, permanent residents, or those eligible for a graduate visa in the relevant country",
 "sources": [
-"https://www.turnerandtownsend.com/join-us/early-careers/"
+"https://www.turnerandtownsend.com/join-us/early-careers/",
+"https://www.turnerandtownsend.com/join-us/early-careers/apac-graduate-development-programme/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119650,12 +119966,14 @@
 "campus_site": "https://wtpartnership.com.au/careers/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian work rights required",
 "sources": [
-"https://wtpartnership.com.au/careers/"
+"https://wtpartnership.com.au/careers/",
+"https://wtpartnership.com.au/cadets-and-graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119749,7 +120067,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://employmenthero.com/jobs/organisations/emm-consulting-13b1s/"
+"https://employmenthero.com/jobs/organisations/emm-consulting-13b1s/",
+"https://www.emmconsulting.com.au/careers-and-culture/careers/graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119890,15 +120209,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.jbsg.com.au/join-our-team/graduate-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.jbsg.com.au/join-our-team/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.jbsg.com.au"
 },
@@ -119920,7 +120241,8 @@
 "campus_site": "https://senversa.com.au/early-careers",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -119956,7 +120278,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"http://3.106.90.248/careers/pathways"
+"http://3.106.90.248/careers/pathways",
+"https://www.veris.com.au/careers/pathways"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119985,7 +120308,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.spiire.com.au/careers/"
+"https://www.spiire.com.au/careers/",
+"https://www.spiire.com.au/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -120509,7 +120833,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.careersinwater.com.au/jobs/66510177086"
+"https://www.careersinwater.com.au/jobs/66510177086",
+"https://www.awa.asn.au/program/graduate-program-water"
 ],
 "checked": "2026-11",
 "site_candidates": [],

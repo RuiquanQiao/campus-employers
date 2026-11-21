@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-21",
- "version": "2026-11-21T03:26:27Z",
+ "version": "2026-11-21T07:20:03Z",
  "countries": [
   {
    "code": "cn",
@@ -12,9 +12,9 @@
   {
    "code": "au",
    "employers": 3822,
-   "careers": 2042,
+   "careers": 2174,
    "system": 449,
-   "sha": "7d132102291e"
+   "sha": "f336a5ca7dc5"
   },
   {
    "code": "sg",
@@ -33,9 +33,9 @@
   {
    "code": "us",
    "employers": 5234,
-   "careers": 2471,
-   "system": 1014,
-   "sha": "a2a0981ecb1b"
+   "careers": 3329,
+   "system": 1334,
+   "sha": "20b003b16eaa"
   }
  ]
 }
