@@ -1,0 +1,60 @@
+{"name": "Charles Sturt University", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Edith Cowan University", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "University of Tasmania", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "University of Canberra", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Australian Catholic University", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Bond University", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "University of Notre Dame Australia", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Torrens University Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Avondale University", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "University of Divinity", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "UNSW Canberra", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Kaplan Business School", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Australian Maritime College", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Melbourne Business School", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "AGSM at UNSW Business School", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "National Institute of Dramatic Art", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Australian Institute of Music", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "SAE Institute Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Holmes Institute", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Le Cordon Bleu Australia", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Victorian Department of Education", "status": "confirmed", "programme": "https://www.vic.gov.au/graduate-teacher-recruitment-initiative", "hires": ["graduate"], "notes": "Graduated within the last 4 years as a 4-year qualified teacher registered or eligible for registration with the Victorian Institute of Teaching", "evidence": "be a 4-year qualified teacher who has completed all course requirements and graduated within the last 4 years"}
+{"name": "Queensland Department of Education", "status": "confirmed", "programme": "https://www.qld.gov.au/jobs/graduates/graduate-programs", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Western Australian Department of Education", "status": "confirmed", "programme": "https://www.education.wa.edu.au/graduate-program", "hires": ["graduate"], "notes": "Degree in business, commerce, accounting or a related field completed in the last 2 years; proof of eligibility to work in the WA public sector (citizenship, residency or a visa)", "evidence": "proof of eligibility to work in the WA public sector (for example, your Australian passport, Australian citizenship certificate, residency status or a visa)"}
+{"name": "South Australian Department for Education", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Tasmanian Department for Education, Children and Young People", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "ACT Education Directorate", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Northern Territory Department of Education and Training", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Sydney Catholic Schools", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Schools NSW", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Schools Parramatta Diocese", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Education Diocese of Wollongong", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Schools Broken Bay", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Education Diocese of Maitland-Newcastle", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Melbourne Archdiocese Catholic Schools", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Education Commission of Victoria", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Brisbane Catholic Education", "status": "confirmed", "programme": "https://www.bne.catholic.edu.au/careers/graduate-information", "hires": ["graduate"], "notes": "Applicants need the right to work in Australia: citizens, permanent residents, New Zealand citizens or holders of a visa with work entitlements", "evidence": "non-Australian citizens holding a valid visa with work entitlements"}
+{"name": "Catholic Education Western Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Education South Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Catholic Education Tasmania", "status": "confirmed", "programme": "https://catholic.tas.edu.au/join-us/cadet-teachers/", "hires": ["internship"], "notes": "Must be accepted into an approved online education degree with at least two years remaining", "evidence": "Be accepted into an approved online education degree"}
+{"name": "Catholic Education Canberra Goulburn", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Edmund Rice Education Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Marist Schools Australia", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Sydney Anglican Schools Corporation", "status": "confirmed", "programme": "https://www.tasc.nsw.edu.au/wp-content/uploads/2026/07/2027_Intern_Program_Information_NEW.pdf", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Anglican Schools Commission", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Lutheran Education Australia", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Adventist Schools Australia", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Christian Education National", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Christian Schools Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "TAFE NSW", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "TAFE Queensland", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "TAFE SA", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "TasTAFE", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Canberra Institute of Technology", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "North Metropolitan TAFE", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "South Metropolitan TAFE", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Central Regional TAFE", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Box Hill Institute", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Holmesglen Institute", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Melbourne Polytechnic", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Chisholm Institute", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}

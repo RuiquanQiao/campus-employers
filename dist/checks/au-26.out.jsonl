@@ -1,0 +1,60 @@
+{"name": "Sunshine Coast Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "West Moreton Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Darling Downs Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Townsville Hospital and Health Service", "status": "confirmed", "programme": "https://www.townsville.health.qld.gov.au/career-opportunities/nursing-midwifery-recruitment/graduate-nursing-midwifery-program/", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Cairns and Hinterland Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Mackay Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Central Queensland Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Wide Bay Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "North West Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "South West Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Central West Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Torres and Cape Hospital and Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Ambulance Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Pathology Queensland", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "North Metropolitan Health Service", "status": "confirmed", "programme": "https://nmhs.health.wa.gov.au/Work-with-us/Graduates", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "South Metropolitan Health Service", "status": "confirmed", "programme": "https://medcareerswa.health.wa.gov.au/internship", "hires": ["internship"], "notes": "Medical graduates of accredited medical schools meeting eligibility criteria", "evidence": "Medical graduates who meet specific eligibility criteria can apply for an internship in WA"}
+{"name": "Child and Adolescent Health Service", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "WA Country Health Service", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "PathWest Laboratory Medicine WA", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Health Support Services (WA)", "status": "confirmed", "programme": "https://www.health.wa.gov.au/Careers/Graduate-programs", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Department of Health (Western Australia)", "status": "confirmed", "programme": "https://www.health.wa.gov.au/Careers/Graduate-programs", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "St John Ambulance Western Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Central Adelaide Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Northern Adelaide Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Southern Adelaide Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Women's and Children's Health Network", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Barossa Hills Fleurieu Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Eyre and Far North Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Flinders and Upper North Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Limestone Coast Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Riverland Mallee Coorong Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Yorke and Northern Local Health Network", "status": "confirmed", "programme": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Careers/I+am+a/Graduate/Graduate+or+entry+level+jobseeker", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "SA Ambulance Service", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "SA Pathology", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Tasmanian Health Service", "status": "confirmed", "programme": "https://www.health.tas.gov.au/careers/graduate-opportunities", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Department of Health Tasmania", "status": "confirmed", "programme": "https://www.health.tas.gov.au/careers/graduate-opportunities", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Ambulance Tasmania", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Canberra Health Services", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "ACT Health Directorate", "status": "confirmed", "programme": "https://www.jobs.act.gov.au/opportunities/careerinterest/graduates,-trainees-and-apprentices", "hires": ["graduate"], "notes": "Australian citizens, permanent residents or holders of a visa with work rights", "evidence": "you must hold a current Australian visa with work rights or be an Australian citizen or permanent resident"}
+{"name": "Top End Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Central Australia Health Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Northern Territory Department of Health", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "National Blood Authority", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cancer Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Organ and Tissue Authority", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "National Mental Health Commission", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Australian Health Practitioner Regulation Agency", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Hearing Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Healthdirect Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "National Health Funding Body", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Walter and Eliza Hall Institute of Medical Research", "status": "confirmed", "programme": "https://www.wehi.edu.au/education/undergraduate/", "hires": ["internship"], "notes": "Working rights in Australia required for casual laboratory roles", "evidence": "You will need to have working rights in Australia"}
+{"name": "The George Institute for Global Health", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "St John of God Health Care", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Adventist HealthCare", "status": "confirmed", "programme": "https://www.sah.org.au/education/", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "The Wesley Hospital", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "UnitingCare Queensland", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "GenesisCare", "status": "confirmed", "programme": "https://www.genesiscare.com/au", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Icon Group", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Montserrat Day Hospitals", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Vision Eye Institute", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}

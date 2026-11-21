@@ -1,0 +1,7 @@
+Not written (belong to software, US):
+Cisco Systems (networking hardware: hardware agent)
+Zebra Technologies, Pure Storage, NetApp, Dell (hardware)
+Electronic Arts, Activision Blizzard, Roblox (games / consumer internet)
+Stripe, Block, Fiserv, FIS, Jack Henry (fintech: finance agent)
+Booz Allen Hamilton, SAIC, Leidos, CACI, Peraton (government services agent)
+Further mid-size vertical software firms (legal, hospitality, agriculture, energy software), TEKsystems-type IT staffing excluded by rule

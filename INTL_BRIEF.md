@@ -65,6 +65,29 @@ Every field is always present (`""` or `[]` when not known). The rules:
   (Workday, PageUp, SuccessFactors, Oracle, Greenhouse, Lever, Avature, Eightfold…), else `""`.
 - A group and its subsidiaries: one line for the group, plus one per subsidiary that runs its own graduate intake.
 
+## Adding to a country already listed
+
+When your country already has employers (`dist/<cc>.json`), you are given an **area** (e.g. hospitals and health
+services) and the existing `industry` name your lines carry, so the page's industry filter stays the same. First read
+every `name` and `aliases` in `dist/<cc>.json` and write **only employers not in it**; the file prefix you are given
+(`data/<cc>/<prefix>-NN.jsonl`) is yours alone. The aim is the employers a graduate would never hear of: public
+health services, councils, water and power utilities, mid-tier firms, regional employers, foreign firms' local arms.
+A group whose units recruit separately (a state's local health districts, a university's campuses only if they
+recruit apart) gets one line per unit that runs its own graduate intake.
+
+## United States
+
+- `nature`: `us.company`, `us.state` (rare: Amtrak, the Tennessee Valley Authority, USPS), `us.government`
+  (federal, state and city agencies, the Federal Reserve banks), `us.research` (national laboratories, universities,
+  FFRDCs such as MITRE), `us.nonprofit`.
+- `hq` is the city of the head office (`New York`, `Seattle`); `cities` at most 8 US cities it hires graduates in.
+- `listed`: `NYSE JPM`, `Nasdaq AAPL`.
+- `notes` matter most here for an international student: write them only when certain, e.g. "US citizenship required
+  (security clearance)", "Federal Pathways programme: US citizens only", "Does not sponsor work visas for
+  graduate roles". Never guess whether a company sponsors H-1B.
+- Campus pages are often on Workday (`*.myworkdayjobs.com`), Greenhouse, Lever, Eightfold, Avature, iCIMS or Phenom;
+  write `system` only when sure.
+
 ## What not to do
 
 - Don't invent an address, a ticker, a headcount or a visa rule. Empty is right; wrong is harmful.

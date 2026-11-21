@@ -1,0 +1,60 @@
+{"name": "Victorian Department of Jobs, Skills, Industry and Regions", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Fire Rescue Victoria", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Country Fire Authority", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Major Transport Infrastructure Authority", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Parks Victoria", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Sustainability Victoria", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Victorian Gambling and Casino Control Commission", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Victoria Legal Aid", "status": "confirmed", "programme": "https://www.legalaid.vic.gov.au/careers", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Energy Safe Victoria", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Essential Services Commission", "status": "confirmed", "programme": "https://www.vic.gov.au/victorian-government-graduate-program", "hires": ["graduate", "internship"], "notes": "Australian or New Zealand citizens and Australian permanent residents only", "evidence": "be an Australian or New Zealand citizen, or an Australian permanent resident"}
+{"name": "Victorian Electoral Commission", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Infrastructure Victoria", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Barwon Water", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Coliban Water", "status": "confirmed", "programme": "https://www.coliban.com.au/careers", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Goulburn Valley Water", "status": "confirmed", "programme": "https://www.gvwater.vic.gov.au/about-us/careers", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Wannon Water", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Central Highlands Water", "status": "confirmed", "programme": "https://www.chw.net.au/about-us/careers/students-and-early-careers", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Gippsland Water", "status": "confirmed", "programme": "https://www.gippswater.com.au/about-us/careers/career-pathways/traineeships", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Western Water", "status": "confirmed", "programme": "https://www.gww.com.au/about/careers/early-career-development", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Victorian Public Sector Commission", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Police Service", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Fire Department", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Corrective Services", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Department of Justice", "status": "confirmed", "programme": "https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Crime and Corruption Commission Queensland", "status": "confirmed", "programme": "https://www.ccc.qld.gov.au/about/careers/early-career-pathways-program", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Queensland Revenue Office", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Department of Resources", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Department of Housing and Public Works", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Department of State Development, Infrastructure and Planning", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Department of the Environment, Tourism, Science and Innovation", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Department of Primary Industries", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Reconstruction Authority", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Competition Authority", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Building and Construction Commission", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Parliamentary Service", "status": "confirmed", "programme": "https://www.parliament.qld.gov.au/Careers/Graduate-Program", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Queensland Ombudsman", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Public Trustee of Queensland", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Legal Aid Queensland", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cross River Rail Delivery Authority", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Economic Development Queensland", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Queensland Hydro", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Western Australia Police Force", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Western Australian Department of Justice", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Western Australian Department of Planning, Lands and Heritage", "status": "confirmed", "programme": "https://www.wa.gov.au/government/document-collections/graduate-program-department-of-planning-lands-and-heritage", "hires": ["graduate"], "notes": "Australian citizens and permanent residents only", "evidence": "be an Australian citizen or permanent resident"}
+{"name": "Landgate", "status": "confirmed", "programme": "https://www.landgate.wa.gov.au/about-us/careers-with-us/graduates-pathways/", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Western Australian Department of Water and Environmental Regulation", "status": "confirmed", "programme": "https://www.wa.gov.au/organisation/department-of-water-and-environmental-regulation/graduate-programs-department-of-water-and-environmental-regulation", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Western Australian Department of Energy, Mines, Industry Regulation and Safety", "status": "confirmed", "programme": "https://www.wa.gov.au/organisation/department-of-local-government-industry-regulation-and-safety/graduate-opportunities-lgirs", "hires": ["graduate"], "notes": "Australian citizens and permanent residents only", "evidence": "You must be an Australian citizen or permanent resident to apply for this program"}
+{"name": "Western Australian Department of Primary Industries and Regional Development", "status": "confirmed", "programme": "https://www.wa.gov.au/government/multi-step-guides/place-of-opportunity/opportunities/graduates/department-of-primary-industries-and-regional-development-graduate-program", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Western Australian Department of Transport", "status": "confirmed", "programme": "https://www.transport.wa.gov.au/about-us/careers/internship-programs", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Western Australian Department of Biodiversity, Conservation and Attractions", "status": "confirmed", "programme": "https://www.dbca.wa.gov.au/about-us/graduate-development-program", "hires": ["graduate"], "notes": "Australian citizens and permanent residents only", "evidence": "You must be an Australian citizen or permanent resident when you submit your application"}
+{"name": "Western Australian Department of Communities", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Office of the Auditor General Western Australia", "status": "confirmed", "programme": "https://audit.wa.gov.au/careers/graduates/", "hires": ["graduate"], "notes": "Australian citizens and permanent residents only", "evidence": "you are required to be an Australian citizen or permanent resident at the time of applying to be considered for shortlisting"}
+{"name": "Ombudsman Western Australia", "status": "confirmed", "programme": "https://ombudsman.wa.gov.au/work-with-owa", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Corruption and Crime Commission Western Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "DevelopmentWA", "status": "confirmed", "programme": "https://developmentwa.com.au/about/careers/student-pathways", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "METRONET", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Department of Fire and Emergency Services Western Australia", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Western Australian Public Sector Commission", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Rottnest Island Authority", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Perth Mint", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
