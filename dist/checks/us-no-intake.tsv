@@ -761,6 +761,8 @@ U.S. Army Corps of Engineers		government-02.jsonl
 Federal Emergency Management Agency		government-02.jsonl
 U.S. Coast Guard (civilian careers)		government-02.jsonl
 U.S. Citizenship and Immigration Services		government-02.jsonl
+Government Publishing Office		government-03.jsonl
+Pension Benefit Guaranty Corporation		government-03.jsonl
 U.S. Digital Service		government-05.jsonl
 Federal Election Commission		government-05.jsonl
 Railroad Retirement Board		government-05.jsonl
@@ -816,3 +818,128 @@ Vishay Intertechnology		hardware-02.jsonl
 FormFactor		hardware-03.jsonl
 Ultra Clean Holdings		hardware-03.jsonl
 Photronics		hardware-03.jsonl
+Teledyne LeCroy		hardware-05.jsonl
+Lake Shore Cryotronics		hardware-05.jsonl
+Flex		hardware-05.jsonl
+Sanmina		hardware-05.jsonl
+Benchmark Electronics		hardware-05.jsonl
+Plexus		hardware-05.jsonl
+Kimball Electronics		hardware-05.jsonl
+Nortech Systems		hardware-05.jsonl
+Vicor		hardware-05.jsonl
+Methode Electronics		hardware-05.jsonl
+Bel Fuse		hardware-05.jsonl
+CTS Corporation		hardware-05.jsonl
+Universal Display		hardware-06.jsonl
+IPG Photonics		hardware-06.jsonl
+nLight		hardware-06.jsonl
+Applied Optoelectronics		hardware-06.jsonl
+Luna Innovations		hardware-06.jsonl
+ADTRAN		hardware-06.jsonl
+Ubiquiti		hardware-06.jsonl
+NETGEAR		hardware-06.jsonl
+Ribbon Communications		hardware-06.jsonl
+Harmonic		hardware-06.jsonl
+Digi International		hardware-06.jsonl
+Lantronix		hardware-06.jsonl
+Inseego		hardware-06.jsonl
+Cambium Networks		hardware-06.jsonl
+A10 Networks		hardware-06.jsonl
+Motorola Solutions		hardware-06.jsonl
+Pure Storage		hardware-06.jsonl
+Hitachi Vantara		hardware-07.jsonl
+Quantum Corporation		hardware-07.jsonl
+VAST Data		hardware-07.jsonl
+Solidigm		hardware-07.jsonl
+Modine Manufacturing		hardware-07.jsonl
+Logitech		hardware-07.jsonl
+Corsair Gaming		hardware-07.jsonl
+Sonos		hardware-07.jsonl
+GoPro		hardware-07.jsonl
+Wyze Labs		hardware-07.jsonl
+Magic Leap		hardware-07.jsonl
+Kopin		hardware-07.jsonl
+Vuzix		hardware-07.jsonl
+Xperi		hardware-07.jsonl
+SparkFun Electronics		hardware-07.jsonl
+Adafruit Industries		hardware-07.jsonl
+Teledyne Technologies		hardware-07.jsonl
+Teledyne FLIR		hardware-08.jsonl
+Mercury Systems		hardware-08.jsonl
+Akoustis Technologies		hardware-08.jsonl
+Ouster		hardware-08.jsonl
+Luminar Technologies		hardware-08.jsonl
+Aeva Technologies		hardware-08.jsonl
+IonQ		hardware-08.jsonl
+PsiQuantum		hardware-08.jsonl
+Infleqtion		hardware-08.jsonl
+Atom Computing		hardware-08.jsonl
+QuEra Computing		hardware-08.jsonl
+Quantum Computing Inc.		hardware-08.jsonl
+Intuitive Surgical		hardware-08.jsonl
+Agility Robotics		hardware-08.jsonl
+Figure AI		hardware-08.jsonl
+Apptronik		hardware-08.jsonl
+Skydio		hardware-08.jsonl
+Shield AI		hardware-08.jsonl
+Saronic Technologies		hardware-08.jsonl
+Epirus		hardware-08.jsonl
+Zipline		hardware-08.jsonl
+Gecko Robotics		hardware-08.jsonl
+Path Robotics		hardware-09.jsonl
+Dexterity		hardware-09.jsonl
+Aurora Innovation		hardware-09.jsonl
+Zoox		hardware-09.jsonl
+Carbon Robotics	https://carbonrobotics.com/careers	hardware-09.jsonl
+Serve Robotics	https://www.serverobotics.com/careers/index.html	hardware-09.jsonl
+Fanuc America	https://www.fanucamerica.com/careers	hardware-09.jsonl
+Azenta	https://www.azenta.com/company/careers	hardware-09.jsonl
+Diligent Robotics	https://job-boards.greenhouse.io/diligentrobotics/jobs/8208239003	hardware-09.jsonl
+AMP Robotics	https://www.amp.ai	hardware-09.jsonl
+Pickle Robot	https://www.picklerobot.com/careers	hardware-09.jsonl
+Vecna Robotics	https://www.vecnarobotics.com/company/careers/	hardware-09.jsonl
+Ambi Robotics	https://www.ambirobotics.com/careers	hardware-09.jsonl
+Plus One Robotics	https://www.plusonerobotics.com/careers	hardware-09.jsonl
+Machina Labs	https://machinalabs.ai/careers	hardware-09.jsonl
+Hadrian	https://www.hadrian.co/careers	hardware-09.jsonl
+RightHand Robotics	https://righthandrobotics.com/careers	hardware-09.jsonl
+Palladyne AI	https://www.palladyneai.com/careers/	hardware-09.jsonl
+Florida Blue	https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue	healthcare-01.jsonl
+Cambia Health Solutions	https://www.cambiahealth.com/careers/careers-at-cambia/	healthcare-01.jsonl
+Blue Shield of California	https://careers.blueshieldca.com/	healthcare-01.jsonl
+Capital Blue Cross	https://www.capbluecross.com/wps/portal/cap/about/career	healthcare-02.jsonl
+Arkansas Blue Cross and Blue Shield	https://www.arkansasbluecross.com/about/careers	healthcare-02.jsonl
+EmblemHealth		healthcare-02.jsonl
+Health Net		healthcare-02.jsonl
+Sentara Health		healthcare-02.jsonl
+Priority Health		healthcare-02.jsonl
+Alignment Healthcare		healthcare-02.jsonl
+Clover Health		healthcare-02.jsonl
+NeueHealth		healthcare-02.jsonl
+Devoted Health		healthcare-02.jsonl
+Point32Health		healthcare-02.jsonl
+Harvard Pilgrim Health Care		healthcare-02.jsonl
+HealthPartners		healthcare-02.jsonl
+Prime Therapeutics		healthcare-02.jsonl
+Navitus Health Solutions		healthcare-02.jsonl
+MedImpact Healthcare Systems		healthcare-02.jsonl
+Cencora		healthcare-03.jsonl
+Henry Schein		healthcare-03.jsonl
+Owens & Minor		healthcare-03.jsonl
+Premier Inc		healthcare-03.jsonl
+Vizient		healthcare-03.jsonl
+Omnicell		healthcare-03.jsonl
+CommonSpirit Health		healthcare-03.jsonl
+Ascension		healthcare-03.jsonl
+Trinity Health		healthcare-03.jsonl
+Providence		healthcare-03.jsonl
+Advocate Health		healthcare-03.jsonl
+Atrium Health		healthcare-03.jsonl
+Mass General Brigham		healthcare-03.jsonl
+NYU Langone Health		healthcare-03.jsonl
+NewYork-Presbyterian		healthcare-03.jsonl
+Penn Medicine		healthcare-03.jsonl
+Cedars-Sinai		healthcare-03.jsonl
+Baylor Scott & White Health		healthcare-04.jsonl
+Houston Methodist		healthcare-04.jsonl
+Community Health Systems		healthcare-04.jsonl

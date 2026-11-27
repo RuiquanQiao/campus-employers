@@ -63995,7 +63995,6 @@
 "campus_site": "https://www.bop.gov/jobs/students.jsp",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -64032,10 +64031,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.gao.gov/about/careers/students-and-career-paths",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64045,9 +64043,11 @@
 "Data scientist",
 "Attorney"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "US citizens only for the unpaid student volunteer positions; paid internships state no citizenship rule",
+"sources": [
+"https://www.gao.gov/about/careers/students-and-career-paths"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.gao.gov/careers"
 ],
@@ -64070,19 +64070,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cbo.gov/about/careers/internships",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Budget analyst",
 "Economist"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Non-citizens may be employed only if they meet the criteria in 8 U.S.C. 1324b(a)(3)(B)",
+"sources": [
+"https://www.cbo.gov/about/careers/internships"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.cbo.gov/about/careers"
 ],
@@ -64106,20 +64107,22 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.loc.gov/internships-and-fellowships/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Librarian",
 "Archivist",
 "IT specialist"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Citizenship rule varies by programme; the Junior Fellows Program is for US citizens only",
+"sources": [
+"https://www.loc.gov/internships-and-fellowships/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.loc.gov/careers/"
 ],
@@ -64142,16 +64145,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.loc.gov/offices/congressional-research-service-careers/career-opportunities/internship-programs/student-internship-program/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Volunteer internships and law clerk positions are for US citizens only",
+"sources": [
+"https://www.loc.gov/offices/congressional-research-service-careers/career-opportunities/internship-programs/student-internship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.loc.gov/crsinfo/"
 },
@@ -64175,13 +64179,13 @@
 "campus_site": "https://www.aoc.gov/explore-capitol-campus",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.aoc.gov/explore-capitol-campus"
+"https://www.aoc.gov/explore-capitol-campus",
+"https://www.aoc.gov/about-us/work-with-us/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -64245,13 +64249,13 @@
 "campus_site": "https://rules.house.gov/bill/119/hr-1013",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://rules.house.gov/bill/119/hr-1013"
+"https://rules.house.gov/bill/119/hr-1013",
+"https://www.house.gov"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -64275,16 +64279,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.senate.gov/employment/po/internships.htm",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Citizenship criteria apply to paid Senate personal office internships only; unpaid internships are not subject to them",
+"sources": [
+"https://www.senate.gov/employment/po/internships.htm"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.senate.gov"
 },
@@ -64313,10 +64318,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.sec.gov/about/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64325,9 +64329,11 @@
 "Economist",
 "Securities compliance examiner"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.sec.gov/about/careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.sec.gov/careers"
 ],
@@ -64361,8 +64367,8 @@
 "campus_site": "https://www.fdic.gov/careers/campus-recruiting",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Bank examiner",
@@ -64402,7 +64408,6 @@
 "campus_site": "https://www.occ.gov/about/careers/index-careers.html",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64411,7 +64416,8 @@
 ],
 "notes": "Federal Pathways programme: US citizens only",
 "sources": [
-"https://www.occ.gov/about/careers/index-careers.html"
+"https://www.occ.gov/about/careers/index-careers.html",
+"https://careers.occ.gov/careers/students-interns/pathways/financial-management-internship-program.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -64440,7 +64446,6 @@
 "campus_site": "https://www.cftc.gov/About/Careers/index.htm",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64450,7 +64455,8 @@
 ],
 "notes": "Federal Pathways programme: US citizens only",
 "sources": [
-"https://www.cftc.gov/About/Careers/index.htm"
+"https://www.cftc.gov/About/Careers/index.htm",
+"https://www.cftc.gov/careers/careerpaths.htm"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -64478,10 +64484,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ftc.gov/about-ftc/bureaus-offices/bureau-competition/legal-careers-bureau-competition/honors-paralegal-division/honors-paralegal-student-interns",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64489,9 +64494,11 @@
 "Economist",
 "Technologist"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.ftc.gov/about-ftc/bureaus-offices/bureau-competition/legal-careers-bureau-competition/honors-paralegal-division/honors-paralegal-student-interns"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ftc.gov"
 },
@@ -64513,10 +64520,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.fcc.gov/general/student-internships-fcc",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64524,9 +64530,11 @@
 "Economist",
 "Engineer"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only on the agency-wide Student Internships page; individual bureau pages differ",
+"sources": [
+"https://www.fcc.gov/general/student-internships-fcc"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fcc.gov"
 },
@@ -64547,20 +64555,22 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.consumerfinance.gov/about-us/careers/students-and-graduates/pathways-internship-program/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Examiner",
 "Economist",
 "Data scientist"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.consumerfinance.gov/about-us/careers/students-and-graduates/pathways-internship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.consumerfinance.gov"
 },
@@ -64584,11 +64594,11 @@
 "campus_site": "https://www.fhfa.gov/about/careers/student-and-recent-graduates",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens; non-citizens who are permanent residents or authorized to work may also be appointed",
 "sources": [
 "https://www.fhfa.gov/about/careers/student-and-recent-graduates"
 ],
@@ -64619,13 +64629,13 @@
 "campus_site": "https://ncua.gov/about/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
 "sources": [
-"https://ncua.gov/about/careers"
+"https://ncua.gov/about/careers",
+"https://www.ncua.gov/about/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -64716,13 +64726,13 @@
 "campus_site": "https://www.exim.gov/about/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens only for the unpaid Student Volunteer Internship Program",
 "sources": [
-"https://www.exim.gov/about/careers"
+"https://www.exim.gov/about/careers",
+"https://www.exim.gov/sites/default/files/newsreleases/Brochure-OIG-Intern.pdf"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -64748,7 +64758,6 @@
 "campus_site": "https://www.dfc.gov/who-we-are/careers/students",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -64780,8 +64789,8 @@
 "campus_site": "https://www.mcc.gov/careers/internships/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
@@ -64810,10 +64819,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.usitc.gov/office_investigations_internships.htm",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64821,9 +64829,11 @@
 "Investigator",
 "Attorney"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.usitc.gov/office_investigations_internships.htm"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.usitc.gov"
 },
@@ -64847,11 +64857,10 @@
 "campus_site": "https://ustr.gov/about-us/office-human-capital-and-services/careers/student-internship-program",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens only",
 "sources": [
 "https://ustr.gov/about-us/office-human-capital-and-services/careers/student-internship-program"
 ],
@@ -64887,7 +64896,6 @@
 "campus_site": "https://www.epa.gov/careers/students",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64933,8 +64941,8 @@
 "campus_site": "https://www.nasa.gov/careers/pathways/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Aerospace engineer",
@@ -64942,9 +64950,10 @@
 "Computer scientist",
 "Pathways intern"
 ],
-"notes": "NASA internships (OSTEM): US citizens only; Federal Pathways programme: US citizens only",
+"notes": "US citizens only for the OSTEM internships",
 "sources": [
-"https://www.nasa.gov/careers/pathways/"
+"https://www.nasa.gov/careers/pathways/",
+"https://www.nasa.gov/learning-resources/internship-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -64971,7 +64980,6 @@
 "campus_site": "https://www.nsf.gov/funding/early-career-researchers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -64980,7 +64988,8 @@
 ],
 "notes": "Federal Pathways programme: US citizens only",
 "sources": [
-"https://www.nsf.gov/funding/early-career-researchers"
+"https://www.nsf.gov/funding/early-career-researchers",
+"https://www.nsf.gov/funding/undergraduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -65008,10 +65017,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.training.nih.gov/research-training/pb/sip/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -65020,9 +65028,11 @@
 "Biologist",
 "Biostatistician"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "US citizens and permanent residents only",
+"sources": [
+"https://www.training.nih.gov/research-training/pb/sip/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.training.nih.gov"
 ],
@@ -65050,11 +65060,11 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cdc.gov/jobs/pathways.html",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Epidemiologist",
@@ -65063,8 +65073,10 @@
 "Statistician"
 ],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cdc.gov/jobs/pathways.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cdc.gov"
 },
@@ -65092,8 +65104,8 @@
 "campus_site": "https://www.fda.gov/about-fda/jobs-fda",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Consumer safety officer",
@@ -65103,7 +65115,8 @@
 ],
 "notes": "Federal Pathways programme: US citizens only",
 "sources": [
-"https://www.fda.gov/about-fda/jobs-fda"
+"https://www.fda.gov/about-fda/jobs-fda",
+"https://www.fda.gov/about-fda/jobs-fda/pathways-students-and-recent-graduates-fda"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -65132,15 +65145,15 @@
 "campus_site": "https://www.cms.gov/about-cms/work-with-us/careers/pathways-programs-students-recentduates",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Health insurance specialist",
 "Data analyst",
 "Policy analyst"
 ],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens or nationals only; graduated within the past two years or on track to graduate in Fall 2026",
 "sources": [
 "https://www.cms.gov/about-cms/work-with-us/careers/pathways-programs-students-recentduates"
 ],
@@ -65165,16 +65178,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.hrsa.gov/about/jobs/students",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens, nationals, permanent residents or others authorized to be employed",
+"sources": [
+"https://www.hrsa.gov/about/jobs/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hrsa.gov"
 },
@@ -65196,20 +65210,22 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://hhs.gov/careers/pathways/index.html",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Presidential Management Fellow",
 "Public health analyst",
 "Policy analyst"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only for the Pathways Internship",
+"sources": [
+"https://hhs.gov/careers/pathways/index.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hhs.gov"
 },
@@ -65235,11 +65251,11 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/youth-agriculture/internships-and-career-opportunities",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Agricultural economist",
@@ -65248,8 +65264,10 @@
 "Plant pathologist"
 ],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/youth-agriculture/internships-and-career-opportunities"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.usda.gov"
 },
@@ -65279,15 +65297,15 @@
 "campus_site": "https://www.fs.usda.gov/careers/students-and-early-careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Forester",
 "Hydrologist",
 "Biological science technician"
 ],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "Citizenship rule varies by programme; some internships are open to permanent residents and certain visa holders",
 "sources": [
 "https://www.fs.usda.gov/careers/students-and-early-careers"
 ],
@@ -65312,16 +65330,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nrcs.usda.gov/sites/default/files/2024-10/Pathways-Program-Fact-Sheet.pdf",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.nrcs.usda.gov/sites/default/files/2024-10/Pathways-Program-Fact-Sheet.pdf"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nrcs.usda.gov"
 },
@@ -65349,13 +65369,14 @@
 "campus_site": "https://arscareers.usajobs.gov/Search/Results?hp=fed-internal-search&hp=fed-competitive&hp=fed-excepted&hp=fed-transition&hp=land",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
 "sources": [
-"https://arscareers.usajobs.gov/Search/Results?hp=fed-internal-search&hp=fed-competitive&hp=fed-excepted&hp=fed-transition&hp=land"
+"https://arscareers.usajobs.gov/Search/Results?hp=fed-internal-search&hp=fed-competitive&hp=fed-excepted&hp=fed-transition&hp=land",
+"https://aglab.ars.usda.gov/the-future-is-now/we-re-looking-for-innovators"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -65378,16 +65399,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.fsis.usda.gov/careers/hiring-paths/student-employment-programs",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.fsis.usda.gov/careers/hiring-paths/student-employment-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fsis.usda.gov"
 },
@@ -65413,8 +65436,8 @@
 "campus_site": "https://careers.doi.gov/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Biologist",
@@ -65422,9 +65445,10 @@
 "Park ranger",
 "Natural resource specialist"
 ],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens or nationals may apply; Pathways may also appoint lawful permanent residents or others authorized to be employed",
 "sources": [
-"https://careers.doi.gov/"
+"https://careers.doi.gov/",
+"https://www.doi.gov/pathways"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -65455,8 +65479,8 @@
 "campus_site": "https://careers.doi.gov/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Hydrologist",
@@ -65464,9 +65488,10 @@
 "Geographer",
 "Physical scientist"
 ],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens only; non-citizens only if eligible to work and no qualified US citizen is available",
 "sources": [
-"https://careers.doi.gov/"
+"https://careers.doi.gov/",
+"https://www.usgs.gov/about/organization/science-support/human-capital/pathways-internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -65490,10 +65515,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nps.gov/subjects/heritagedocumentation/summer-internships.htm",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -65502,9 +65526,11 @@
 "Archaeologist",
 "Natural resource specialist"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens and permanent residents only for the Heritage Documentation Programs summer internships; other park programmes differ",
+"sources": [
+"https://www.nps.gov/subjects/heritagedocumentation/summer-internships.htm"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nps.gov"
 },
@@ -65530,16 +65556,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.fws.gov/internships/pathways",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.fws.gov/internships/pathways"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fws.gov"
 },
@@ -65568,13 +65596,14 @@
 "campus_site": "https://www.blm.gov/careers/students-and-grads",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens, nationals and permanent residents only for the Public Lands Corps",
 "sources": [
-"https://www.blm.gov/careers/students-and-grads"
+"https://www.blm.gov/careers/students-and-grads",
+"https://www.blm.gov/careers/students-and-grads/public-lands-corps"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -65605,16 +65634,17 @@
 "campus_site": "https://www.usbr.gov/hr/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Civil engineer",
 "Hydrologist"
 ],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "US citizens and nationals only",
 "sources": [
-"https://www.usbr.gov/hr/"
+"https://www.usbr.gov/hr/",
+"https://www.usbr.gov/hr/student.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -65637,16 +65667,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.boem.gov/about-boem/employment",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.boem.gov/about-boem/employment"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.boem.gov"
 },
@@ -65669,20 +65701,22 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.transportation.gov/careers/student-internship-and-recent-graduate-opportunities",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Transportation specialist",
 "Economist",
 "Civil engineer"
 ],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.transportation.gov/careers/student-internship-and-recent-graduate-opportunities"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.transportation.gov"
 },
@@ -65703,16 +65737,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://highways.dot.gov/careers/pathways-internship-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://highways.dot.gov/careers/pathways-internship-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://highways.dot.gov"
 },
@@ -65733,16 +65769,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.transit.dot.gov/about/jobs/early-career-programs",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only; security clearance required",
+"sources": [
+"https://www.transit.dot.gov/about/jobs/early-career-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.transit.dot.gov"
 },
@@ -65763,16 +65801,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://railroads.dot.gov/newsroom/press-releases/usdot-intern-program-applications-open-now",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://railroads.dot.gov/newsroom/press-releases/usdot-intern-program-applications-open-now"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://railroads.dot.gov"
 },
@@ -65793,16 +65832,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nhtsa.gov/about-nhtsa/internships",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.nhtsa.gov/about-nhtsa/internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nhtsa.gov"
 },
@@ -65823,16 +65863,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.maritime.dot.gov/about-us/office-chief-counsel/internshipexternship-program",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only; law students who completed one academic year",
+"sources": [
+"https://www.maritime.dot.gov/about-us/office-chief-counsel/internshipexternship-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.maritime.dot.gov"
 },
@@ -65853,16 +65894,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ntsb.gov/about/employment/Pages/College-Student-Internships.aspx",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only",
+"sources": [
+"https://www.ntsb.gov/about/employment/Pages/College-Student-Internships.aspx"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ntsb.gov"
 },
@@ -65884,16 +65926,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ed.gov/about/doing-business-ed/working-ed/internships-ed/internships-ed-pathways-program",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ed.gov/about/doing-business-ed/working-ed/internships-ed/internships-ed-pathways-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ed.gov"
 },
@@ -65915,11 +65958,11 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.dol.gov/general/jobs/students-and-recent-grads",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Economist",
@@ -65927,8 +65970,10 @@
 "Policy analyst"
 ],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.dol.gov/general/jobs/students-and-recent-grads"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dol.gov"
 },
@@ -65987,11 +66032,10 @@
 "campus_site": "https://www.usajobs.gov/job/767965200",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
+"notes": "Selected applicants must provide proof of citizenship (unpaid student volunteer programme)",
 "sources": [
 "https://www.usajobs.gov/job/767965200"
 ],
@@ -66017,16 +66061,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.hud.gov/contactus/careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"notes": "US citizens only for the unpaid Student Volunteer Employment Program",
+"sources": [
+"https://www.hud.gov/contactus/careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hud.gov"
 },
@@ -66047,16 +66093,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://advocacy.sba.gov/home/about/careers/job-board/internship-program/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://advocacy.sba.gov/home/about/careers/job-board/internship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.sba.gov"
 },
@@ -66085,11 +66132,11 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ssa.gov/careers/programs/students-and-recent-graduates.html",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Claims specialist",
@@ -66097,8 +66144,10 @@
 "IT specialist"
 ],
 "notes": "Federal Pathways programme: US citizens only",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ssa.gov/careers/programs/students-and-recent-graduates.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ssa.gov"
 },
@@ -73921,7 +73970,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+"https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+"https://www.ni.com/careers/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73945,16 +73995,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.ralliant.com/?p=7803",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.ralliant.com/?p=7803"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.tek.com"
 },
@@ -73976,16 +74027,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.fortive.com/fluke/internship-programs",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.fortive.com/fluke/internship-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fluke.com"
 },
@@ -74042,13 +74095,13 @@
 "campus_site": "https://www.rohde-schwarz.com/us/career/jobs/career-jobboard_251573.html?filter[rsJobsFitsFor][]=Interns",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "US citizens and permanent residents only",
 "sources": [
-"https://www.rohde-schwarz.com/us/career/jobs/career-jobboard_251573.html?filter[rsJobsFitsFor][]=Interns"
+"https://www.rohde-schwarz.com/us/career/jobs/career-jobboard_251573.html?filter[rsJobsFitsFor][]=Interns",
+"https://www.rohde-schwarz.com/au/career/jobs/summer-intern-software-engineering-atc-hillsboro-or_251563-1716992.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74075,13 +74128,13 @@
 "campus_site": "https://viavisolutions.wd1.myworkdayjobs.com/careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://viavisolutions.wd1.myworkdayjobs.com/careers"
+"https://viavisolutions.wd1.myworkdayjobs.com/careers",
+"https://www.viavisolutions.com/en-us/corporate/careers/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74104,16 +74157,17 @@
 "listed": "NYSE AME",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.ametek.com/job/Waterbury-Pre-Engineering-Intern-Summer-2026-CT-06705/1377187500",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.ametek.com/job/Waterbury-Pre-Engineering-Intern-Summer-2026-CT-06705/1377187500"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ametek.com"
 },
@@ -74172,13 +74226,13 @@
 "campus_site": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/introduceYourself",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/introduceYourself"
+"https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/introduceYourself",
+"https://careers.jabil.com/students-internship-apprenticeship-programs.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74348,7 +74402,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://ttmtech.wd5.myworkdayjobs.com/jobs"
+"https://ttmtech.wd5.myworkdayjobs.com/jobs",
+"https://www.ttm.com/en/careers/join-ttm-north-america/early-careers-at-ttm"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74403,16 +74458,17 @@
 "listed": "Nasdaq KTCC",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.keytronic.com/join-us/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.keytronic.com/join-us/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.keytronic.com/join-us/"
 ],
@@ -74627,7 +74683,7 @@
 "listed": "Nasdaq LFUS",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://littelfuse.com/careers/early-career.aspx",
 "system": "",
 "hires": [
 "graduate",
@@ -74635,8 +74691,10 @@
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://littelfuse.com/careers/early-career.aspx"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.littelfuse.com"
 },
@@ -74658,16 +74716,17 @@
 "listed": "NYSE APH",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://amphenol-industrial.com/internship-program/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://amphenol-industrial.com/internship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.amphenol.com"
 },
@@ -74690,7 +74749,7 @@
 "listed": "NYSE TEL",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.te.com/go/Development-Programs/7915200",
 "system": "",
 "hires": [
 "graduate",
@@ -74698,8 +74757,10 @@
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.te.com/go/Development-Programs/7915200"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.te.com"
 },
@@ -74721,16 +74782,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://experience.molex.com/the-molex-internship-program-is-cool-for-the-summer",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://experience.molex.com/the-molex-internship-program-is-cool-for-the-summer"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.molex.com"
 },
@@ -74751,16 +74813,18 @@
 "listed": "NYSE BDC",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.belden.com/content/InternshipPrograms/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.belden.com/content/InternshipPrograms/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.belden.com"
 },
@@ -74792,7 +74856,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.commscope.com/solutions/building-campus/"
+"https://www.commscope.com/solutions/building-campus/",
+"https://jobs.commscope.com/go/Early-Career-jobs/9128600/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74815,16 +74880,18 @@
 "listed": "NYSE ST",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://sensata.com/careers/university-programs",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://sensata.com/careers/university-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.sensata.com"
 },
@@ -75008,7 +75075,7 @@
 "listed": "NYSE CIEN",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ciena.com/careers/students-new-graduates",
 "system": "",
 "hires": [
 "graduate",
@@ -75016,8 +75083,10 @@
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ciena.com/careers/students-new-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ciena.com"
 },
@@ -75041,13 +75110,13 @@
 "campus_site": "https://calix.wd1.myworkdayjobs.com/ExternalInternational?locations=d6c506f2bcd70158fba0be786d010936",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://calix.wd1.myworkdayjobs.com/ExternalInternational?locations=d6c506f2bcd70158fba0be786d010936"
+"https://calix.wd1.myworkdayjobs.com/ExternalInternational?locations=d6c506f2bcd70158fba0be786d010936",
+"https://www.calix.com/careers/internships.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75106,13 +75175,13 @@
 "campus_site": "https://extremenetworks.wd503.myworkdayjobs.com/Extreme_Networks",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://extremenetworks.wd503.myworkdayjobs.com/Extreme_Networks"
+"https://extremenetworks.wd503.myworkdayjobs.com/Extreme_Networks",
+"https://www.extremenetworks.com/about-extreme-networks/career/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75457,13 +75526,13 @@
 "campus_site": "https://ffive.wd5.myworkdayjobs.com/f5jobs",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ffive.wd5.myworkdayjobs.com/f5jobs"
+"https://ffive.wd5.myworkdayjobs.com/f5jobs",
+"https://www.f5.com/company/careers/early-careers/us"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75846,7 +75915,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://nvent.wd5.myworkdayjobs.com/en-US/nVent/jobs"
+"https://nvent.wd5.myworkdayjobs.com/en-US/nVent/jobs",
+"https://www.nvent.com/en-us/early-careers-nvent"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75904,13 +75974,13 @@
 "campus_site": "https://xerox.avature.net/en_US/careers",
 "system": "Avature",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://xerox.avature.net/en_US/careers"
+"https://xerox.avature.net/en_US/careers",
+"https://www.xerox.com/en-us/jobs/student-internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75942,7 +76012,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://lexmark.wd1.myworkdayjobs.com/Lexmark"
+"https://lexmark.wd1.myworkdayjobs.com/Lexmark",
+"https://www.lexmark.com/en_us/about-us/careers/students-and-recent-graduates.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76287,9 +76358,10 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Students planning to graduate next year (internship) or in the current academic year (new grad)",
 "sources": [
-"https://www.samsara.com/company/careers/emerging-talent?search=intern+grad+internship"
+"https://www.samsara.com/company/careers/emerging-talent?search=intern+grad+internship",
+"https://www.samsara.com/company/careers/emerging-talent"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76798,13 +76870,13 @@
 "campus_site": "https://jobs.lever.co/rigetti/4e731d11-c3d4-43fd-b292-966129e1bfc2",
 "system": "Lever",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.lever.co/rigetti/4e731d11-c3d4-43fd-b292-966129e1bfc2"
+"https://jobs.lever.co/rigetti/4e731d11-c3d4-43fd-b292-966129e1bfc2",
+"https://www.rigetti.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76864,13 +76936,13 @@
 "campus_site": "https://jobs.eu.lever.co/quantinuum",
 "system": "Lever",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.eu.lever.co/quantinuum"
+"https://jobs.eu.lever.co/quantinuum",
+"https://jobs.eu.lever.co/quantinuum?department=Internships%20%2F%20Students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76896,13 +76968,13 @@
 "campus_site": "https://ats.rippling.com/d-wave-quantum/jobs",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ats.rippling.com/d-wave-quantum/jobs"
+"https://ats.rippling.com/d-wave-quantum/jobs",
+"https://www.dwavequantum.com/company/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77058,13 +77130,13 @@
 "campus_site": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/introduceYourself",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Students enrolled full-time in a bachelor's, master's or PhD programme",
 "sources": [
-"https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/introduceYourself"
+"https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/introduceYourself",
+"https://bostondynamics.com/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77122,7 +77194,6 @@
 "campus_site": "https://www.symbotic.com/careers/jobs/R8567/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -77154,7 +77225,6 @@
 "campus_site": "https://locusrobotics.com/company/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -77315,7 +77385,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.anduril.com/early-careers",
 "system": "",
 "hires": [
 "graduate",
@@ -77323,8 +77393,10 @@
 ],
 "roles": [],
 "notes": "Many roles require US person status (export-controlled defence work)",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.anduril.com/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.anduril.com"
 },
@@ -77570,7 +77642,6 @@
 "campus_site": "https://www.nuro.ai/early-career",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -77638,7 +77709,6 @@
 "campus_site": "https://careers.withwaymo.com/early-careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -77703,7 +77773,6 @@
 "campus_site": "https://kodiak.ai/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -77769,13 +77838,13 @@
 "campus_site": "https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4",
 "system": "Ashby",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4"
+"https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4",
+"https://www.appliedintuition.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77901,7 +77970,6 @@
 "campus_site": "https://www.yaskawa.com/about-us/careers/student-programs",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -78379,8 +78447,7 @@
 "system": "Taleo",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Technology development programme",
@@ -78390,7 +78457,8 @@
 ],
 "notes": "",
 "sources": [
-"https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en&_ga=2.23846650.1771508559.1675694409-1290630793.1650297848"
+"https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en&_ga=2.23846650.1771508559.1675694409-1290630793.1650297848",
+"https://www.unitedhealthgroup.com/careers/en/work/early-careers.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78417,8 +78485,7 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Technology development programme",
@@ -78427,7 +78494,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.unitedhealthgroup.com/careers/en/work.html"
+"https://www.unitedhealthgroup.com/careers/en/work.html",
+"https://www.unitedhealthgroup.com/careers/en/work/early-careers.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78486,8 +78554,7 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Actuarial analyst",
@@ -78496,7 +78563,8 @@
 ],
 "notes": "",
 "sources": [
-"https://elevancehealth.wd1.myworkdayjobs.com/ANT/page/1fa0eacc075e100103cc9ba0ba830000/"
+"https://elevancehealth.wd1.myworkdayjobs.com/ANT/page/1fa0eacc075e100103cc9ba0ba830000/",
+"https://careers.elevancehealth.com/programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78523,9 +78591,7 @@
 "campus_site": "https://jobs.thecignagroup.com/us/en/studentandgraduates",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -78556,14 +78622,13 @@
 "campus_site": "https://jobs.thecignagroup.com/evernorth",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.thecignagroup.com/evernorth"
+"https://jobs.thecignagroup.com/evernorth",
+"https://jobs.thecignagroup.com/us/en/studentandgraduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78693,8 +78758,7 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Pharmacy intern",
@@ -78703,7 +78767,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.cvshealth.com/us/en/home"
+"https://jobs.cvshealth.com/us/en/home",
+"https://jobs.cvshealth.com/us/en/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78730,13 +78795,13 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.cvshealth.com/us/en/search-results"
+"https://jobs.cvshealth.com/us/en/search-results",
+"https://jobs.cvshealth.com/us/en/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78856,8 +78921,7 @@
 "campus_site": "https://www.ahn.org/health-care-professionals/education/career-exploration/internships-externships-rotations",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -78890,14 +78954,13 @@
 "campus_site": "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/login",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://hcsc.wd1.myworkdayjobs.com/HCSC_External/login"
+"https://hcsc.wd1.myworkdayjobs.com/HCSC_External/login",
+"https://careers.hcsc.com/ourcareers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -78923,14 +78986,13 @@
 "campus_site": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/"
+"https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/",
+"https://www.bcbsm.com/careers/index/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79074,14 +79136,13 @@
 "campus_site": "https://www.ibx.com/careers/early-career-talent-programs/index.html",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Candidates must be authorized to work in the United States",
 "sources": [
-"https://www.ibx.com/careers/early-career-talent-programs/index.html"
+"https://www.ibx.com/careers/early-career-talent-programs/index.html",
+"https://www.ibx.com/careers/early-career-talent-programs/summer-college-internship-program.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79105,13 +79166,13 @@
 "campus_site": "https://premera.wd5.myworkdayjobs.com/premera",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://premera.wd5.myworkdayjobs.com/premera"
+"https://premera.wd5.myworkdayjobs.com/premera",
+"https://www.premera.com/visitor/careers/culture"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79253,8 +79314,7 @@
 "campus_site": "https://careers.excellusbcbs.com/us/en",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -79311,13 +79371,13 @@
 "campus_site": "https://jobs.azblue.com/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.azblue.com/"
+"https://jobs.azblue.com/",
+"https://jobs.azblue.com/it-jobs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80135,8 +80195,7 @@
 "campus_site": "https://www.optum.com/en/careers.html",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -80162,16 +80221,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.thecignagroup.com/us/en/studentandgraduates",
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.thecignagroup.com/us/en/studentandgraduates"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://jobs.thecignagroup.com/us/en/studentandgraduates",
 "https://jobs.thecignagroup.com/us/short-header-shortinternetrequirementlinkpath1",
@@ -80202,9 +80263,7 @@
 "campus_site": "https://jobs.walgreens.com/en/students",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Pharmacy intern",
@@ -80237,15 +80296,14 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Technology graduate",
 "Finance rotational programme",
 "Supply chain analyst"
 ],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
 "https://careers.mckesson.com/en/early-talent"
 ],
@@ -80401,13 +80459,13 @@
 "campus_site": "https://pattersoncompanies.wd501.myworkdayjobs.com/PDCO",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://pattersoncompanies.wd501.myworkdayjobs.com/PDCO"
+"https://pattersoncompanies.wd501.myworkdayjobs.com/PDCO",
+"https://jobs.pattersoncompanies.com/intern"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80531,12 +80589,13 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://brightspring.hireclix.com/career-search?search=internships"
+"https://brightspring.hireclix.com/career-search?search=internships",
+"https://www.brightspringhealth.com/campus-opportunities/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80590,9 +80649,7 @@
 "campus_site": "https://www.hcahealthcare.com/nurses/nursing-careers",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "New-graduate nurse residency",
@@ -80856,9 +80913,7 @@
 "campus_site": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers?_ga=2.233259614.1504460725.1605540778-1456925086.160554077",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "New-graduate nurse residency",
@@ -80867,7 +80922,8 @@
 ],
 "notes": "",
 "sources": [
-"https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers?_ga=2.233259614.1504460725.1605540778-1456925086.160554077"
+"https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers?_ga=2.233259614.1504460725.1605540778-1456925086.160554077",
+"https://my.clevelandclinic.org/departments/nursing/learn-here/career-exploration/college-students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81064,9 +81120,7 @@
 "campus_site": "https://gohealthuc.wd12.myworkdayjobs.com/External?q=UPMC&jobFamilyGroup=2182b85e4c64100d873c519828910000&jobFamilyGroup=2182b85e4c64100d873c29e80d380000",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "New-graduate nurse residency",
@@ -81074,7 +81128,8 @@
 ],
 "notes": "",
 "sources": [
-"https://gohealthuc.wd12.myworkdayjobs.com/External?q=UPMC&jobFamilyGroup=2182b85e4c64100d873c519828910000&jobFamilyGroup=2182b85e4c64100d873c29e80d380000"
+"https://gohealthuc.wd12.myworkdayjobs.com/External?q=UPMC&jobFamilyGroup=2182b85e4c64100d873c519828910000&jobFamilyGroup=2182b85e4c64100d873c29e80d380000",
+"https://careers.upmc.com/students/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81132,9 +81187,7 @@
 "campus_site": "https://careers.stanfordhealthcare.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -81165,14 +81218,13 @@
 "campus_site": "https://www.ucsfhealth.org/locations?_filter=brand.name%3AUCSF%20Health&-filter=location_type.name%3ACampus%23Building&filter=location_type.name%3AHospital&page=1",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.ucsfhealth.org/locations?_filter=brand.name%3AUCSF%20Health&-filter=location_type.name%3ACampus%23Building&filter=location_type.name%3AHospital&page=1"
+"https://www.ucsfhealth.org/locations?_filter=brand.name%3AUCSF%20Health&-filter=location_type.name%3ACampus%23Building&filter=location_type.name%3AHospital&page=1",
+"https://www.ucsfhealth.org/health-professionals/training-and-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81291,14 +81343,13 @@
 "campus_site": "https://bannerhealth.wd108.myworkdayjobs.com/Careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://bannerhealth.wd108.myworkdayjobs.com/Careers"
+"https://bannerhealth.wd108.myworkdayjobs.com/Careers",
+"https://www.bannerhealth.com/health-professionals/for-students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81392,9 +81443,7 @@
 "campus_site": "https://mdanderson.taleo.net/careersection/MDA_ex/mysubmissions.ftl",
 "system": "Taleo",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "New-graduate nurse residency",
@@ -81403,7 +81452,8 @@
 ],
 "notes": "",
 "sources": [
-"https://mdanderson.taleo.net/careersection/MDA_ex/mysubmissions.ftl"
+"https://mdanderson.taleo.net/careersection/MDA_ex/mysubmissions.ftl",
+"https://www.mdanderson.org/education-training/continuing-education-professional-development/administrative-internships-fellowships.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81430,9 +81480,7 @@
 "campus_site": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/login",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "New-graduate nurse residency",
@@ -81440,7 +81488,8 @@
 ],
 "notes": "",
 "sources": [
-"https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/login"
+"https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/login",
+"https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81464,14 +81513,13 @@
 "campus_site": "https://eppr.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP&pk_vid=301bca583210cd831771911476b8b166",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://eppr.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP&pk_vid=301bca583210cd831771911476b8b166"
+"https://eppr.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP&pk_vid=301bca583210cd831771911476b8b166",
+"https://jobs.northwell.edu/students/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
