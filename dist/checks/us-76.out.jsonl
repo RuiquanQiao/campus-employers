@@ -1,0 +1,60 @@
+{"name": "The Aerospace Corporation", "status": "confirmed", "programme": "https://aerospace.org/sites/default/files/2025-02/Internship%20Program_0.pdf", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "MIT Lincoln Laboratory", "status": "confirmed", "programme": "https://www.ll.mit.edu/careers/student-opportunities", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Johns Hopkins Applied Physics Laboratory", "status": "confirmed", "programme": "https://www.jhuapl.edu/careers/new-and-recent-college-graduates", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "NASA Jet Propulsion Laboratory", "status": "confirmed", "programme": "https://www.jpl.nasa.gov/edu/internships/apply/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Institute for Defense Analyses", "status": "confirmed", "programme": "https://ida.org/careers/students-and-recent-graduates/internships-and-fellowships/summer-associates", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "CNA", "status": "confirmed", "programme": "https://www.cna.org/careers/internship", "hires": ["internship"], "notes": "US citizens only", "evidence": "All applicants must have US citizenship"}
+{"name": "Software Engineering Institute", "status": "confirmed", "programme": "https://sei.cmu.edu/careers/internship-opportunities/index.cfm", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Georgia Tech Research Institute", "status": "confirmed", "programme": "https://www.gtri.gatech.edu/career/student-positions/university", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Draper", "status": "confirmed", "programme": "https://www.draper.com/education-programs/student-opportunities", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "SRI International", "status": "confirmed", "programme": "https://www.sri.com/careers/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Battelle", "status": "confirmed", "programme": "https://jobs.battelle.org/internships-and-co-ops/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Southwest Research Institute", "status": "confirmed", "programme": "https://www.swri.org/careers-page/interns", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Penn State Applied Research Laboratory", "status": "confirmed", "programme": "https://www.arl.psu.edu/lcs/student-programs", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Applied Research Laboratories, UT Austin", "status": "confirmed", "programme": "https://arlut.utexas.edu/students.shtml", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Space Dynamics Laboratory", "status": "confirmed", "programme": "https://www.sdl.usu.edu/careers/internships/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Noblis", "status": "confirmed", "programme": "https://careers.noblis.org/internships", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "LMI", "status": "confirmed", "programme": "https://www.lmisolutions.com/careers", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Abt Global", "status": "confirmed", "programme": "https://www.abtglobal.com/careers", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Space Telescope Science Institute", "status": "confirmed", "programme": "https://www.stsci.edu/opportunities/space-astronomy-summer-program", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Smithsonian Astrophysical Observatory", "status": "confirmed", "programme": "https://cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Smithsonian Institution", "status": "confirmed", "programme": "https://fellowships.si.edu/faq", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Broad Institute", "status": "confirmed", "programme": "https://www.broadinstitute.org/bsrp", "hires": ["internship"], "notes": "Applicants must be legally authorized to work in the US", "evidence": "Must be legally authorized to work in the United States at the time of applying"}
+{"name": "Janelia Research Campus", "status": "confirmed", "programme": "https://www.janelia.org/you-janelia/students-and-postdocs", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Salk Institute for Biological Studies", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Scripps Research", "status": "confirmed", "programme": "https://www.scripps.edu/science/translational-institute/education-training/student-research-internship-program/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Allen Institute", "status": "confirmed", "programme": "https://alleninstitute.org/careers/internships", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "The Jackson Laboratory", "status": "confirmed", "programme": "https://www.jax.org/ssp", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Cold Spring Harbor Laboratory", "status": "confirmed", "programme": "https://www.cshl.edu/education/undergraduate-research-program/", "hires": ["internship"], "notes": "Open to students of any nationality; NSF-supported places are for US citizens and permanent residents", "evidence": "Students of any nationality are eligible for the program"}
+{"name": "Whitehead Institute", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Flatiron Institute", "status": "confirmed", "programme": "https://www.simonsfoundation.org/careers/internship-opportunities/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Santa Fe Institute", "status": "confirmed", "programme": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research/applying", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Marine Biological Laboratory", "status": "confirmed", "programme": "https://www.mbl.edu/about/careers-internships", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Woods Hole Oceanographic Institution", "status": "confirmed", "programme": "https://www.whoi.edu/what-we-do/educate/undergraduate-programs/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Scripps Institution of Oceanography", "status": "confirmed", "programme": "https://scripps.ucsd.edu/portal/jobs", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Monterey Bay Aquarium Research Institute", "status": "confirmed", "programme": "https://www.mbari.org/about/careers/internships/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Bigelow Laboratory for Ocean Sciences", "status": "confirmed", "programme": "https://www.bigelow.org/education/reu/how-to-apply.html", "hires": ["internship"], "notes": "US citizens and permanent residents only", "evidence": "international students and graduating seniors are not eligible for this program"}
+{"name": "Fred Hutchinson Cancer Center", "status": "confirmed", "programme": "https://www.fredhutch.org/en/education-training/undergraduate-students.html", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Sanford Burnham Prebys", "status": "confirmed", "programme": "https://sbpdiscovery.org/?p=22119", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "La Jolla Institute for Immunology", "status": "confirmed", "programme": "https://www.lji.org/careers/internships/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Van Andel Institute", "status": "confirmed", "programme": "https://www.vai.org/graduate-school/research-internships/?tabUrl=research-internships", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Stowers Institute for Medical Research", "status": "confirmed", "programme": "https://www.stowers.org/gradschool/summer-scholars", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Wistar Institute", "status": "confirmed", "programme": "https://wistar.org/education-training/undergraduate-programs/wistar-research-experiences-undergraduates-reu-program", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Gladstone Institutes", "status": "confirmed", "programme": "https://gladstone.org/pumas-summer-internship-program/", "hires": ["internship"], "notes": "US citizens and permanent residents only", "evidence": "Be a United States citizen or permanent resident"}
+{"name": "Buck Institute for Research on Aging", "status": "confirmed", "programme": "https://www.buckinstitute.org/education-training/undergraduate-postbacc/", "hires": ["internship"], "notes": "Participants must hold US work authorization (citizenship, permanent residency or OPT)", "evidence": "Participants must be legally authorized to work in the U.S"}
+{"name": "Institute for Systems Biology", "status": "confirmed", "programme": "https://isbscience.org/careers/internships/summer-undergraduate-research-experiences-program/", "hires": ["internship"], "notes": "Applicants must be authorized to work in the US", "evidence": "Authorized to work in the US"}
+{"name": "Wyss Institute", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Carnegie Science", "status": "confirmed", "programme": "https://carnegiescience.edu/about/working/interns", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Institute for Advanced Study", "status": "confirmed", "programme": "https://recruiting.paylocity.com/recruiting/jobs/Details/2739119/Institute-for-Advanced-Study/Computing-Support-Intern", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Harvard University", "status": "confirmed", "programme": "https://hr.harvard.edu/internship-opportunities-pathway-programs", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Massachusetts Institute of Technology", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Stanford University", "status": "confirmed", "programme": "https://uit.stanford.edu/security/internship", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "California Institute of Technology", "status": "confirmed", "programme": "https://sfp.caltech.edu/undergraduate-research/programs/surf", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Princeton University", "status": "confirmed", "programme": "https://main-princeton.icims.com/jobs/21543/building-automation-intern/job", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Yale University", "status": "confirmed", "programme": "https://your.yale.edu/working-at-yale/careers/internships", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Columbia University", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cornell University", "status": "confirmed", "programme": "https://adi.cornell.edu/intern", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "University of Pennsylvania", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Brown University", "status": "confirmed", "programme": "https://policy.brown.edu/policy/paid-internship", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Dartmouth College", "status": "confirmed", "programme": "https://www.dartmouth.edu/investments/about/student_opportunities/investment_internship/", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Duke University", "status": "confirmed", "programme": "https://careers.duke.edu/job/Durham-Nonduke-StudentIntern-NC-27710/1350388400", "hires": ["internship"], "notes": "", "evidence": ""}

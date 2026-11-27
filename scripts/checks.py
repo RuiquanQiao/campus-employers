@@ -79,6 +79,10 @@ def apply(cc: str, dry: bool) -> int:
             if JOB_BOARDS.search(page):
                 stats["job_board"] = stats.get("job_board", 0) + 1
                 continue
+            # a confirmation names the employer's own page; one without a page is only the agent's word
+            if not page.startswith("http"):
+                stats["no_page"] = stats.get("no_page", 0) + 1
+                continue
             stats["confirmed"] += 1
             if (r.get("notes") or "").strip():
                 rec["notes"] = r["notes"].strip()
