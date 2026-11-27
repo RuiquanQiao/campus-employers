@@ -327,6 +327,17 @@ The Wonderful Company		consumer-07.jsonl
 Limoneira		consumer-07.jsonl
 Alico		consumer-07.jsonl
 Nutrien Ag Solutions		consumer-07.jsonl
+E. & J. Gallo Winery		consumer-07.jsonl
+Treasury Wine Estates Americas		consumer-07.jsonl
+Philip Morris International US		consumer-07.jsonl
+Funko		consumer-07.jsonl
+Build-A-Bear Workshop		consumer-07.jsonl
+Barnes & Noble		consumer-08.jsonl
+Petco		consumer-08.jsonl
+Wawa		consumer-08.jsonl
+Buc-ee's		consumer-08.jsonl
+Patagonia	https://www.patagonia.com/internships/	consumer-09.jsonl
+Carhartt		consumer-09.jsonl
 Peloton Interactive		consumer-09.jsonl
 Planet Fitness		consumer-09.jsonl
 Life Time Group		consumer-09.jsonl
@@ -360,3 +371,448 @@ Beiersdorf North America		consumer-11.jsonl
 Haleon US		consumer-11.jsonl
 Prestige Consumer Healthcare		consumer-11.jsonl
 Nu Skin Enterprises		consumer-11.jsonl
+Olaplex		consumer-11.jsonl
+Glossier		consumer-11.jsonl
+Lifetime Brands		consumer-11.jsonl
+Container Store		consumer-11.jsonl
+Ethan Allen		consumer-11.jsonl
+Lovesac		consumer-11.jsonl
+Purple Innovation		consumer-11.jsonl
+Traeger		consumer-11.jsonl
+Dutch Bros		consumer-11.jsonl
+Tim Hortons US		consumer-11.jsonl
+Krispy Kreme		consumer-12.jsonl
+Dave & Buster's		consumer-12.jsonl
+Loews Hotels		consumer-12.jsonl
+Norwegian Cruise Line Holdings		consumer-12.jsonl
+Stitch Fix		consumer-12.jsonl
+Rent the Runway		consumer-12.jsonl
+ThredUp		consumer-12.jsonl
+RealReal		consumer-12.jsonl
+Temu Whaleco		consumer-12.jsonl
+B&H Photo Video		consumer-12.jsonl
+Central Garden & Pet		consumer-13.jsonl
+Blue Buffalo		consumer-13.jsonl
+Sun-Maid Growers		consumer-13.jsonl
+ConocoPhillips		energy-01.jsonl
+BP America		energy-01.jsonl
+SLB		energy-01.jsonl
+APA Corporation		energy-01.jsonl
+Ovintiv		energy-01.jsonl
+Permian Resources		energy-01.jsonl
+Chord Energy		energy-01.jsonl
+Murphy Oil		energy-01.jsonl
+Antero Resources		energy-01.jsonl
+Range Resources		energy-02.jsonl
+CNX Resources		energy-02.jsonl
+Comstock Resources		energy-02.jsonl
+Magnolia Oil & Gas		energy-02.jsonl
+Kosmos Energy		energy-02.jsonl
+W&T Offshore		energy-02.jsonl
+Texas Pacific Land		energy-02.jsonl
+Black Stone Minerals		energy-02.jsonl
+HighPeak Energy		energy-02.jsonl
+Ring Energy		energy-02.jsonl
+Gulfport Energy		energy-02.jsonl
+PBF Energy		energy-02.jsonl
+Delek US		energy-02.jsonl
+Par Pacific		energy-02.jsonl
+Calumet		energy-02.jsonl
+CITGO Petroleum		energy-03.jsonl
+Repsol USA		energy-03.jsonl
+Petrobras America		energy-03.jsonl
+Eni US Operating		energy-03.jsonl
+Vitol Inc		energy-03.jsonl
+Freepoint Commodities		energy-03.jsonl
+NOV		energy-03.jsonl
+Liberty Energy		energy-03.jsonl
+ProPetro Holding		energy-03.jsonl
+Nabors Industries		energy-03.jsonl
+Oceaneering International		energy-03.jsonl
+Oil States International		energy-03.jsonl
+Select Water Solutions		energy-03.jsonl
+RPC Inc		energy-03.jsonl
+Archrock		energy-04.jsonl
+USA Compression Partners		energy-04.jsonl
+Atlas Energy Solutions		energy-04.jsonl
+Expro Group		energy-04.jsonl
+TETRA Technologies		energy-04.jsonl
+ProFrac Holding		energy-04.jsonl
+Helix Energy Solutions		energy-04.jsonl
+Tidewater		energy-04.jsonl
+Bristow Group		energy-04.jsonl
+Forum Energy Technologies		energy-04.jsonl
+Solaris Energy Infrastructure		energy-04.jsonl
+Nine Energy Service		energy-04.jsonl
+Noble Corporation		energy-04.jsonl
+Plains All American Pipeline		energy-04.jsonl
+Kinetik Holdings		energy-04.jsonl
+Sunoco LP		energy-04.jsonl
+Venture Global		energy-04.jsonl
+NextDecade		energy-04.jsonl
+New Fortress Energy		energy-04.jsonl
+Excelerate Energy		energy-04.jsonl
+Antero Midstream		energy-04.jsonl
+DT Midstream		energy-04.jsonl
+Genesis Energy		energy-05.jsonl
+NGL Energy Partners		energy-05.jsonl
+Boardwalk Pipelines		energy-05.jsonl
+Tallgrass Energy		energy-05.jsonl
+Buckeye Partners		energy-05.jsonl
+World Kinect		energy-05.jsonl
+Suburban Propane Partners		energy-05.jsonl
+Ferrellgas		energy-05.jsonl
+Commonwealth Edison		energy-05.jsonl
+PECO Energy		energy-05.jsonl
+Baltimore Gas and Electric		energy-05.jsonl
+Pepco Holdings		energy-05.jsonl
+Southern California Edison		energy-06.jsonl
+Edison International		energy-06.jsonl
+CMS Energy		energy-06.jsonl
+CenterPoint Energy		energy-06.jsonl
+Berkshire Hathaway Energy		energy-06.jsonl
+NV Energy		energy-06.jsonl
+Portland General Electric		energy-06.jsonl
+Avista		energy-06.jsonl
+Otter Tail Corporation		energy-07.jsonl
+ALLETE		energy-07.jsonl
+TXNM Energy		energy-07.jsonl
+Duquesne Light Company		energy-07.jsonl
+Vistra		energy-07.jsonl
+Talen Energy		energy-07.jsonl
+AES Corporation		energy-07.jsonl
+Atmos Energy		energy-07.jsonl
+New Jersey Resources		energy-07.jsonl
+Northwest Natural		energy-07.jsonl
+Chesapeake Utilities		energy-07.jsonl
+Washington Gas		energy-07.jsonl
+Piedmont Natural Gas		energy-07.jsonl
+Central Hudson Gas & Electric		energy-08.jsonl
+American Transmission Company		energy-08.jsonl
+Green Mountain Power		energy-08.jsonl
+Orange and Rockland Utilities		energy-08.jsonl
+Pedernales Electric Cooperative		energy-08.jsonl
+Chugach Electric Association		energy-08.jsonl
+Burbank Water and Power		energy-09.jsonl
+Glendale Water and Power		energy-09.jsonl
+Old Dominion Electric Cooperative		energy-09.jsonl
+East Kentucky Power Cooperative		energy-09.jsonl
+PowerSouth Energy Cooperative		energy-09.jsonl
+Brazos Electric Power Cooperative		energy-09.jsonl
+North American Electric Reliability Corporation		energy-10.jsonl
+Western Electricity Coordinating Council		energy-10.jsonl
+Edison Electric Institute		energy-10.jsonl
+American Petroleum Institute		energy-10.jsonl
+Essential Utilities		energy-10.jsonl
+Middlesex Water		energy-10.jsonl
+Artesian Resources		energy-10.jsonl
+Hampton Roads Sanitation District		energy-11.jsonl
+San Antonio Water System		energy-11.jsonl
+Invenergy		energy-11.jsonl
+Orsted US		energy-11.jsonl
+Fluence Energy		energy-11.jsonl
+First Solar		energy-11.jsonl
+Sunrun		energy-11.jsonl
+Array Technologies		energy-11.jsonl
+Shoals Technologies Group		energy-11.jsonl
+Plug Power		energy-11.jsonl
+Bloom Energy		energy-11.jsonl
+RWE Clean Energy		energy-11.jsonl
+Enel North America		energy-11.jsonl
+Recurrent Energy		energy-12.jsonl
+Origis Energy		energy-12.jsonl
+Silicon Ranch		energy-12.jsonl
+Arevon Energy		energy-12.jsonl
+Leeward Renewable Energy		energy-12.jsonl
+Savion		energy-12.jsonl
+Geronimo Power		energy-12.jsonl
+Terra-Gen		energy-12.jsonl
+Ranger Power		energy-12.jsonl
+Qcells USA		energy-12.jsonl
+Eos Energy Enterprises		energy-12.jsonl
+Form Energy		energy-12.jsonl
+Stem Inc		energy-12.jsonl
+Redwood Materials		energy-12.jsonl
+Landis+Gyr		energy-12.jsonl
+Generac Holdings		energy-12.jsonl
+Vestas Americas		energy-12.jsonl
+TPI Composites		energy-12.jsonl
+Sage Geosystems		energy-13.jsonl
+TerraPower		energy-13.jsonl
+Centrus Energy		energy-13.jsonl
+Lightbridge Corporation		energy-13.jsonl
+Urenco USA		energy-13.jsonl
+Qnity Electronics		energy-13.jsonl
+Chemours		energy-14.jsonl
+Ashland		energy-14.jsonl
+Ingevity		energy-14.jsonl
+Stepan Company		energy-14.jsonl
+Innospec		energy-14.jsonl
+NewMarket Corporation		energy-14.jsonl
+Kronos Worldwide		energy-14.jsonl
+CF Industries		energy-14.jsonl
+Orion Engineered Carbons		energy-15.jsonl
+Brenntag North America		energy-15.jsonl
+Nouryon USA		energy-15.jsonl
+Covestro LLC		energy-15.jsonl
+Braskem America		energy-15.jsonl
+Formosa Plastics USA		energy-15.jsonl
+Wacker Chemical Corporation		energy-15.jsonl
+Ascend Performance Materials		energy-15.jsonl
+LSB Industries		energy-15.jsonl
+Intrepid Potash		energy-16.jsonl
+Compass Minerals		energy-16.jsonl
+Alcoa		energy-16.jsonl
+Newmont		energy-16.jsonl
+Silgan Holdings		energy-16.jsonl
+Clearwater Paper		energy-16.jsonl
+Pactiv Evergreen		energy-17.jsonl
+Southern Copper		energy-17.jsonl
+MP Materials		energy-17.jsonl
+Core Natural Resources		energy-17.jsonl
+Uranium Energy Corp		energy-17.jsonl
+Kennecott		energy-17.jsonl
+Anglo American US		energy-17.jsonl
+Amrize		energy-17.jsonl
+CRH Americas Materials		energy-17.jsonl
+Reliance Steel & Aluminum		energy-17.jsonl
+Ryerson		energy-17.jsonl
+Kaiser Aluminum		energy-17.jsonl
+Century Aluminum		energy-18.jsonl
+Gerdau Long Steel North America		energy-18.jsonl
+Metallus		energy-18.jsonl
+Radius Recycling		energy-18.jsonl
+Materion		energy-18.jsonl
+Haynes International		energy-18.jsonl
+Quikrete		energy-18.jsonl
+Enbridge US		energy-18.jsonl
+Federated Hermes		finance-01.jsonl
+Artisan Partners		finance-01.jsonl
+Victory Capital		finance-01.jsonl
+Virtus Investment Partners		finance-01.jsonl
+Affiliated Managers Group		finance-01.jsonl
+Columbia Threadneedle Investments		finance-01.jsonl
+Geode Capital Management		finance-01.jsonl
+Calamos Investments		finance-02.jsonl
+DoubleLine Capital		finance-02.jsonl
+Payden & Rygel		finance-02.jsonl
+Harris Associates		finance-02.jsonl
+Thornburg Investment Management		finance-02.jsonl
+Ariel Investments		finance-02.jsonl
+MacKay Shields		finance-02.jsonl
+Allspring Global Investments		finance-02.jsonl
+John Hancock		finance-02.jsonl
+Cambridge Associates		finance-02.jsonl
+NEPC		finance-02.jsonl
+Envestnet		finance-02.jsonl
+AssetMark		finance-03.jsonl
+Clearwater Analytics		finance-03.jsonl
+Carson Group		finance-04.jsonl
+Renaissance Technologies		finance-04.jsonl
+Bridgewater Associates		finance-04.jsonl
+IMC Trading US		finance-04.jsonl
+Old Mission Capital		finance-05.jsonl
+Quantlab Financial		finance-05.jsonl
+The Voleon Group		finance-05.jsonl
+WorldQuant		finance-05.jsonl
+Elliott Management		finance-05.jsonl
+Baupost Group		finance-05.jsonl
+Tiger Global Management		finance-05.jsonl
+Coatue Management		finance-05.jsonl
+Third Point		finance-05.jsonl
+Pershing Square Capital Management		finance-05.jsonl
+Paulson & Co.		finance-05.jsonl
+ExodusPoint Capital Management		finance-05.jsonl
+Davidson Kempner Capital Management		finance-05.jsonl
+Lone Pine Capital		finance-05.jsonl
+Cerberus Capital Management		finance-05.jsonl
+Fortress Investment Group		finance-05.jsonl
+Trexquant Investment		finance-05.jsonl
+D1 Capital Partners		finance-06.jsonl
+JANA Partners		finance-06.jsonl
+Starboard Value		finance-06.jsonl
+ValueAct Capital		finance-06.jsonl
+GoldenTree Asset Management		finance-06.jsonl
+Marathon Asset Management		finance-06.jsonl
+Silver Point Capital		finance-06.jsonl
+Canyon Partners		finance-06.jsonl
+Benefit Street Partners		finance-06.jsonl
+Crescent Capital Group		finance-06.jsonl
+Comvest Partners		finance-06.jsonl
+Carlyle Group		finance-06.jsonl
+Warburg Pincus		finance-06.jsonl
+Bain Capital		finance-06.jsonl
+Thoma Bravo		finance-06.jsonl
+Silver Lake		finance-06.jsonl
+Advent International		finance-07.jsonl
+Hellman & Friedman		finance-07.jsonl
+Clayton, Dubilier & Rice		finance-07.jsonl
+Leonard Green & Partners		finance-07.jsonl
+Providence Equity Partners		finance-07.jsonl
+TA Associates		finance-07.jsonl
+Summit Partners		finance-07.jsonl
+Genstar Capital		finance-07.jsonl
+Francisco Partners		finance-07.jsonl
+Stonepeak		finance-07.jsonl
+HarbourVest Partners		finance-07.jsonl
+Hamilton Lane		finance-07.jsonl
+StepStone Group		finance-07.jsonl
+Blue Owl Capital		finance-07.jsonl
+Golub Capital		finance-07.jsonl
+HPS Investment Partners		finance-07.jsonl
+Monroe Capital		finance-07.jsonl
+Churchill Asset Management		finance-07.jsonl
+Antares Capital		finance-07.jsonl
+New Mountain Capital		finance-07.jsonl
+Platinum Equity		finance-07.jsonl
+American Securities		finance-07.jsonl
+Berkshire Partners		finance-07.jsonl
+Madison Dearborn Partners		finance-07.jsonl
+GTCR		finance-07.jsonl
+Kelso & Company		finance-07.jsonl
+Veritas Capital		finance-07.jsonl
+Centerbridge Partners		finance-07.jsonl
+Welsh, Carson, Anderson & Stowe		finance-08.jsonl
+Audax Group		finance-08.jsonl
+Sequoia Capital		finance-08.jsonl
+Accel		finance-08.jsonl
+Kleiner Perkins		finance-08.jsonl
+Greylock		finance-08.jsonl
+Lightspeed Venture Partners		finance-08.jsonl
+Benchmark		finance-08.jsonl
+Founders Fund		finance-08.jsonl
+New Enterprise Associates		finance-08.jsonl
+General Catalyst		finance-08.jsonl
+Khosla Ventures		finance-08.jsonl
+Battery Ventures		finance-08.jsonl
+Spark Capital		finance-08.jsonl
+Union Square Ventures		finance-08.jsonl
+Lux Capital		finance-08.jsonl
+Ribbit Capital		finance-08.jsonl
+Y Combinator		finance-08.jsonl
+Thrive Capital		finance-08.jsonl
+Auto-Owners Insurance		finance-10.jsonl
+Munich Re America		finance-10.jsonl
+GEICO		finance-10.jsonl
+Fidelity National Financial		finance-10.jsonl
+Lemonade		finance-10.jsonl
+Root Insurance		finance-10.jsonl
+Hippo		finance-10.jsonl
+Guy Carpenter		finance-11.jsonl
+Brown & Brown		finance-11.jsonl
+Acrisure		finance-11.jsonl
+The Baldwin Group		finance-11.jsonl
+DTCC		finance-11.jsonl
+Options Clearing Corporation		finance-11.jsonl
+MarketAxess		finance-11.jsonl
+Broadridge Financial Solutions		finance-11.jsonl
+SS&C Technologies		finance-11.jsonl
+Clear Street		finance-12.jsonl
+tastytrade		finance-12.jsonl
+MSCI		finance-12.jsonl
+Fair Isaac		finance-12.jsonl
+PayPal		finance-12.jsonl
+Block		finance-12.jsonl
+Stripe		finance-12.jsonl
+Kraken		finance-12.jsonl
+Circle		finance-12.jsonl
+Paxos		finance-13.jsonl
+Chainalysis		finance-13.jsonl
+BILL		finance-13.jsonl
+LendingClub		finance-13.jsonl
+Dave		finance-13.jsonl
+Upgrade		finance-13.jsonl
+Betterment		finance-13.jsonl
+Acorns		finance-13.jsonl
+Public.com		finance-13.jsonl
+Carta		finance-13.jsonl
+Mercury		finance-13.jsonl
+Modern Treasury		finance-13.jsonl
+Alloy		finance-13.jsonl
+Bilt Rewards		finance-13.jsonl
+Flywire		finance-13.jsonl
+Payoneer		finance-13.jsonl
+Remitly		finance-13.jsonl
+Corpay		finance-13.jsonl
+MoneyGram		finance-14.jsonl
+Euronet Worldwide		finance-14.jsonl
+Blend Labs		finance-14.jsonl
+Figure Technology Solutions		finance-14.jsonl
+ACI Worldwide		finance-14.jsonl
+Paymentus		finance-14.jsonl
+Rocket Companies		finance-14.jsonl
+PennyMac Financial Services		finance-14.jsonl
+loanDepot		finance-14.jsonl
+Annaly Capital Management		finance-14.jsonl
+AGNC Investment		finance-14.jsonl
+Credit Acceptance		finance-15.jsonl
+California Public Employees' Retirement System		finance-15.jsonl
+California State Teachers' Retirement System		finance-15.jsonl
+Teacher Retirement System of Texas		finance-15.jsonl
+Financial Crimes Enforcement Network		government-01.jsonl
+Bureau of Engraving and Printing		government-01.jsonl
+Treasury Inspector General for Tax Administration		government-01.jsonl
+Bureau of Industry and Security		government-01.jsonl
+National Telecommunications and Information Administration		government-01.jsonl
+Defense Advanced Research Projects Agency		government-01.jsonl
+Defense Contract Audit Agency		government-01.jsonl
+Missile Defense Agency		government-01.jsonl
+U.S. Army Corps of Engineers		government-02.jsonl
+Federal Emergency Management Agency		government-02.jsonl
+U.S. Coast Guard (civilian careers)		government-02.jsonl
+U.S. Citizenship and Immigration Services		government-02.jsonl
+U.S. Digital Service		government-05.jsonl
+Federal Election Commission		government-05.jsonl
+Railroad Retirement Board		government-05.jsonl
+National Endowment for the Humanities		government-05.jsonl
+Administrative Office of the U.S. Courts		government-05.jsonl
+U.S. Sentencing Commission		government-05.jsonl
+U.S. Institute of Peace		government-05.jsonl
+Bureau of Land and Natural Resource Revenue (ONRR)		government-05.jsonl
+Federal Reserve Bank of Minneapolis		government-06.jsonl
+State of California		government-06.jsonl
+State of Texas		government-06.jsonl
+State of Florida		government-06.jsonl
+State of Washington		government-06.jsonl
+State of New Jersey		government-06.jsonl
+State of Ohio		government-06.jsonl
+State of North Carolina		government-06.jsonl
+State of Colorado		government-06.jsonl
+State of Oregon		government-06.jsonl
+State of Connecticut		government-06.jsonl
+State of Utah		government-06.jsonl
+State of Indiana		government-06.jsonl
+State of Hawaii		government-07.jsonl
+State of Missouri		government-07.jsonl
+City of Los Angeles		government-07.jsonl
+City of Dallas		government-07.jsonl
+City and County of San Francisco		government-07.jsonl
+District of Columbia Government		government-07.jsonl
+City and County of Denver		government-07.jsonl
+Metropolitan Government of Nashville and Davidson County		government-07.jsonl
+City of Baltimore		government-07.jsonl
+City of Las Vegas		government-08.jsonl
+City of Detroit		government-08.jsonl
+City of Cambridge		government-08.jsonl
+Cook County Government		government-08.jsonl
+Montgomery County Government (Maryland)		government-08.jsonl
+Southeastern Pennsylvania Transportation Authority		government-08.jsonl
+Denver Regional Transportation District		government-08.jsonl
+TriMet		government-08.jsonl
+San Diego Metropolitan Transit System		government-08.jsonl
+Virginia Port Authority		government-08.jsonl
+Broadcom		hardware-01.jsonl
+Samsung Austin Semiconductor		hardware-01.jsonl
+Dell Technologies		hardware-02.jsonl
+Zebra Technologies		hardware-02.jsonl
+Amkor Technology		hardware-02.jsonl
+Lattice Semiconductor		hardware-02.jsonl
+Ambarella		hardware-02.jsonl
+SiTime		hardware-02.jsonl
+Synaptics		hardware-02.jsonl
+Power Integrations		hardware-02.jsonl
+Allegro MicroSystems		hardware-02.jsonl
+Vishay Intertechnology		hardware-02.jsonl
+FormFactor		hardware-03.jsonl
+Ultra Clean Holdings		hardware-03.jsonl
+Photronics		hardware-03.jsonl
