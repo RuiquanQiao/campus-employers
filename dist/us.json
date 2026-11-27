@@ -152956,7 +152956,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.ibm.com/careers"
+"https://www.ibm.com/careers",
+"https://careers.confluent.io/early-talent"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -152981,7 +152982,6 @@
 "campus_site": "https://employees-githubinc.icims.com/jobs/login",
 "system": "iCIMS",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -152990,7 +152990,8 @@
 ],
 "notes": "",
 "sources": [
-"https://employees-githubinc.icims.com/jobs/login"
+"https://employees-githubinc.icims.com/jobs/login",
+"https://www.github.careers/early-in-career"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153160,10 +153161,9 @@
 "listed": "NYSE DT",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.dynatrace.com/careers/early-careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153171,8 +153171,10 @@
 "Solutions engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.dynatrace.com/careers/early-careers/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dynatrace.com"
 },
@@ -153269,8 +153271,7 @@
 "campus_site": "https://careers.rapid7.com/jobs/search",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer",
@@ -153278,7 +153279,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.rapid7.com/jobs/search"
+"https://careers.rapid7.com/jobs/search",
+"https://careers.rapid7.com/emerging-talent"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153305,7 +153307,6 @@
 "campus_site": "https://boards.greenhouse.io/tenableinc/jobs/4019356008",
 "system": "Greenhouse",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153314,7 +153315,8 @@
 ],
 "notes": "",
 "sources": [
-"https://boards.greenhouse.io/tenableinc/jobs/4019356008"
+"https://boards.greenhouse.io/tenableinc/jobs/4019356008",
+"https://www.tenable.com/blog/life-as-a-tenable-intern"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153376,7 +153378,6 @@
 "campus_site": "https://careers.varonis.com/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153385,7 +153386,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.varonis.com/"
+"https://careers.varonis.com/",
+"https://jobs.jobvite.com/varonis/job/oIHUzfwC"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153411,16 +153413,16 @@
 "campus_site": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/introduceYourself?clientRequestID=06f06ca6dae2441d99391ed600fc2265",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer",
 "Sales engineer"
 ],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/introduceYourself?clientRequestID=06f06ca6dae2441d99391ed600fc2265"
+"https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/introduceYourself?clientRequestID=06f06ca6dae2441d99391ed600fc2265",
+"https://jobs.smartrecruiters.com/Cyberark1/744000055314614-infosec-compliance-intern"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153485,7 +153487,6 @@
 "campus_site": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153494,7 +153495,8 @@
 ],
 "notes": "",
 "sources": [
-"https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers"
+"https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers",
+"https://www.proofpoint.com/us/corporate-responsibility/internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153518,7 +153520,6 @@
 "campus_site": "https://www.knowbe4.com/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153526,7 +153527,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.knowbe4.com/careers"
+"https://www.knowbe4.com/careers",
+"https://www.knowbe4.com/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153550,7 +153552,6 @@
 "campus_site": "https://www.netskope.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153559,7 +153560,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.netskope.com/company/careers"
+"https://www.netskope.com/company/careers",
+"https://netskope.com/blog/a-look-inside-the-netskope-cybersecurity-internship-experience"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153583,7 +153585,6 @@
 "campus_site": "https://www.illumio.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153614,7 +153615,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.sophos.com/en-us/careers/new-graduates",
 "system": "",
 "hires": [
 "graduate",
@@ -153625,8 +153626,10 @@
 "Security analyst"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.sophos.com/en-us/careers/new-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.sophos.com"
 },
@@ -153646,7 +153649,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.trellix.com/emerging-talent",
 "system": "",
 "hires": [
 "graduate",
@@ -153657,8 +153660,10 @@
 "Threat analyst"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.trellix.com/emerging-talent"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.trellix.com"
 },
@@ -153686,7 +153691,6 @@
 "campus_site": "https://jobs.ashbyhq.com/gen-digital",
 "system": "Ashby",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153695,7 +153699,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.ashbyhq.com/gen-digital"
+"https://jobs.ashbyhq.com/gen-digital",
+"https://www.gendigital.com/us/en/life-gen/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153717,7 +153722,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.mcafee.com/global/en/student",
 "system": "",
 "hires": [
 "graduate",
@@ -153727,8 +153732,10 @@
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.mcafee.com/global/en/student"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mcafee.com"
 },
@@ -153747,10 +153754,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153758,8 +153764,10 @@
 "Threat analyst"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://cloud.google.com/sustainability",
 "https://www.google.com/about/careers/applications/",
@@ -153817,10 +153825,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.dell.com/employment/united-states-secureworks-jobs/375/24185/6252001/2",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -153828,8 +153835,10 @@
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.dell.com/employment/united-states-secureworks-jobs/375/24185/6252001/2"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.secureworks.com"
 },
@@ -153849,18 +153858,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://job-boards.greenhouse.io/pingidentity/jobs/7971901002",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://job-boards.greenhouse.io/pingidentity/jobs/7971901002"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.pingidentity.com"
 },
@@ -153892,7 +153902,8 @@
 ],
 "notes": "",
 "sources": [
-"https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs?locationCountry=bc33aa3152ec42d4995f4791a106ed09"
+"https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs?locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+"https://www.sailpoint.com/company/careers/austin-texas/university-of-texas"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -153978,16 +153989,16 @@
 "campus_site": "https://my.greenhouse.io/users/sign_in?job_board=tanium",
 "system": "Greenhouse",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer",
 "Sales engineer"
 ],
-"notes": "",
+"notes": "Does not sponsor work visas in most cases",
 "sources": [
-"https://my.greenhouse.io/users/sign_in?job_board=tanium"
+"https://my.greenhouse.io/users/sign_in?job_board=tanium",
+"https://www.tanium.com/careers/internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154043,18 +154054,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cohesity.com/careers/university-and-internship-program/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cohesity.com/careers/university-and-internship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cohesity.com"
 },
@@ -154079,7 +154091,6 @@
 "campus_site": "https://my.greenhouse.io/users/sign_in?job_board=veeamsoftware",
 "system": "Greenhouse",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154088,7 +154099,8 @@
 ],
 "notes": "",
 "sources": [
-"https://my.greenhouse.io/users/sign_in?job_board=veeamsoftware"
+"https://my.greenhouse.io/users/sign_in?job_board=veeamsoftware",
+"https://careers.veeam.com/Veeam-Internship-Program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154342,7 +154354,7 @@
 "listed": "Nasdaq AKAM",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.akamai.com/site/en/documents/corporate/finance-rotational-program.pdf",
 "system": "",
 "hires": [
 "graduate",
@@ -154354,8 +154366,10 @@
 "Solutions engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.akamai.com/site/en/documents/corporate/finance-rotational-program.pdf"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.akamai.com"
 },
@@ -154380,7 +154394,6 @@
 "campus_site": "https://www.fastly.com/about/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154388,7 +154401,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.fastly.com/about/careers"
+"https://www.fastly.com/about/careers",
+"https://www.fastly.com/blog/inside-fastlys-2026-internship-program-projects-impact-and-culture"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154451,7 +154465,6 @@
 "campus_site": "https://rackspace.wd1.myworkdayjobs.com/External",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154460,7 +154473,8 @@
 ],
 "notes": "",
 "sources": [
-"https://rackspace.wd1.myworkdayjobs.com/External"
+"https://rackspace.wd1.myworkdayjobs.com/External",
+"https://jobs.lever.co/rackspace/42a3e799-47ef-43fa-b4c7-32064fb6ec44"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154484,10 +154498,9 @@
 "listed": "Nasdaq NTNX",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.jobvite.com/nutanix/job/omCNAfw5",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154495,8 +154508,10 @@
 "Support engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.jobvite.com/nutanix/job/omCNAfw5"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.nutanix.com/company/careers"
 ],
@@ -154561,7 +154576,6 @@
 "campus_site": "https://careers.teradata.com/jobs?page=1&jobCategory=12",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154570,7 +154584,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.teradata.com/jobs?page=1&jobCategory=12"
+"https://careers.teradata.com/jobs?page=1&jobCategory=12",
+"https://careers.teradata.com/jobs/219611"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154602,7 +154617,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.salesforce.com/company/careers/jobs/?search=&bc=OTH"
+"https://www.salesforce.com/company/careers/jobs/?search=&bc=OTH",
+"https://informatica.gr8people.com/categories/10/grads-and-interns/149/internships-at-informatica"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154661,7 +154677,6 @@
 "campus_site": "https://www.progress.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154669,7 +154684,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.progress.com/company/careers"
+"https://www.progress.com/company/careers",
+"https://job-boards.greenhouse.io/domo/jobs/7012632"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154694,7 +154710,6 @@
 "campus_site": "https://www.qlik.com/us/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154702,7 +154717,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.qlik.com/us/careers"
+"https://www.qlik.com/us/careers",
+"https://jobs.jobvite.com/qlik/job/ovD1rfwk"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154726,10 +154742,9 @@
 "listed": "Nasdaq MSTR",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://smartrecruiters.com/MicroStrategy1/744000050915159",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154737,8 +154752,10 @@
 "Data analyst"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://smartrecruiters.com/MicroStrategy1/744000050915159"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.strategysoftware.com"
 },
@@ -154826,7 +154843,6 @@
 "campus_site": "https://job-boards.greenhouse.io/dataiku",
 "system": "Greenhouse",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154835,7 +154851,8 @@
 ],
 "notes": "",
 "sources": [
-"https://job-boards.greenhouse.io/dataiku"
+"https://job-boards.greenhouse.io/dataiku",
+"https://job-boards.greenhouse.io/dataiku/jobs/5339585004"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154862,16 +154879,16 @@
 "campus_site": "https://boards.greenhouse.io/c3ascend",
 "system": "Greenhouse",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer",
 "Data scientist"
 ],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://boards.greenhouse.io/c3ascend"
+"https://boards.greenhouse.io/c3ascend",
+"https://job-boards.greenhouse.io/c3ascend"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154896,7 +154913,6 @@
 "campus_site": "https://cloudera.wd5.myworkdayjobs.com/External_Career",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154904,7 +154920,8 @@
 ],
 "notes": "",
 "sources": [
-"https://cloudera.wd5.myworkdayjobs.com/External_Career"
+"https://cloudera.wd5.myworkdayjobs.com/External_Career",
+"https://de.cloudera.com/content/www/de-DE/careers/teams/university-recruiting.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154928,7 +154945,6 @@
 "campus_site": "https://www.sumologic.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154936,7 +154952,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.sumologic.com/company/careers"
+"https://www.sumologic.com/company/careers",
+"https://sumologic.com/internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -154960,7 +154977,6 @@
 "campus_site": "https://www.starburst.io/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -154968,7 +154984,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.starburst.io/careers/"
+"https://www.starburst.io/careers/",
+"https://job-boards.greenhouse.io/starburst/jobs/5123053008"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155098,7 +155115,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.cockroachlabs.com/careers/"
+"https://www.cockroachlabs.com/careers/",
+"https://www.cockroachlabs.com/careers/internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155119,7 +155137,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://singlestore.com/careers/university",
 "system": "",
 "hires": [
 "graduate",
@@ -155129,8 +155147,10 @@
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://singlestore.com/careers/university"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.singlestore.com"
 },
@@ -155151,10 +155171,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.sas.com/intern",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -155163,8 +155182,10 @@
 "Associate consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.sas.com/intern"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.sas.com"
 },
@@ -155188,7 +155209,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mathworks.com/company/jobs/students.html",
 "system": "",
 "hires": [
 "graduate",
@@ -155199,8 +155220,10 @@
 "Application support engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.mathworks.com/company/jobs/students.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mathworks.com"
 },
@@ -155224,7 +155247,6 @@
 "campus_site": "https://www.wolfram.com/company/careers/students/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -155259,19 +155281,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.esri.com/en-us/about/careers/student-jobs",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software developer",
 "Technical support analyst"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Students currently enrolled at a US-based college or university",
+"sources": [
+"https://www.esri.com/en-us/about/careers/student-jobs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.esri.com"
 },
@@ -155304,7 +155327,8 @@
 ],
 "notes": "",
 "sources": [
-"https://bentleysystems.wd5.myworkdayjobs.com/bentley"
+"https://bentleysystems.wd5.myworkdayjobs.com/bentley",
+"https://www.bentley.com/en/company/intern-and-co-op-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155341,7 +155365,8 @@
 ],
 "notes": "",
 "sources": [
-"https://ptc.wd1.myworkdayjobs.com/PTC"
+"https://ptc.wd1.myworkdayjobs.com/PTC",
+"https://www.ptc.com/en/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155399,18 +155424,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://altair.com/internships",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://altair.com/internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://altair.com"
 },
@@ -155433,18 +155459,19 @@
 "listed": "NYSE PCOR",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.procore.com/early-careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas; only people already authorized to work in the U.S. are eligible",
+"sources": [
+"https://careers.procore.com/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://careers.procore.com/homepage"
 ],
@@ -155470,7 +155497,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program/",
 "system": "",
 "hires": [
 "graduate",
@@ -155481,8 +155508,10 @@
 "Application engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program/",
 "https://www.siemens.com/en-us/company/jobs/",
@@ -155520,9 +155549,10 @@
 "Software engineer",
 "Application engineer"
 ],
-"notes": "",
+"notes": "US citizens and permanent residents only",
 "sources": [
-"https://www.3ds.com/careers/students-graduates"
+"https://www.3ds.com/careers/students-graduates",
+"https://www.3ds.com/careers/jobs/dassault-systemes-graduate-development-program-technical-sales-bellevue-washington-543630"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155546,18 +155576,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-manufacturing.hexagon.com/job/Applications-Engineering-Intern-%28Irvine%2C-CA%29/2210-en_GB",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers-manufacturing.hexagon.com/job/Applications-Engineering-Intern-%28Irvine%2C-CA%29/2210-en_GB"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://hexagon.com"
 },
@@ -155581,7 +155612,7 @@
 "listed": "NYSE GWRE",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.guidewire.com/about/careers/students-and-graduates",
 "system": "",
 "hires": [
 "graduate",
@@ -155592,8 +155623,10 @@
 "Associate consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.guidewire.com/about/careers/students-and-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.guidewire.com"
 },
@@ -155617,7 +155650,6 @@
 "campus_site": "https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -155625,7 +155657,8 @@
 ],
 "notes": "",
 "sources": [
-"https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers"
+"https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers",
+"https://www.duckcreek.com/early-career/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155787,7 +155820,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.blackbaud.com/us/en"
+"https://careers.blackbaud.com/us/en",
+"https://careers.blackbaud.com/us/en/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155810,18 +155844,19 @@
 "listed": "Nasdaq ALKT",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.alkami.com/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.alkami.com/careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.alkami.com"
 },
@@ -155875,18 +155910,19 @@
 "listed": "Nasdaq INTA",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.intapp.com/working-at-intapp/intapp-summer-internship-program/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.intapp.com/working-at-intapp/intapp-summer-internship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.intapp.com"
 },
@@ -155911,7 +155947,6 @@
 "campus_site": "https://workiva.wd503.myworkdayjobs.com/careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -155919,7 +155954,8 @@
 ],
 "notes": "",
 "sources": [
-"https://workiva.wd503.myworkdayjobs.com/careers"
+"https://workiva.wd503.myworkdayjobs.com/careers",
+"https://www.workiva.com/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155945,7 +155981,6 @@
 "campus_site": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -155953,7 +155988,8 @@
 ],
 "notes": "",
 "sources": [
-"https://blackline.wd108.myworkdayjobs.com/BlackLineCareers"
+"https://blackline.wd108.myworkdayjobs.com/BlackLineCareers",
+"https://careers.blackline.com/interns"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156047,7 +156083,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.avalara.com/careers-home"
+"https://careers.avalara.com/careers-home",
+"https://careers.avalara.com/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156132,18 +156169,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.epicor.com/en/jobs/internship/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.epicor.com/en/jobs/internship/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.epicor.com"
 },
@@ -156166,15 +156204,15 @@
 "campus_site": "https://careers.infor.com/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://careers.infor.com/"
+"https://careers.infor.com/",
+"https://www.infor.com/blog/infor-early-talent-program-helps-launch-careers-in-technology"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156232,7 +156270,7 @@
 "listed": "Nasdaq ADP",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.adp.com/university/",
 "system": "",
 "hires": [
 "graduate",
@@ -156243,8 +156281,10 @@
 "Associate analyst"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.adp.com/university/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.adp.com"
 },
@@ -156268,7 +156308,6 @@
 "campus_site": "https://www.paycom.com/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156276,7 +156315,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.paycom.com/careers/"
+"https://www.paycom.com/careers/",
+"https://paycom.com/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156299,7 +156339,7 @@
 "listed": "Nasdaq PCTY",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.paylocity.com/company/careers/early-career/",
 "system": "",
 "hires": [
 "graduate",
@@ -156309,8 +156349,10 @@
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.paylocity.com/company/careers/early-career/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.paylocity.com"
 },
@@ -156375,7 +156417,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.dayforcehcm.com/en-US/mydayforce/InternshipsandCoops"
+"https://jobs.dayforcehcm.com/en-US/mydayforce/InternshipsandCoops",
+"https://www.dayforce.com/who-we-are/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156401,7 +156444,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ukg.com/about-us/careers/early-career-internships",
 "system": "",
 "hires": [
 "graduate",
@@ -156412,8 +156455,10 @@
 "Associate consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ukg.com/about-us/careers/early-career-internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ukg.com"
 },
@@ -156435,7 +156480,6 @@
 "campus_site": "https://www.bamboohr.com/platform/hr-data-and-reporting/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156443,7 +156487,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.bamboohr.com/platform/hr-data-and-reporting/"
+"https://www.bamboohr.com/platform/hr-data-and-reporting/",
+"https://www.bamboohr.com/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156499,7 +156544,6 @@
 "campus_site": "https://www.connectwise.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156507,7 +156551,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.connectwise.com/company/careers"
+"https://www.connectwise.com/company/careers",
+"https://job-boards.greenhouse.io/connectwise"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156564,7 +156609,6 @@
 "campus_site": "https://jobs.solarwinds.com/internships/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156630,7 +156674,6 @@
 "campus_site": "https://www.jamf.com/about/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156638,7 +156681,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.jamf.com/about/careers/"
+"https://www.jamf.com/about/careers/",
+"https://www.jamf.com/resources/videos/the-jamf-intern-experience"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156659,18 +156703,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ivanti.com/blog/ivanti-summer-interns-recap-their-experience",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ivanti.com/blog/ivanti-summer-interns-recap-their-experience"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ivanti.com"
 },
@@ -156695,7 +156740,6 @@
 "campus_site": "https://jobs.bmc.com/Careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156703,7 +156747,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.bmc.com/Careers"
+"https://jobs.bmc.com/Careers",
+"https://jobs.bmc.com/Careers/JobDetail/Pipeline-Accelerate-Sales-Internship-Summer-2026/45776"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156737,7 +156782,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.progress.com/company/careers"
+"https://www.progress.com/company/careers",
+"https://www.progress.com/company/careers/internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -156765,7 +156811,6 @@
 "campus_site": "https://www.pega.com/about/careers/interns",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156835,7 +156880,6 @@
 "campus_site": "https://jobs.ashbyhq.com/uipath/form/uipath-talent-community",
 "system": "Ashby",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -156844,7 +156888,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.ashbyhq.com/uipath/form/uipath-talent-community"
+"https://jobs.ashbyhq.com/uipath/form/uipath-talent-community",
+"https://www.uipath.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157003,15 +157048,16 @@
 "campus_site": "https://jobs.ashbyhq.com/PAR%20Technology/form/partech-talent-community",
 "system": "Ashby",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://jobs.ashbyhq.com/PAR%20Technology/form/partech-talent-community"
+"https://jobs.ashbyhq.com/PAR%20Technology/form/partech-talent-community",
+"https://www.par.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157034,10 +157080,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://qualtrics.com/careers/us/en/internships",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -157045,8 +157090,10 @@
 "Data scientist"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://qualtrics.com/careers/us/en/internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.qualtrics.com"
 },
@@ -157136,15 +157183,15 @@
 "campus_site": "https://sproutsocial.com/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://sproutsocial.com/careers/"
+"https://sproutsocial.com/careers/",
+"https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6230427"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157172,7 +157219,6 @@
 "campus_site": "https://www.braze.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -157180,7 +157226,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.braze.com/company/careers"
+"https://www.braze.com/company/careers",
+"https://job-boards.greenhouse.io/braze/jobs/8301086"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157206,7 +157253,6 @@
 "campus_site": "https://klaviyoemergingtalent.my.canva.site/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -157214,7 +157260,8 @@
 ],
 "notes": "",
 "sources": [
-"https://klaviyoemergingtalent.my.canva.site/"
+"https://klaviyoemergingtalent.my.canva.site/",
+"https://www.klaviyo.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157272,15 +157319,16 @@
 "campus_site": "https://sprinklr.wd1.myworkdayjobs.com/careers?_gl=1*zwwtok*_ga*MjE0MDMwOTMyMC4xNzExMjkwMTcz*_ga_GD43S3NXZ0*MTcxNTg0Njg2Ni4xNTguMC4xNzE1ODQ2ODY4LjU4LjAuMA..",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://sprinklr.wd1.myworkdayjobs.com/careers?_gl=1*zwwtok*_ga*MjE0MDMwOTMyMC4xNzExMjkwMTcz*_ga_GD43S3NXZ0*MTcxNTg0Njg2Ni4xNTguMC4xNzE1ODQ2ODY4LjU4LjAuMA.."
+"https://sprinklr.wd1.myworkdayjobs.com/careers?_gl=1*zwwtok*_ga*MjE0MDMwOTMyMC4xNzExMjkwMTcz*_ga_GD43S3NXZ0*MTcxNTg0Njg2Ni4xNTguMC4xNzE1ODQ2ODY4LjU4LjAuMA..",
+"https://www.sprinklr.com/careers/internship-and-early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157341,7 +157389,6 @@
 "campus_site": "https://talentautopilot.ai",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -157350,7 +157397,8 @@
 ],
 "notes": "",
 "sources": [
-"https://talentautopilot.ai"
+"https://talentautopilot.ai",
+"https://atlas.zoominfo.com/careers/department/early-talent"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157376,15 +157424,15 @@
 "campus_site": "https://zendesk.wd1.myworkdayjobs.com/zendesk",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://zendesk.wd1.myworkdayjobs.com/zendesk"
+"https://zendesk.wd1.myworkdayjobs.com/zendesk",
+"https://www.zendesk.com/company/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157443,8 +157491,8 @@
 "campus_site": "https://asana.com/jobs/internal",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer",
@@ -157452,7 +157500,8 @@
 ],
 "notes": "",
 "sources": [
-"https://asana.com/jobs/internal"
+"https://asana.com/jobs/internal",
+"https://asana.com/jobs/university-recruiting"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157572,18 +157621,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://hashicorp.com/careers/early-careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://hashicorp.com/careers/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hashicorp.com"
 },
@@ -157607,8 +157657,8 @@
 "campus_site": "https://sentry.io/careers/internships-and-early-careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer"
@@ -157671,15 +157721,16 @@
 "campus_site": "https://www.twilio.com/en-us/careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://www.twilio.com/en-us/careers"
+"https://www.twilio.com/en-us/careers",
+"https://www.twilio.com/en-us/blog/company/inside-twilio/intern-program-expansion-2026"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -157771,18 +157822,19 @@
 "listed": "NYSE RNG",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ringcentral.com/company/careers/overview.html",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ringcentral.com/company/careers/overview.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ringcentral.com"
 },
@@ -157838,7 +157890,6 @@
 "campus_site": "https://www.five9.com/about/careers/jobs",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158130,7 +158181,6 @@
 "campus_site": "https://www.seismic.com/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158138,7 +158188,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.seismic.com/careers/"
+"https://www.seismic.com/careers/",
+"https://careers-seismic.icims.com/jobs/2034/sales-development-representative-intern---boston/job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158159,7 +158210,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.highspot.com/careers/early-careers/",
 "system": "",
 "hires": [
 "graduate",
@@ -158169,8 +158220,10 @@
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.highspot.com/careers/early-careers/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.seismic.com/careers/"
 ],
@@ -158256,10 +158309,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://athenahealth.com/careers/students",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158267,8 +158319,10 @@
 "Associate consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://athenahealth.com/careers/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.athenahealth.com"
 },
@@ -158294,7 +158348,6 @@
 "campus_site": "https://ehr.meditech.com/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158303,7 +158356,8 @@
 ],
 "notes": "",
 "sources": [
-"https://ehr.meditech.com/careers"
+"https://ehr.meditech.com/careers",
+"https://recruiting.paylocity.com/Recruiting/Jobs/Details/3181536"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158329,7 +158383,6 @@
 "campus_site": "https://veradigm.wd12.myworkdayjobs.com/VR",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158337,7 +158390,8 @@
 ],
 "notes": "",
 "sources": [
-"https://veradigm.wd12.myworkdayjobs.com/VR"
+"https://veradigm.wd12.myworkdayjobs.com/VR",
+"https://veradigm.com"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158427,7 +158481,6 @@
 "campus_site": "https://ntst.wd1.myworkdayjobs.com/Careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158435,7 +158488,8 @@
 ],
 "notes": "",
 "sources": [
-"https://ntst.wd1.myworkdayjobs.com/Careers"
+"https://ntst.wd1.myworkdayjobs.com/Careers",
+"https://www.ntst.com/company/careers-and-culture/futures"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158493,7 +158547,6 @@
 "campus_site": "https://jobs.lever.co/pointclickcare/",
 "system": "Lever",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158501,7 +158554,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.lever.co/pointclickcare/"
+"https://jobs.lever.co/pointclickcare/",
+"https://jobs.lever.co/pointclickcare/eb308b6b-dd75-47d9-ab66-3c6f46db7b44"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158525,15 +158579,16 @@
 "campus_site": "https://innovaccer.com/careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://innovaccer.com/careers"
+"https://innovaccer.com/careers",
+"https://innovaccer.com/careers/life-at-innovaccer"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158559,7 +158614,6 @@
 "campus_site": "https://modmed.wd501.myworkdayjobs.com/ModMed12",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158567,7 +158621,8 @@
 ],
 "notes": "",
 "sources": [
-"https://modmed.wd501.myworkdayjobs.com/ModMed12"
+"https://modmed.wd501.myworkdayjobs.com/ModMed12",
+"https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8307542002"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158592,15 +158647,15 @@
 "campus_site": "https://www.ellucian.com/products/student/recruiting-admissions",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
-"notes": "",
+"notes": "Candidates must be legally authorized to work for the full internship",
 "sources": [
-"https://www.ellucian.com/products/student/recruiting-admissions"
+"https://www.ellucian.com/products/student/recruiting-admissions",
+"https://careers.ellucian.com/early-career"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158627,7 +158682,6 @@
 "campus_site": "https://www.blackboard.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -158635,7 +158689,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.blackboard.com/company/careers"
+"https://www.blackboard.com/company/careers",
+"https://anthology.com/about-us/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158823,19 +158878,21 @@
 "listed": "Nasdaq CSGP",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://costargroup.com/students",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer",
 "Researcher"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://costargroup.com/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.costar.com"
 },
@@ -158856,18 +158913,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.yardi.com/careers-students/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.yardi.com/careers-students/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.yardi.com"
 },
@@ -158989,15 +159047,15 @@
 "campus_site": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://cdk.wd1.myworkdayjobs.com/en-US/CDK"
+"https://cdk.wd1.myworkdayjobs.com/en-US/CDK",
+"https://careers.cdkglobal.com/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159024,7 +159082,6 @@
 "campus_site": "https://www.coxautoinc.com/solutions/fleet-solutions/?solution-service=service-centers-built-for-all-jobs",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -159033,7 +159090,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.coxautoinc.com/solutions/fleet-solutions/?solution-service=service-centers-built-for-all-jobs"
+"https://www.coxautoinc.com/solutions/fleet-solutions/?solution-service=service-centers-built-for-all-jobs",
+"https://jobs.coxenterprises.com/en/career-areas/early-career/internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159058,7 +159116,6 @@
 "campus_site": "https://careers.blueyonder.com/us/en",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -159126,7 +159183,6 @@
 "campus_site": "https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -159134,7 +159190,8 @@
 ],
 "notes": "",
 "sources": [
-"https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS"
+"https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS",
+"https://www.spscommerce.com/internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159195,7 +159252,6 @@
 "campus_site": "https://ncr.wd1.myworkdayjobs.com/ext_intern",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -159203,7 +159259,8 @@
 ],
 "notes": "",
 "sources": [
-"https://ncr.wd1.myworkdayjobs.com/ext_intern"
+"https://ncr.wd1.myworkdayjobs.com/ext_intern",
+"https://www.ncrvoyix.com/about/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159300,11 +159357,10 @@
 "listed": "NYSE INFY (ADR)",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.infosys.com/careers/usa/graduates.html",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Systems engineer",
@@ -159312,8 +159368,10 @@
 "Technology analyst"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.infosys.com/careers/usa/graduates.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.infosys.com"
 },
@@ -159383,17 +159441,17 @@
 "campus_site": "https://www.cognizant.com/anz/en/cognizant-careers",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Programmer analyst",
 "Business analyst",
 "Data engineer"
 ],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://www.cognizant.com/anz/en/cognizant-careers"
+"https://www.cognizant.com/anz/en/cognizant-careers",
+"https://careers.cognizant.com/us-en/jobs/47904/cognizant-graduate-program-2027/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159433,7 +159491,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.wipro.com/content/Early-Careers/?locale=en_US"
+"https://careers.wipro.com/content/Early-Careers/?locale=en_US",
+"https://careers.wipro.com/ascent-us"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159473,7 +159532,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.hcltech.com/"
+"https://careers.hcltech.com/",
+"https://www.hcltech.com/en-us/careers/us-gem-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159588,9 +159648,10 @@
 "Software engineer",
 "Associate consultant"
 ],
-"notes": "",
+"notes": "Unrestricted work authorization in the US required",
 "sources": [
-"https://www.ltm.com/careers"
+"https://www.ltm.com/careers",
+"https://www.ltm.com/us-careers/dtap"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159687,18 +159748,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-persistentsystems.icims.com/jobs/search?pr=1",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers-persistentsystems.icims.com/jobs/search?pr=1"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.persistent.com"
 },
@@ -159789,18 +159851,19 @@
 "listed": "NYSE GLOB",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://career.globant.com/job/San-Francisco-Globant-Apprenticeship-Program-Cali/547485817/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://career.globant.com/job/San-Francisco-Globant-Apprenticeship-Program-Cali/547485817/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.globant.com"
 },
@@ -159870,7 +159933,8 @@
 ],
 "notes": "",
 "sources": [
-"https://genpact.wd108.myworkdayjobs.com/External_Careers"
+"https://genpact.wd108.myworkdayjobs.com/External_Careers",
+"https://www.genpact.com/careers/campus/north-america"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159945,7 +160009,8 @@
 ],
 "notes": "",
 "sources": [
-"https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/userHome"
+"https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/userHome",
+"https://www.kyndryl.com/us/en/careers/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -160010,8 +160075,7 @@
 "campus_site": "https://careers.nttdata.com/global/en",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer",
@@ -160019,7 +160083,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.nttdata.com/global/en"
+"https://careers.nttdata.com/global/en",
+"https://careers-inc.nttdata.com/default/go/Recent-Graduate-and-Entry-Level-Jobs/3019900/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -160043,18 +160108,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.fnc.fujitsu.com/job/Richardson-Software-Development-Intern-TX-75082/1209702400",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.fnc.fujitsu.com/job/Richardson-Software-Development-Intern-TX-75082/1209702400"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fujitsu.com/us/"
 },
@@ -160089,7 +160155,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.cgi.com/en/careers"
+"https://www.cgi.com/en/careers",
+"https://www.cgi.com/us/en-us/careers/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -160117,15 +160184,15 @@
 "campus_site": "https://career5.successfactors.eu/careers?company=Atos",
 "system": "SuccessFactors",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://career5.successfactors.eu/careers?company=Atos"
+"https://career5.successfactors.eu/careers?company=Atos",
+"https://jobs.atos.net/job/Remote-Home-IGNITE-Analyst-2026/1292032901"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -160185,10 +160252,9 @@
 "listed": "Nasdaq NSIT",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://insight.com/en_US/careers/united-states/early-career-programs.html",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -160196,8 +160262,10 @@
 "Technical consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://insight.com/en_US/careers/united-states/early-career-programs.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.insight.com"
 },
@@ -160254,10 +160322,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-shi.icims.com/jobs/19121/jr.-it-engineer--internship/job",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -160265,8 +160332,10 @@
 "Solutions engineer"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers-shi.icims.com/jobs/19121/jr.-it-engineer--internship/job"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.shi.com"
 },
@@ -160289,7 +160358,6 @@
 "campus_site": "https://www.presidio.com/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -160357,10 +160425,9 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://wwt.com/about/internship-program",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -160369,8 +160436,10 @@
 "Consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://wwt.com/about/internship-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wwt.com"
 },
@@ -160429,15 +160498,16 @@
 "campus_site": "https://join.smartrecruiters.com/Nagarro1/338a6454-a0d3-4121-a6c2-51696acb91a3-website-applications",
 "system": "SmartRecruiters",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://join.smartrecruiters.com/Nagarro1/338a6454-a0d3-4121-a6c2-51696acb91a3-website-applications"
+"https://join.smartrecruiters.com/Nagarro1/338a6454-a0d3-4121-a6c2-51696acb91a3-website-applications",
+"https://www.nagarro.com/en/careers/us-college-recruitment"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -160566,7 +160636,6 @@
 "campus_site": "https://jobs.birlasoft.com/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -160574,7 +160643,8 @@
 ],
 "notes": "",
 "sources": [
-"https://jobs.birlasoft.com/"
+"https://jobs.birlasoft.com/",
+"https://jobs.birlasoft.com/job/Intern-US/41999244"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -160761,18 +160831,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://credera.com/en-us/careers/students",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Consultant"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://credera.com/en-us/careers/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.credera.com"
 },
@@ -160862,13 +160934,13 @@
 "campus_site": "https://generalmotors.avature.net/TalentCommunity",
 "system": "Avature",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://generalmotors.avature.net/TalentCommunity"
+"https://generalmotors.avature.net/TalentCommunity",
+"https://search-careers.gm.com/en/early-careers/internship-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -160894,18 +160966,20 @@
 "listed": "NYSE F",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.careers.ford.com/students-graduates",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [
 "Ford College Graduate (FCG) programme"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.careers.ford.com/students-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ford.com"
 },
@@ -160932,16 +161006,17 @@
 "listed": "NYSE STLA",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.stellantis.com/early-careers/students-north-america/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.stellantis.com/early-careers/students-north-america/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.stellantis.com"
 },
@@ -160966,15 +161041,17 @@
 "listed": "Nasdaq TSLA",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.tesla.com/careers/students",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.tesla.com/careers/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.tesla.com"
 },
@@ -160997,15 +161074,17 @@
 "listed": "Nasdaq RIVN",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.rivian.com/students",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.rivian.com/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rivian.com"
 },
@@ -161036,7 +161115,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://lucidmotors.com:443/careers"
+"https://lucidmotors.com:443/careers",
+"https://lucidmotors.com/careers/early-talent"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161066,13 +161146,14 @@
 "campus_site": "https://careers.toyota.com/us/en/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.toyota.com/us/en/"
+"https://careers.toyota.com/us/en/",
+"https://careers.toyota.com/us/en/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161099,16 +161180,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.honda.com",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.honda.com"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.honda.com"
 },
@@ -161131,15 +161214,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-americas.hyundai.com/hma/go/Internships/9863100/",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://careers-americas.hyundai.com/hma/go/Internships/9863100/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.hyundaiusa.com"
 },
@@ -161162,15 +161247,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-americas.kia.com/kaga/go/Co-Ops-and-Internships/9736700/",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers-americas.kia.com/kaga/go/Co-Ops-and-Internships/9736700/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.kiausa.com"
 },
@@ -161193,11 +161280,14 @@
 "funding": "",
 "campus_site": "https://careers-americas.hyundai.com/Genesis/search",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://careers-americas.hyundai.com/Genesis/search"
+"https://careers-americas.hyundai.com/Genesis/search",
+"https://careers-americas.hyundai.com/hma/go/Internships/9863100/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161282,15 +161372,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://bmwgroup.jobs/us/en/opportunities/student/undergraduate-student.html",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://bmwgroup.jobs/us/en/opportunities/student/undergraduate-student.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.bmwusa.com"
 },
@@ -161312,13 +161404,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.bmwgroup.jobs/us/en/opportunities/student/undergraduate-student/domestic-intern-and-co-op-opportunities.html",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "US citizens and permanent residents only",
+"sources": [
+"https://www.bmwgroup.jobs/us/en/opportunities/student/undergraduate-student/domestic-intern-and-co-op-opportunities.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.bmwusa.com"
 },
@@ -161348,7 +161444,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.mercedes-benz.com/en?en%3FTargetGroup.Code=2&_ga=2.168265190.614483564.1706803580-893916124.1699542175&ParentOrganization=%5B483%5D"
+"https://jobs.mercedes-benz.com/en?en%3FTargetGroup.Code=2&_ga=2.168265190.614483564.1706803580-893916124.1699542175&ParentOrganization=%5B483%5D",
+"https://www.mbusa.com/en/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161372,13 +161469,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://mbusi.com/employment/training/international-internship-program/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Open to students enrolled at universities outside the USA",
+"sources": [
+"https://mbusi.com/employment/training/international-internship-program/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://mbusi.com/employment/",
 "https://group.mercedes-benz.com/careers/",
@@ -161410,12 +161511,14 @@
 "campus_site": "https://jobs.volkswagen-group.com/",
 "system": "",
 "hires": [
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.volkswagen-group.com/"
+"https://jobs.volkswagen-group.com/",
+"https://jobs.volkswagen-group.com/Volkswagen/job/Chattanooga-Co-op-New-Projects-and-Supply-Chain-TN-37416/1287196501"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161439,13 +161542,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.audiusa.com/us/web/en/corporate/careers/layer/internships.html",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.audiusa.com/us/web/en/corporate/careers/layer/internships.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.audiusa.com"
 },
@@ -161467,13 +161575,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.porsche.com/index.php?ac=jobad&id=21631",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.porsche.com/index.php?ac=jobad&id=21631"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.porsche.com/usa"
 },
@@ -161496,11 +161608,14 @@
 "funding": "",
 "campus_site": "https://www.scoutmotors.com/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://www.scoutmotors.com/careers"
+"https://www.scoutmotors.com/careers",
+"https://job-boards.greenhouse.io/scoutmotors/jobs/5065725007"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161525,15 +161640,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.subaru.com/careers.html",
 "system": "",
 "hires": [
-"internship"
+"internship",
+"experienced"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.subaru.com/careers.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.subaru.com"
 },
@@ -161556,7 +161674,9 @@
 "funding": "",
 "campus_site": "https://careers.subaru-sia.com/go/Internship/7722300/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -161618,7 +161738,9 @@
 "funding": "",
 "campus_site": "https://job-boards.greenhouse.io/mitsubishimotorsna",
 "system": "Greenhouse",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -161647,13 +161769,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.volvocars.com/job/Mahwah-Learning-&-Development-Intern-NJ-07430/1167006301",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.volvocars.com/job/Mahwah-Learning-&-Development-Intern-NJ-07430/1167006301"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.volvocars.com/us"
 },
@@ -161677,13 +161803,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jaguarlandrovercareers.com/job/Mahwah-Training-Intern-NJ/1171983201",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jaguarlandrovercareers.com/job/Mahwah-Training-Intern-NJ/1171983201"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.jlrusa.com"
 },
@@ -161795,11 +161925,14 @@
 "funding": "",
 "campus_site": "https://www.kenworth.com/careers/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.kenworth.com/careers/"
+"https://www.kenworth.com/careers/",
+"https://jobs.paccar.com/job/Kirkland-Product-Planning-Intern-WA-98033/1134747101"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161940,13 +162073,14 @@
 "campus_site": "https://www.borgwarner.com/zh/careers/students-graduates",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.borgwarner.com/zh/careers/students-graduates"
+"https://www.borgwarner.com/zh/careers/students-graduates",
+"https://borgwarner.com/company/locations/ithaca/en/aboutus/co-op-program-overview"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -161974,7 +162108,6 @@
 "campus_site": "https://www.aptiv.com/en/jobs/students/aptiv-early-talent",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -162007,13 +162140,13 @@
 "campus_site": "https://jobs.lear.com/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.lear.com/"
+"https://jobs.lear.com/",
+"https://jobs.lear.com/job/Southfield-Lear-Summer-Intern-MI/1424071733/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162046,7 +162179,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://wd3.myworkdaysite.com/recruiting/magna/Magna"
+"https://wd3.myworkdaysite.com/recruiting/magna/Magna",
+"https://www.magna.com/careers/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162080,9 +162214,10 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://jobs.bosch.com/en/?country=us&searchTerm=co-op"
+"https://jobs.bosch.com/en/?country=us&searchTerm=co-op",
+"https://www.bosch.us/careers/start-your-career/graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162139,15 +162274,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.zf.com/job/Northville-Materials-Engineering-Intern-MI/1405708633/",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.zf.com/job/Northville-Materials-Engineering-Intern-MI/1405708633/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.zf.com/na/en"
 },
@@ -162174,7 +162311,6 @@
 "campus_site": "https://www.continental.com/en-us/career/teams/internships-1/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -162206,13 +162342,14 @@
 "campus_site": "https://jobs.dana.com/go/Students/9149600/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.dana.com/go/Students/9149600/"
+"https://jobs.dana.com/go/Students/9149600/",
+"https://jobs.dana.com/content/Student-Programs/?locale=en_US"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162239,7 +162376,6 @@
 "campus_site": "https://careers.dauch.com/en/category/early-careers-students-jobs/44944/8710112/1",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -162271,13 +162407,13 @@
 "campus_site": "https://gentex.wd5.myworkdayjobs.com/Gentex",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://gentex.wd5.myworkdayjobs.com/Gentex"
+"https://gentex.wd5.myworkdayjobs.com/Gentex",
+"https://careers.gentex.com/jobs/internship/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162368,7 +162504,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.autoliv.com/careers"
+"https://www.autoliv.com/careers",
+"https://careerunitedstates.autoliv.com/jobs/5710375-it-summer-intern"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162424,11 +162561,15 @@
 "funding": "",
 "campus_site": "https://jobs.driv.com/",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.driv.com/"
+"https://jobs.driv.com/",
+"https://jobs.tenneco.com/job/Northville-FP&A-Intern%2C-%28Current-Master-Students-Only%29-MI/1263490100"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162480,7 +162621,9 @@
 "funding": "",
 "campus_site": "https://gentherm.com/en/2026/10/09/more-than-an-internship-building-meaningful-careers-at-gentherm/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -162567,11 +162710,14 @@
 "funding": "",
 "campus_site": "https://careers-strattec.icims.com/jobs/intro?hashed=-435828950",
 "system": "iCIMS",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-strattec.icims.com/jobs/intro?hashed=-435828950"
+"https://careers-strattec.icims.com/jobs/intro?hashed=-435828950",
+"https://www.strattec.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162710,13 +162856,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://forvia.jobs.hr.cloud.sap/job/AUBURN-HILLS-HQ-R&D-Year-Round-Human-Resources-Intern-MI-48321/1320393400",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://forvia.jobs.hr.cloud.sap/job/AUBURN-HILLS-HQ-R&D-Year-Round-Human-Resources-Intern-MI-48321/1320393400"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.forvia.com"
 },
@@ -162740,7 +162890,9 @@
 "funding": "",
 "campus_site": "https://www.yazaki-na.com/careers/student-programs",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -162777,7 +162929,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.nexteer.com/"
+"https://jobs.nexteer.com/",
+"https://jobs.nexteer.com/go/Internships/9556100/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162803,11 +162956,14 @@
 "funding": "",
 "campus_site": "https://jobs.marelli.com",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.marelli.com"
+"https://jobs.marelli.com",
+"https://jobs.jobvite.com/marelli/jobs/student"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162831,15 +162987,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.schaeffler.com/job/Fort-Mill%2C-SC-Co-op-Engineering-%28Spring-2027%29-SC-29715/1428872033/",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.schaeffler.com/job/Fort-Mill%2C-SC-Co-op-Engineering-%28Spring-2027%29-SC-29715/1428872033/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.schaeffler.us"
 },
@@ -162863,11 +163021,14 @@
 "funding": "",
 "campus_site": "https://www.jobs.mahle.com/germany/en/your-future-at-mahle/students/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.jobs.mahle.com/germany/en/your-future-at-mahle/students/"
+"https://www.jobs.mahle.com/germany/en/your-future-at-mahle/students/",
+"https://www.jobs.mahle.com/usa/en/your-future-at-mahle/students/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162928,7 +163089,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.michelinman.com/about-us/michelin-in-the-us/students"
+"https://jobs.michelinman.com/about-us/michelin-in-the-us/students",
+"https://jobs.michelinman.com/about-us/michelin-in-the-us/students/intern-co-op-oppportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162986,16 +163148,17 @@
 "listed": "Nasdaq GT",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.goodyear.com/job/Akron-Sustainability-and-Product-Stewardship-Analyst-Intern-Summer-2025-Internship-OH-44301/1263673800",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.goodyear.com/job/Akron-Sustainability-and-Product-Stewardship-Analyst-Intern-Summer-2025-Internship-OH-44301/1263673800"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.goodyear.com"
 },
@@ -163047,12 +163210,13 @@
 "campus_site": "https://lkqcorp.wd5.myworkdayjobs.com/ExternalCareerSite-LKQ",
 "system": "Workday",
 "hires": [
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://lkqcorp.wd5.myworkdayjobs.com/ExternalCareerSite-LKQ"
+"https://lkqcorp.wd5.myworkdayjobs.com/ExternalCareerSite-LKQ",
+"https://lkqcorp.com/?p=8530"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -163075,13 +163239,17 @@
 "listed": "Nasdaq CPRT",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://copart.com/content/us/en/careers/leadership-development-program",
 "system": "",
-"hires": [],
+"hires": [
+"graduate"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://copart.com/content/us/en/careers/leadership-development-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.copart.com"
 },
@@ -163163,13 +163331,18 @@
 "listed": "Nasdaq RUSHA",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.rushtruckcenters.com/about-us/careers/new-graduate-program",
 "system": "",
-"hires": [],
+"hires": [
+"graduate",
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.rushtruckcenters.com/about-us/careers/new-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rushenterprises.com"
 },
@@ -163309,7 +163482,9 @@
 "funding": "",
 "campus_site": "https://motional.com/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -163370,11 +163545,14 @@
 "funding": "",
 "campus_site": "https://jobs.lever.co/plus-2/6577fdff-897f-4879-a032-e4f2edd35b02",
 "system": "Lever",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.lever.co/plus-2/6577fdff-897f-4879-a032-e4f2edd35b02"
+"https://jobs.lever.co/plus-2/6577fdff-897f-4879-a032-e4f2edd35b02",
+"https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -163399,11 +163577,14 @@
 "funding": "",
 "campus_site": "https://job-boards.greenhouse.io/maymobility",
 "system": "Greenhouse",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://job-boards.greenhouse.io/maymobility"
+"https://job-boards.greenhouse.io/maymobility",
+"https://maymobility.com/posts/may-mobility-internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -163429,11 +163610,14 @@
 "funding": "",
 "campus_site": "https://www.uberfreight.com/en-US/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.uberfreight.com/en-US/careers"
+"https://www.uberfreight.com/en-US/careers",
+"https://job-boards.greenhouse.io/uberfreight/jobs/4914051008"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -163458,11 +163642,14 @@
 "funding": "",
 "campus_site": "https://ridewithvia.com/careers/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ridewithvia.com/careers/"
+"https://ridewithvia.com/careers/",
+"https://job-boards.greenhouse.io/via/jobs/8860053002"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -163486,15 +163673,18 @@
 "listed": "NYSE DAL",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.delta.com/us/en/careers/students-and-early-careers",
 "system": "",
 "hires": [
+"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.delta.com/us/en/careers/students-and-early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.delta.com"
 },
@@ -163519,15 +163709,17 @@
 "listed": "Nasdaq UAL",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.united.com/us/en/students",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.united.com/us/en/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.united.com"
 },
@@ -163553,15 +163745,18 @@
 "listed": "Nasdaq AAL",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.aa.com/go/Student-&-Grads/8180200",
 "system": "",
 "hires": [
+"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.aa.com/go/Student-&-Grads/8180200"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.aa.com"
 },
@@ -163583,15 +163778,18 @@
 "listed": "NYSE LUV",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://southwest.com/campusreach",
 "system": "",
 "hires": [
+"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://southwest.com/campusreach"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.southwest.com"
 },
@@ -163614,15 +163812,17 @@
 "listed": "NYSE ALK",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.alaskaair.com/",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.alaskaair.com/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.alaskaair.com"
 },
@@ -163680,7 +163880,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.jetblue.com/"
+"https://careers.jetblue.com/",
+"https://www.jetblue.com/our-company/business-with-purpose"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -163705,11 +163906,14 @@
 "funding": "",
 "campus_site": "https://www.flyfrontier.com/careers/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.flyfrontier.com/careers/"
+"https://www.flyfrontier.com/careers/",
+"https://www.flyfrontier.com/careers/corporate/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -163732,13 +163936,17 @@
 "listed": "Nasdaq ALGT",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.allegiantair.com/careers/students",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.allegiantair.com/careers/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.allegiantair.com"
 },
@@ -163759,13 +163967,17 @@
 "listed": "Nasdaq SNCY",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.suncountry.com/internships",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.suncountry.com/internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://suncountry.com"
 },
@@ -163787,13 +163999,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://job-boards.greenhouse.io/breezeairways/jobs/6524033003",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://job-boards.greenhouse.io/breezeairways/jobs/6524033003"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.flybreeze.com"
 },
@@ -163871,13 +164087,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://rjet.com/internships-and-partner-schools/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://rjet.com/internships-and-partner-schools/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rjet.com"
 },
@@ -163898,13 +164118,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://us-envoyair.icims.com/jobs/11162/college-intern---aircraft-maintenance-excellence-%26-program-development/job",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://us-envoyair.icims.com/jobs/11162/college-intern---aircraft-maintenance-excellence-%26-program-development/job"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.envoyair.com"
 },
@@ -163925,13 +164149,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://psaairlines.com/celebrating-national-intern-day/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://psaairlines.com/celebrating-national-intern-day/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.psaairlines.com"
 },
@@ -163955,11 +164183,14 @@
 "funding": "",
 "campus_site": "https://careers-endeavorair.icims.com/jobs/search?ss=1&searchKeyword=Intern",
 "system": "iCIMS",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-endeavorair.icims.com/jobs/search?ss=1&searchKeyword=Intern"
+"https://careers-endeavorair.icims.com/jobs/search?ss=1&searchKeyword=Intern",
+"https://www.endeavorair.com/content/endeavor-air/en_us/Students.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164042,11 +164273,14 @@
 "funding": "",
 "campus_site": "https://careers.atsginc.com/us/en",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.atsginc.com/us/en"
+"https://careers.atsginc.com/us/en",
+"https://careers.atsginc.com/us/en/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164098,13 +164332,17 @@
 "listed": "NYSE UP",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-wheelsup.icims.com/jobs/3531/data-privacy-student-internship/job",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers-wheelsup.icims.com/jobs/3531/data-privacy-student-internship/job"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wheelsup.com"
 },
@@ -164127,11 +164365,14 @@
 "funding": "",
 "campus_site": "https://www.netjets.com/en-gb/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.netjets.com/en-gb/careers"
+"https://www.netjets.com/en-gb/careers",
+"https://netjets.jobs.hr.cloud.sap/us/job/Columbus-Communications-Intern-%28NJUS%29-OH-43219/1321748300"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164156,11 +164397,14 @@
 "funding": "",
 "campus_site": "https://careers.flexjet.com/us/en",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.flexjet.com/us/en"
+"https://careers.flexjet.com/us/en",
+"https://careers.flexjet.com/us/en/studentinternship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164329,11 +164573,14 @@
 "funding": "",
 "campus_site": "https://jobs.flightsafety.com/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.flightsafety.com/"
+"https://jobs.flightsafety.com/",
+"https://careers.flightsafety.com/job/Columbus-Sales-Intern-Summer-2026-OH-43219/1333068000"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164364,7 +164611,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://sabre.wd1.myworkdayjobs.com/SabreJobs"
+"https://sabre.wd1.myworkdayjobs.com/SabreJobs",
+"https://www.sabre.com/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164449,6 +164697,7 @@
 "campus_site": "https://www.faa.gov/jobs/students",
 "system": "",
 "hires": [
+"graduate",
 "internship"
 ],
 "roles": [
@@ -164456,9 +164705,10 @@
 "Aerospace engineer",
 "Safety inspector"
 ],
-"notes": "US citizenship required for federal employment",
+"notes": "US citizens only",
 "sources": [
-"https://www.faa.gov/jobs/students"
+"https://www.faa.gov/jobs/students",
+"https://www.faa.gov/jobs/students/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164483,15 +164733,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.jobvite.com/panynj/job/oXcqxfwQ",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.jobvite.com/panynj/job/oXcqxfwQ"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.panynj.gov"
 },
@@ -164515,11 +164767,14 @@
 "funding": "",
 "campus_site": "https://www.lawa.org/groups-and-divisions/business-jobs-and-social-responsibility",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.lawa.org/groups-and-divisions/business-jobs-and-social-responsibility"
+"https://www.lawa.org/groups-and-divisions/business-jobs-and-social-responsibility",
+"https://www.lawa.org/lawa-employment/lawa-employment"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164546,11 +164801,14 @@
 "funding": "",
 "campus_site": "https://mwaa.wd1.myworkdayjobs.com/MWAA",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://mwaa.wd1.myworkdayjobs.com/MWAA"
+"https://mwaa.wd1.myworkdayjobs.com/MWAA",
+"https://www.mwaa.com/careers/summer-intern-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164574,13 +164832,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.atl.com/atl-workforce-programs/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.atl.com/atl-workforce-programs/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.atl.com"
 },
@@ -164633,11 +164895,14 @@
 "funding": "",
 "campus_site": "https://aa243.taleo.net/careersection/intern/jobsearch.ftl?lang=en",
 "system": "Taleo",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://aa243.taleo.net/careersection/intern/jobsearch.ftl?lang=en"
+"https://aa243.taleo.net/careersection/intern/jobsearch.ftl?lang=en",
+"https://www.portseattle.org/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164662,11 +164927,14 @@
 "funding": "",
 "campus_site": "https://external-flysfo.icims.com/jobs/intro?mobile=false&width=1164&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
 "system": "iCIMS",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://external-flysfo.icims.com/jobs/intro?mobile=false&width=1164&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420"
+"https://external-flysfo.icims.com/jobs/intro?mobile=false&width=1164&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
+"https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990001608156-2023-summer-college-intern-sfo-9920-"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164689,13 +164957,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.flydenver.com/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.flydenver.com/careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.flydenver.com"
 },
@@ -164719,11 +164991,14 @@
 "funding": "",
 "campus_site": "https://iapiqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/212",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://iapiqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/212"
+"https://iapiqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/212",
+"https://www.massport.com/community/scholarships-and-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164749,11 +165024,14 @@
 "funding": "",
 "campus_site": "http://www.miamidade.gov/jobs/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"http://www.miamidade.gov/jobs/"
+"http://www.miamidade.gov/jobs/",
+"https://www.miamidade.gov/humanresources/internships-college.asp"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164778,13 +165056,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.flychicago.com/community/employment/Pages/default.aspx",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.flychicago.com/community/employment/Pages/default.aspx"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.flychicago.com"
 },
@@ -164807,11 +165089,14 @@
 "funding": "",
 "campus_site": "https://www.portofportland.com/InnovationCampus",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.portofportland.com/InnovationCampus"
+"https://www.portofportland.com/InnovationCampus",
+"https://portofportland.com/Careers/InternshipProgram"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164837,11 +165122,14 @@
 "funding": "",
 "campus_site": "https://delta.avature.net/careers",
 "system": "Avature",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://delta.avature.net/careers"
+"https://delta.avature.net/careers",
+"https://www.phoenix.gov/administration/departments/hr/careers/internships/aviation-department-internship.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164864,13 +165152,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://personnel.lacity.gov/jobs.cfm",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://personnel.lacity.gov/jobs.cfm"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://personnel.lacity.gov/jobs.cfm",
 "https://www.governmentjobs.com/careers/lacity",
@@ -164897,13 +165189,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.longbeach.gov/jobs/internships/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.longbeach.gov/jobs/internships/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.polb.com"
 },
@@ -164926,11 +165222,14 @@
 "funding": "",
 "campus_site": "https://porthouston.wd5.myworkdayjobs.com/External_Careers",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://porthouston.wd5.myworkdayjobs.com/External_Careers"
+"https://porthouston.wd5.myworkdayjobs.com/External_Careers",
+"https://porthouston.com/about/our-people/internship-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -164954,13 +165253,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://gaports.com/departments/human-resources/workforce-development/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://gaports.com/departments/human-resources/workforce-development/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://gaports.com"
 },
@@ -165019,13 +165322,13 @@
 "campus_site": "https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=UPProd&_s.crb=FZO%252b6PZmpmOZMqgGllyzL%252fB%252f4nzLu0QExGkyyxWb7mE%253d",
 "system": "SuccessFactors",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=UPProd&_s.crb=FZO%252b6PZmpmOZMqgGllyzL%252fB%252f4nzLu0QExGkyyxWb7mE%253d"
+"https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=UPProd&_s.crb=FZO%252b6PZmpmOZMqgGllyzL%252fB%252f4nzLu0QExGkyyxWb7mE%253d",
+"https://up.jobs/content/Students/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165054,13 +165357,14 @@
 "campus_site": "https://jobs.bnsf.com/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.bnsf.com/us/en"
+"https://jobs.bnsf.com/us/en",
+"https://bnsf.jobs2web.com/go/College-Recruiting/400829"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165085,16 +165389,17 @@
 "listed": "Nasdaq CSX",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://csx.com/index.cfm/working-at-csx/job-overviews/internship-programs",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://csx.com/index.cfm/working-at-csx/job-overviews/internship-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.csx.com"
 },
@@ -165120,13 +165425,13 @@
 "campus_site": "https://career8.successfactors.com/careers?company=S003808746P",
 "system": "SuccessFactors",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://career8.successfactors.com/careers?company=S003808746P"
+"https://career8.successfactors.com/careers?company=S003808746P",
+"https://www.norfolksouthern.com/en/careers/find-your-future/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165152,15 +165457,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.amtrak.com/content/Interns-and-Co-ops/",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://careers.amtrak.com/content/Interns-and-Co-ops/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.amtrak.com"
 },
@@ -165220,7 +165527,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-gatx.icims.com/jobs/4754/mc-arc-welder%2c-v%26c/job?mode=apply&apply=yes&in_iframe=1"
+"https://careers-gatx.icims.com/jobs/4754/mc-arc-welder%2c-v%26c/job?mode=apply&apply=yes&in_iframe=1",
+"https://www.gatx.com/jobs/icims-continuous-improvement-intern4487"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165274,11 +165582,14 @@
 "funding": "",
 "campus_site": "https://lbfoster.com/about/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://lbfoster.com/about/careers"
+"https://lbfoster.com/about/careers",
+"https://lbfoster.com/news/connecting-culture-the-l-b-foster-talent-and-hr-podcast-internship-programs-episode"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165301,13 +165612,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://siemens.dejobs.org/sacramento-ca/transit-project-internship-rolling-stock/B0AF36DEA3A94278B289BBE8C2456364/job/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://siemens.dejobs.org/sacramento-ca/transit-project-internship-rolling-stock/B0AF36DEA3A94278B289BBE8C2456364/job/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mobility.siemens.com/us"
 },
@@ -165356,13 +165671,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mta.info/press-release/mta-and-cuny-partner-create-career-opportunities-through-competitive-influential",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.mta.info/press-release/mta-and-cuny-partner-create-career-opportunities-through-competitive-influential"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://new.mtacontracts.com"
 },
@@ -165386,11 +165705,14 @@
 "funding": "",
 "campus_site": "https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011"
+"https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011",
+"https://www.wmata.com/about/careers/college-intern-program.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165415,11 +165737,14 @@
 "funding": "",
 "campus_site": "https://chicagotransit.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233",
 "system": "Taleo",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://chicagotransit.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233"
+"https://chicagotransit.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233",
+"https://www.transitchicago.com/internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165444,9 +165769,11 @@
 "funding": "",
 "campus_site": "https://www.mbta.com/careers/internships",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas; international students on CPT, STEM or OPT with valid work authorization may apply",
 "sources": [
 "https://www.mbta.com/careers/internships"
 ],
@@ -165471,13 +165798,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.septa.org/job/Philadelphia-Rail-Vehicle-Electrical-Maintainer-Trainee-Intern%2C-Regional-Rail-Division_-%280845%29-Penn-19107/989562300",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.septa.org/job/Philadelphia-Rail-Vehicle-Electrical-Maintainer-Trainee-Intern%2C-Regional-Rail-Division_-%280845%29-Penn-19107/989562300"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.septa.org"
 },
@@ -165500,7 +165831,9 @@
 "funding": "",
 "campus_site": "https://www.bart.gov/about/jobs/training",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -165529,11 +165862,14 @@
 "funding": "",
 "campus_site": "https://www.metro.net/about/careers/students/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Open to citizens or legal residents with permission to work in the US",
 "sources": [
-"https://www.metro.net/about/careers/students/"
+"https://www.metro.net/about/careers/students/",
+"https://www.metro.net/about/careers/internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165558,7 +165894,10 @@
 "funding": "",
 "campus_site": "https://www.soundtransit.org/get-to-know-us/jobs/internships",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"experienced"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -165585,13 +165924,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.njtransit.com/internship",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Currently enrolled students only",
+"sources": [
+"https://www.njtransit.com/internship"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.njtransit.com/careers",
 "https://www.njtransit.com/railroad-careers",
@@ -165620,11 +165963,14 @@
 "funding": "",
 "campus_site": "https://fa-evii-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-evii-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+"https://fa-evii-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+"https://itsmarta.com/marta-internship-program.aspx"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165649,11 +165995,14 @@
 "funding": "",
 "campus_site": "https://dart.wd1.myworkdayjobs.com/DART",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://dart.wd1.myworkdayjobs.com/DART"
+"https://dart.wd1.myworkdayjobs.com/DART",
+"https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/uta-dart-transportation-leadership-academy-celebrates-successful-inaugural-year-1355"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165678,11 +166027,14 @@
 "funding": "",
 "campus_site": "https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=harrismetr&_s.crb=zj4Q%252f9lorQ2u8C83YIMB12EwJkM%252fAYOd45EdeuPTpLs%253d",
 "system": "SuccessFactors",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Graduate students or graduates within one year",
 "sources": [
-"https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=harrismetr&_s.crb=zj4Q%252f9lorQ2u8C83YIMB12EwJkM%252fAYOd45EdeuPTpLs%253d"
+"https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=harrismetr&_s.crb=zj4Q%252f9lorQ2u8C83YIMB12EwJkM%252fAYOd45EdeuPTpLs%253d",
+"https://www.ridemetro.org/about/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165705,13 +166057,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://kingcounty.gov/ko-kr/dept/metro/about/careers/internships",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://kingcounty.gov/ko-kr/dept/metro/about/careers/internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://kingcounty.gov/metro"
 },
@@ -165734,11 +166090,14 @@
 "funding": "",
 "campus_site": "https://internal.transdevna.jobs",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://internal.transdevna.jobs"
+"https://internal.transdevna.jobs",
+"https://jobs.jobvite.com/transdevna-careers/job/oMNbzfw3"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165763,11 +166122,14 @@
 "funding": "",
 "campus_site": "https://www.keolisna.com/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.keolisna.com/careers"
+"https://www.keolisna.com/careers",
+"https://www.keolisna.com/diversity"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165792,11 +166154,14 @@
 "funding": "",
 "campus_site": "https://mvtransit.wd12.myworkdayjobs.com/en-US/mvtransit/login",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://mvtransit.wd12.myworkdayjobs.com/en-US/mvtransit/login"
+"https://mvtransit.wd12.myworkdayjobs.com/en-US/mvtransit/login",
+"https://field-mvtransit.icims.com/jobs/11559/operations-management-intern/job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165881,11 +166246,14 @@
 "funding": "",
 "campus_site": "https://dot.ca.gov/programs/human-resources/talent-acquisition-recruitment/students-volunteers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://dot.ca.gov/programs/human-resources/talent-acquisition-recruitment/students-volunteers"
+"https://dot.ca.gov/programs/human-resources/talent-acquisition-recruitment/students-volunteers",
+"https://dot.ca.gov/programs/human-resources/talent-acquisition-recruitment"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165910,11 +166278,14 @@
 "funding": "",
 "campus_site": "https://fa009.taleo.net/careersection/ex/jobsearch.ftl?KEYWORD=intern",
 "system": "Taleo",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa009.taleo.net/careersection/ex/jobsearch.ftl?KEYWORD=intern"
+"https://fa009.taleo.net/careersection/ex/jobsearch.ftl?KEYWORD=intern",
+"https://www.txdot.gov/about/careers/students-grant-internships.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165937,13 +166308,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.fdot.gov/development/fdot-internship",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Must be authorized to work in the United States",
+"sources": [
+"https://www.fdot.gov/development/fdot-internship"
+],
+"checked": "2026-11",
 "site_candidates": [
 "http://onboard4jobs.com/",
 "https://www.fdot.gov/careers",
@@ -165969,13 +166345,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ny.gov/nysdot-employment-opportunities/summertemporary-employment",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ny.gov/nysdot-employment-opportunities/summertemporary-employment"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dot.ny.gov"
 },
@@ -165996,13 +166376,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.pa.gov/services/employment/apply-for-internships-with-the-commonwealth0",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.pa.gov/services/employment/apply-for-internships-with-the-commonwealth0"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.pa.gov/agencies/employment/open-jobs",
 "https://www.governmentjobs.com/careers/pabureau/promotionaljobs",
@@ -166029,13 +166413,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://ga.referrals.selectminds.com/GDOL/jobs/gdot-summer-2026-internship-engineering-77991",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://ga.referrals.selectminds.com/GDOL/jobs/gdot-summer-2026-internship-engineering-77991"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dot.ga.gov"
 },
@@ -166056,13 +166444,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.michigan.gov/mdot/careers/internship-program",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.michigan.gov/mdot/careers/internship-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.michigan.gov/mdot"
 },
@@ -166085,11 +166477,14 @@
 "funding": "",
 "campus_site": "https://www.transportation.ohio.gov/about/careers/job-postings",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.transportation.ohio.gov/about/careers/job-postings"
+"https://www.transportation.ohio.gov/about/careers/job-postings",
+"https://www.dot.state.oh.us/Employment/Pages/intern.aspx"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -166115,7 +166510,9 @@
 "funding": "",
 "campus_site": "https://idot.illinois.gov/careers/student-opportunities.html",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -166143,13 +166540,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://wsdot.wa.gov/about/employment/internships",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://wsdot.wa.gov/about/employment/internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://wsdot.wa.gov"
 },
@@ -166199,13 +166600,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ncdot.gov/initiatives-policies/students-youth/internship-programs/Pages/default.aspx",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ncdot.gov/initiatives-policies/students-youth/internship-programs/Pages/default.aspx"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://nccareers.org/",
 "https://www.nc.gov/jobs",
@@ -166234,11 +166639,14 @@
 "funding": "",
 "campus_site": "https://www.codot.gov/about/employment/maintenance-career-path",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.codot.gov/about/employment/maintenance-career-path"
+"https://www.codot.gov/about/employment/maintenance-career-path",
+"https://sites.google.com/state.co.us/process-improvement/internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -166261,13 +166669,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://azdot.gov/about/careers-adot/transportation-intern-program",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://azdot.gov/about/careers-adot/transportation-intern-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://azdot.gov"
 },
@@ -166290,7 +166702,10 @@
 "funding": "",
 "campus_site": "https://www.dot.state.mn.us/careers/student-grad.html",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -166317,13 +166732,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mass.gov/how-to/apply-for-an-internship-with-massdot",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.mass.gov/how-to/apply-for-an-internship-with-massdot"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mass.gov/orgs/massachusetts-department-of-transportation"
 },
@@ -166344,13 +166763,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://state.nj.us/transportation/about/employ/pdf/jobpostings/Job_Post_24-00177.pdf",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://state.nj.us/transportation/about/employ/pdf/jobpostings/Job_Post_24-00177.pdf"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nj.gov/transportation"
 },
@@ -166372,13 +166795,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://mdot.maryland.gov/tso/pages/index.aspx?pageid=57",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://mdot.maryland.gov/tso/pages/index.aspx?pageid=57"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://mdot.maryland.gov"
 },
@@ -166399,13 +166826,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.tn.gov/tdot/human-resources-home/tdot-careers/internship-program.html",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Must be authorized to work in the United States; rising juniors, seniors, graduate students or graduates within 12 months",
+"sources": [
+"https://www.tn.gov/tdot/human-resources-home/tdot-careers/internship-program.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.tn.gov/tdot"
 },
@@ -166428,7 +166859,9 @@
 "funding": "",
 "campus_site": "https://dpm.wi.gov/Pages/Job_Seekers/StudentInternships.aspx",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -166455,13 +166888,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.oregon.gov/jobs/pages/internships.aspx",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://www.oregon.gov/jobs/pages/internships.aspx"
+],
+"checked": "2026-11",
 "site_candidates": [
 "http://www.odotjobs.com/",
 "https://www.odotjobs.com/",
@@ -166490,7 +166928,10 @@
 "funding": "",
 "campus_site": "https://www.in.gov/indot/careers-with-indot/college-corner/internships-with-indot/",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -166517,13 +166958,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.modot.org/internship-program",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.modot.org/internship-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.modot.org"
 },
@@ -166544,13 +166989,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://connect.udot.utah.gov/public/rotational-engineer-program/",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://connect.udot.utah.gov/public/rotational-engineer-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.udot.utah.gov"
 },
@@ -166573,16 +167023,17 @@
 "listed": "NYSE UPS",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.jobs-ups.com/us/en/students",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.jobs-ups.com/us/en/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ups.com"
 },
@@ -166608,15 +167059,17 @@
 "listed": "NYSE FDX",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.fedex.com/intern",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.fedex.com/intern"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fedex.com"
 },
@@ -166637,15 +167090,18 @@
 "listed": "NYSE XPO",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.xpo.com/job/Boston-Tech-Program-Intern-III-%28Full-Stack-Engineering%29-MA-02111/1252533700",
 "system": "",
 "hires": [
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.xpo.com/job/Boston-Tech-Program-Intern-III-%28Full-Stack-Engineering%29-MA-02111/1252533700"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.xpo.com"
 },
@@ -166668,11 +167124,15 @@
 "funding": "",
 "campus_site": "https://jobs.gxo.com/errorpage/?errortype=Exception",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.gxo.com/errorpage/?errortype=Exception"
+"https://jobs.gxo.com/errorpage/?errortype=Exception",
+"https://jobs.gxo.com/lp/Early%20Career%20Opportunities/ae469703ace5a24f/?locale=en_US"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -166734,7 +167194,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://jbhunt.wd501.myworkdayjobs.com/Careers/login"
+"https://jbhunt.wd501.myworkdayjobs.com/Careers/login",
+"https://careers.jbhunt.com/careers/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -166763,13 +167224,13 @@
 "campus_site": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/page/3e8b8b1707d61001a64a805e2ac80000",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/page/3e8b8b1707d61001a64a805e2ac80000"
+"https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/page/3e8b8b1707d61001a64a805e2ac80000",
+"https://www.chrobinson.com/en-us/about-us/careers/jobs/eden-prairie/intern-capacity-portfolio-representative-summer-2027/r49514"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -166795,11 +167256,14 @@
 "funding": "",
 "campus_site": "https://www.expeditors.com/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.expeditors.com/careers"
+"https://www.expeditors.com/careers",
+"https://www.smartrecruiters.com/EXPEDITORS/744000079769227"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -166825,12 +167289,14 @@
 "campus_site": "https://ryder.wd5.myworkdayjobs.com/RyderCareers",
 "system": "Workday",
 "hires": [
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ryder.wd5.myworkdayjobs.com/RyderCareers"
+"https://ryder.wd5.myworkdayjobs.com/RyderCareers",
+"https://www.ryder.com/en-us/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -166883,13 +167349,17 @@
 "listed": "NYSE KNX",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.knighttrans.com/knight-life/office-news/internship-program-recap/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.knighttrans.com/knight-life/office-news/internship-program-recap/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.knightswift.com"
 },
@@ -166910,15 +167380,17 @@
 "listed": "NYSE SNDR",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://schneiderjobs.com/office-careers/students",
 "system": "",
 "hires": [
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://schneiderjobs.com/office-careers/students"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://schneider.com"
 },
@@ -166942,15 +167414,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.dhl.com/amer/en/dhl-express/students-and-graduates",
 "system": "",
 "hires": [
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://careers.dhl.com/amer/en/dhl-express/students-and-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dhl.com/us-en"
 },
@@ -166971,13 +167446,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.dhl.com/us-en/home/supply-chain/about-us/working-for-us/student-and-graduate-opportunities.html",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.dhl.com/us-en/home/supply-chain/about-us/working-for-us/student-and-graduate-opportunities.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dhl.com/us-en/home/supply-chain.html"
 },
@@ -166998,13 +167478,17 @@
 "listed": "Nasdaq WERN",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.werner.com/blog/logistics/a-day-in-the-life-of-a-logistics-intern/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.werner.com/blog/logistics/a-day-in-the-life-of-a-logistics-intern/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.werner.com"
 },
@@ -167085,13 +167569,17 @@
 "listed": "Nasdaq SAIA",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.saia.com/job/johns-creek/engineering-analytics-intern/43688/64619629120",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.saia.com/job/johns-creek/engineering-analytics-intern/43688/64619629120"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.saia.com"
 },
@@ -167121,7 +167609,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://arcb.com/careers/medina-campus"
+"https://arcb.com/careers/medina-campus",
+"https://arcb.com/blog/arcbest-internship-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167204,11 +167693,14 @@
 "funding": "",
 "campus_site": "https://www.covenantlogistics.com/employment/career-opportunities",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.covenantlogistics.com/employment/career-opportunities"
+"https://www.covenantlogistics.com/employment/career-opportunities",
+"https://careers-covenantlogistics.icims.com/jobs/3808/brokerage-intern-%28summer-2025%29/job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167289,11 +167781,14 @@
 "funding": "",
 "campus_site": "https://work4estes.com/en/sites/work4estes/jobs?mode=location",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://work4estes.com/en/sites/work4estes/jobs?mode=location"
+"https://work4estes.com/en/sites/work4estes/jobs?mode=location",
+"https://careers-efwnow.icims.com/jobs/6069/intern%2c-finance-and-accounting/job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167347,7 +167842,9 @@
 "funding": "",
 "campus_site": "https://www.averittcareers.com/averitt-internships",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -167437,7 +167934,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com/fscmUI/redwood/internalmobility"
+"https://fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com/fscmUI/redwood/internalmobility",
+"https://penske.jobs/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167460,13 +167958,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.nfiindustries.com/early-career-programs",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.nfiindustries.com/early-career-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nfiindustries.com"
 },
@@ -167489,11 +167992,14 @@
 "funding": "",
 "campus_site": "https://www.ruan.com/careers/corporate",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.ruan.com/careers/corporate"
+"https://www.ruan.com/careers/corporate",
+"https://www.ruan.com/careers/ruan-internship-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167519,11 +168025,14 @@
 "funding": "",
 "campus_site": "https://cretecarrier.com/office-and-shop-jobs/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://cretecarrier.com/office-and-shop-jobs/"
+"https://cretecarrier.com/office-and-shop-jobs/",
+"https://cretecarrier.com/internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167549,11 +168058,14 @@
 "funding": "",
 "campus_site": "https://careers-primeinc.icims.com/jobs/search?ss=1&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300",
 "system": "iCIMS",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-primeinc.icims.com/jobs/search?ss=1&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300"
+"https://careers-primeinc.icims.com/jobs/search?ss=1&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300",
+"https://careers-primeinc.icims.com/jobs/4430/operations-intern/job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167578,11 +168090,15 @@
 "funding": "",
 "campus_site": "https://www.crst.com/corporate-careers/internships/",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.crst.com/corporate-careers/internships/"
+"https://www.crst.com/corporate-careers/internships/",
+"https://www.crst.com/corporate-careers/early-career-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167611,9 +168127,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://careers.tql.com/en_US/TQLexternalcareers?utm_source=tql&utm_medium=website"
+"https://careers.tql.com/en_US/TQLexternalcareers?utm_source=tql&utm_medium=website",
+"https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Cincinnati-Ohio-United-States-Entry-Level-Sales-Representative-Fast-Track-Program-Uncapped-Commission-Relocation-Provided/4959?source=External+Career+Site"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167667,11 +168184,15 @@
 "funding": "",
 "campus_site": "https://www.arrivelogistics.com/campus-recruitment/",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.arrivelogistics.com/campus-recruitment/"
+"https://www.arrivelogistics.com/campus-recruitment/",
+"https://www.arrivelogistics.com/teaching-the-leaders-of-tomorrow-how-arrive-delivers-opportunity-through-world-class-internship-and-mentoring-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167754,11 +168275,14 @@
 "funding": "",
 "campus_site": "https://www.fourkites.ai/careers",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.fourkites.ai/careers"
+"https://www.fourkites.ai/careers",
+"https://job-boards.greenhouse.io/fourkites/jobs/7926771"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167814,11 +168338,15 @@
 "funding": "",
 "campus_site": "https://jobs.kuehne-nagel.com/global/en/blogarticle/how-contract-logistics-creates-summer-memories",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.kuehne-nagel.com/global/en/blogarticle/how-contract-logistics-creates-summer-memories"
+"https://jobs.kuehne-nagel.com/global/en/blogarticle/how-contract-logistics-creates-summer-memories",
+"https://careers.kuehne-nagel.com/job/Road-Logistics-Summer-Internship/10723-en_US/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -167841,13 +168369,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.cmacgm-group.com/CEVALogistics/job/Jonestown_PA-Operations-Intern-Jonestown%2C-PA-CA/1389457833/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.cmacgm-group.com/CEVALogistics/job/Jonestown_PA-Operations-Intern-Jonestown%2C-PA-CA/1389457833/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cevalogistics.com"
 },
@@ -167901,9 +168433,12 @@
 "funding": "",
 "campus_site": "https://www.dsv.com/en-us/careers/trainee-program",
 "system": "",
-"hires": [],
+"hires": [
+"graduate",
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
 "https://www.dsv.com/en-us/careers/trainee-program"
 ],
@@ -168013,11 +168548,14 @@
 "funding": "",
 "campus_site": "https://jobs.ontrac.com/en",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.ontrac.com/en"
+"https://jobs.ontrac.com/en",
+"https://jobs.ontrac.com/job/chantilly/engineering-intern-yard/50022/95091170336"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168071,7 +168609,10 @@
 "funding": "",
 "campus_site": "https://about.usps.com/careers/career-opportunities/students-graduates.htm",
 "system": "",
-"hires": [],
+"hires": [
+"internship",
+"graduate"
+],
 "roles": [],
 "notes": "",
 "sources": [
@@ -168107,7 +168648,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.matson.com/corporate/careers/job-postings.html?p=jobs/"
+"https://www.matson.com/corporate/careers/job-postings.html?p=jobs/",
+"https://jobs.jobvite.com/matson/job/oBOKzfws?nl=1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168139,7 +168681,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://floridadetroitdieselallison-kirbycorp.icims.com/jobs/intro?hashed=-435714625"
+"https://floridadetroitdieselallison-kirbycorp.icims.com/jobs/intro?hashed=-435714625",
+"https://corporate-kirbycorp.icims.com/jobs/3356/marketing-intern/job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168164,11 +168707,14 @@
 "funding": "",
 "campus_site": "https://cacareers-crowley.icims.com",
 "system": "iCIMS",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://cacareers-crowley.icims.com"
+"https://cacareers-crowley.icims.com",
+"https://www.crowley.com/news-and-media/culture/internships-in-the-transportation-industry/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168193,13 +168739,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.maersk.com/careers/vacancies/wd/Internship---Social-Media_R195764/jt-internship-social-media",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.maersk.com/careers/vacancies/wd/Internship---Social-Media_R195764/jt-internship-social-media"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.maersk.com/local-information/north-america"
 },
@@ -168220,13 +168770,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.cmacgm-group.com/CMACGM/job/Norfolk-Va-Digital-Innovation-Specialist-Internship/1056864201/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://jobs.cmacgm-group.com/CMACGM/job/Norfolk-Va-Digital-Innovation-Specialist-Internship/1056864201/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cma-cgm.com"
 },
@@ -168249,13 +168803,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.saltchuk.com/jobs/human-resources-intern-in-seattle-washington-us/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.saltchuk.com/jobs/human-resources-intern-in-seattle-washington-us/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.saltchuk.com"
 },
@@ -168337,7 +168895,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.enterprisemobility.com/en/careers/career-opportunities/internship-and-placement-jobs.html",
 "system": "",
 "hires": [
 "graduate",
@@ -168347,8 +168905,10 @@
 "Management Trainee"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.enterprisemobility.com/en/careers/career-opportunities/internship-and-placement-jobs.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.enterprisemobility.com"
 },
@@ -168407,12 +168967,14 @@
 "campus_site": "https://www.avisbudgetgroup.jobs",
 "system": "",
 "hires": [
+"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.avisbudgetgroup.jobs"
+"https://www.avisbudgetgroup.jobs",
+"https://www.avisbudgetgroup.jobs/en/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168553,11 +169115,14 @@
 "funding": "",
 "campus_site": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers"
+"https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers",
+"https://www.holman.com/about-us/careers/internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168582,11 +169147,15 @@
 "funding": "",
 "campus_site": "https://www.merchantsfleet.com/about/careers/",
 "system": "",
-"hires": [],
+"hires": [
+"graduate",
+"internship"
+],
 "roles": [],
-"notes": "",
+"notes": "Internship open to students graduating in 2027 or 2028; rotation programme to bachelor's graduates",
 "sources": [
-"https://www.merchantsfleet.com/about/careers/"
+"https://www.merchantsfleet.com/about/careers/",
+"https://www.merchantsfleet.com/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],

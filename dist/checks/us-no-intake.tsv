@@ -1595,3 +1595,174 @@ University of Maine		research-08.jsonl
 Michigan Technological University		research-08.jsonl
 Broadcom Software		software-01.jsonl
 Elastic		software-02.jsonl
+GitLab		software-02.jsonl
+JFrog		software-02.jsonl
+New Relic		software-02.jsonl
+PagerDuty		software-02.jsonl
+SentinelOne		software-02.jsonl
+Qualys		software-02.jsonl
+Check Point Software		software-03.jsonl
+Arctic Wolf		software-03.jsonl
+BeyondTrust		software-03.jsonl
+Forcepoint		software-03.jsonl
+Rubrik		software-03.jsonl
+Snyk		software-03.jsonl
+Wiz		software-03.jsonl
+Vanta		software-03.jsonl
+Drata		software-03.jsonl
+OneTrust		software-03.jsonl
+Axonius		software-03.jsonl
+DigitalOcean		software-04.jsonl
+Cloud Software Group		software-04.jsonl
+Alteryx		software-04.jsonl
+Collibra		software-04.jsonl
+Alation		software-04.jsonl
+Couchbase		software-04.jsonl
+Redis		software-04.jsonl
+Neo4j US		software-04.jsonl
+Aspen Technology		software-05.jsonl
+Applied Systems		software-05.jsonl
+Vertafore		software-05.jsonl
+Majesco		software-05.jsonl
+Insurity		software-05.jsonl
+CCC Intelligent Solutions		software-05.jsonl
+Coupa		software-05.jsonl
+Anaplan		software-05.jsonl
+Vertex Inc		software-05.jsonl
+Zuora		software-05.jsonl
+Acumatica		software-05.jsonl
+Paycor		software-06.jsonl
+Kaseya		software-06.jsonl
+N-able		software-06.jsonl
+NinjaOne		software-06.jsonl
+Automation Anywhere		software-06.jsonl
+Nintex		software-06.jsonl
+ServiceTitan		software-06.jsonl
+Olo		software-06.jsonl
+Medallia		software-06.jsonl
+Momentive SurveyMonkey		software-06.jsonl
+Iterable		software-07.jsonl
+Semrush		software-07.jsonl
+Freshworks		software-07.jsonl
+Smartsheet		software-07.jsonl
+monday.com US		software-07.jsonl
+Docker		software-07.jsonl
+LaunchDarkly		software-07.jsonl
+Algolia US		software-07.jsonl
+JetBrains US		software-07.jsonl
+8x8		software-07.jsonl
+Genesys		software-08.jsonl
+NICE North America		software-08.jsonl
+Talkdesk		software-08.jsonl
+Avaya		software-08.jsonl
+Gainsight		software-08.jsonl
+Salesloft		software-08.jsonl
+Outreach		software-08.jsonl
+Gong		software-08.jsonl
+6sense		software-08.jsonl
+Demandbase		software-08.jsonl
+NextGen Healthcare		software-08.jsonl
+eClinicalWorks		software-08.jsonl
+WellSky		software-08.jsonl
+CentralSquare Technologies		software-08.jsonl
+OpenGov		software-08.jsonl
+Granicus		software-08.jsonl
+Accela		software-09.jsonl
+Axon		software-09.jsonl
+RealPage		software-09.jsonl
+AppFolio		software-09.jsonl
+MRI Software		software-09.jsonl
+Manhattan Associates		software-09.jsonl
+Descartes US		software-09.jsonl
+Amdocs US		software-09.jsonl
+Synchronoss		software-09.jsonl
+Tata Consultancy Services		software-09.jsonl
+Tech Mahindra Americas		software-09.jsonl
+Mphasis		software-09.jsonl
+Hexaware		software-09.jsonl
+Virtusa		software-09.jsonl
+EPAM Systems		software-09.jsonl
+Endava US		software-10.jsonl
+DXC Technology		software-10.jsonl
+Unisys		software-10.jsonl
+Sopra Steria US		software-10.jsonl
+CDW		software-10.jsonl
+ePlus		software-10.jsonl
+Grid Dynamics		software-10.jsonl
+SoftServe US		software-10.jsonl
+Cyient US		software-10.jsonl
+Zensar US		software-10.jsonl
+Coforge US		software-10.jsonl
+Sonata Software US		software-10.jsonl
+Apexon		software-10.jsonl
+Ciklum US		software-10.jsonl
+Rightpoint		software-10.jsonl
+SADA		software-10.jsonl
+Nissan North America		transport-01.jsonl
+Infiniti USA		transport-01.jsonl
+Mazda North American Operations		transport-01.jsonl
+Thor Industries		transport-01.jsonl
+Winnebago Industries		transport-01.jsonl
+LiveWire Group		transport-01.jsonl
+Peterbilt Motors Company		transport-02.jsonl
+Shyft Group		transport-02.jsonl
+Xos		transport-02.jsonl
+Workhorse Group		transport-02.jsonl
+DENSO International America		transport-02.jsonl
+Visteon		transport-02.jsonl
+Adient		transport-02.jsonl
+Garrett Motion		transport-02.jsonl
+Cooper-Standard		transport-02.jsonl
+Stoneridge		transport-02.jsonl
+Superior Industries		transport-02.jsonl
+Commercial Vehicle Group		transport-02.jsonl
+Standard Motor Products		transport-02.jsonl
+Dorman Products		transport-02.jsonl
+Valeo North America		transport-02.jsonl
+Hitachi Astemo Americas		transport-03.jsonl
+OPENLANE		transport-03.jsonl
+ACV Auctions		transport-03.jsonl
+Ultium Cells		transport-03.jsonl
+Blink Charging		transport-03.jsonl
+Gatik		transport-03.jsonl
+Hawaiian Airlines		transport-04.jsonl
+Avelo Airlines		transport-04.jsonl
+Horizon Air		transport-04.jsonl
+Atlas Air		transport-04.jsonl
+Cape Air		transport-04.jsonl
+Signature Aviation		transport-04.jsonl
+Atlantic Aviation		transport-04.jsonl
+Swissport USA		transport-04.jsonl
+Menzies Aviation		transport-04.jsonl
+Surf Air Mobility		transport-04.jsonl
+Dallas Fort Worth International Airport		transport-05.jsonl
+Northwest Seaport Alliance		transport-05.jsonl
+Brightline		transport-05.jsonl
+Genesee & Wyoming		transport-05.jsonl
+FirstGroup America		transport-06.jsonl
+FlixBus USA		transport-06.jsonl
+Virginia Department of Transportation		transport-06.jsonl
+RXO		transport-07.jsonl
+Old Dominion Freight Line		transport-07.jsonl
+Landstar System		transport-07.jsonl
+Hub Group		transport-07.jsonl
+Heartland Express		transport-08.jsonl
+Forward Air		transport-08.jsonl
+Marten Transport		transport-08.jsonl
+P.A.M. Transportation Services		transport-08.jsonl
+R+L Carriers		transport-08.jsonl
+Southeastern Freight Lines		transport-08.jsonl
+Pitt Ohio		transport-08.jsonl
+Worldwide Express		transport-08.jsonl
+Loadsmart		transport-08.jsonl
+project44		transport-08.jsonl
+Motive		transport-08.jsonl
+GEODIS (US)		transport-08.jsonl
+Mallory Alexander International Logistics		transport-08.jsonl
+Radiant Logistics		transport-08.jsonl
+Veho		transport-09.jsonl
+TOTE Maritime		transport-09.jsonl
+U-Haul		transport-09.jsonl
+Element Fleet Management (US)		transport-09.jsonl
+Wheels		transport-09.jsonl
+Getaround		transport-09.jsonl
