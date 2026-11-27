@@ -1,5 +1,5 @@
 {"name": "EmblemHealth", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Health Net", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Health Net", "status": "confirmed", "programme": "https://jobs.centene.com/us/en/career-areas/internships/", "hires": ["internship"], "notes": "Does not sponsor work visas", "evidence": "Sponsorship and future sponsorship are not available for these opportunities"}
 {"name": "Sentara Health", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Priority Health", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Alignment Healthcare", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
@@ -11,7 +11,7 @@
 {"name": "Medica", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "HealthPartners", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Delta Dental of California", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Prime Therapeutics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Prime Therapeutics", "status": "confirmed", "programme": "https://www.primetherapeutics.com/medication-therapy-management-internship", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Navitus Health Solutions", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "MedImpact Healthcare Systems", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Optum Rx", "status": "confirmed", "programme": "https://www.optum.com/en/careers.html", "hires": ["internship"], "notes": "", "evidence": ""}
@@ -19,7 +19,7 @@
 {"name": "Walgreens", "status": "confirmed", "programme": "https://jobs.walgreens.com/en/students", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "McKesson", "status": "confirmed", "programme": "https://careers.mckesson.com/en/early-talent", "hires": ["graduate", "internship"], "notes": "Does not sponsor work visas", "evidence": "Authorized to work in the United States without the need for employer support or sponsorship now or in the future"}
 {"name": "Cardinal Health", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Cencora", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cencora", "status": "confirmed", "programme": "https://careers.cencora.com/us/en/job/R2515435/Sales-Intern", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Henry Schein", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Owens & Minor", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Patterson Companies", "status": "confirmed", "programme": "https://jobs.pattersoncompanies.com/intern", "hires": ["internship"], "notes": "", "evidence": ""}
@@ -29,7 +29,7 @@
 {"name": "BrightSpring Health Services", "status": "confirmed", "programme": "https://www.brightspringhealth.com/campus-opportunities/", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Omnicell", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "HCA Healthcare", "status": "confirmed", "programme": "https://www.hcahealthcare.com/nurses/nursing-careers", "hires": ["graduate"], "notes": "", "evidence": ""}
-{"name": "CommonSpirit Health", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "CommonSpirit Health", "status": "confirmed", "programme": "https://www.commonspirit.careers/nnrp", "hires": ["graduate"], "notes": "", "evidence": ""}
 {"name": "Ascension", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Trinity Health", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Providence", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
@@ -51,7 +51,7 @@
 {"name": "Sutter Health", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Banner Health", "status": "confirmed", "programme": "https://www.bannerhealth.com/health-professionals/for-students", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Baylor Scott & White Health", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Houston Methodist", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Houston Methodist", "status": "confirmed", "programme": "https://www.houstonmethodistcareers.org/sg-overview.html", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "MD Anderson Cancer Center", "status": "confirmed", "programme": "https://www.mdanderson.org/education-training/continuing-education-professional-development/administrative-internships-fellowships.html", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Memorial Sloan Kettering Cancer Center", "status": "confirmed", "programme": "https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Northwell Health", "status": "confirmed", "programme": "https://jobs.northwell.edu/students/", "hires": ["internship"], "notes": "", "evidence": ""}

@@ -6,12 +6,12 @@
 {"name": "Rockwell Automation", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Cognex", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Azenta", "status": "careers_only", "programme": "https://www.azenta.com/company/careers", "hires": [], "notes": "", "evidence": ""}
-{"name": "Diligent Robotics", "status": "careers_only", "programme": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8208239003", "hires": [], "notes": "", "evidence": ""}
+{"name": "Diligent Robotics", "status": "careers_only", "programme": "https://job-boards.greenhouse.io/diligentrobotics", "hires": [], "notes": "", "evidence": ""}
 {"name": "AMP Robotics", "status": "careers_only", "programme": "https://www.amp.ai", "hires": [], "notes": "", "evidence": ""}
 {"name": "Pickle Robot", "status": "careers_only", "programme": "https://www.picklerobot.com/careers", "hires": [], "notes": "", "evidence": ""}
 {"name": "Vecna Robotics", "status": "careers_only", "programme": "https://www.vecnarobotics.com/company/careers/", "hires": [], "notes": "", "evidence": ""}
 {"name": "Ambi Robotics", "status": "careers_only", "programme": "https://www.ambirobotics.com/careers", "hires": [], "notes": "", "evidence": ""}
-{"name": "Plus One Robotics", "status": "careers_only", "programme": "https://www.plusonerobotics.com/careers", "hires": [], "notes": "", "evidence": ""}
+{"name": "Plus One Robotics", "status": "confirmed", "programme": "https://www.plusonerobotics.com/careers", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Bright Machines", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Machina Labs", "status": "careers_only", "programme": "https://machinalabs.ai/careers", "hires": [], "notes": "", "evidence": ""}
 {"name": "Hadrian", "status": "careers_only", "programme": "https://www.hadrian.co/careers", "hires": [], "notes": "", "evidence": ""}
@@ -23,13 +23,13 @@
 {"name": "Elevance Health", "status": "confirmed", "programme": "https://careers.elevancehealth.com/programs", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Cigna Group", "status": "confirmed", "programme": "https://jobs.thecignagroup.com/us/en/studentandgraduates", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Evernorth Health Services", "status": "confirmed", "programme": "https://jobs.thecignagroup.com/us/en/studentandgraduates", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "Humana", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Humana", "status": "careers_only", "programme": "https://careers.humana.com/", "hires": [], "notes": "", "evidence": ""}
 {"name": "Centene", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Molina Healthcare", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Molina Healthcare", "status": "careers_only", "programme": "https://careers.molinahealthcare.com/", "hires": [], "notes": "", "evidence": ""}
 {"name": "CVS Health", "status": "confirmed", "programme": "https://jobs.cvshealth.com/us/en/students", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Aetna", "status": "confirmed", "programme": "https://jobs.cvshealth.com/us/en/students", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Kaiser Permanente", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Oscar Health", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Oscar Health", "status": "careers_only", "programme": "https://oscarhealth.com/careers", "hires": [], "notes": "", "evidence": ""}
 {"name": "Highmark Health", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Allegheny Health Network", "status": "confirmed", "programme": "https://www.ahn.org/health-care-professionals/education/career-exploration/internships-externships-rotations", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Health Care Service Corporation", "status": "confirmed", "programme": "https://careers.hcsc.com/ourcareers", "hires": ["internship"], "notes": "", "evidence": ""}
@@ -48,7 +48,7 @@
 {"name": "Wellmark Blue Cross and Blue Shield", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Blue Cross Blue Shield of Arizona", "status": "confirmed", "programme": "https://jobs.azblue.com/it-jobs", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Blue Cross Blue Shield of Tennessee", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Blue Cross and Blue Shield of Kansas City", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Blue Cross and Blue Shield of Kansas City", "status": "careers_only", "programme": "https://www.bluekc.com/about-us/careers/", "hires": [], "notes": "", "evidence": ""}
 {"name": "Capital Blue Cross", "status": "careers_only", "programme": "https://www.capbluecross.com/wps/portal/cap/about/career", "hires": [], "notes": "", "evidence": ""}
 {"name": "Arkansas Blue Cross and Blue Shield", "status": "careers_only", "programme": "https://www.arkansasbluecross.com/about/careers", "hires": [], "notes": "", "evidence": ""}
 {"name": "Blue Cross and Blue Shield of Minnesota", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}

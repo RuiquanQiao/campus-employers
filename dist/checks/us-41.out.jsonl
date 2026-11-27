@@ -1,30 +1,30 @@
 {"name": "nVent Electric", "status": "confirmed", "programme": "https://www.nvent.com/en-us/early-careers-nvent", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
-{"name": "Modine Manufacturing", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Modine Manufacturing", "status": "confirmed", "programme": "https://careers.modine.com/job/Operations-Rotational-Development-Program/1457-en_US", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Xerox", "status": "confirmed", "programme": "https://www.xerox.com/en-us/jobs/student-internship-program", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Lexmark", "status": "confirmed", "programme": "https://www.lexmark.com/en_us/about-us/careers/students-and-recent-graduates.html", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Logitech", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Corsair Gaming", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Corsair Gaming", "status": "confirmed", "programme": "https://www.corsair.com/us/en/careers", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Sonos", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "GoPro", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Bose Corporation", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Arlo Technologies", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Wyze Labs", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Lutron Electronics", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Oura", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "WHOOP", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Oura", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/oura/jobs/4238605009", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "WHOOP", "status": "confirmed", "programme": "https://www.whoop.com/us/en/students/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Samsara", "status": "confirmed", "programme": "https://www.samsara.com/company/careers/emerging-talent", "hires": ["graduate", "internship"], "notes": "Students planning to graduate next year (internship) or in the current academic year (new grad)", "evidence": "If you're a student in an undergraduate or graduate program planning to graduate next year, we want you!"}
-{"name": "Magic Leap", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Magic Leap", "status": "confirmed", "programme": "https://www.smartrecruiters.com/MagicLeapInc/83759793", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Kopin", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Vuzix", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Vuzix", "status": "confirmed", "programme": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3970581", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Xperi", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "SparkFun Electronics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Adafruit Industries", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Teledyne Technologies", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Teledyne FLIR", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Teledyne Technologies", "status": "confirmed", "programme": "https://www.teledynecontrols.com/careers/internships", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Teledyne FLIR", "status": "confirmed", "programme": "https://oem.flir.com/about/careers/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Mercury Systems", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "CAES", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "CAES", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Akoustis Technologies", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Ouster", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Ouster", "status": "confirmed", "programme": "https://jobs.lever.co/ouster/f2e13470-4264-476e-9a47-887a5f1308cf", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Luminar Technologies", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Aeva Technologies", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "IonQ", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
@@ -34,27 +34,27 @@
 {"name": "D-Wave Quantum", "status": "confirmed", "programme": "https://www.dwavequantum.com/company/careers/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Infleqtion", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Atom Computing", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "QuEra Computing", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Quantum Computing Inc.", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "QuEra Computing", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5227710008", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Quantum Computing Inc.", "status": "confirmed", "programme": "https://careers.quantumcomputinginc.com/jobs/-EISGST_qoRI/quantum-remote-sensing-intern", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Boston Dynamics", "status": "confirmed", "programme": "https://bostondynamics.com/careers/", "hires": ["internship"], "notes": "Students enrolled full-time in a bachelor's, master's or PhD programme", "evidence": "talented and qualified students who are enrolled full-time and pursuing a bachelor’s degree, master’s degree, or PhD"}
-{"name": "Intuitive Surgical", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Intuitive Surgical", "status": "confirmed", "programme": "https://careers.intuitive.com/en/career-opportunities/students-and-university/", "hires": ["internship"], "notes": "Applicants must be authorized to work in the country where the role is posted and returning to a degree programme afterwards", "evidence": "authorized to work in the country where the role is posted"}
 {"name": "Symbotic", "status": "confirmed", "programme": "https://www.symbotic.com/careers/jobs/R8567/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Locus Robotics", "status": "confirmed", "programme": "https://locusrobotics.com/company/careers/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Agility Robotics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Figure AI", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Apptronik", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Skydio", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Figure AI", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/figureai/jobs/4644676006", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Apptronik", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/apptronik/jobs/5828414004", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Skydio", "status": "confirmed", "programme": "https://www.skydio.com/jobs/7498514003", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Anduril Industries", "status": "confirmed", "programme": "https://www.anduril.com/early-careers", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
-{"name": "Shield AI", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Shield AI", "status": "confirmed", "programme": "https://shield.ai/summer-internship-program", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Saronic Technologies", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Epirus", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Zipline", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Gecko Robotics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Path Robotics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Dexterity", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Dexterity", "status": "confirmed", "programme": "https://jobs.lever.co/dexterity/062d95f6-83b6-4e08-9fc8-a70179373e3c", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Nuro", "status": "confirmed", "programme": "https://www.nuro.ai/early-career", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Aurora Innovation", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Waymo", "status": "confirmed", "programme": "https://careers.withwaymo.com/early-careers", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "Zoox", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Zoox", "status": "confirmed", "programme": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Kodiak Robotics", "status": "confirmed", "programme": "https://kodiak.ai/careers", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "Torc Robotics", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Torc Robotics", "status": "confirmed", "programme": "https://torc.ai/co-ops/", "hires": ["internship"], "notes": "", "evidence": ""}

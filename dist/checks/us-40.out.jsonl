@@ -8,18 +8,18 @@
 {"name": "Lake Shore Cryotronics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Jabil", "status": "confirmed", "programme": "https://careers.jabil.com/students-internship-apprenticeship-programs.html", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Flex", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Sanmina", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Sanmina", "status": "confirmed", "programme": "https://careers.sanmina.com/job/3938/it_college_graduate_program", "hires": ["graduate"], "notes": "US citizens only", "evidence": "due to Department of Defense contract requirements, U.S. CITIZENSHIP IS REQUIRED"}
 {"name": "Benchmark Electronics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Plexus", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "TTM Technologies", "status": "confirmed", "programme": "https://www.ttm.com/en/careers/join-ttm-north-america/early-careers-at-ttm", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Kimball Electronics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Key Tronic", "status": "confirmed", "programme": "https://www.keytronic.com/join-us/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Nortech Systems", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "OSI Systems", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "OSI Systems", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Vicor", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Methode Electronics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Bel Fuse", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "CTS Corporation", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "CTS Corporation", "status": "confirmed", "programme": "https://careers.ctscorp.com/job/Albuquerque-Industrial-Engineering-Intern-NM-87113/1117844900/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Littelfuse", "status": "confirmed", "programme": "https://littelfuse.com/careers/early-career.aspx", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Amphenol", "status": "confirmed", "programme": "https://amphenol-industrial.com/internship-program/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "TE Connectivity", "status": "confirmed", "programme": "https://careers.te.com/go/Development-Programs/7915200", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
@@ -29,32 +29,32 @@
 {"name": "Sensata Technologies", "status": "confirmed", "programme": "https://sensata.com/careers/university-programs", "hires": ["internship", "graduate"], "notes": "", "evidence": ""}
 {"name": "Universal Display", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "IPG Photonics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "nLight", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "nLight", "status": "confirmed", "programme": "https://jobs.jobvite.com/nlight/job/owudzfww", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Applied Optoelectronics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Luna Innovations", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Ciena", "status": "confirmed", "programme": "https://www.ciena.com/careers/students-new-graduates", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Calix", "status": "confirmed", "programme": "https://www.calix.com/careers/internships.html", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "ADTRAN", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "ADTRAN", "status": "confirmed", "programme": "https://adtran.com/careers", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Extreme Networks", "status": "confirmed", "programme": "https://www.extremenetworks.com/about-extreme-networks/career/internships", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Ubiquiti", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "NETGEAR", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Ribbon Communications", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Harmonic", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Harmonic", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Aviat Networks", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Digi International", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Lantronix", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Inseego", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Cambium Networks", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "A10 Networks", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "A10 Networks", "status": "confirmed", "programme": "https://www.a10networks.com/blog/help-drive-the-future-of-innovation-for-enterprise-and-service-provider-customers/", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "F5", "status": "confirmed", "programme": "https://www.f5.com/company/careers/early-careers/us", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "Ericsson Inc.", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Motorola Solutions", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "NetApp", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Pure Storage", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Ericsson Inc.", "status": "confirmed", "programme": "https://www.ericsson.com/en/careers/student-young-professionals/internships-us-canada", "hires": ["internship", "graduate"], "notes": "", "evidence": ""}
+{"name": "Motorola Solutions", "status": "confirmed", "programme": "https://www.motorolasolutions.com/about/careers.html", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "NetApp", "status": "confirmed", "programme": "https://careers.netapp.com/job/morrisville/intern-sales/27600/88684652416", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Pure Storage", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/purestorage/jobs/7258723", "hires": ["internship", "graduate"], "notes": "", "evidence": ""}
 {"name": "Hitachi Vantara", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Quantum Corporation", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "DDN", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "DDN", "status": "confirmed", "programme": "https://careers-ddn.icims.com/jobs/5186/infinia-engineering-intern/job", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "VAST Data", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Kingston Technology", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Solidigm", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Vertiv", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Kingston Technology", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Solidigm", "status": "confirmed", "programme": "https://jobs.smartrecruiters.com/Solidigm/744000083281832", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Vertiv", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}

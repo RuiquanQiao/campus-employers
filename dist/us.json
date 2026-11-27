@@ -72058,7 +72058,6 @@
 "campus_site": "https://careers.veeco.com/content/Intern/?locale=en_US",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -72120,7 +72119,6 @@
 "campus_site": "https://www.indie.inc/careers/internships/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -72278,7 +72276,6 @@
 "campus_site": "https://www.skywatertechnology.com/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -72380,7 +72377,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://careersintl-maxlinear.icims.com/jobs/search?ss=1"
+"https://careersintl-maxlinear.icims.com/jobs/search?ss=1",
+"https://www.maxlinear.com/company/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -72638,13 +72636,13 @@
 "campus_site": "https://join.smartrecruiters.com/RenesasElectronics/52cc9dd7-0f97-4350-8ce0-d571757301c5-community-sign-up",
 "system": "SmartRecruiters",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Open to current students pursuing a bachelor's, master's or doctorate",
 "sources": [
-"https://join.smartrecruiters.com/RenesasElectronics/52cc9dd7-0f97-4350-8ce0-d571757301c5-community-sign-up"
+"https://join.smartrecruiters.com/RenesasElectronics/52cc9dd7-0f97-4350-8ce0-d571757301c5-community-sign-up",
+"https://jobs.renesas.com/interns-and-graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -72708,9 +72706,10 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Must hold or be on track to complete a degree by the programme start",
 "sources": [
-"https://earlycareers-arm.icims.com/jobs/login?loginOnly=1&redirect=dashboard"
+"https://earlycareers-arm.icims.com/jobs/login?loginOnly=1&redirect=dashboard",
+"https://careers.arm.com/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -72802,13 +72801,13 @@
 "campus_site": "https://www.cerebras.ai/join-us",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.cerebras.ai/join-us"
+"https://www.cerebras.ai/join-us",
+"https://www.cerebras.ai/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73302,13 +73301,13 @@
 "campus_site": "https://careers.smartrecruiters.com/Silvaco1",
 "system": "SmartRecruiters",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.smartrecruiters.com/Silvaco1"
+"https://careers.smartrecruiters.com/Silvaco1",
+"https://careers.smartrecruiters.com/Silvaco1/early-career"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73496,13 +73495,13 @@
 "campus_site": "https://careers.hscpoly.com/go/Student-Opportunities/9631100/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.hscpoly.com/go/Student-Opportunities/9631100/"
+"https://careers.hscpoly.com/go/Student-Opportunities/9631100/",
+"https://careers.hscpoly.com/content/Students/?locale=en_US"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73528,7 +73527,6 @@
 "campus_site": "https://www.brewerscience.com/about-us/company/careers-3/early-careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -73932,7 +73930,6 @@
 "campus_site": "https://www.rell.com/careers/internship-program/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -74296,13 +74293,13 @@
 "campus_site": "https://www.sanmina.com/careers/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "US citizens only",
 "sources": [
-"https://www.sanmina.com/careers/"
+"https://www.sanmina.com/careers/",
+"https://careers.sanmina.com/job/3938/it_college_graduate_program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74654,13 +74651,13 @@
 "campus_site": "https://www.ctscorp.com/About-CTS/Careers/Internal-Policy-Statement",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.ctscorp.com/About-CTS/Careers/Internal-Policy-Statement"
+"https://www.ctscorp.com/About-CTS/Careers/Internal-Policy-Statement",
+"https://careers.ctscorp.com/job/Albuquerque-Industrial-Engineering-Intern-NM-87113/1117844900/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74979,13 +74976,13 @@
 "campus_site": "https://www.nlight.net/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.nlight.net/careers"
+"https://www.nlight.net/careers",
+"https://jobs.jobvite.com/nlight/job/owudzfww"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75142,13 +75139,13 @@
 "campus_site": "https://adtran.wd3.myworkdayjobs.com/ADTRAN",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://adtran.wd3.myworkdayjobs.com/ADTRAN"
+"https://adtran.wd3.myworkdayjobs.com/ADTRAN",
+"https://adtran.com/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75304,13 +75301,13 @@
 "campus_site": "https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+"https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+"https://job-boards.greenhouse.io/harmonic/jobs/4591178005"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75494,13 +75491,13 @@
 "campus_site": "https://osv-a10networks.wd503.myworkdayjobs.com/A10CareerSite",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://osv-a10networks.wd503.myworkdayjobs.com/A10CareerSite"
+"https://osv-a10networks.wd503.myworkdayjobs.com/A10CareerSite",
+"https://www.a10networks.com/blog/help-drive-the-future-of-innovation-for-enterprise-and-service-provider-customers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75557,16 +75554,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ericsson.com/en/careers/student-young-professionals/internships-us-canada",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ericsson.com/en/careers/student-young-professionals/internships-us-canada"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ericsson.com/en/careers"
 },
@@ -75592,13 +75591,13 @@
 "campus_site": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=Internship",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=Internship"
+"https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=Internship",
+"https://www.motorolasolutions.com/about/careers.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75623,16 +75622,17 @@
 "listed": "Nasdaq NTAP",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.netapp.com/job/morrisville/intern-sales/27600/88684652416",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.netapp.com/job/morrisville/intern-sales/27600/88684652416"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.netapp.com"
 },
@@ -75654,16 +75654,18 @@
 "listed": "NYSE PSTG",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://job-boards.greenhouse.io/purestorage/jobs/7258723",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://job-boards.greenhouse.io/purestorage/jobs/7258723"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.everpuredata.com/company/careers.html",
 "https://www.everpuredata.com/company/careers/opportunities.html"
@@ -75751,16 +75753,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-ddn.icims.com/jobs/5186/infinia-engineering-intern/job",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers-ddn.icims.com/jobs/5186/infinia-engineering-intern/job"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ddn.com"
 },
@@ -75847,13 +75850,13 @@
 "campus_site": "https://www.solidigm.com/who-we-are/careers-page.html",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.solidigm.com/who-we-are/careers-page.html"
+"https://www.solidigm.com/who-we-are/careers-page.html",
+"https://jobs.smartrecruiters.com/Solidigm/744000083281832"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75948,7 +75951,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.modine.com/careers/"
+"https://www.modine.com/careers/",
+"https://careers.modine.com/job/Operations-Rotational-Development-Program/1457-en_US"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76072,13 +76076,13 @@
 "campus_site": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+"https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+"https://www.corsair.com/us/en/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76289,16 +76293,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://job-boards.greenhouse.io/oura/jobs/4238605009",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://job-boards.greenhouse.io/oura/jobs/4238605009"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://ouraring.com"
 },
@@ -76319,16 +76324,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.whoop.com/us/en/students/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.whoop.com/us/en/students/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.whoop.com"
 },
@@ -76385,16 +76391,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.smartrecruiters.com/MagicLeapInc/83759793",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.smartrecruiters.com/MagicLeapInc/83759793"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.magicleap.com"
 },
@@ -76450,13 +76457,13 @@
 "campus_site": "https://www.vuzix.com/pages/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.vuzix.com/pages/careers"
+"https://www.vuzix.com/pages/careers",
+"https://recruiting.paylocity.com/Recruiting/Jobs/Details/3970581"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76575,16 +76582,17 @@
 "listed": "NYSE TDY",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.teledynecontrols.com/careers/internships",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.teledynecontrols.com/careers/internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.teledyne.com"
 },
@@ -76609,13 +76617,13 @@
 "campus_site": "https://flir.wd1.myworkdayjobs.com/flircareers/jobs",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "Many roles require US person status (export-controlled defence work)",
 "sources": [
-"https://flir.wd1.myworkdayjobs.com/flircareers/jobs"
+"https://flir.wd1.myworkdayjobs.com/flircareers/jobs",
+"https://oem.flir.com/about/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76739,13 +76747,13 @@
 "campus_site": "https://ouster.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ouster.com/company/careers"
+"https://ouster.com/company/careers",
+"https://jobs.lever.co/ouster/f2e13470-4264-476e-9a47-887a5f1308cf"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77065,13 +77073,13 @@
 "campus_site": "https://www.quera.com/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.quera.com/careers"
+"https://www.quera.com/careers",
+"https://job-boards.greenhouse.io/queracomputinginc/jobs/5227710008"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77097,13 +77105,13 @@
 "campus_site": "https://quantumcomputinginc.com/company/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://quantumcomputinginc.com/company/careers"
+"https://quantumcomputinginc.com/company/careers",
+"https://careers.quantumcomputinginc.com/jobs/-EISGST_qoRI/quantum-remote-sensing-intern"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77161,16 +77169,17 @@
 "listed": "Nasdaq ISRG",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.intuitive.com/en/career-opportunities/students-and-university/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Applicants must be authorized to work in the country where the role is posted and returning to a degree programme afterwards",
+"sources": [
+"https://careers.intuitive.com/en/career-opportunities/students-and-university/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.intuitive.com"
 },
@@ -77289,13 +77298,13 @@
 "campus_site": "https://www.figure.ai/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.figure.ai/careers"
+"https://www.figure.ai/careers",
+"https://job-boards.greenhouse.io/figureai/jobs/4644676006"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77321,13 +77330,13 @@
 "campus_site": "https://apptronik.com/careers/job-listings",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://apptronik.com/careers/job-listings"
+"https://apptronik.com/careers/job-listings",
+"https://job-boards.greenhouse.io/apptronik/jobs/5828414004"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77353,13 +77362,13 @@
 "campus_site": "https://www.skydio.com/solutions/dfr/campus-police",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.skydio.com/solutions/dfr/campus-police"
+"https://www.skydio.com/solutions/dfr/campus-police",
+"https://www.skydio.com/jobs/7498514003"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77420,13 +77429,13 @@
 "campus_site": "https://jobs.lever.co/shieldai",
 "system": "Lever",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "Many roles require US person status (export-controlled defence work)",
 "sources": [
-"https://jobs.lever.co/shieldai"
+"https://jobs.lever.co/shieldai",
+"https://shield.ai/summer-internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77609,16 +77618,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.lever.co/dexterity/062d95f6-83b6-4e08-9fc8-a70179373e3c",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.lever.co/dexterity/062d95f6-83b6-4e08-9fc8-a70179373e3c"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dexterity.ai"
 },
@@ -77739,16 +77749,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://zoox.com"
 },
@@ -77803,16 +77814,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://torc.ai/co-ops/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://torc.ai/co-ops/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://torc.ai"
 },
@@ -78253,7 +78265,6 @@
 "campus_site": "https://www.plusonerobotics.com/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -79746,16 +79757,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.centene.com/us/en/career-areas/internships/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Does not sponsor work visas",
+"sources": [
+"https://jobs.centene.com/us/en/career-areas/internships/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://jobs.centene.com/us/en/our-health-plans/california/health-net"
 ],
@@ -80105,13 +80117,13 @@
 "campus_site": "https://primetherapeutics.wd1.myworkdayjobs.com/PrimeTherapeuticsCareers",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://primetherapeutics.wd1.myworkdayjobs.com/PrimeTherapeuticsCareers"
+"https://primetherapeutics.wd1.myworkdayjobs.com/PrimeTherapeuticsCareers",
+"https://www.primetherapeutics.com/medication-therapy-management-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80364,9 +80376,7 @@
 "campus_site": "https://careers.cencora.com/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [
 "Finance development programme",
@@ -80374,7 +80384,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.cencora.com/us/en"
+"https://careers.cencora.com/us/en",
+"https://careers.cencora.com/us/en/job/R2515435/Sales-Intern"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80686,14 +80697,13 @@
 "campus_site": "https://careers-commonspirit.icims.com/connect",
 "system": "iCIMS",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-commonspirit.icims.com/connect"
+"https://careers-commonspirit.icims.com/connect",
+"https://www.commonspirit.careers/nnrp"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81410,13 +81420,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://houstonmethodist.wd12.myworkdayjobs.com/en-US/GTI/login"
+"https://houstonmethodist.wd12.myworkdayjobs.com/en-US/GTI/login",
+"https://www.houstonmethodistcareers.org/sg-overview.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81628,16 +81638,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.lifepointhealth.net/nurse-residency",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.lifepointhealth.net/nurse-residency"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://lifepointhealth.net"
 },
@@ -81716,17 +81727,18 @@
 "listed": "NYSE SEM",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs-selectmedicalcorp.icims.com/jobs/381322/2027-summer-internship/job",
 "system": "",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs-selectmedicalcorp.icims.com/jobs/381322/2027-summer-internship/job"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.selectmedical.com"
 },
@@ -81748,14 +81760,13 @@
 "campus_site": "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2534274/apply/email",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2534274/apply/email"
+"https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2534274/apply/email",
+"https://www.encompasshealth.com/about/work-with-us/internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81869,9 +81880,8 @@
 "campus_site": "https://careers.davita.com/",
 "system": "",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [
 "Dialysis registered nurse",
@@ -81880,7 +81890,8 @@
 ],
 "notes": "",
 "sources": [
-"https://careers.davita.com/"
+"https://careers.davita.com/",
+"https://careers.davita.com/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81969,14 +81980,14 @@
 "campus_site": "https://sanford.wd5.myworkdayjobs.com/SanfordHealth/login",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://sanford.wd5.myworkdayjobs.com/SanfordHealth/login"
+"https://sanford.wd5.myworkdayjobs.com/SanfordHealth/login",
+"https://sanfordcareers.com/ssnip/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81997,16 +82008,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.avera.org/careers/internships/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.avera.org/careers/internships/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.avera.org"
 },
@@ -82059,13 +82072,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://allina.wd5.myworkdayjobs.com/en-US/External"
+"https://allina.wd5.myworkdayjobs.com/en-US/External",
+"https://www.allinahealth.org/careers/new-graduates-rn"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82120,13 +82133,14 @@
 "campus_site": "https://sanford.wd5.myworkdayjobs.com/SanfordHealth/login",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://sanford.wd5.myworkdayjobs.com/SanfordHealth/login"
+"https://sanford.wd5.myworkdayjobs.com/SanfordHealth/login",
+"https://marshfieldclinic.org:443/careers/nursing-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82150,17 +82164,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.froedtert.com/student-nursing",
 "system": "",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.froedtert.com/student-nursing"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.froedtert.com"
 },
@@ -82182,14 +82197,14 @@
 "campus_site": "https://eimy.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=beaver+dam&lastSelectedFacet=ORGANIZATIONS&selectedOrganizationsFacet=300000003150001%3B300000003148012",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://eimy.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=beaver+dam&lastSelectedFacet=ORGANIZATIONS&selectedOrganizationsFacet=300000003150001%3B300000003148012"
+"https://eimy.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=beaver+dam&lastSelectedFacet=ORGANIZATIONS&selectedOrganizationsFacet=300000003150001%3B300000003148012",
+"https://careers.uwhealth.org/nurse-externship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82243,9 +82258,7 @@
 "campus_site": "https://careers.corewellhealth.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -82304,17 +82317,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.uofmhealth.org/bsn-student-nurse-extern-program",
 "system": "",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.uofmhealth.org/bsn-student-nurse-extern-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.uofmhealth.org"
 },
@@ -82333,16 +82347,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.mclaren.org/jobs/nurse-intern-34984",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.mclaren.org/jobs/nurse-intern-34984"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.mclaren.org"
 },
@@ -82361,16 +82377,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.bronsonhealth.com/careers/nursing/career-pathways/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship",
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.bronsonhealth.com/careers/nursing/career-pathways/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.bronsonhealth.com"
 },
@@ -82392,14 +82410,14 @@
 "campus_site": "https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/login",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/login"
+"https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/login",
+"https://careers.ohiohealth.com/student-opportunities/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82424,13 +82442,13 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.wexnermedical.osu.edu/career-areas/exploration-for-schools"
+"https://careers.wexnermedical.osu.edu/career-areas/exploration-for-schools",
+"https://careers.wexnermedical.osu.edu/career-areas/nursing/new-graduate"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82454,14 +82472,13 @@
 "campus_site": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers"
+"https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers",
+"https://www.nationwidechildrens.org/careers/whats-your-passion/student-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82486,13 +82503,13 @@
 "system": "Taleo",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://uhhospitals.taleo.net/careersection/2/mysubmissions.ftl"
+"https://uhhospitals.taleo.net/careersection/2/mysubmissions.ftl",
+"https://careers.uhhospitals.org/students/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82516,13 +82533,13 @@
 "campus_site": "https://careers.metrohealth.org/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.metrohealth.org/"
+"https://careers.metrohealth.org/",
+"https://www.metrohealth.org/en/education/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82546,14 +82563,13 @@
 "campus_site": "https://www.cincinnatichildrens.org/careers/international",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.cincinnatichildrens.org/careers/international"
+"https://www.cincinnatichildrens.org/careers/international",
+"https://www.cincinnatichildrens.org/education/programs?ProgramType=%7B7D6630AD-0FBD-4E50-B929-6EC2FF1FA220%7D"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82578,12 +82594,13 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://bsmhealth.org/careers/"
+"https://bsmhealth.org/careers/",
+"https://careers.bsmhealth.org/us/en/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82608,13 +82625,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://mercy.wd1.myworkdayjobs.com/en-us/mercycareers?source=Mercy_Net_Careers"
+"https://mercy.wd1.myworkdayjobs.com/en-us/mercycareers?source=Mercy_Net_Careers",
+"https://careers.mercy.net/nursing"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82635,17 +82652,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.barnesjewish.org/Careers/Students-New-Graduates",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.barnesjewish.org/Careers/Students-New-Graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.bjc.org"
 },
@@ -82695,16 +82712,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.saintlukeskc.org/nurse-residency-program",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.saintlukeskc.org/nurse-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.saintlukeskc.org"
 },
@@ -82726,13 +82744,13 @@
 "campus_site": "https://kansashealthsystem.wd1.myworkdayjobs.com/en-US/careers/login",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://kansashealthsystem.wd1.myworkdayjobs.com/en-US/careers/login"
+"https://kansashealthsystem.wd1.myworkdayjobs.com/en-US/careers/login",
+"https://jobs.kansashealthsystem.com/graduate-nurses-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82756,13 +82774,13 @@
 "campus_site": "https://nebraskamed.wd5.myworkdayjobs.com/NM",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://nebraskamed.wd5.myworkdayjobs.com/NM"
+"https://nebraskamed.wd5.myworkdayjobs.com/NM",
+"https://www.nebraskamed.com/careers/entry-level"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82787,12 +82805,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://methodisthealthsystem.wd1.myworkdayjobs.com/en-US/MHS_Careers/introduceYourself"
+"https://methodisthealthsystem.wd1.myworkdayjobs.com/en-US/MHS_Careers/introduceYourself",
+"https://www.methodisthealthsystem.org/careers/nurse-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82816,14 +82835,13 @@
 "campus_site": "https://texashealth.taleo.net/careersection/iam/accessmanagement/login.jsf?redirectionURI=https%3A%2F%2Ftexashealth.taleo.net%2Fcareersection%2Fex3%2Fjobsearch.ftl%3Fftlcompclass%3DLoginComponent&TARGET=https%3A%2F%2Ftexashealth.taleo.net%2Fcareersection%2Fex3%2Fjobsearch.ftl%3Fftlcompclass%3DLoginComponent",
 "system": "Taleo",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://texashealth.taleo.net/careersection/iam/accessmanagement/login.jsf?redirectionURI=https%3A%2F%2Ftexashealth.taleo.net%2Fcareersection%2Fex3%2Fjobsearch.ftl%3Fftlcompclass%3DLoginComponent&TARGET=https%3A%2F%2Ftexashealth.taleo.net%2Fcareersection%2Fex3%2Fjobsearch.ftl%3Fftlcompclass%3DLoginComponent"
+"https://texashealth.taleo.net/careersection/iam/accessmanagement/login.jsf?redirectionURI=https%3A%2F%2Ftexashealth.taleo.net%2Fcareersection%2Fex3%2Fjobsearch.ftl%3Fftlcompclass%3DLoginComponent&TARGET=https%3A%2F%2Ftexashealth.taleo.net%2Fcareersection%2Fex3%2Fjobsearch.ftl%3Fftlcompclass%3DLoginComponent",
+"https://www.texashealth.org/About-Texas-Health/Residencies-and-Internships/Nursing-Intern-Program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82844,17 +82862,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.memorialhermann.org/us/en/nurse-residency-program",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.memorialhermann.org/us/en/nurse-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://memorialhermann.org"
 },
@@ -82876,14 +82894,13 @@
 "campus_site": "https://assets.childrens.com/web/453bb1aeb3ac2e9b/new-pediatric-campus---campus-gift/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://assets.childrens.com/web/453bb1aeb3ac2e9b/new-pediatric-campus---campus-gift/"
+"https://assets.childrens.com/web/453bb1aeb3ac2e9b/new-pediatric-campus---campus-gift/",
+"https://www.childrens.com/for-healthcare-professionals/education-training/student-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82907,14 +82924,13 @@
 "campus_site": "https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/"
+"https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/",
+"https://www.texaschildrens.org/health-professionals/education-and-training/fellowships-and-residencies/nurse-residency-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82938,13 +82954,13 @@
 "campus_site": "https://utsw.taleo.net/careersection/1/jobsearch.ftl",
 "system": "Taleo",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://utsw.taleo.net/careersection/1/jobsearch.ftl"
+"https://utsw.taleo.net/careersection/1/jobsearch.ftl",
+"https://www.utsouthwestern.edu/education/nondegree-programs/graduate-internship/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82965,16 +82981,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://parklandhealth.org/the-bridge-nurse-residency-program",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://parklandhealth.org/the-bridge-nurse-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.parklandhospital.com"
 },
@@ -82997,12 +83014,13 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.universityhealth.com"
+"https://careers.universityhealth.com",
+"https://universityhealth.com/healthcare-professionals/residency-programs/nursing-residency-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83026,9 +83044,7 @@
 "campus_site": "https://careers.christushealth.org/learning-opportunities/skillbridge-internship-program",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -83057,14 +83073,14 @@
 "campus_site": "https://ochsner.wd1.myworkdayjobs.com/en-US/Ochsner/login",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ochsner.wd1.myworkdayjobs.com/en-US/Ochsner/login"
+"https://ochsner.wd1.myworkdayjobs.com/en-US/Ochsner/login",
+"https://careers.ochsner.org/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83088,14 +83104,13 @@
 "campus_site": "https://baptisthlth.taleo.net/careersection/iam/accessmanagement/login.jsf?redirectionURI=https%3A%2F%2Fbaptisthlth.taleo.net%2Fcareersection%2F2%2Fjobsearch.ftl",
 "system": "Taleo",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://baptisthlth.taleo.net/careersection/iam/accessmanagement/login.jsf?redirectionURI=https%3A%2F%2Fbaptisthlth.taleo.net%2Fcareersection%2F2%2Fjobsearch.ftl"
+"https://baptisthlth.taleo.net/careersection/iam/accessmanagement/login.jsf?redirectionURI=https%3A%2F%2Fbaptisthlth.taleo.net%2Fcareersection%2F2%2Fjobsearch.ftl",
+"https://baptisthealth.net/academics/residencies-and-fellowships/nursing/rn-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83116,17 +83131,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://adventhealth.com/careers/nurse-residency-program",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://adventhealth.com/careers/nurse-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.adventhealth.com"
 },
@@ -83145,17 +83161,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.orlandohealth.com/nursing/rn-residency-program",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.orlandohealth.com/nursing/rn-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.orlandohealth.com"
 },
@@ -83177,14 +83194,13 @@
 "campus_site": "https://tgh.taleo.net/careersection/ex/jobsearch.ftl?lang=en&keyword=",
 "system": "Taleo",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://tgh.taleo.net/careersection/ex/jobsearch.ftl?lang=en&keyword="
+"https://tgh.taleo.net/careersection/ex/jobsearch.ftl?lang=en&keyword=",
+"https://tgh.org/careers-at-tampa-general/nursing-at-tgh/benefits-for-nurses/nurse-residency-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83205,17 +83221,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://baycare.org/careers/nursing-careers/registered-nurse-residency-program",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://baycare.org/careers/nursing-careers/registered-nurse-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://baycare.org"
 },
@@ -83234,16 +83250,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jacksonhealth.org/careers/nurse-residency/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jacksonhealth.org/careers/nurse-residency/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://jacksonhealth.org"
 },
@@ -83352,13 +83369,13 @@
 "campus_site": "https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Graduated from an accredited nursing programme within the previous 12 months",
 "sources": [
-"https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers"
+"https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers",
+"https://www.mhs.net/medical-professionals/nursing/professional-development/nurse-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83382,13 +83399,13 @@
 "campus_site": "https://www.baptistjax.com/locations/baptist-north-medical-campus",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.baptistjax.com/locations/baptist-north-medical-campus"
+"https://www.baptistjax.com/locations/baptist-north-medical-campus",
+"https://www.baptistjax.com/about-us/careers/recent-nursing-graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83441,14 +83458,13 @@
 "campus_site": "https://hhc.wd5.myworkdayjobs.com/en-US/HHC",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://hhc.wd5.myworkdayjobs.com/en-US/HHC"
+"https://hhc.wd5.myworkdayjobs.com/en-US/HHC",
+"https://www.emoryhealthcare.org/careers/career-areas/residencies-fellowships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83472,13 +83488,13 @@
 "campus_site": "https://www.gradyhealth.org/media-center/grady-announces-new-south-fulton-medical-campus-and-planned-leadership-transition-signaling-the-future-of-care-delivery/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.gradyhealth.org/media-center/grady-announces-new-south-fulton-medical-campus-and-planned-leadership-transition-signaling-the-future-of-care-delivery/"
+"https://www.gradyhealth.org/media-center/grady-announces-new-south-fulton-medical-campus-and-planned-leadership-transition-signaling-the-future-of-care-delivery/",
+"https://www.gradyhealth.org/training-programs/nurse-externship/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83502,14 +83518,13 @@
 "campus_site": "https://careers.choa.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.choa.org/us/en"
+"https://careers.choa.org/us/en",
+"https://www.choa.org/medical-professionals/education-and-training/fellowships-and-residencies/child-life-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83530,17 +83545,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.wellstar.org/student-nurse-externship-program",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.wellstar.org/student-nurse-externship-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wellstar.org"
 },
@@ -83559,16 +83574,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers-northside.icims.com/jobs/106845/department-intern/job",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers-northside.icims.com/jobs/106845/department-intern/job"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.northside.com"
 },
@@ -83587,17 +83603,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.novanthealth.org/student-programs/paid-internships",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.novanthealth.org/student-programs/paid-internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.novanthealth.org"
 },
@@ -83619,14 +83635,13 @@
 "campus_site": "https://careers.dukehealth.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.dukehealth.org/us/en"
+"https://careers.dukehealth.org/us/en",
+"https://careers.duke.edu/job/Durham-Health-Administration-Summer-Internship-NC-27710/1354307300"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83679,13 +83694,13 @@
 "campus_site": "https://careers-wakemed.icims.com/jobs/login?loginOnly=1",
 "system": "iCIMS",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-wakemed.icims.com/jobs/login?loginOnly=1"
+"https://careers-wakemed.icims.com/jobs/login?loginOnly=1",
+"https://jobs.wakemed.org/education-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83710,12 +83725,13 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.ecuhealth.org/us/en"
+"https://careers.ecuhealth.org/us/en",
+"https://www.ecuhealth.org/services/maynard-childrens-hospital/internships-and-practicums/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83736,17 +83752,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://sa.prismahealth.org/internships/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://sa.prismahealth.org/internships/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://prismahealth.org"
 },
@@ -83768,14 +83784,13 @@
 "campus_site": "https://musc.wd1.myworkdayjobs.com/MUSC/login",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://musc.wd1.myworkdayjobs.com/MUSC/login"
+"https://musc.wd1.myworkdayjobs.com/MUSC/login",
+"https://education.musc.edu/colleges-programs/training-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83799,14 +83814,13 @@
 "campus_site": "https://careers.vcuhealth.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.vcuhealth.org/us/en"
+"https://careers.vcuhealth.org/us/en",
+"https://careers.vcuhealth.org/us/en/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83830,14 +83844,13 @@
 "campus_site": "https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+"https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+"https://www.inova.org/education/non-clinical-educational-opportunities/academic-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83858,16 +83871,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.carilionclinic.org/students-and-grads",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.carilionclinic.org/students-and-grads"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.carilionclinic.org"
 },
@@ -83889,13 +83903,13 @@
 "campus_site": "https://careers.uvahealth.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.uvahealth.org/us/en"
+"https://careers.uvahealth.org/us/en",
+"https://medicalcenter.virginia.edu/pharmacy/pharmacy-internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83919,13 +83933,13 @@
 "campus_site": "https://ensemblehp.wd5.myworkdayjobs.com/EnsembleHealthPartnersCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ensemblehp.wd5.myworkdayjobs.com/EnsembleHealthPartnersCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be"
+"https://ensemblehp.wd5.myworkdayjobs.com/EnsembleHealthPartnersCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be",
+"https://www.balladhealth.org/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83949,14 +83963,13 @@
 "campus_site": "https://careers-medstarhealth.icims.com",
 "system": "iCIMS",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-medstarhealth.icims.com"
+"https://careers-medstarhealth.icims.com",
+"https://medstarhealth.org/for-healthcare-professionals/medstar-health-administrative-fellowship-programs/medstar-washington-hospital-center-administrative-fellowship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -83977,17 +83990,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3a1cf3d0-53be-4d4a-9c2f-758a52f9795f",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3a1cf3d0-53be-4d4a-9c2f-758a52f9795f"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.umms.org"
 },
@@ -84006,16 +84019,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.lifebridgehealth.org/careers/nursing-student-careers",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.lifebridgehealth.org/careers/nursing-student-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.lifebridgehealth.org"
 },
@@ -84037,14 +84051,13 @@
 "campus_site": "https://childrensnational.wd108.myworkdayjobs.com/CN_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://childrensnational.wd108.myworkdayjobs.com/CN_Careers"
+"https://childrensnational.wd108.myworkdayjobs.com/CN_Careers",
+"https://childrensnational.org/healthcare-providers/healthcare-education/training-programs/family-and-child-life-opportunities/child-life-services-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84068,14 +84081,13 @@
 "campus_site": "https://careers.christianacare.org",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.christianacare.org"
+"https://careers.christianacare.org",
+"https://news.christianacare.org/2026/06/a-step-in-the-right-direction/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84096,17 +84108,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.geisinger.org/college",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.geisinger.org/college"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.geisinger.org"
 },
@@ -84125,17 +84137,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://hr.jefferson.edu/careers/students-new-grads/nursing-opportunities.html",
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://hr.jefferson.edu/careers/students-new-grads/nursing-opportunities.html"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.jeffersonhealth.org"
 },
@@ -84157,13 +84170,13 @@
 "campus_site": "https://mainline.taleo.net/careersection/2/mysubmissions.ftl?lang=en",
 "system": "Taleo",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://mainline.taleo.net/careersection/2/mysubmissions.ftl?lang=en"
+"https://mainline.taleo.net/careersection/2/mysubmissions.ftl?lang=en",
+"https://careers.mainlinehealth.org/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84214,17 +84227,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.chop.edu/pages/child-life-internship",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.chop.edu/pages/child-life-internship"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.chop.edu"
 },
@@ -84247,12 +84260,13 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.pennstatehealth.org/students-career-development"
+"https://www.pennstatehealth.org/students-career-development",
+"https://www.pennstatehealth.org/careers/job-opportunities/nursing/graduate-nurse-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84273,16 +84287,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.wellspan.org/For-Healthcare-Professionals/Education-and-Development/Unpaid-Intern-Program",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.wellspan.org/For-Healthcare-Professionals/Education-and-Development/Unpaid-Intern-Program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.joinwellspan.org",
 "https://www.joinwellspan.org/",
@@ -84305,16 +84320,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://slhn.org/students/paid-internships",
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://slhn.org/students/paid-internships"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.slhn.org"
 },
@@ -84337,13 +84354,13 @@
 "system": "iCIMS",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://internal-hackensackmeridianhealth.icims.com/jobs/login?loginOnly=1&redirect=&hashed=-435623455"
+"https://internal-hackensackmeridianhealth.icims.com/jobs/login?loginOnly=1&redirect=&hashed=-435623455",
+"https://jobs.hackensackmeridianhealth.org/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84364,17 +84381,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://rwjbh.org/for-health-care-professionals/nursing/center-for-professional-development-innovation-a/student-nurse-externship-program",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://rwjbh.org/for-health-care-professionals/nursing/center-for-professional-development-innovation-a/student-nurse-externship-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.rwjbh.org"
 },
@@ -84396,13 +84413,13 @@
 "campus_site": "https://erqh.fa.us2.oraclecloud.com/hcmUI/hcm/vp/opportunitymarketplace/search",
 "system": "Oracle",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Currently enrolled students only, not graduated before the end of the internship",
 "sources": [
-"https://erqh.fa.us2.oraclecloud.com/hcmUI/hcm/vp/opportunitymarketplace/search"
+"https://erqh.fa.us2.oraclecloud.com/hcmUI/hcm/vp/opportunitymarketplace/search",
+"https://www.atlantichealth.org/professionals/internship-programs/summer-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84423,16 +84440,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://blogs.cooperhealth.org/weeklyrounds/?p=23194",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://blogs.cooperhealth.org/weeklyrounds/?p=23194"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cooperhealth.org"
 },
@@ -84454,13 +84472,13 @@
 "campus_site": "https://virtua.wd1.myworkdayjobs.com/en-US/Virtua_Health_External_Career_Site/introduceYourself",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://virtua.wd1.myworkdayjobs.com/en-US/Virtua_Health_External_Career_Site/introduceYourself"
+"https://virtua.wd1.myworkdayjobs.com/en-US/Virtua_Health_External_Career_Site/introduceYourself",
+"https://www.virtuacareers.com/job/marlton/government-relations-intern/1234/91915874864"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84484,14 +84502,13 @@
 "campus_site": "https://hss.wd1.myworkdayjobs.com/HSS_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://hss.wd1.myworkdayjobs.com/HSS_Careers"
+"https://hss.wd1.myworkdayjobs.com/HSS_Careers",
+"https://www.hss.edu/departments/sports-medicine/womens/summer-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84512,17 +84529,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.montefiore.org/body.cfm?id=2624",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.montefiore.org/body.cfm?id=2624"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.montefiore.org"
 },
@@ -84541,17 +84558,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://nychealthandhospitals.org/institute-for-disease-and-disaster-management/internship/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://nychealthandhospitals.org/institute-for-disease-and-disaster-management/internship/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nychealthandhospitals.org"
 },
@@ -84573,13 +84590,13 @@
 "campus_site": "https://www.chsbuffalo.org/st-joseph-campus/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.chsbuffalo.org/st-joseph-campus/"
+"https://www.chsbuffalo.org/st-joseph-campus/",
+"https://www.chsbuffalo.org/education/clinical-education/nursing/nursing-students/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84603,13 +84620,13 @@
 "campus_site": "https://rrhs.wd5.myworkdayjobs.com/RRH/login",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://rrhs.wd5.myworkdayjobs.com/RRH/login"
+"https://rrhs.wd5.myworkdayjobs.com/RRH/login",
+"https://careers.rochesterregional.org/you-belong-here/earlycareers/student-opportunities/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84633,13 +84650,13 @@
 "campus_site": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Licensed-Social-Worker_R260268",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Licensed-Social-Worker_R260268"
+"https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Licensed-Social-Worker_R260268",
+"https://www.urmc.rochester.edu/education/graduate/forms/smd-internship-program-requirements"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84691,13 +84708,13 @@
 "campus_site": "https://roswellpark.wd5.myworkdayjobs.com/ExternalCareers",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "US citizens and permanent residents only",
 "sources": [
-"https://roswellpark.wd5.myworkdayjobs.com/ExternalCareers"
+"https://roswellpark.wd5.myworkdayjobs.com/ExternalCareers",
+"https://www.roswellpark.org/education/internship-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84718,17 +84735,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://ynhh.org/medical-professionals/laboratory-medicine-internship",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://ynhh.org/medical-professionals/laboratory-medicine-internship"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ynhhs.org"
 },
@@ -84750,14 +84767,13 @@
 "campus_site": "https://hartfordhealthcare.org/health-wellness/campus-care",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas",
 "sources": [
-"https://hartfordhealthcare.org/health-wellness/campus-care"
+"https://hartfordhealthcare.org/health-wellness/campus-care",
+"https://hartfordhealthcare.org/health-professionals/education/residencies-fellowships/administrative-graduate-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84782,8 +84798,7 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -84812,14 +84827,13 @@
 "campus_site": "https://jobs-joslin.icims.com/jobs/intro",
 "system": "iCIMS",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs-joslin.icims.com/jobs/intro"
+"https://jobs-joslin.icims.com/jobs/intro",
+"https://jobs.bilh.org/job/boston/student-intern/169/70487653904"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84843,14 +84857,13 @@
 "campus_site": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/login",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://danafarber.wd5.myworkdayjobs.com/dana-farber/login"
+"https://danafarber.wd5.myworkdayjobs.com/dana-farber/login",
+"https://www.dana-farber.org/about/careers/communication-and-marketing-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84902,13 +84915,13 @@
 "campus_site": "https://oracleehr-dc0ba69a917b4e06bac935c851d153de-da64727a.data.cda.us-shawnee-1.oci.oraclecloud.com/ehrc?p=1",
 "system": "Oracle",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://oracleehr-dc0ba69a917b4e06bac935c851d153de-da64727a.data.cda.us-shawnee-1.oci.oraclecloud.com/ehrc?p=1"
+"https://oracleehr-dc0ba69a917b4e06bac935c851d153de-da64727a.data.cda.us-shawnee-1.oci.oraclecloud.com/ehrc?p=1",
+"https://www.baystatehealth.org/healthcare-education/clinicals-internships/allied-health-students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84932,13 +84945,13 @@
 "campus_site": "https://careers.dartmouth-health.org/job-categories",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.dartmouth-health.org/job-categories"
+"https://careers.dartmouth-health.org/job-categories",
+"https://www.dartmouth-health.org/careers/students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84962,13 +84975,13 @@
 "campus_site": "https://www.mainehealth.org/news/2026/11/local-students-explore-medical-careers-mainehealth-stephens-hospital",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.mainehealth.org/news/2026/11/local-students-explore-medical-careers-mainehealth-stephens-hospital"
+"https://www.mainehealth.org/news/2026/11/local-students-explore-medical-careers-mainehealth-stephens-hospital",
+"https://www.mainehealth.org/education-research-and-innovation/clinical-and-professional-education/undergraduate-medical-education/behavioral-health-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -84994,8 +85007,7 @@
 "campus_site": "https://www.brownhealth.org/about/careers/youth-employment-program-application",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -85084,13 +85096,13 @@
 "campus_site": "https://employment.utah.edu/jobs/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://employment.utah.edu/jobs/"
+"https://employment.utah.edu/jobs/",
+"https://healthcare.utah.edu/locations/hospital/administration/summer-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85114,13 +85126,13 @@
 "campus_site": "https://honorhealth.wd12.myworkdayjobs.com/en-US/HonorHealth_careers/jobs?q=Traveler",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://honorhealth.wd12.myworkdayjobs.com/en-US/HonorHealth_careers/jobs?q=Traveler"
+"https://honorhealth.wd12.myworkdayjobs.com/en-US/HonorHealth_careers/jobs?q=Traveler",
+"https://www.honorhealth.com/academic-affairs/family-medicine-residency-program/medical-student-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85145,13 +85157,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://sharp.wd1.myworkdayjobs.com/External/login"
+"https://sharp.wd1.myworkdayjobs.com/External/login",
+"https://www.sharp.com/interns-fellows"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85176,8 +85188,7 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -85206,13 +85217,13 @@
 "campus_site": "https://employment.ucsd.edu/all-uc-san-diego-internal-careers",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://employment.ucsd.edu/all-uc-san-diego-internal-careers"
+"https://employment.ucsd.edu/all-uc-san-diego-internal-careers",
+"https://employment.ucsd.edu/new-grad"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85236,14 +85247,13 @@
 "campus_site": "https://uclahealth.avature.net/internalcareers",
 "system": "Avature",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://uclahealth.avature.net/internalcareers"
+"https://uclahealth.avature.net/internalcareers",
+"https://www.uclahealth.org/nursing/new-graduate-nurse-residency-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85264,16 +85274,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://health.ucdavis.edu/cppn/ngnrp/index.html",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://health.ucdavis.edu/cppn/ngnrp/index.html"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://hr.ucdavis.edu/careers",
 "https://recruit.ucdavis.edu/apply",
@@ -85301,13 +85312,13 @@
 "campus_site": "https://careers-uci.icims.com/jobs/login?loginOnly=1",
 "system": "iCIMS",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-uci.icims.com/jobs/login?loginOnly=1"
+"https://careers-uci.icims.com/jobs/login?loginOnly=1",
+"https://www.ucihealth.org/healthcare-professionals/nursing/nursing-at-uci"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85332,12 +85343,13 @@
 "system": "Oracle",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX"
+"https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+"https://careers.lluh.org/new-graduate-and-internship-programs/management-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85361,13 +85373,13 @@
 "campus_site": "https://usc.wd5.myworkdayjobs.com/ExternalKeckUSCCareers",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://usc.wd5.myworkdayjobs.com/ExternalKeckUSCCareers"
+"https://usc.wd5.myworkdayjobs.com/ExternalKeckUSCCareers",
+"https://form.jotform.com/232206606739154"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85388,17 +85400,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cityofhopejobs.org/job/10397/summer-intern-oc-business-services-us-ca-irvine",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cityofhopejobs.org/job/10397/summer-intern-oc-business-services-us-ca-irvine"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cityofhope.org"
 },
@@ -85417,16 +85429,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.chla.org/nursing",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://jobs.chla.org/nursing"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.chla.org"
 },
@@ -85448,13 +85461,13 @@
 "campus_site": "https://jobs.rchsd.org/internal-affiliates",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.rchsd.org/internal-affiliates"
+"https://jobs.rchsd.org/internal-affiliates",
+"https://jobs.rchsd.org/residency-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85509,12 +85522,13 @@
 "system": "SmartRecruiters",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.smartrecruiters.com/StanfordMedicineChildrensHealth/pmg"
+"https://careers.smartrecruiters.com/StanfordMedicineChildrensHealth/pmg",
+"https://careers.stanfordchildrens.org/rn-residency-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85535,16 +85549,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.johnmuirhealth.com/for-physicians/nursing/nursing-residency-program",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.johnmuirhealth.com/for-physicians/nursing/nursing-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.johnmuirhealth.com"
 },
@@ -85620,16 +85635,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.peacehealth.org/nurse-residency",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.peacehealth.org/nurse-residency"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.peacehealth.org"
 },
@@ -85684,13 +85700,13 @@
 "campus_site": "https://careers-lhs.icims.com/jobs/intro",
 "system": "iCIMS",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-lhs.icims.com/jobs/intro"
+"https://careers-lhs.icims.com/jobs/intro",
+"https://legacyhealth.org/for-health-professionals/careers/nursing/rn-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85715,12 +85731,13 @@
 "system": "Avature",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://slhs.avature.net/internalcareers"
+"https://slhs.avature.net/internalcareers",
+"https://stlukesonline.org/en/about/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85773,12 +85790,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://denverhealth.wd1.myworkdayjobs.com/en-US/DHHA-Main/job/RN-New-Graduate-Residency-Program_R430-2"
+"https://denverhealth.wd1.myworkdayjobs.com/en-US/DHHA-Main/job/RN-New-Graduate-Residency-Program_R430-2",
+"https://www.denverhealth.org/for-professionals/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85799,17 +85817,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.uchealth.org/professionals/residencies/graduate-nurse-residency-program-uch/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.uchealth.org/professionals/residencies/graduate-nurse-residency-program-uch/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.uchealth.org"
 },
@@ -85831,13 +85849,13 @@
 "campus_site": "https://www.childrenscolorado.org/careers/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.childrenscolorado.org/careers/"
+"https://www.childrenscolorado.org/careers/",
+"https://www.childrenscolorado.org/research-innovation/training-and-internships/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85862,12 +85880,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://phsorg.wd1.myworkdayjobs.com/en-US/Careers"
+"https://phsorg.wd1.myworkdayjobs.com/en-US/Careers",
+"https://www.phs.org/careers/why-work-with-us/growing-your-career/nursing-residencies"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85921,13 +85940,13 @@
 "campus_site": "https://www.renown.org/Patients-and-Visitors/Campus-and-Parking-Maps",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.renown.org/Patients-and-Visitors/Campus-and-Parking-Maps"
+"https://www.renown.org/Patients-and-Visitors/Campus-and-Parking-Maps",
+"https://www.renown.org/Careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85948,17 +85967,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://iuhealth.org/for-nurses/onboarding-residency",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://iuhealth.org/for-nurses/onboarding-residency"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://iuhealth.org"
 },
@@ -85977,16 +85996,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ecommunity.com/careers/nursing/nurse-residency-program",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ecommunity.com/careers/nursing/nurse-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ecommunity.com"
 },
@@ -86008,8 +86028,7 @@
 "campus_site": "https://jobs.franciscanhealth.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -86038,13 +86057,13 @@
 "campus_site": "https://parkview-ibyyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/",
 "system": "Oracle",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://parkview-ibyyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/"
+"https://parkview-ibyyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/",
+"https://www.parkview.com/careers/student-learning-opportunities/college-student-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86068,13 +86087,13 @@
 "campus_site": "https://www.eskenazihealth.edu/locations/main-campus",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.eskenazihealth.edu/locations/main-campus"
+"https://www.eskenazihealth.edu/locations/main-campus",
+"https://www.eskenazihealth.edu/careers/nursing/nurse-residency-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86099,13 +86118,13 @@
 "system": "SmartRecruiters",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.smartrecruiters.com/web-sso/saml/NorthwesternMedicine/login"
+"https://www.smartrecruiters.com/web-sso/saml/NorthwesternMedicine/login",
+"https://www.nm.org/for-medical-professionals/i-am-a-student"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86160,14 +86179,13 @@
 "campus_site": "https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/join-talent-community",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/join-talent-community"
+"https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/join-talent-community",
+"https://www.uchicagomedicine.org/health-care-professionals/nursing/nursing-residency"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86194,13 +86212,13 @@
 "campus_site": "https://nshs.wd1.myworkdayjobs.com/ns-eeh",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://nshs.wd1.myworkdayjobs.com/ns-eeh"
+"https://nshs.wd1.myworkdayjobs.com/ns-eeh",
+"https://www.endeavorhealth.org/careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86225,12 +86243,13 @@
 "system": "iCIMS",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://applyto-osfhealthcare.icims.com/jobs/login?loginOnly=1"
+"https://applyto-osfhealthcare.icims.com/jobs/login?loginOnly=1",
+"https://osfhealthcare.org/nurse-internship"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86251,16 +86270,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.carlehealth.org/grow-with-us",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.carlehealth.org/grow-with-us"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.carle.org"
 },
@@ -86282,13 +86302,13 @@
 "campus_site": "https://jobs.luriechildrens.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.luriechildrens.org/us/en"
+"https://jobs.luriechildrens.org/us/en",
+"https://www.luriechildrens.org/en/for-healthcare-professionals/education/medical-education-training/residencies/rn-residency-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86343,12 +86363,13 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://uihc.org/places-eat-downtown-campus"
+"https://uihc.org/places-eat-downtown-campus",
+"https://uihc.org/nursing-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86374,14 +86395,13 @@
 "campus_site": "https://vumc.wd1.myworkdayjobs.com/vumccareers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://vumc.wd1.myworkdayjobs.com/vumccareers"
+"https://vumc.wd1.myworkdayjobs.com/vumccareers",
+"https://www.vumc.org/nurse-residency-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86406,7 +86426,7 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -86435,14 +86455,13 @@
 "campus_site": "https://www.stjude.org/about-st-jude/connect-with-us/our-campus.html",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.stjude.org/about-st-jude/connect-with-us/our-campus.html"
+"https://www.stjude.org/about-st-jude/connect-with-us/our-campus.html",
+"https://www.stjude.org/education-training/research-training/graduate.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86467,12 +86486,13 @@
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.erlangercareers.org/available.html"
+"https://www.erlangercareers.org/available.html",
+"https://www.erlanger.org/for-healthcare-professionals/for-nurses/undergrad-nursing-placement"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86527,12 +86547,13 @@
 "system": "iCIMS",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-covenanthealth.icims.com/jobs/intro?hashed=-435797303"
+"https://careers-covenanthealth.icims.com/jobs/intro?hashed=-435797303",
+"https://www.covenanthealth.com/covenant-health-university/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86556,9 +86577,7 @@
 "campus_site": "https://nortonhealthcare.com/careers/students-in-healthcare/",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
@@ -86617,13 +86636,13 @@
 "campus_site": "https://uoflhealth.org/healthcare-careers/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://uoflhealth.org/healthcare-careers/"
+"https://uoflhealth.org/healthcare-careers/",
+"https://careers-uoflhealth.icims.com/jobs/37952/rn-new-grads---uofl-health/job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86647,14 +86666,13 @@
 "campus_site": "https://careers.uabmedicine.org/us/en",
 "system": "",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.uabmedicine.org/us/en"
+"https://careers.uabmedicine.org/us/en",
+"https://www.uabmedicine.org/specialties/arts-in-medicine/internships-with-art-in-medicine/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86678,13 +86696,13 @@
 "campus_site": "https://www.childrensalcareers.org/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.childrensalcareers.org/"
+"https://www.childrensalcareers.org/",
+"https://www.childrensal.org/services/strategic-communications-marketing/internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86709,12 +86727,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ummc.wd5.myworkdayjobs.com/UMCCareers"
+"https://ummc.wd5.myworkdayjobs.com/UMCCareers",
+"https://umc.edu/HR/Careers/Careers/Nursing/Student-and-Graduate-Opportunities.xml"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86735,16 +86754,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://ouhealth.com/careers/new-grad-rns",
 "system": "",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://ouhealth.com/careers/new-grad-rns"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ouhealth.com"
 },
@@ -86763,16 +86784,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://integrishealth.org/careers/career-paths/office-of-nursing-support/nurse-residency-program",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://integrishealth.org/careers/career-paths/office-of-nursing-support/nurse-residency-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://integrishealth.org"
 },
@@ -86791,16 +86813,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://uamshealth.com/nurses/future-nurses/new-graduate-rn-residents/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://uamshealth.com/nurses/future-nurses/new-graduate-rn-residents/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.uams.edu"
 },
@@ -86822,13 +86845,13 @@
 "campus_site": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://wvumedicine.wd1.myworkdayjobs.com/WVUH"
+"https://wvumedicine.wd1.myworkdayjobs.com/WVUH",
+"https://wvumedicine.org/healthcare-professionals/education/nurse-residency-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86849,16 +86872,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.queens.org/careers/nursing/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.queens.org/careers/nursing/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.queens.org"
 },
@@ -86880,13 +86904,13 @@
 "campus_site": "https://www.hawaiipacifichealth.org/careers/find-your-career/students/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.hawaiipacifichealth.org/careers/find-your-career/students/"
+"https://www.hawaiipacifichealth.org/careers/find-your-career/students/",
+"https://www.hawaiipacifichealth.org/careers/find-your-career/students/health-careers-summer-internship/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86915,13 +86939,13 @@
 "system": "",
 "hires": [
 "graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "Federal civil-service employer: most positions require US citizenship",
 "sources": [
-"https://vacareers.va.gov/career-guidance/trainees/"
+"https://vacareers.va.gov/career-guidance/trainees/",
+"https://vacareers.va.gov/career-guidance/students-and-new-grads/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -86973,16 +86997,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ihs.gov/scholarship/ihsexternprogram/",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "Federal employer: most positions require US citizenship; Indian preference applies",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.ihs.gov/scholarship/ihsexternprogram/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ihs.gov"
 },
@@ -87004,13 +87029,13 @@
 "campus_site": "https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners"
+"https://shrinerschildrens.wd12.myworkdayjobs.com/Shriners",
+"https://shrinerschildrens.org/en/providers-and-research/nursing-excellence/nursing-committees-and-professional-development"
 ],
 "checked": "2026-11",
 "site_candidates": [],
