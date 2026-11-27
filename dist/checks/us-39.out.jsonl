@@ -1,12 +1,12 @@
 {"name": "Veeco Instruments", "status": "confirmed", "programme": "https://careers.veeco.com/content/Intern/?locale=en_US", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Navitas Semiconductor", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "indie Semiconductor", "status": "confirmed", "programme": "https://www.indie.inc/careers/internships/", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "Impinj", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Impinj", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/impinjexternal/jobs/4545658005", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "CEVA", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "PDF Solutions", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Alpha and Omega Semiconductor", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "SkyWater Technology", "status": "confirmed", "programme": "https://www.skywatertechnology.com/careers/", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "Credo Technology", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Credo Technology", "status": "confirmed", "programme": "https://credosemi.com/?p=5060", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Astera Labs", "status": "confirmed", "programme": "https://www.asteralabs.com/early-career-programs/", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "MaxLinear", "status": "confirmed", "programme": "https://www.maxlinear.com/company/careers", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "QuickLogic", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
@@ -14,25 +14,25 @@
 {"name": "Netlist", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Penguin Solutions", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Infineon Technologies Americas", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "NXP Semiconductors USA", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "STMicroelectronics Americas", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "NXP Semiconductors USA", "status": "confirmed", "programme": "https://www.nxp.com/company/about-nxp/our-team-members/future-talent:FUTURE-TALENT", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "STMicroelectronics Americas", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Renesas Electronics America", "status": "confirmed", "programme": "https://jobs.renesas.com/interns-and-graduates", "hires": ["internship"], "notes": "Open to current students pursuing a bachelor's, master's or doctorate", "evidence": "Internships are open to current students pursuing a bachelor’s, master’s degree, or doctorate"}
 {"name": "Altera", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Arm", "status": "confirmed", "programme": "https://careers.arm.com/graduates", "hires": ["graduate", "internship"], "notes": "Must hold or be on track to complete a degree by the programme start", "evidence": "You must hold, or be on track to complete, a degree by the start of your program."}
 {"name": "SiFive", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Tenstorrent", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Tenstorrent", "status": "confirmed", "programme": "https://tenstorrent.com/university", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Cerebras Systems", "status": "confirmed", "programme": "https://www.cerebras.ai/internships", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Groq", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "SambaNova Systems", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Ampere Computing", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Ampere Computing", "status": "confirmed", "programme": "https://amperecomputing.com/blogs/meet-the-team-at-ampere-intern-edition", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Etched", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "d-Matrix", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Lightmatter", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Ayar Labs", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Celestial AI", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Rivos", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Celestial AI", "status": "confirmed", "programme": "https://job-boards.greenhouse.io/celestialai/jobs/4621108005", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Rivos", "status": "confirmed", "programme": "https://jobs.lever.co/rivosinc/d119ad85-aca7-46db-9ec2-df9952214d19", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Mythic", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Esperanto Technologies", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Esperanto Technologies", "status": "confirmed", "programme": "https://jobs.jobvite.com/esperantocareers/job/oZbOmfw4", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Enfabrica", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Eliyan", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Efinix", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
@@ -45,15 +45,15 @@
 {"name": "GlobalWafers America", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Hemlock Semiconductor", "status": "confirmed", "programme": "https://careers.hscpoly.com/content/Students/?locale=en_US", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "Brewer Science", "status": "confirmed", "programme": "https://www.brewerscience.com/about-us/company/careers-3/early-careers/", "hires": ["internship"], "notes": "", "evidence": ""}
-{"name": "Advanced Energy Industries", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Advanced Energy Industries", "status": "confirmed", "programme": "https://jobs.advanced-energy.com/job/Redwood-City-Intern-Electrical-Engineer-CA-94063/1347897100", "hires": ["internship"], "notes": "", "evidence": ""}
 {"name": "ACM Research", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Amtech Systems", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Plasma-Therm", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Intevac", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Nordson Corporation", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "EMD Electronics", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Arrow Electronics", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
-{"name": "Avnet", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Nordson Corporation", "status": "confirmed", "programme": "https://www.nordson.com/en/About-Us/Careers/Grow-with-Us/Students", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "EMD Electronics", "status": "confirmed", "programme": "https://careers.emdgroup.com/us/en/students-and-graduates", "hires": ["graduate", "internship"], "notes": "Internships are open to students at all academic levels", "evidence": "Our internships are 12 weeks long and open to students at all academic levels."}
+{"name": "Arrow Electronics", "status": "confirmed", "programme": "https://careers.arrow.com/us/en/amer-summer-intern-program", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Avnet", "status": "confirmed", "programme": "https://www.avnet.com/americas/about-avnet/careers/internships-early-grads", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
 {"name": "Digi-Key Electronics", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "Mouser Electronics", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
 {"name": "TTI, Inc.", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}

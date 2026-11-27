@@ -822,21 +822,18 @@ Navitas Semiconductor		hardware-03.jsonl
 CEVA		hardware-03.jsonl
 PDF Solutions		hardware-03.jsonl
 Alpha and Omega Semiconductor		hardware-03.jsonl
-Credo Technology		hardware-03.jsonl
 QuickLogic		hardware-03.jsonl
 Everspin Technologies		hardware-03.jsonl
 Penguin Solutions		hardware-03.jsonl
 Infineon Technologies Americas		hardware-03.jsonl
+STMicroelectronics Americas		hardware-03.jsonl
 SiFive		hardware-03.jsonl
-Tenstorrent		hardware-03.jsonl
 Groq		hardware-04.jsonl
 SambaNova Systems		hardware-04.jsonl
 Etched		hardware-04.jsonl
 d-Matrix		hardware-04.jsonl
 Lightmatter		hardware-04.jsonl
-Rivos		hardware-04.jsonl
 Mythic		hardware-04.jsonl
-Esperanto Technologies		hardware-04.jsonl
 Eliyan		hardware-04.jsonl
 Efinix		hardware-04.jsonl
 Achronix Semiconductor		hardware-04.jsonl
@@ -845,7 +842,6 @@ Movellus		hardware-04.jsonl
 Atomera		hardware-04.jsonl
 Polar Semiconductor		hardware-04.jsonl
 GlobalWafers America		hardware-04.jsonl
-Advanced Energy Industries		hardware-04.jsonl
 ACM Research		hardware-04.jsonl
 Amtech Systems		hardware-04.jsonl
 Plasma-Therm		hardware-04.jsonl
@@ -907,23 +903,15 @@ Serve Robotics	https://www.serverobotics.com/careers/index.html	hardware-09.json
 Fanuc America	https://www.fanucamerica.com/careers	hardware-09.jsonl
 Azenta	https://www.azenta.com/company/careers	hardware-09.jsonl
 Diligent Robotics	https://job-boards.greenhouse.io/diligentrobotics	hardware-09.jsonl
-AMP Robotics	https://www.amp.ai	hardware-09.jsonl
-Pickle Robot	https://www.picklerobot.com/careers	hardware-09.jsonl
-Vecna Robotics	https://www.vecnarobotics.com/company/careers/	hardware-09.jsonl
-Ambi Robotics	https://www.ambirobotics.com/careers	hardware-09.jsonl
-Machina Labs	https://machinalabs.ai/careers	hardware-09.jsonl
+Pickle Robot	https://jobs.lever.co/picklerobot	hardware-09.jsonl
+Vecna Robotics	https://vecnarobotics.com/careers	hardware-09.jsonl
+Bright Machines	https://jobs.lever.co/brightmachines	hardware-09.jsonl
 Hadrian	https://www.hadrian.co/careers	hardware-09.jsonl
 RightHand Robotics	https://righthandrobotics.com/careers	hardware-09.jsonl
 Palladyne AI	https://www.palladyneai.com/careers/	hardware-09.jsonl
-Humana	https://careers.humana.com/	healthcare-01.jsonl
-Molina Healthcare	https://careers.molinahealthcare.com/	healthcare-01.jsonl
-Oscar Health	https://oscarhealth.com/careers	healthcare-01.jsonl
 Florida Blue	https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue	healthcare-01.jsonl
-Cambia Health Solutions	https://www.cambiahealth.com/careers/careers-at-cambia/	healthcare-01.jsonl
-Blue Shield of California	https://careers.blueshieldca.com/	healthcare-01.jsonl
-Blue Cross and Blue Shield of Kansas City	https://www.bluekc.com/about-us/careers/	healthcare-02.jsonl
-Capital Blue Cross	https://www.capbluecross.com/wps/portal/cap/about/career	healthcare-02.jsonl
-Arkansas Blue Cross and Blue Shield	https://www.arkansasbluecross.com/about/careers	healthcare-02.jsonl
+Regence	https://www.regence.com/careers	healthcare-01.jsonl
+Blue Cross and Blue Shield of Kansas	https://www.bcbsks.com/careers	healthcare-02.jsonl
 EmblemHealth		healthcare-02.jsonl
 Sentara Health		healthcare-02.jsonl
 Priority Health		healthcare-02.jsonl
@@ -981,3 +969,340 @@ Rush University System for Health		healthcare-09.jsonl
 UnityPoint Health		healthcare-09.jsonl
 UK HealthCare		healthcare-09.jsonl
 Defense Health Agency		healthcare-10.jsonl
+Privia Health		healthcare-10.jsonl
+agilon health		healthcare-10.jsonl
+Pediatrix Medical Group		healthcare-10.jsonl
+US Acute Care Solutions		healthcare-10.jsonl
+Heartland Dental		healthcare-10.jsonl
+Talkspace		healthcare-10.jsonl
+Hims & Hers Health		healthcare-10.jsonl
+Cityblock Health		healthcare-10.jsonl
+ModivCare		healthcare-11.jsonl
+Amwell		healthcare-11.jsonl
+Ensemble Health Partners		healthcare-11.jsonl
+Evolent Health		healthcare-11.jsonl
+Progyny		healthcare-11.jsonl
+Phreesia		healthcare-11.jsonl
+Health Catalyst		healthcare-11.jsonl
+Accolade		healthcare-11.jsonl
+Sonic Healthcare USA		healthcare-11.jsonl
+OPKO Health		healthcare-11.jsonl
+Radiology Partners		healthcare-11.jsonl
+Enhabit		healthcare-11.jsonl
+Addus HomeCare		healthcare-11.jsonl
+VITAS Healthcare		healthcare-11.jsonl
+Ensign Group		healthcare-11.jsonl
+AdaptHealth		healthcare-12.jsonl
+SOSi		industrial-02.jsonl
+Radiance Technologies		industrial-02.jsonl
+Sentar		industrial-02.jsonl
+Kratos Defense & Security Solutions		industrial-02.jsonl
+Kubota North America		industrial-03.jsonl
+PACCAR		industrial-03.jsonl
+Union Tank Car Company		industrial-04.jsonl
+MSC Industrial Supply		industrial-04.jsonl
+Generac		industrial-04.jsonl
+AAON		industrial-04.jsonl
+Goodman Manufacturing		industrial-04.jsonl
+Franklin Electric		industrial-05.jsonl
+ESAB	https://esabcorporation.com/careers	industrial-05.jsonl
+EnPro	https://careers.enpro.com/homepage	industrial-05.jsonl
+Federal Signal	https://www.federalsignal.com	industrial-05.jsonl
+Blue Bird Corporation	https://www.blue-bird.com/careers	industrial-05.jsonl
+Middleby Corporation	https://www.middleby.com/careers/	industrial-05.jsonl
+Astec Industries	https://astecindustries.com/about/careers/	industrial-06.jsonl
+Alamo Group	https://www.alamo-group.com/careers/	industrial-06.jsonl
+Kadant	https://careers.kadant.com/	industrial-06.jsonl
+Gorman-Rupp	https://www.gormanrupp.com/en/careers	industrial-06.jsonl
+Powell Industries	https://www.powellind.com/careers	industrial-06.jsonl
+AZZ Inc.	https://www.azz.com/careers/	industrial-06.jsonl
+Babcock & Wilcox	https://www.babcock.com/careers/students	industrial-06.jsonl
+Festo US	https://jobs.festo.com/go/Interns/4912801/	industrial-06.jsonl
+Bosch Rexroth US	https://www.boschrexroth.com/en/us/	industrial-06.jsonl
+Sandvik USA	https://www.home.sandvik/en/careers/students-and-graduates/internship/	industrial-06.jsonl
+Terran Orbital	https://terranorbital.com/careers/	industrial-07.jsonl
+BlackSky Technology	https://blacksky.com/company/careers/	industrial-07.jsonl
+Umbra	https://umbra.space/careers/	industrial-07.jsonl
+K2 Space	https://www.k2space.com/careers	industrial-07.jsonl
+True Anomaly	https://www.trueanomaly.space/careers	industrial-07.jsonl
+Muon Space	https://www.muonspace.com/careers/	industrial-07.jsonl
+Reliable Robotics	https://reliable.co/careers	industrial-07.jsonl
+Merlin Labs	https://merlinlabs.com/careers/	industrial-07.jsonl
+Howmet Aerospace	https://www.howmet.com/joinus/	industrial-07.jsonl
+Arconic	https://www.arconic.com/joinus	industrial-07.jsonl
+HEICO	https://heico.com/	industrial-07.jsonl
+Ducommun	https://www.ducommun.com/careers/CareersHome.aspx	industrial-08.jsonl
+Astronics	https://www.astronics.com/careers	industrial-08.jsonl
+StandardAero	https://standardaero.com/	industrial-08.jsonl
+Loar Holdings	https://loargroup.com/	industrial-08.jsonl
+Allegheny Technologies (ATI)	https://careers.atimaterials.com/us/en	industrial-08.jsonl
+Kaman	https://kaman.com/contact/careers/	industrial-08.jsonl
+Embraer Aircraft Holding	https://www.embraer.com/corporate-careers/en/	industrial-08.jsonl
+Cirrus Aircraft	https://cirrusaircraft.com/careers/	industrial-08.jsonl
+Piper Aircraft	https://www.piper.com/careers/	industrial-08.jsonl
+Sparton	https://www.26defensemaritime.com/careers	industrial-08.jsonl
+Vigor Industrial	https://www.vigormarine.com/careers	industrial-09.jsonl
+Haas Automation		industrial-09.jsonl
+Mazak Corporation		industrial-09.jsonl
+DMG MORI USA		industrial-09.jsonl
+Okuma America		industrial-09.jsonl
+Hurco Companies		industrial-09.jsonl
+Gleason Corporation		industrial-09.jsonl
+Husqvarna Group US		industrial-09.jsonl
+Link-Belt Cranes		industrial-09.jsonl
+JLG Industries		industrial-09.jsonl
+Titan International		industrial-09.jsonl
+Douglas Dynamics		industrial-09.jsonl
+CPI Aerostructures		industrial-10.jsonl
+Air Industries Group		industrial-10.jsonl
+Safran Landing Systems US		industrial-10.jsonl
+Vannevar Labs		industrial-10.jsonl
+Chaos Industries		industrial-10.jsonl
+Firestorm Labs		industrial-10.jsonl
+Neros Technologies		industrial-10.jsonl
+Lunar Outpost		industrial-10.jsonl
+Standex International		industrial-10.jsonl
+Vontier		industrial-10.jsonl
+Mirion Technologies		industrial-10.jsonl
+Grubhub		internet-01.jsonl
+Gopuff		internet-01.jsonl
+Booking Holdings		internet-01.jsonl
+Priceline		internet-01.jsonl
+Kayak		internet-01.jsonl
+Tripadvisor		internet-01.jsonl
+Hipcamp		internet-01.jsonl
+Poshmark		internet-01.jsonl
+The RealReal		internet-01.jsonl
+OfferUp		internet-01.jsonl
+Faire		internet-02.jsonl
+Grailed		internet-02.jsonl
+StockX		internet-02.jsonl
+GOAT		internet-02.jsonl
+Vivid Seats		internet-02.jsonl
+Groupon		internet-02.jsonl
+Quince		internet-02.jsonl
+TaskRabbit		internet-02.jsonl
+GoodRx		internet-02.jsonl
+HelloFresh US		internet-02.jsonl
+Opendoor		internet-02.jsonl
+Compass		internet-02.jsonl
+Reddit		internet-02.jsonl
+X		internet-03.jsonl
+Discord		internet-03.jsonl
+Nextdoor		internet-03.jsonl
+Bumble		internet-03.jsonl
+Hinge		internet-03.jsonl
+Grindr		internet-03.jsonl
+Strava		internet-03.jsonl
+Substack		internet-03.jsonl
+Patreon		internet-03.jsonl
+Automattic		internet-03.jsonl
+Plex	https://www.plex.tv/careers/	internet-03.jsonl
+Fubo	https://careers.fubo.tv/	internet-03.jsonl
+Webtoon Entertainment		internet-03.jsonl
+Vimeo	https://vimeo.com/careers	internet-03.jsonl
+Scribd		internet-03.jsonl
+Calm	https://job-boards.greenhouse.io/calm	internet-03.jsonl
+Headspace		internet-03.jsonl
+Noom	https://www.noom.com/careers/	internet-03.jsonl
+Cameo	https://careers.cameo.com/	internet-03.jsonl
+Peloton	https://careers.onepeloton.com/	internet-04.jsonl
+Handshake	https://joinhandshake.com/careers/	internet-04.jsonl
+Eventbrite		internet-04.jsonl
+Meetup		internet-04.jsonl
+NerdWallet	https://www.nerdwallet.com/careers	internet-04.jsonl
+PrizePicks		internet-04.jsonl
+Coursera		internet-04.jsonl
+Learneo	https://www.learneo.com/careers	internet-04.jsonl
+Instructure		internet-04.jsonl
+Code.org		internet-04.jsonl
+Grammarly		internet-04.jsonl
+Canva US		internet-05.jsonl
+Airtable		internet-05.jsonl
+Deel	https://www.deel.com/careers/	internet-05.jsonl
+Linear	https://linear.app/careers	internet-05.jsonl
+Supabase		internet-05.jsonl
+Retool	https://retool.com/careers	internet-05.jsonl
+Webflow	https://webflow.com/company/careers	internet-05.jsonl
+Zapier		internet-05.jsonl
+Calendly	https://calendly.com/early-careers	internet-05.jsonl
+Miro	https://miro.com/careers	internet-05.jsonl
+Lattice	https://lattice.com/careers	internet-05.jsonl
+Postman	https://www.postman.com/company/careers/	internet-05.jsonl
+Netlify		internet-05.jsonl
+dbt Labs	https://www.getdbt.com/about-us/careers	internet-05.jsonl
+Fivetran	https://www.fivetran.com/careers	internet-05.jsonl
+Internet Archive		internet-05.jsonl
+Character.AI		internet-06.jsonl
+Cognition		internet-06.jsonl
+Runway		internet-06.jsonl
+Midjourney		internet-06.jsonl
+Anyscale		internet-06.jsonl
+CoreWeave		internet-06.jsonl
+Weights & Biases		internet-06.jsonl
+Pinecone		internet-07.jsonl
+Baseten		internet-07.jsonl
+SambaNova		internet-07.jsonl
+Hebbia		internet-07.jsonl
+Rogo		internet-07.jsonl
+Ambience Healthcare		internet-07.jsonl
+OpenEvidence		internet-07.jsonl
+Writer		internet-07.jsonl
+Jasper		internet-07.jsonl
+ElevenLabs US		internet-07.jsonl
+Luma AI		internet-07.jsonl
+Suno		internet-07.jsonl
+Safe Superintelligence		internet-07.jsonl
+Thinking Machines Lab		internet-07.jsonl
+Surge AI		internet-07.jsonl
+Contextual AI		internet-08.jsonl
+Insitro		internet-08.jsonl
+Saronic		internet-08.jsonl
+Take-Two Interactive		internet-08.jsonl
+Valve		internet-08.jsonl
+Bungie		internet-08.jsonl
+Naughty Dog		internet-09.jsonl
+Santa Monica Studio		internet-09.jsonl
+Sucker Punch Productions		internet-09.jsonl
+Nintendo of America		internet-09.jsonl
+Bethesda Softworks		internet-09.jsonl
+Bethesda Game Studios		internet-09.jsonl
+ZeniMax Online Studios		internet-09.jsonl
+Infinity Ward		internet-09.jsonl
+Sledgehammer Games		internet-09.jsonl
+Raven Software		internet-09.jsonl
+High Moon Studios		internet-09.jsonl
+Firaxis Games		internet-09.jsonl
+Hangar 13		internet-09.jsonl
+Square Enix US		internet-09.jsonl
+Bandai Namco Entertainment America		internet-09.jsonl
+Ubisoft US		internet-09.jsonl
+Warner Bros. Games		internet-09.jsonl
+Hi-Rez Studios		internet-09.jsonl
+Harmonix		internet-10.jsonl
+Turtle Rock Studios		internet-10.jsonl
+ArenaNet		internet-10.jsonl
+Scopely		internet-10.jsonl
+Pocket Gems		internet-10.jsonl
+Super Evil Megacorp		internet-10.jsonl
+PLAYSTUDIOS		internet-10.jsonl
+Playtika US		internet-10.jsonl
+Niantic		internet-10.jsonl
+Rec Room		internet-10.jsonl
+Certain Affinity		internet-10.jsonl
+Double Fine Productions		internet-10.jsonl
+Singularity 6		internet-10.jsonl
+Snail Games USA		internet-10.jsonl
+Cloud Imperium Games US		internet-10.jsonl
+Magnite		internet-10.jsonl
+DoubleVerify		internet-10.jsonl
+Integral Ad Science		internet-10.jsonl
+Teads		internet-10.jsonl
+Digital Turbine		internet-10.jsonl
+Liftoff		internet-10.jsonl
+Quantcast		internet-11.jsonl
+Astellas US		lifesci-01.jsonl
+Viatris		lifesci-01.jsonl
+Smith+Nephew US		lifesci-02.jsonl
+ResMed		lifesci-02.jsonl
+Masimo		lifesci-02.jsonl
+Haemonetics		lifesci-02.jsonl
+Samsung Biologics America		lifesci-03.jsonl
+Premier Research		lifesci-03.jsonl
+Avantor		lifesci-04.jsonl
+GRAIL		lifesci-04.jsonl
+Myriad Genetics		lifesci-04.jsonl
+Pacific Biosciences		lifesci-04.jsonl
+Adaptive Biotechnologies		lifesci-04.jsonl
+Maravai LifeSciences		lifesci-04.jsonl
+Curia Global		lifesci-04.jsonl
+Jazz Pharmaceuticals		lifesci-05.jsonl
+Exelixis		lifesci-05.jsonl
+Halozyme Therapeutics		lifesci-05.jsonl
+Intellia Therapeutics		lifesci-05.jsonl
+CRISPR Therapeutics US		lifesci-05.jsonl
+Editas Medicine		lifesci-05.jsonl
+Agios Pharmaceuticals		lifesci-05.jsonl
+Apellis Pharmaceuticals		lifesci-05.jsonl
+Revolution Medicines		lifesci-05.jsonl
+Seagen		lifesci-06.jsonl
+Genmab US		lifesci-06.jsonl
+argenx US		lifesci-06.jsonl
+BeOne Medicines US		lifesci-06.jsonl
+Vir Biotechnology		lifesci-06.jsonl
+Madrigal Pharmaceuticals		lifesci-06.jsonl
+Axsome Therapeutics		lifesci-06.jsonl
+Amneal Pharmaceuticals		lifesci-06.jsonl
+Bausch + Lomb		lifesci-06.jsonl
+Sandoz US		lifesci-06.jsonl
+Hikma US		lifesci-06.jsonl
+Zydus Pharmaceuticals USA		lifesci-06.jsonl
+Apotex Corp.		lifesci-06.jsonl
+Emergent BioSolutions		lifesci-06.jsonl
+Novavax		lifesci-06.jsonl
+Convatec US		lifesci-07.jsonl
+Artivion		lifesci-07.jsonl
+AngioDynamics		lifesci-07.jsonl
+Lantheus Holdings		lifesci-07.jsonl
+Varex Imaging		lifesci-07.jsonl
+Embecta		lifesci-07.jsonl
+Avanos Medical		lifesci-07.jsonl
+Novocure		lifesci-07.jsonl
+Arcus Biosciences		lifesci-08.jsonl
+Relay Therapeutics		lifesci-08.jsonl
+Xencor		lifesci-08.jsonl
+Nuvalent		lifesci-08.jsonl
+Day One Biopharmaceuticals		lifesci-08.jsonl
+Syndax Pharmaceuticals		lifesci-08.jsonl
+Kura Oncology		lifesci-08.jsonl
+Iovance Biotherapeutics		lifesci-08.jsonl
+Allogene Therapeutics		lifesci-08.jsonl
+Lyell Immunopharma		lifesci-08.jsonl
+Arcellx		lifesci-08.jsonl
+Sana Biotechnology		lifesci-08.jsonl
+Rocket Pharmaceuticals		lifesci-08.jsonl
+Krystal Biotech		lifesci-08.jsonl
+Dyne Therapeutics		lifesci-08.jsonl
+Avidity Biosciences		lifesci-08.jsonl
+Prime Medicine		lifesci-08.jsonl
+Sage Therapeutics		lifesci-08.jsonl
+Viking Therapeutics		lifesci-08.jsonl
+Kymera Therapeutics		lifesci-08.jsonl
+Ipsen Biopharmaceuticals		lifesci-09.jsonl
+Lundbeck US		lifesci-09.jsonl
+Eisai Inc.		lifesci-09.jsonl
+Sumitomo Pharma America		lifesci-09.jsonl
+Chiesi USA		lifesci-09.jsonl
+Galderma US		lifesci-09.jsonl
+Promega		lifesci-09.jsonl
+Quanterix		lifesci-09.jsonl
+Standard BioTools		lifesci-09.jsonl
+Certara		lifesci-09.jsonl
+Clario		lifesci-09.jsonl
+Worldwide Clinical Trials		lifesci-09.jsonl
+Precision for Medicine		lifesci-09.jsonl
+Frontage Laboratories		lifesci-09.jsonl
+Supernus Pharmaceuticals		lifesci-10.jsonl
+Pacira BioSciences		lifesci-10.jsonl
+Harmony Biosciences		lifesci-10.jsonl
+Intra-Cellular Therapies		lifesci-10.jsonl
+Coherus BioSciences		lifesci-10.jsonl
+ImmunityBio		lifesci-10.jsonl
+Geron		lifesci-10.jsonl
+Inotiv		lifesci-10.jsonl
+Maxcyte		lifesci-10.jsonl
+Harvard Bioscience		lifesci-10.jsonl
+Seer		lifesci-10.jsonl
+Oxford Nanopore Technologies US		lifesci-10.jsonl
+Nevro		lifesci-10.jsonl
+SI-BONE		lifesci-10.jsonl
+Inari Medical		lifesci-10.jsonl
+Shockwave Medical		lifesci-10.jsonl
+Outset Medical		lifesci-10.jsonl
+Pulmonx		lifesci-10.jsonl
+Paragon 28		lifesci-10.jsonl
+Horizon Therapeutics		lifesci-10.jsonl
+Mirum Pharmaceuticals		lifesci-10.jsonl
+Generate Biomedicines		lifesci-10.jsonl
+Scholar Rock		lifesci-10.jsonl
+Nurix Therapeutics		lifesci-10.jsonl
