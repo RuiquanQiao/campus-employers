@@ -41,10 +41,27 @@ they are allowed to apply at all is the fact they most need and least often find
     rights"; "Security clearance required (Baseline / NV1 / NV2)".
   - United States: "US citizens only"; "US citizens and permanent residents only"; "Does not sponsor work visas";
     "Sponsors work visas for this programme" (only when the page says so); "Security clearance required".
+  - United Kingdom: "Right to work in the UK required"; "Sponsors Skilled Worker visas for this scheme" / "Does not
+    sponsor visas" (only when the page says so); "Civil Service nationality rules apply"; "UK nationals only (security
+    vetting, SC/DV)"; "Accepts Graduate visa holders". Graduate schemes, summer internships, spring weeks and
+    industrial placements all count as a programme, and so do graduate-entry training schemes (Step Up to Social
+    Work, Frontline, Teach First, NHS graduate management). Supported internships for young people with an EHCP and
+    degree apprenticeships do not. An NHS preceptorship or Flying Start programme for newly qualified nurses,
+    midwives, paramedics or allied health staff counts as a graduate programme (`hires: ["graduate"]`); a medical
+    student's elective does not.
+  - Japan: "Japanese nationality required"; "Japanese at business level (JLPT N1) required"; "International students
+    welcome on the same 新卒 schedule"; "Global (English) track open to international graduates". A 新卒採用 page
+    (募集要項, 初任給, エントリー) or an インターンシップ page counts as a programme. Quote the Japanese sentence as is.
+  - Germany: "Fluent German required (C1)"; "English-language trainee programme"; "EU citizenship required";
+    "Work permit for Germany required"; "Security clearance required". A trainee programme, a direct-entry page for
+    graduates (Direkteinstieg, Berufseinstieg), a Praktikum, Werkstudent or Abschlussarbeit page counts. Quote the
+    German sentence as is.
   - Add a degree or timing condition only when it decides who can apply ("Final-year students or graduated within
     the last two years").
   `""` when the page says nothing about it. Never infer from the type of employer.
-- `evidence`: the sentence the notes come from, copied, at most 25 words; `""` when `notes` is empty.
+- `evidence`: the sentence the notes come from, copied, at most 25 words; `""` when `notes` is empty. It must be a
+  sentence read on the page itself (the pages file or a WebFetch of the page asked to quote it word for word), never a
+  search result's snippet or a summary; when only a summary says it, leave `notes` and `evidence` empty.
 
 ## Rules
 

@@ -1,0 +1,8 @@
+Employers that belong in jp/banking and are not yet written:
+- Nagano Labour Bank (長野県労働金庫), Shizuoka Labour Bank (静岡県労働金庫), Okinawa Labour Bank (沖縄県労働金庫)
+- Further shinkin banks hiring graduates: 杜の都信用金庫 (Sendai), 三条信用金庫, 熊本第一信用金庫, 愛知信用金庫, 東濃信用金庫, 遠州信用金庫, 島田掛川信用金庫, 尾西信用金庫, 北おおさか信用金庫, 但馬信用金庫, 姫路以外の兵庫県内各信金, 埼玉・千葉・神奈川の中規模信金
+- JA prefectural credit federations (JA信連, e.g. JA北海道信連, JA愛知信連) and the larger JA banks, which recruit separately from Norinchukin
+- Larger credit cooperatives (信用組合), e.g. 第一勧業信用組合
+- Fukuho Bank (福邦銀行): check whether it is still separate from Fukui Bank before adding
+- Foreign commercial banks with a Japan graduate intake (retail/commercial only; investment banking belongs to finance)
+- Websites left empty for most shinkin and labour banks, Aomori Michinoku Bank, Aichi Bank, Taiko Bank, Chikuho Bank, Fukuoka Chuo Bank, Saga Kyoei Bank, Minami-Nippon Bank

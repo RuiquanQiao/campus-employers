@@ -1,0 +1,8 @@
+Employers that belong in jp/consumer and are not yet written:
+Regional supermarket chains (e.g. Maruetsu and Kasumi as separate lines, Kansai Food Market, Sunny, MaxValu regional companies, Coop Sapporo and other consumer co-operatives)
+Regional department stores (Tenmaya, Iwataya, Fujisaki, Maruhiro, Yamagataya, Daiwa)
+Further drugstores (Genky, Yakuodo, Daikoku Drug, Sapporo Drug Store)
+Further restaurant and catering groups (Saint Marc, Kisoji, Ootoya as separate line, Aeon Delight catering, LEOC, Nissin Healthcare Food Service)
+Further hotels and ryokan groups (JR West hotels, Hyatt and IHG Japan, Accor Japan, Okura-run regional hotels, Yuyado/Oedo Onsen)
+Further food makers (Ichibiki, Hikari Miso, Shimadaya, Ichimasa Kamaboko, Senjaku Ame, Iwatsuka Seika, Befco, Yamazaki Biscuits, Kirin Beverage and Kirin Brewery as separate lines)
+Further cosmetics makers (Club Cosmetics, Chantilly, Ci:Labo, Pola and Orbis as separate lines)

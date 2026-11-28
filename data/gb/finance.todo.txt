@@ -1,0 +1,8 @@
+Employers in gb/finance not yet written (list-only pass):
+Candidates to add in a later pass:
+- Further Lloyd's managing agents: Asta, Probitas, Beazley Furlonge (covered by Beazley), Hiscox Syndicates (covered), Starstone, Munich Re Syndicate, Lloyd's syndicates of Sompo International and Axis
+- Further PE / VC: Accel London, LocalGlobe, Northzone, Seedcamp, Kester Capital, Mobeus, Literacy Capital, Kinnevik (London), Vista Equity (London), HPS Investment Partners (London), Blue Owl (London)
+- Further asset managers: GAM (London), Nikko Asset Management (London), Aberforth Partners, Sanlam UK, Waverton, Close Brothers Asset Management, Fundsmith, Lindsell Train
+- Further insurers / insurtech: Bupa Global (separate), Hiscox Re (covered), Lemonade (UK), Cuvva, By Miles, Superscript
+- Market makers / trading: IMC (London), DRW (London), Akuna (London), Old Mission (London), Da Vinci (London)
+- Chinese securities firms' London arms: Huatai Financial Holdings (UK), CITIC Securities (UK), Haitong International (UK)

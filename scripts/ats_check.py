@@ -46,7 +46,8 @@ NOT_INTAKE = re.compile(r"\b(manager|lead|director|head of|recruiter|coordinator
                         r"graduate (admissions|studies|research assistant|assistant)|career fair|showcase|"
                         r"postdoc|fellow\b|expo\b|fair\b|info(rmation)? session|webinar|"
                         r"\b20(0\d|1\d|2[0-4])\b)", re.I)   # an event, or a posting left up from 2024 or before
-GRAD_KIND = re.compile(r"\b(graduate|grad\b|new[- ]grad|university|early[- ]careers?|cadet)", re.I)
+GRAD_KIND = re.compile(r"\b(graduate|grad\b|new[- ]grad|university|early[- ]careers?|cadet)|新卒|trainee|absolvent|"
+                       r"berufseinst|direkteinstieg|graduate scheme", re.I)
 # a location in another country, which a state code would otherwise match ("Seattle, WA, United States" for
 # Australia; "Calgary, AB, CA", "Mumbai, IN", "München, DE" for the United States)
 ABROAD = {
@@ -73,7 +74,22 @@ US_PLACE = re.compile(r"\b(united states|usa|u\.s\.|alabama|alaska|arizona|"
                       r"nevada|oklahoma|arkansas|nebraska|idaho|delaware|chicago|boston|seattle|houston|dallas|"
                       r"atlanta|austin|denver|san francisco|los angeles|new york city|nyc|remote - us|us remote)\b",
                       re.I)
-PLACES = {"au": AU_PLACE, "us": US_PLACE}
+GB_PLACE = re.compile(r"\b(united kingdom|uk|great britain|england|scotland|wales|northern ireland|london|manchester|"
+                      r"birmingham|leeds|glasgow|edinburgh|bristol|cardiff|belfast|cambridge|oxford|reading|"
+                      r"newcastle|liverpool|sheffield|nottingham|leicester|southampton|aberdeen|milton keynes|"
+                      r"coventry|derby|bath|guildford|warrington|swindon|brighton|york|norwich|ipswich|exeter)\b", re.I)
+JP_PLACE = re.compile(r"japan|日本|tokyo|東京|osaka|大阪|nagoya|名古屋|yokohama|横浜|kyoto|京都|kobe|神戸|fukuoka|福岡|"
+                      r"sapporo|札幌|sendai|仙台|hiroshima|広島|kawasaki|川崎|saitama|埼玉|chiba|千葉|都|道|府|県", re.I)
+DE_PLACE = re.compile(r"\b(germany|deutschland|berlin|munich|münchen|muenchen|hamburg|frankfurt|cologne|köln|koeln|"
+                      r"stuttgart|düsseldorf|duesseldorf|dortmund|essen|leipzig|dresden|hannover|hanover|nuremberg|"
+                      r"nürnberg|bremen|bonn|mannheim|karlsruhe|wiesbaden|mainz|aachen|heidelberg|ingolstadt|"
+                      r"wolfsburg|erlangen|darmstadt|regensburg|ulm|walldorf|jena|kiel|freiburg|augsburg|potsdam)\b",
+                      re.I)
+PLACES = {"au": AU_PLACE, "us": US_PLACE, "gb": GB_PLACE, "jp": JP_PLACE, "de": DE_PLACE}
+# titles in Japanese and German: 新卒 / インターン; Trainee, Praktikum, Werkstudent, Absolvent, Berufseinstieg
+GRAD_LOCAL = re.compile(r"新卒|インターン|第二新卒|praktik|werkstudent|trainee|absolvent|berufseinst|"
+                        r"direkteinstieg|abschlussarbeit|masterarbeit|bachelorarbeit|graduate scheme|placement year|"
+                        r"industrial placement|spring week", re.I)
 # addresses a provider would read as another employer's or as no employer's list
 SKIP = re.compile(r"linkedin\.com|seek\.com|indeed\.|glassdoor|gradconnection|prosple|handshake", re.I)
 ATS_HOST = re.compile(r"myworkdayjobs|pageuppeople|successfactors|oraclecloud|taleo|greenhouse|lever\.co|avature|"
@@ -118,10 +134,12 @@ def run_bridge(entries: list[dict], detect: bool, timeout: int) -> list[dict]:
 
 
 def place_ok(cc: str, loc: str, url: str) -> bool:
-    if ABROAD[cc].search(loc):
+    if cc in ABROAD and ABROAD[cc].search(loc):
         return False
     if cc == "us":   # state codes are upper case ("Chicago, IL"); words in any case
         return bool(US_PLACE.search(loc) or US_CODE.search(loc))
+    if cc in ("gb", "jp", "de"):
+        return bool(PLACES[cc].search(loc))
     return bool(AU_PLACE.search(loc) or (not loc and re.search(r"\.com\.au|/en-au|australia", url, re.I)))
 
 
@@ -185,7 +203,7 @@ def main() -> int:
             errors += 1
             continue
         read += 1
-        hits = [j for j in r["jobs"] if GRAD.search(j["title"]) and not NOT_INTAKE.search(j["title"])
+        hits = [j for j in r["jobs"] if (GRAD.search(j["title"]) or (a.cc in ("gb", "jp", "de") and GRAD_LOCAL.search(j["title"]))) and not NOT_INTAKE.search(j["title"])
                 and place_ok(a.cc, j["location"], j["url"])]
         if not hits or name in lines:
             continue

@@ -1,0 +1,6 @@
+Employers that belong to gb banking and are not yet written (list-only pass, 2026-11):
+- The smallest building societies (under about £1bn in assets): Penrith, Holmesdale, Manchester, Royal Bank of Scotland staff societies, Ecology-sized mutuals not listed
+- Credit unions with paid staff (e.g. London Capital Credit Union, Glasgow Credit Union)
+- Smaller foreign bank branches in London: Korea Development Bank, Hana Bank, Woori Bank, Industrial Bank of Korea, Bank of Taiwan, China CITIC Bank, China Everbright Bank, Canara Bank, Arab Bank, Banco do Brasil, Crédit Industriel et Commercial, Raiffeisen Bank International, Erste Group, Mashreq
+- Small specialist lenders with a banking licence: Kingdom Bank, Bank North, PCF Bank, Wyelands successors, Sonali Bank UK
+- Payments processors: Nuvei, PPRO, Trust Payments, Banking Circle, Payoneer, Marqeta UK, ACI Worldwide UK, Bottomline UK, Volt, Token.io

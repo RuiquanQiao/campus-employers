@@ -1,6 +1,6 @@
 """Check the guessed homepages in data/cn/<sector>.guesses.tsv and keep the ones that are right. No AI, no search.
 
-    python scripts/check_websites.py [--sector banks] [--dry]
+    python scripts/check_websites.py [--country jp] [--sector banks] [--dry]
 
 Each line of a guesses file is `name<TAB>address<TAB>address…`, best guess first, for employers with no `website`.
 Each address is opened (redirects followed); the first that answers and whose page names the employer (its name, full
@@ -42,12 +42,13 @@ def holds(rec: dict, url: str) -> tuple[str | None, str]:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--country", default="cn", help="data/<country>/ (cn, gb, jp, de…)")
     ap.add_argument("--sector")
     ap.add_argument("--dry", action="store_true")
     ap.add_argument("--suffix", default="guesses", help="guesses (agents' guesses) or search (found by search)")
     args = ap.parse_args()
     report = []
-    for tsv in sorted((ROOT / "data" / "cn").glob(f"{args.sector or '*'}.{args.suffix}.tsv")):
+    for tsv in sorted((ROOT / "data" / args.country).glob(f"{args.sector or '*'}.{args.suffix}.tsv")):
         sector = tsv.name[: -len(f".{args.suffix}.tsv")]
         guesses = {}
         for line in tsv.read_text(encoding="utf-8-sig").splitlines():
@@ -55,7 +56,7 @@ def main() -> int:
             urls = [u for u in urls if u.startswith(("http://", "https://"))]
             if name and urls:
                 guesses[name] = urls
-        files = [f for f in sorted((ROOT / "data" / "cn").glob(f"{sector}-*.jsonl"))
+        files = [f for f in sorted((ROOT / "data" / args.country).glob(f"{sector}-*.jsonl"))
                  if f.stem.removeprefix(sector + "-").isdigit()]
         content = {f: [json.loads(x) for x in f.read_text(encoding="utf-8-sig").splitlines() if x.strip()] for f in files}
         work = [r for recs in content.values() for r in recs if not r.get("website") and r.get("name") in guesses]
@@ -89,7 +90,8 @@ def main() -> int:
                 f.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in recs), encoding="utf-8")
     out = ROOT / "dist"
     out.mkdir(exist_ok=True)
-    (out / f"website-report-{args.suffix}{'-' + args.sector if args.sector else ''}.tsv").write_text("sector\temployer\thomepage\ttried\n" + "\n".join(report) + "\n",
+    cc = "" if args.country == "cn" else args.country + "-"
+    (out / f"website-report-{cc}{args.suffix}{'-' + args.sector if args.sector else ''}.tsv").write_text("sector\temployer\thomepage\ttried\n" + "\n".join(report) + "\n",
                                              encoding="utf-8")
     return 0
 

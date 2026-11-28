@@ -88,6 +88,83 @@ recruit apart) gets one line per unit that runs its own graduate intake.
 - Campus pages are often on Workday (`*.myworkdayjobs.com`), Greenhouse, Lever, Eightfold, Avature, iCIMS or Phenom;
   write `system` only when sure.
 
+## United Kingdom (`gb`)
+
+- `nature`: `gb.company`, `gb.state` (Royal Mail is not; Network Rail, the Post Office, NatWest only while majority
+  state-held, BBC, Channel 4), `gb.government` (Civil Service departments and agencies, the Bank of England, the NHS
+  bodies that are not trusts, councils), `gb.research` (universities, UKRI institutes, the Met Office's science arm),
+  `gb.nonprofit`. An NHS trust or health board is `gb.government` with `industry` Healthcare.
+- `hq` is the city (`London`, `Edinburgh`); `cities` the UK cities it hires graduates in. `listed`: `LSE BARC`.
+- Graduate intakes here are graduate schemes, summer internships (penultimate year), spring weeks and industrial
+  placements (a year in industry): `hires` `internship` covers the last three. Degree apprenticeships are not
+  graduate roles.
+- `notes` wordings: "Right to work in the UK required"; "Sponsors Skilled Worker visas for this scheme" or "Does not
+  sponsor visas" (only when certain); "Civil Service nationality rules apply" (most departments: UK, Irish,
+  Commonwealth and some EU nationals); "UK nationals only (security vetting, SC/DV)"; "Accepts Graduate visa
+  holders". Never guess sponsorship.
+
+## Japan (`jp`)
+
+- `nature`: `jp.company`, `jp.state` (Japan Post, NHK, JOGMEC, NEXI and other 独立行政法人 that hire like companies),
+  `jp.government` (ministries and agencies, prefectures and cities, the Bank of Japan), `jp.research` (RIKEN, AIST,
+  JAXA, universities), `jp.nonprofit`.
+- `name` in its usual English or romanised form (`Toyota Motor`, `Mitsubishi Corporation`, `Nitori`); `full_name` the
+  registered Japanese name (`トヨタ自動車株式会社`); `aliases` the short Japanese name (トヨタ) and the Chinese name in
+  common use (丰田汽车). `hq` and `cities` in English (`Tokyo`, `Osaka`, `Nagoya`).
+- Graduates are hired once a year as 新卒 (`graduate`); internships here are mostly short programmes for students
+  (`internship`). `listed`: `TSE 7203`.
+- `notes` wordings: "Japanese nationality required (national civil service)"; "Japanese at business level (JLPT N1)
+  required"; "Hires international students on the same 新卒 schedule"; "Global (English) track open to
+  international graduates". Write them only when known for this employer.
+- Japan's general and specialised trading companies (総合商社, 専門商社) have a sector of their own, `trading`
+  (`industry` "Trading Companies").
+
+## Germany (`de`)
+
+- `nature`: `de.company`, `de.state` (Deutsche Bahn, KfW, the Landesbanken, Sparkassen, city utilities
+  (Stadtwerke) and other companies owned by the federal state, a Land or a city), `de.government` (federal ministries and
+  agencies, the Bundesbank, Länder administrations, cities), `de.research` (Max Planck, Fraunhofer, Helmholtz and
+  Leibniz institutes, universities), `de.nonprofit`.
+- `name` as used (`Siemens`, `Deutsche Bank`, `BASF`); `hq` and `cities` in English (`Munich`, `Cologne`,
+  `Frankfurt`). `listed`: `XETRA SIE`.
+- Graduate intakes are trainee programmes (`graduate`), direct entry for graduates (`graduate`), internships and
+  Werkstudent roles (`internship`), and theses written at the company (`internship`). Dual study (duales Studium)
+  and Ausbildung are not graduate roles.
+- `notes` wordings: "Fluent German required (C1)"; "English-language trainee programme"; "EU citizenship required
+  (civil service / Beamte)"; "Security clearance required". Only when known.
+
+## Sectors (for `gb`, `jp`, `de`)
+
+`industry` is the label in brackets; the same label as the United States so the filter reads the same.
+
+- `banking` (Banking & Financial Services): banks, building societies, savings banks and cooperative banks
+  (Sparkassen, Volksbanken; Japan's regional banks and shinkin banks), card and payments firms.
+- `finance` (Banking & Financial Services): insurers, asset and wealth managers, investment banks and brokers,
+  trading firms, private equity, exchanges, fintech.
+- `pro` (Professional Services): accounting and audit, strategy, management and IT consulting, law firms,
+  actuarial, market research, HR consulting.
+- `software` (Technology): software companies and IT services (system integrators, Japan's SIer).
+- `internet` (Technology): internet platforms, e-commerce, marketplaces, games, consumer apps.
+- `hardware` (Technology): semiconductors, electronics and components, telecom equipment, computers.
+- `industrial` (Industrials, Aerospace & Defense): machinery, automation, electrical equipment, aerospace, defence.
+- `energy` (Energy, Utilities & Materials): oil and gas, power and utilities, water, chemicals, steel and metals,
+  mining, building materials, paper.
+- `built` (Real Estate, Construction & Engineering): construction, real estate, engineering consultancies,
+  architecture, housing.
+- `transport` (Transportation & Automotive): carmakers and suppliers, airlines, rail, shipping, logistics, airports.
+- `consumer` (Consumer & Retail): food and drink, household goods, fashion and luxury, retail, hospitality, travel.
+- `healthcare` (Healthcare & Life Sciences): hospitals and health services (NHS trusts, German hospital groups,
+  Japanese hospital groups), care providers, health insurers' care arms.
+- `lifesci` (Healthcare & Life Sciences): pharmaceuticals, biotech, medical devices, diagnostics, CROs.
+- `media` (Media, Telecom & Entertainment): telecom operators, broadcasting, publishing, advertising and PR,
+  entertainment.
+- `government` (Government & Research): national government departments and agencies, regulators, the central
+  bank, local government, the armed forces as an employer.
+- `research` (Government & Research): universities and public research bodies.
+- `nonprofit` (Nonprofit & Education): charities, NGOs, foundations, think tanks, international organisations'
+  offices, schools that hire graduates (Teach First).
+- `trading` (Trading Companies, Japan only): sogo shosha and specialised trading houses.
+
 ## What not to do
 
 - Don't invent an address, a ticker, a headcount or a visa rule. Empty is right; wrong is harmful.

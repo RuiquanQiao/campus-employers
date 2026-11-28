@@ -1,0 +1,19 @@
+Employers that belong in jp/software but are not written (registered name or current corporate form not certain enough without a web check):
+- Fujitsu Defense & National Security (富士通ディフェンス&ナショナルセキュリティ)
+- JR Central information systems subsidiary (JR東海情報システム)
+- JR West IT Solutions (JR西日本ITソリューションズ)
+- Kintetsu information systems subsidiary (近鉄情報システム)
+- Kyushu Electric IT subsidiary (九電ビジネスソリューションズ)
+- Kansai Electric IT subsidiary
+- Fujifilm Software (富士フイルムソフトウエア)
+- TOPPAN Digital (TOPPANデジタル)
+- Veriserve (ベリサーブ, now within SCSK group)
+- NTT Data Frontier, NTT Data Financial Technology and other NTT Data group firms
+- Mitsubishi Electric Software (三菱電機ソフトウエア)
+- Hitachi Solutions West Japan
+- Minami Nihon Joho Shori Center (南日本情報処理センター, Kagoshima)
+- CTC group subsidiaries (CTCシステムマネジメント etc.)
+- Ryoyu Systems (菱友システムズ)
+- EXA Corporation (エクサ)
+- OKI software subsidiaries
+- Foreign software firms' Japan arms with small new-graduate intakes (Infosys, Wipro, Cognizant, Workday, Snowflake, Datadog, Palo Alto Networks, Autodesk, Synopsys)

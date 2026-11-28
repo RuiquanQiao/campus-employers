@@ -18,3 +18,16 @@ Guessing is the point here; leaving a name out is the only way to fail.
 4. Only employers whose `website` is `""`; skip the others. Work file by file, appending as you go if the sector is
    large, so nothing is lost if you stop.
 5. Report in two lines: how many employers had no homepage, how many you guessed for.
+
+## Outside mainland China
+
+The same task for `data/<cc>/<sector>-NN.jsonl` (you are given the country code): write
+`data/<cc>/<sector>.guesses.tsv`. The page has to name the employer in a form its record has (`name`, `full_name` or an
+alias), so a Japanese page naming 「静岡銀行」 holds for a record whose `full_name` or alias has it. Usual patterns:
+- Japan: `www.<romanised name>.co.jp`, `www.<abbr>.co.jp`, `www.<name>.jp`; shinkin banks `www.<town>-shinkin.co.jp`;
+  hospitals `www.<name>.or.jp`, `<name>.jcho.go.jp`; public bodies `www.<abbr>.go.jp`, prefectures `www.pref.<name>.lg.jp`;
+  a group's subsidiary often under the group's domain (`www.<sub>.<group>.co.jp`) or `www.<group>-<sub>.co.jp`.
+- Germany: `www.<name>.de`, `www.<name>.com`; Sparkassen `www.sparkasse-<town>.de`, Volksbanken `www.vb-<town>.de` or
+  `www.voba-<town>.de`; universities `www.uni-<town>.de`.
+- United Kingdom: `www.<name>.co.uk`, `www.<name>.com`; NHS trusts `www.<abbr>.nhs.uk`; councils `www.<name>.gov.uk`.
+Then `scripts\check_websites.py --country <cc>` keeps the guesses that hold.

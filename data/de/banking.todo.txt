@@ -1,0 +1,8 @@
+Employers that belong in de/banking and are not yet written (homepage not known for certain in this pass):
+- Landesbausparkassen: LBS Südwest, LBS West, LBS Bayern, LBS Hessen-Thüringen, LBS Nord
+- Further Sparkassen running trainee programmes (about 340 Sparkassen in total; the largest ~110 are listed)
+- Further Volksbanken and Raiffeisenbanken (about 670 in total), e.g. VR Bank Nürnberg, Volksbank Kraichgau, Volksbank Mittweida, Volksbank Mittlerer Neckar
+- Sparda-Bank Berlin, Sparda-Bank Hamburg, Sparda-Bank Nürnberg; other PSD Banks
+- Foreign banks with Frankfurt branches: Intesa Sanpaolo, Rabobank, ING Wholesale Banking, Danske Bank, Nordea, Akbank, Garanti BBVA, KEB Hana, Bank of India
+- Captive banks: Ford Bank, Toyota Kreditbank, RCI Banque Germany, Hyundai Capital Bank Europe, Stellantis Bank
+- Bank im Bistum Essen, Ethikbank, Tomorrow Bank, Openbank Germany, Opel Bank

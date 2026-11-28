@@ -1,0 +1,5 @@
+Employers that belong in de/industrial and are not yet written (list-only pass; add with verified homepages):
+- Rail vehicle and rail-systems makers (Siemens Mobility, Alstom Deutschland, Stadler Deutschland, Knorr-Bremse, Vossloh) left out because the transport sector may list them; add here if transport does not.
+- Schaeffler industrial division and Bosch group: assumed under transport (automotive suppliers).
+- Further foreign arms with German graduate intakes: Emerson, Rockwell Automation, Danfoss, Grundfos, Alfa Laval, Sulzer, Andritz, Kone, Konecranes/Demag, Tadano (Demag/Faun), Caterpillar Energy Solutions (MWM), Toyota Material Handling, Collins Aerospace, Safran, Leonardo, Saab, Vestas, GE Vernova Germany.
+- Smaller hidden champions not yet listed: Klingelnberg (Hückeswagen), Kuka subsidiaries (Swisslog), Weidemann, Kramer, Teamtechnik, ASYS, Rehm Thermal Systems, Kistler Germany, Retsch, Hobart Germany, Vincorion, Stark Defence, Quest One.

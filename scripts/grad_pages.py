@@ -24,16 +24,30 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from verify_sites import fetch  # noqa: E402
 
 GRAD_LINK = re.compile(r"graduat|intern(ship)?s?\b|early[-_ ]?career|student|vacation|cadet|summer|entry[-_ ]?level|"
-                       r"eligib|campus|university|emerging[-_ ]?talent|future[-_ ]?talent|trainee|new[-_ ]?grad", re.I)
+                       r"eligib|campus|university|emerging[-_ ]?talent|future[-_ ]?talent|trainee|new[-_ ]?grad|"
+                       r"spring[-_ ]?week|placement|"
+                       # Japan: 新卒 / 新卒採用 / インターンシップ / 学生 / 募集要項; Germany: Absolventen, Berufseinstieg,
+                       # Praktikum, Werkstudent, Studierende, Einstieg, Abschlussarbeit
+                       r"shinsotsu|recruit/new|fresh|新卒|インターン|学生|募集要項|採用情報|"
+                       r"absolvent|berufseinst|einstieg|praktik|werkstudent|studierende|studenten|abschlussarbeit|"
+                       r"karriere|studium", re.I)
 CAREERS_LINK = re.compile(r"career|jobs?\b|join[-_ ]?us|work[-_ ]?(with|for)[-_ ]?us|vacanc|employment|recruit", re.I)
 FACT = re.compile(r"citizen|permanent resident|working rights|work rights|right to work|"
                   r"visa (status|holder|sponsor|requirement|condition|restriction)|(student|work|working|graduate|"
                   r"temporary|subclass \d+) visa|sponsor(ship)? (for|of) (a )?(work )?visa|visa sponsorship|"
                   r"eligib\w* (to|for) (apply|our|the|this) (graduate|intern|program|role|position)|to be eligible|"
                   r"eligibility (criteria|requirement)|security clearance|baseline clearance|\bNV ?[12]\b|AHPRA|"
-                  r"work authori[sz]ation|authori[sz]ed to work|US person|green card", re.I)
+                  r"work authori[sz]ation|authori[sz]ed to work|US person|green card|"
+                  r"right to work in the UK|skilled worker visa|graduate visa|visa sponsor|sponsor (a )?visa|nationality rules|"
+                  r"国籍|日本国籍|日本語能力|JLPT|留学生|外国籍|在留資格|"
+                  r"Staatsangehörigkeit|Arbeitserlaubnis|Aufenthaltstitel|Deutschkenntnisse|EU-Bürger|"
+                  r"Sicherheitsüberprüfung|verhandlungssicher", re.I)
 MENTION = re.compile(r"graduate (program|programme|role|intake|opportunit)|internship|summer (intern|analyst|vacation)|"
-                     r"vacation (program|programme|placement)|early careers|new grad|cadetship|graduate scheme", re.I)
+                     r"vacation (program|programme|placement)|early careers|new grad|cadetship|graduate scheme|"
+                     r"spring week|industrial placement|placement year|training contract|"
+                     r"新卒採用|新卒|インターンシップ|募集要項|初任給|"
+                     r"Trainee(programm)?|Traineeprogramm|Direkteinstieg|Praktikum|Werkstudent|Abschlussarbeit|"
+                     r"Absolventen|Berufseinstieg", re.I)
 ATS = re.compile(r"myworkdayjobs|pageuppeople|successfactors|oraclecloud|taleo|greenhouse|lever\.co|avature|"
                  r"eightfold|smartrecruiters|icims|workable|ashbyhq|brassring|jobvite|gradconnection|"
                  r"applynow|livehire|elmotalent|bigredsky|springboard|phenom|teamtailor|recruitee", re.I)

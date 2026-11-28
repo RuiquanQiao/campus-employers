@@ -1,0 +1,60 @@
+{"name": "North Tyneside Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "South Tyneside Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Sandwell Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Dudley Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Walsall Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Solihull Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Hull City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "City of York Council", "status": "confirmed", "programme": "https://www.york.gov.uk/WorkingForTheCouncil", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Middlesbrough Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Derby City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Stoke-on-Trent City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Brighton & Hove City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Southampton City Council", "status": "confirmed", "programme": "https://www.southampton.gov.uk/jobs/childrens-social-workers/your-social-work-career", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Portsmouth City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Plymouth City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Reading Borough Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Milton Keynes City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Medway Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Peterborough City Council", "status": "confirmed", "programme": "https://www.peterborough.gov.uk/engagement-hub/meet-our-graduate-management-trainees", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Luton Borough Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Central Bedfordshire Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Bedford Borough Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cornwall Council", "status": "confirmed", "programme": "https://www.cornwall.gov.uk/jobs-and-careers/graduates/", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Buckinghamshire Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Wiltshire Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Dorset Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "BCP Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Shropshire Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Durham County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Northumberland County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cumberland Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Westmorland and Furness Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "North Yorkshire Council", "status": "confirmed", "programme": "https://www.northyorks.gov.uk/jobs-and-careers/our-apprenticeships-graduate-scheme-and-work-experience/our-graduate-scheme", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Somerset Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cheshire East Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cheshire West and Chester Council", "status": "confirmed", "programme": "https://www.cwcrecruitment.co.uk/exploreroles", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Kent County Council", "status": "confirmed", "programme": "https://www.kent.gov.uk/jobs/starting-your-career/kent-graduate-programme", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Essex County Council", "status": "confirmed", "programme": "https://workingforessex.com/working-here/entry-to-work", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Hampshire County Council", "status": "confirmed", "programme": "https://www.hants.gov.uk/jobs/graduateschemes", "hires": ["graduate"], "notes": "", "evidence": ""}
+{"name": "Surrey County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Lancashire County Council", "status": "confirmed", "programme": "https://www.lancashire.gov.uk/jobs/work-experience-and-work-placements/", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Hertfordshire County Council", "status": "confirmed", "programme": "https://jobs.hertfordshire.gov.uk/departments/grads-apprentices-and-work-experience/graduates-apprentices-and-work-experience.aspx", "hires": ["internship"], "notes": "", "evidence": ""}
+{"name": "Norfolk County Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Suffolk County Council", "status": "confirmed", "programme": "https://www.suffolk.gov.uk/jobs-and-careers", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "Devon County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Oxfordshire County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Cambridgeshire County Council", "status": "confirmed", "programme": "https://jobs.cambridgeshire.gov.uk/jobs/job/Financial-Management-Associate/8372", "hires": ["graduate"], "notes": "Right to work in the UK required; does not sponsor visas", "evidence": "Successful applicants must have the Right to Work for the entire duration of the programme (3.5 years)."}
+{"name": "Staffordshire County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Derbyshire County Council", "status": "confirmed", "programme": "https://www.derbyshire.gov.uk/working-for-us/early-careers/early-careers.aspx", "hires": ["graduate"], "notes": "Final-year students or recent graduates", "evidence": "Aimed at those who are either about to or have recently graduated from university"}
+{"name": "Nottinghamshire County Council", "status": "confirmed", "programme": "https://www.nottinghamshire.gov.uk/jobs-and-working/working-for-us/opportunities-with-us/summer-internships", "hires": ["internship"], "notes": "Right to work in the UK required; penultimate or final-year students or graduated within the past two years", "evidence": "be eligible to work in the UK for the duration of a summer work placement"}
+{"name": "Leicestershire County Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Lincolnshire County Council", "status": "confirmed", "programme": "https://www.lincolnshire.gov.uk/early-careers", "hires": ["graduate", "internship"], "notes": "", "evidence": ""}
+{"name": "West Sussex County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "East Sussex County Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Gloucestershire County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Warwickshire County Council", "status": "confirmed", "programme": "https://www.warwickshire.gov.uk/graduates/local-government-association-scheme", "hires": ["graduate"], "notes": "Right to work in the UK required; minimum 2:2 degree by July 2026", "evidence": "Our only requirements are that you have a minimum 2.2 undergraduate degree by July 2026 and that you have the right to work in the UK"}
+{"name": "Worcestershire County Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "City of London Corporation", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Westminster City Council", "status": "careers_only", "programme": "", "hires": [], "notes": "", "evidence": ""}
+{"name": "Camden Council", "status": "unreachable", "programme": "", "hires": [], "notes": "", "evidence": ""}

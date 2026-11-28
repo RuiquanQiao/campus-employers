@@ -1,0 +1,12 @@
+Employers that belong in de/transport and are not yet written (homepage or German entity not known for certain in the list-only pass):
+- Lear Germany (seating and E-Systems; German sites and entity not confirmed)
+- Gestamp Germany (body-in-white; German entity not confirmed)
+- Iveco Magirus / Magirus (firefighting vehicles, Ulm; homepage not confirmed)
+- Scania Deutschland (Koblenz)
+- Volkswagen Group Logistics, Audi Sport, BMW M (units that hire through their parents; add only if they run their own intake)
+- Flughafen Bremen, Dortmund Airport, Münster/Osnabrück Airport and other regional airports
+- KVV / Verkehrsbetriebe Karlsruhe, Kieler Verkehrsgesellschaft and other city transport companies
+- Regional rail operators: Go-Ahead Bayern, Nordwestbahn, Erfurter Bahn, ODEG, vlexx
+- Shipping: Harren Group, Briese Schiffahrt, Reederei NSB, Carsten Rehder, F. Laeisz
+- Logistics: Emons, Militzer & Münch, Meyer Logistik, Loxxess, CEVA Germany, Geodis Germany
+- Rolling stock lessors: Alpha Trains, Akiem, GATX Rail Germany, Ermewa Germany

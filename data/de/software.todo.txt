@@ -1,0 +1,10 @@
+Germany / software: employers that belong and are not yet written (homepages to confirm)
+- Accenture Germany, Deloitte/PwC/EY/KPMG technology practices (likely in the pro sector)
+- Endava, GlobalLogic, Globant, Persistent Systems German offices
+- Infor, IFS, Unit4, Sage, Hexagon, Ansys, Synopsys, Cadence German offices
+- Databricks, Snowflake, MongoDB, Atlassian, Elastic, Dynatrace German offices
+- Bosch Digital / Bosch Global Software Technologies, Siemens Advanta (group IT units)
+- Volkswagen Group IT, Audi, Continental and ZF software units
+- Regional public IT providers: IT.NRW, IT.Niedersachsen, IT-Dienstleistungszentrum Sachsen, ekom21, regio iT, KDO
+- Insurance group IT: ERGO Technology & Services, Generali Deutschland Informatik, HUK-COBURG IT, Signal Iduna IT
+- Smaller SAP partners: Camelot ITLab, Westernacher, Itelligence spin-offs, Seidor Germany

@@ -1,0 +1,12 @@
+Employers that belong in de/pro and are not yet written (German entity, offices or homepage not known well enough for this list-only pass):
+- Monitor Deloitte (Deloitte's strategy arm; hires through Deloitte)
+- Deloitte Legal, EY Law (Big Four law arms)
+- Moore Germany, HLB Germany, LKC, other mid-tier audit networks
+- Baden-Württembergischer Genossenschaftsverband, DGRV and the Sparkassen audit bodies (Prüfungsstellen)
+- Kroll, Falkensteg, Atreus (restructuring and valuation)
+- NERA Economic Consulting, Compass Lexecon, Charles River Associates (economic consulting offices in Germany)
+- Korn Ferry (HR consulting)
+- FEV Consulting, umlaut (Accenture Industry X), Invensity (engineering-led consulting)
+- Skadden, Covington & Burling, Addleshaw Goddard (German offices)
+- Gartner, IDC, Bilendi (respondi), Norstat, Interrogare, Facit Research (market research)
+- IBM Consulting, NTT DATA, CGI, Publicis Sapient (IT consulting arms; likely listed under the software sector)

@@ -1,0 +1,23 @@
+Employers that belong in gb industrial but are not written (details not known well enough without web checks):
+Spirit AeroSystems Belfast / Short Brothers (ownership after the 2025 Boeing-Airbus split unclear)
+Navantia UK (Harland & Wolff yards, Belfast and Appledore)
+Cammell Laird
+Ultra Electronics units (Ultra Maritime, Ultra I&C, Ultra PCS)
+Cobham (remaining UK businesses)
+Elbit Systems UK
+Kongsberg UK, Hensoldt UK (Kelvin Hughes), Atlas Elektronik UK
+Leidos UK (defence)
+Frazer-Nash Consultancy (KBR) - defence and nuclear engineering consultancy, may belong to built
+MSI-Defence Systems, Chess Dynamics, SC Group
+Mitsubishi Electric UK (Hatfield, Livingston)
+Honeywell UK, Emerson UK, Rockwell Automation UK, Ametek UK
+Bosch UK (Rexroth, thermotechnology)
+Komatsu UK (Birtley), Hyster-Yale UK (Craigavon), AGCO UK, Doosan Bobcat UK
+Yamazaki Mazak UK (Worcester)
+Brush Group (Loughborough), Hayward Tyler (Luton)
+Schaeffler UK, SKF UK, Timken UK
+Airbus Helicopters UK, Magellan Aerospace UK, Triumph Group UK
+Gooch & Housego, Avingtrans, Luceco
+Advanced Forming Research Centre (University of Strathclyde), Nuclear AMRC
+Dstl (Defence Science and Technology Laboratory) - gb.government, belongs to the government sector
+Sheffield Forgemasters (MOD-owned) - steel, belongs to the energy sector

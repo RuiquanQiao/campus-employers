@@ -1,0 +1,7 @@
+Employers that belong in de/nonprofit and are not yet written (list-only pass; add with checked websites):
+- Regional Caritas and Diakonie units that recruit on their own (e.g. Caritasverband für die Erzdiözese München und Freising, Diakonie Hessen, Diakonisches Werk Württemberg, Evangelische Stiftung Alsterdorf, v. Bodelschwinghsche Stiftungen Bethel; the last two may belong to healthcare)
+- Further private foundations: Fritz Thyssen Stiftung, Gerda Henkel Stiftung, Heinz Nixdorf Stiftung, Software AG Stiftung, KfW Stiftung, Deutsche Bank Stiftung, Bayer Foundation, Deutsche Bahn Stiftung, Schöpflin Stiftung
+- Scholarship bodies: Evangelisches Studienwerk Villigst, Cusanuswerk, Hans-Seidel/KAS scholarship departments (covered by parent rows)
+- Further international schools: Bavarian International School, International School of Hamburg, ISF Internationale Schule Frankfurt Rhein-Main, Phorms Education
+- Bundesverband Erneuerbare Energie, Deutscher Städtetag (local-government association, may belong to government)
+- Smaller development NGOs: INKOTA, Weltfriedensdienst, FIAN Deutschland, SODI, Sea-Watch, SOS Humanity

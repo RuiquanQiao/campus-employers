@@ -1,0 +1,8 @@
+Belong in gb/government and not yet written:
+- Remaining English unitary and metropolitan councils (e.g. Blackpool, Blackburn with Darwen, Halton, Warrington, Stockton-on-Tees, Redcar and Cleveland, Darlington, Hartlepool, North Lincolnshire, North East Lincolnshire, East Riding of Yorkshire, Rutland, Slough, Windsor and Maidenhead, Bracknell Forest, West Berkshire, Wokingham, Torbay, North Northamptonshire, West Northamptonshire, Leicester-area districts)
+- English district councils (about 160) and Northern Ireland's other ten councils
+- Remaining Scottish councils (about 23) and Welsh councils (about 18)
+- Remaining territorial police forces in England and Wales (about 37) and fire and rescue services
+- Smaller NDPBs and executive agencies: Office of the Public Guardian (Scotland), Arts Council England, Sport England, UK Anti-Doping, Judicial Appointments Commission, Parole Board, Youth Justice Board, Legal Services Board, Office of the Regulator of Community Interest Companies, Ofcom Scotland offices, Office for Value for Money, Government Office for Science, Export Control Joint Unit, Royal Fleet Auxiliary, Civil Nuclear Constabulary, Ministry of Defence Police, Defence Nuclear Organisation
+- Scottish Government agencies and bodies not listed: Education Scotland, Scottish Qualifications Authority, Scottish Courts and Tribunals Service, Student Awards Agency Scotland, Forestry and Land Scotland, Scottish Fiscal Commission, Scottish National Investment Bank
+- Welsh bodies: Cadw, Development Bank of Wales, Transport for Wales (transport sector)

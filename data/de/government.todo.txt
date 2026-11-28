@@ -1,0 +1,7 @@
+Employers that belong in de/government and are not yet written:
+- Land police forces (Polizei NRW, Bayerische Polizei, Polizei Berlin, Polizei Baden-Württemberg, etc.): entry is mainly through police study programmes; graduate direct-entry routes (IT, cybercrime) need checking per Land.
+- Regional Deutsche Rentenversicherung carriers (Baden-Württemberg, Bayern Süd, Rheinland, Westfalen, Nord, Mitteldeutschland, Berlin-Brandenburg, Hessen, etc.).
+- Other federal courts (Bundesverwaltungsgericht, Bundesfinanzhof, Bundesarbeitsgericht, Bundessozialgericht) and the Generalbundesanwalt.
+- Further Land agencies: state statistical offices other than Bavaria, Baden-Württemberg and NRW; Land tax administrations other than NRW and Bavaria; Land justice administrations other than NRW and Bavaria; Landesämter für Verfassungsschutz.
+- Region Hannover, district (Landkreis) administrations, Berlin borough offices (Bezirksämter), cities below about 100,000 residents.
+- Ressortforschung institutes (Robert Koch-Institut, BfR, BGR, PTB, BAM, BASt, BAW) were left for the research sector.

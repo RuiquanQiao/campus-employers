@@ -1,0 +1,3 @@
+Employers that may belong in gb/hardware and are not written (UK graduate intake or current status not known well enough in this list-only pass):
+Intel UK, Microchip UK, NXP UK, onsemi UK, Keysight UK, Ciena UK, Xerox UK, Panasonic UK, Hitachi Europe (Cambridge Laboratory), Compound Semiconductor Applications Catapult, Jabil UK, Sanmina UK, Coherent UK, Antenova, Riverlane (quantum; may belong in software)
+Left to other sectors: Renishaw, Spectris, Halma, Edwards Vacuum (industrial); Cadence, Synopsys, Siemens EDA (software)
