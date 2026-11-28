@@ -1,6 +1,7 @@
 """The graduate-page check (CHECK_BRIEF.md): split a country into batches, then apply what the agents read.
 
     python scripts/checks.py split <cc> [--size 60]    writes dist/checks/<cc>-NN.in.jsonl from dist/<cc>.json
+    python scripts/checks.py recheck <cc> [--listed]   second pass: dist/checks/<cc>-rNN.in.jsonl (RECHECK_BRIEF.md)
     python scripts/checks.py apply <cc> [--dry]        reads dist/checks/<cc>-NN.out.jsonl into data/<cc>/*.jsonl
 
 apply, for each `confirmed` line: sets `notes` when the page stated who may apply, `hires` from the page, the
@@ -41,9 +42,47 @@ def split(cc: str, size: int) -> int:
     return 0
 
 
+def recheck(cc: str, size: int, listed: bool) -> int:
+    """Second pass (RECHECK_BRIEF.md): the employers whose latest line is careers_only or unreachable, in batches
+    dist/checks/<cc>-rNN.in.jsonl, each with the page the first pass read. --listed keeps listed companies only."""
+    results = latest(cc)
+    recs = json.loads((ROOT / "dist" / f"{cc}.json").read_text(encoding="utf-8"))
+    given = set()
+    for f in OUT.glob(f"{cc}-r*.in.jsonl"):
+        given |= {json.loads(x)["name"] for x in f.read_text(encoding="utf-8").splitlines() if x.strip()}
+    todo = [r for r in recs if r["name"] in results and r["name"] not in given
+            and results[r["name"]].get("status") in ("careers_only", "unreachable", "no_intake")
+            and (not listed or r.get("listed"))]
+    last = max([int(f.name.split("-r")[-1].split(".")[0]) for f in OUT.glob(f"{cc}-r*.in.jsonl")] or [0])
+    for i in range(0, len(todo), size):
+        lines = [json.dumps({"name": r["name"], "website": r.get("website") or "", "campus_site": r.get("campus_site") or "",
+                             "site_candidates": r.get("site_candidates") or [],
+                             "first_pass": results[r["name"]].get("status"),
+                             "first_page": results[r["name"]].get("programme") or ""}, ensure_ascii=False)
+                 for r in todo[i:i + size]]
+        (OUT / f"{cc}-r{last + i // size + 1:02d}.in.jsonl").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"{cc}: {len(todo)} employers in {(len(todo) + size - 1) // size} recheck batches of {size} after r{last:02d}")
+    return 0
+
+
+def latest(cc: str) -> dict[str, dict]:
+    """Each employer's latest line: the first pass (<cc>-NN), then the second (<cc>-rNN) over it."""
+    results: dict[str, dict] = {}
+    for f in sorted(OUT.glob(f"{cc}-*.out.jsonl")):
+        for line in f.read_text(encoding="utf-8-sig").splitlines():
+            try:
+                r = json.loads(line) if line.strip() else None
+            except json.JSONDecodeError:
+                r = None
+            if r:
+                results[r.get("name", "")] = r
+    return results
+
+
 def apply(cc: str, dry: bool) -> int:
     results: dict[str, dict] = {}
     bad = 0
+    # sorted: <cc>-NN (first pass) before <cc>-rNN (second pass), so a second-pass line replaces the first
     for f in sorted(OUT.glob(f"{cc}-*.out.jsonl")):
         for line in f.read_text(encoding="utf-8-sig").splitlines():
             if not line.strip():
@@ -109,11 +148,14 @@ def apply(cc: str, dry: bool) -> int:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["split", "apply"])
+    ap.add_argument("cmd", choices=["split", "recheck", "apply"])
     ap.add_argument("cc")
     ap.add_argument("--size", type=int, default=60)
+    ap.add_argument("--listed", action="store_true")
     ap.add_argument("--dry", action="store_true")
     a = ap.parse_args()
+    if a.cmd == "recheck":
+        return recheck(a.cc, a.size, a.listed)
     return split(a.cc, a.size) if a.cmd == "split" else apply(a.cc, a.dry)
 
 

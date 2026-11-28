@@ -88104,34 +88104,6 @@
 "website": "https://www.healthcatalyst.com"
 },
 {
-"name": "Accolade",
-"full_name": "",
-"aliases": [],
-"nature": "us.company",
-"industry": "Healthcare & Life Sciences",
-"sub": "Health navigation",
-"parent": "",
-"hq": "Plymouth Meeting",
-"cities": [
-"Plymouth Meeting"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [
-"graduate",
-"experienced"
-],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.accolade.com"
-},
-{
 "name": "Quest Diagnostics",
 "full_name": "Quest Diagnostics Incorporated",
 "aliases": [
@@ -100860,7 +100832,7 @@
 "nature": "us.company",
 "industry": "Technology",
 "sub": "Event ticketing",
-"parent": "",
+"parent": "Bending Spoons",
 "hq": "San Francisco",
 "cities": [
 "San Francisco"
@@ -106456,7 +106428,9 @@
 "full_name": "Eli Lilly and Company",
 "aliases": [
 "Lilly",
-"礼来"
+"礼来",
+"Verve Therapeutics",
+"Verve Therapeutics, Inc."
 ],
 "nature": "us.company",
 "industry": "Healthcare & Life Sciences",
@@ -113146,36 +113120,6 @@
 "website": "https://www.aviditybiosciences.com"
 },
 {
-"name": "Verve Therapeutics",
-"full_name": "Verve Therapeutics, Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Healthcare & Life Sciences",
-"sub": "Gene editing",
-"parent": "",
-"hq": "Boston",
-"cities": [
-"Boston"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [
-"https://www.vervetx.com/careers"
-],
-"website": "https://www.vervetx.com"
-},
-{
 "name": "Prime Medicine",
 "full_name": "Prime Medicine, Inc.",
 "aliases": [],
@@ -115568,7 +115512,10 @@
 "full_name": "T-Mobile US, Inc.",
 "aliases": [
 "T-Mobile",
-"T-Mobile USA"
+"T-Mobile USA",
+"UScellular",
+"United States Cellular Corporation",
+"United States Cellular"
 ],
 "nature": "us.company",
 "industry": "Media, Telecom & Entertainment",
@@ -115576,7 +115523,8 @@
 "parent": "",
 "hq": "Bellevue",
 "cities": [
-"Bellevue"
+"Bellevue",
+"Chicago"
 ],
 "listed": "Nasdaq TMUS",
 "scale": "",
@@ -116198,33 +116146,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.tdsinc.com"
-},
-{
-"name": "UScellular",
-"full_name": "United States Cellular Corporation",
-"aliases": [
-"United States Cellular"
-],
-"nature": "us.company",
-"industry": "Media, Telecom & Entertainment",
-"sub": "Wireless carrier",
-"parent": "Telephone and Data Systems",
-"hq": "Chicago",
-"cities": [
-"Chicago"
-],
-"listed": "NYSE USM",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.uscellular.com"
 },
 {
 "name": "altafiber",
@@ -133157,7 +133078,9 @@
 "full_name": "Baker Tilly US, LLP",
 "aliases": [
 "Baker Tilly",
-"Baker Tilly Virchow Krause"
+"Baker Tilly Virchow Krause",
+"Anchin",
+"Anchin, Block & Anchin LLP"
 ],
 "nature": "us.company",
 "industry": "Professional Services",
@@ -133535,7 +133458,11 @@
 {
 "name": "Armanino",
 "full_name": "Armanino LLP",
-"aliases": [],
+"aliases": [
+"Brown Smith Wallace",
+"Brown Smith Wallace LLP",
+"BSW"
+],
 "nature": "us.company",
 "industry": "Professional Services",
 "sub": "Mid-tier accounting",
@@ -133546,7 +133473,8 @@
 "San Francisco",
 "Los Angeles",
 "Dallas",
-"Chicago"
+"Chicago",
+"St. Louis"
 ],
 "listed": "",
 "scale": "",
@@ -136497,7 +136425,10 @@
 {
 "name": "Ballard Spahr",
 "full_name": "Ballard Spahr LLP",
-"aliases": [],
+"aliases": [
+"Lane Powell",
+"Lane Powell PC"
+],
 "nature": "us.company",
 "industry": "Professional Services",
 "sub": "Law firm",
@@ -136509,7 +136440,9 @@
 "New York",
 "Baltimore",
 "Denver",
-"Atlanta"
+"Atlanta",
+"Seattle",
+"Portland"
 ],
 "listed": "",
 "scale": "",
@@ -136808,7 +136741,11 @@
 {
 "name": "Holland & Knight",
 "full_name": "Holland & Knight LLP",
-"aliases": [],
+"aliases": [
+"Waller Lansden Dortch & Davis",
+"Waller Lansden Dortch & Davis, LLP",
+"Waller"
+],
 "nature": "us.company",
 "industry": "Professional Services",
 "sub": "Law firm",
@@ -136822,7 +136759,10 @@
 "New York",
 "Atlanta",
 "Chicago",
-"Houston"
+"Houston",
+"Nashville",
+"Austin",
+"Birmingham"
 ],
 "listed": "",
 "scale": "",
@@ -138423,38 +138363,6 @@
 "website": "https://www.balch.com"
 },
 {
-"name": "Waller Lansden Dortch & Davis",
-"full_name": "Waller Lansden Dortch & Davis, LLP",
-"aliases": [
-"Waller"
-],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Law firm",
-"parent": "",
-"hq": "Nashville",
-"cities": [
-"Nashville",
-"Atlanta",
-"Austin",
-"Birmingham"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://hklaw.wd1.myworkdayjobs.com/Holland_Knight/fs/refreshFacet/318c8bb6f553100021d223d9780d30be",
-"system": "Workday",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [
-"https://hklaw.wd1.myworkdayjobs.com/Holland_Knight/fs/refreshFacet/318c8bb6f553100021d223d9780d30be"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.wallerlaw.com"
-},
-{
 "name": "Butler Snow",
 "full_name": "Butler Snow LLP",
 "aliases": [],
@@ -138727,34 +138635,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.stoel.com"
-},
-{
-"name": "Lane Powell",
-"full_name": "Lane Powell PC",
-"aliases": [],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Law firm",
-"parent": "",
-"hq": "Seattle",
-"cities": [
-"Seattle",
-"Portland"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [
-"https://www.lanepowell.com/careers"
-],
-"website": "https://www.lanepowell.com"
 },
 {
 "name": "Buchalter",
@@ -143062,31 +142942,6 @@
 "website": "https://www.wolfandco.com"
 },
 {
-"name": "Anchin",
-"full_name": "Anchin, Block & Anchin LLP",
-"aliases": [],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Mid-tier accounting",
-"parent": "",
-"hq": "New York",
-"cities": [
-"New York"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.anchin.com"
-},
-{
 "name": "Carr, Riggs & Ingram",
 "full_name": "Carr, Riggs & Ingram, LLC",
 "aliases": [
@@ -143295,33 +143150,6 @@
 "checked": "",
 "site_candidates": [],
 "website": "https://www.friedmanllp.com"
-},
-{
-"name": "Brown Smith Wallace",
-"full_name": "Brown Smith Wallace LLP",
-"aliases": [
-"BSW"
-],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Mid-tier accounting",
-"parent": "",
-"hq": "St. Louis",
-"cities": [
-"St. Louis"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.bswllc.com"
 },
 {
 "name": "Argonne National Laboratory",

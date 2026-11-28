@@ -1,6 +1,7 @@
-"""Apply dist/search/actions.tsv (corrections found by search, one action per line) to data/cn/*.jsonl.
+"""Apply dist/search/actions.tsv (corrections found by search, one action per line) to data/cn/*.jsonl, and
+dist/search/<cc>-actions.tsv to another country's data/<cc>/*.jsonl (removed lines listed in dist/removed-<cc>.tsv).
 
-    python scripts/apply_changes.py [--dry]
+    python scripts/apply_changes.py [--cc us] [--dry]
 
 Each line is `name<TAB>action<TAB>value<TAB>reason`. Actions:
   remove     the employer no longer recruits on its own; its line goes (listed in dist/removed.tsv with why)
@@ -24,16 +25,18 @@ ORDER = {"rename": 0, "full_name": 1, "parent": 1, "nature": 1, "hq": 1, "alias"
 
 def main() -> int:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--cc", default="cn")
     ap.add_argument("--dry", action="store_true")
     args = ap.parse_args()
-    files = [f for f in sorted((ROOT / "data" / "cn").glob("*.jsonl"))]
+    cn = args.cc == "cn"
+    files = [f for f in sorted((ROOT / "data" / args.cc).glob("*.jsonl"))]
     content = {f: [json.loads(x) for x in f.read_text(encoding="utf-8-sig").splitlines() if x.strip()] for f in files}
     by_name: dict[str, dict] = {}
     for recs in content.values():
         for r in recs:
             by_name.setdefault(r["name"], r)
     actions = []
-    for line in (ROOT / "dist" / "search" / "actions.tsv").read_text(encoding="utf-8").splitlines():
+    for line in (ROOT / "dist" / "search" / ("actions.tsv" if cn else f"{args.cc}-actions.tsv")).read_text(encoding="utf-8").splitlines():
         parts = line.split("\t")
         if len(parts) == 4 and parts[1] in ORDER:
             actions.append(parts)
@@ -91,7 +94,7 @@ def main() -> int:
         for f, recs in content.items():
             f.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in recs if id(r) not in gone),
                          encoding="utf-8")
-        (ROOT / "dist" / "removed.tsv").write_text("employer\tchange\twhy\n" + "\n".join(removed) + "\n", encoding="utf-8")
+        (ROOT / "dist" / ("removed.tsv" if cn else f"removed-{args.cc}.tsv")).write_text("employer\tchange\twhy\n" + "\n".join(removed) + "\n", encoding="utf-8")
     return 0
 
 
