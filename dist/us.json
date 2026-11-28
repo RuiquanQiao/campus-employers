@@ -249,13 +249,13 @@
 "campus_site": "https://www.evercore.com/careers/students-graduates/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.evercore.com/careers/students-graduates/"
+"https://www.evercore.com/careers/students-graduates/",
+"https://evercore.com/?p=278"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -1591,7 +1591,7 @@
 "listed": "Nasdaq HBAN",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://huntington-careers.com/early-careers",
 "system": "",
 "hires": [
 "graduate",
@@ -1599,8 +1599,10 @@
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://huntington-careers.com/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.huntington.com"
 },
@@ -2458,13 +2460,13 @@
 "campus_site": "https://umb.wd1.myworkdayjobs.com/UMBExternal",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://umb.wd1.myworkdayjobs.com/UMBExternal"
+"https://umb.wd1.myworkdayjobs.com/UMBExternal",
+"https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Milwaukee-WI/Intern_R-9832"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -3266,13 +3268,13 @@
 "campus_site": "https://ibfhqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FHBCareers",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ibfhqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FHBCareers"
+"https://ibfhqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FHBCareers",
+"https://ibfhqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FHBCareers/job/598"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -3774,13 +3776,13 @@
 "campus_site": "https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/login",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/login"
+"https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/login",
+"https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Irving-TX/SOX-Accounting-Intern_R2611-53285"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -3819,36 +3821,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cowen.com"
-},
-{
-"name": "Oppenheimer",
-"full_name": "Oppenheimer Holdings Inc.",
-"aliases": [
-"Oppenheimer & Co."
-],
-"nature": "us.company",
-"industry": "Banking & Financial Services",
-"sub": "Investment bank and wealth",
-"parent": "",
-"hq": "New York",
-"cities": [
-"New York"
-],
-"listed": "NYSE OPY",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.oppenheimer.com"
 },
 {
 "name": "B. Riley Securities",
@@ -4632,13 +4604,13 @@
 "campus_site": "https://firstnational.wd12.myworkdayjobs.com/en-US/northlandcareers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://firstnational.wd12.myworkdayjobs.com/en-US/northlandcareers"
+"https://firstnational.wd12.myworkdayjobs.com/en-US/northlandcareers",
+"https://firstnational.wd12.myworkdayjobs.com/northlandcareers/job/Minneapolis-MN---Northland-Securities-Office/Northland-Capital-Markets-Analyst---Intern_R-20261938"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -6703,13 +6675,13 @@
 "campus_site": "https://ncsecu.wd1.myworkdayjobs.com/SECU",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ncsecu.wd1.myworkdayjobs.com/SECU"
+"https://ncsecu.wd1.myworkdayjobs.com/SECU",
+"https://ncsecu.wd1.myworkdayjobs.com/SECU/job/North-Carolina/Intern---Product-Strategy-Business-Intelligence-Analyst_JR-16978"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -7537,39 +7509,6 @@
 "website": "https://www.pathward.com"
 },
 {
-"name": "Green Dot Bank",
-"full_name": "Green Dot Corporation",
-"aliases": [
-"Green Dot"
-],
-"nature": "us.company",
-"industry": "Banking & Financial Services",
-"sub": "Partner bank",
-"parent": "",
-"hq": "Pasadena",
-"cities": [
-"Pasadena",
-"Austin"
-],
-"listed": "NYSE GDOT",
-"scale": "",
-"funding": "",
-"campus_site": "https://greendotcorp.wd1.myworkdayjobs.com/en-us/gdc",
-"system": "Workday",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://greendotcorp.wd1.myworkdayjobs.com/en-us/gdc"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.greendot.com"
-},
-{
 "name": "Sutton Bank",
 "full_name": "Sutton Bank",
 "aliases": [
@@ -7814,13 +7753,13 @@
 "campus_site": "https://ejlu.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/HilltopHoldingsAllJobs",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Does not sponsor work visas; rising seniors or graduate students at an accredited four-year university only",
 "sources": [
-"https://ejlu.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/HilltopHoldingsAllJobs"
+"https://ejlu.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/HilltopHoldingsAllJobs",
+"https://www.hilltop.com/careers/student-intern/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -8231,13 +8170,13 @@
 "campus_site": "https://mercbank.com/careers",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://mercbank.com/careers"
+"https://mercbank.com/careers",
+"https://mercbank.com/blog/national-intern-day-recognizing-our-summer-interns"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -8487,13 +8426,13 @@
 "campus_site": "https://originbank.wd1.myworkdayjobs.com/Careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://originbank.wd1.myworkdayjobs.com/Careers"
+"https://originbank.wd1.myworkdayjobs.com/Careers",
+"https://www.origin.bank/give-internship/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -9095,13 +9034,13 @@
 "campus_site": "https://eehb.fa.us2.oraclecloud.com/fscmUI/redwood/internalmobility",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://eehb.fa.us2.oraclecloud.com/fscmUI/redwood/internalmobility"
+"https://eehb.fa.us2.oraclecloud.com/fscmUI/redwood/internalmobility",
+"https://eehb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3093"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -10580,11 +10519,14 @@
 "funding": "",
 "campus_site": "https://fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/stobg",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/stobg"
+"https://fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/stobg",
+"https://fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/stobg/job/54588"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -11061,11 +11003,14 @@
 "funding": "",
 "campus_site": "https://www.arganinc.com/careers/",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.arganinc.com/careers/"
+"https://www.arganinc.com/careers/",
+"https://www.gemmapower.com/careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -11307,11 +11252,14 @@
 "funding": "",
 "campus_site": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies"
+"https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies",
+"https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Atlanta/VDC-Intern_R-102315"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -11426,11 +11374,14 @@
 "funding": "",
 "campus_site": "https://apply.workable.com/consigli-construction-1/?lng=en",
 "system": "Workable",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://apply.workable.com/consigli-construction-1/?lng=en"
+"https://apply.workable.com/consigli-construction-1/?lng=en",
+"https://apply.workable.com/j/FE05A3298C"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -12365,7 +12316,10 @@
 "parent": "",
 "hq": "Centreville",
 "cities": [
-"Centreville"
+"Centreville",
+"Huntsville",
+"Colorado Springs",
+"Washington"
 ],
 "listed": "NYSE PSN",
 "scale": "",
@@ -12892,13 +12846,13 @@
 "campus_site": "https://www.tetratech.com/careers/",
 "system": "",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.tetratech.com/careers/"
+"https://www.tetratech.com/careers/",
+"https://tetratech.referrals.selectminds.com/jobs/engineering-summer-intern-54224"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -13238,13 +13192,13 @@
 "campus_site": "https://stvinc.wd5.myworkdayjobs.com/stv",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://stvinc.wd5.myworkdayjobs.com/stv"
+"https://stvinc.wd5.myworkdayjobs.com/stv",
+"https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Electrical-Engineering-Intern---Summer-2027_JR6227"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -15876,13 +15830,13 @@
 "campus_site": "https://jll.wd1.myworkdayjobs.com/jllcareers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jll.wd1.myworkdayjobs.com/jllcareers"
+"https://jll.wd1.myworkdayjobs.com/jllcareers",
+"https://www.jll.com/en-us/careers/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -17054,11 +17008,14 @@
 "funding": "",
 "campus_site": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers"
+"https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers",
+"https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -17083,11 +17040,14 @@
 "funding": "",
 "campus_site": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001"
+"https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001",
+"https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/26190"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -19517,7 +19477,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://phg.tbe.taleo.net/phg01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=52&org=NVRINC"
+"https://phg.tbe.taleo.net/phg01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=52&org=NVRINC",
+"https://phg.tbe.taleo.net/phg01/ats/careers/v2/searchResults?org=NVRINC&cws=52&act=search&keyword=intern"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -20185,11 +20146,14 @@
 "funding": "",
 "campus_site": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties?business=852cee5b653f0100c908d9dbabe80000&business=852cee5b653f0100c90102a6c0170000",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties?business=852cee5b653f0100c908d9dbabe80000&business=852cee5b653f0100c90102a6c0170000"
+"https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties?business=852cee5b653f0100c908d9dbabe80000&business=852cee5b653f0100c90102a6c0170000",
+"https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/New-York-New-York/Intern--Logistics_R2053887"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -20292,38 +20256,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.vulcanmaterials.com"
-},
-{
-"name": "Martin Marietta",
-"full_name": "",
-"aliases": [
-"Martin Marietta Materials"
-],
-"nature": "us.company",
-"industry": "Real Estate, Construction & Engineering",
-"sub": "Building products and materials",
-"parent": "",
-"hq": "Raleigh",
-"cities": [
-"Raleigh"
-],
-"listed": "NYSE MLM",
-"scale": "",
-"funding": "",
-"campus_site": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers",
-"system": "Workday",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers",
-"https://jobs.jobvite.com/martinmarietta/job/oirLAfwO"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.martinmarietta.com"
 },
 {
 "name": "Eagle Materials",
@@ -21066,31 +20998,6 @@
 "website": "https://www.bc.com"
 },
 {
-"name": "Knife River",
-"full_name": "",
-"aliases": [],
-"nature": "us.company",
-"industry": "Real Estate, Construction & Engineering",
-"sub": "Building products and materials",
-"parent": "",
-"hq": "Bismarck",
-"cities": [
-"Bismarck"
-],
-"listed": "NYSE KNF",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.kniferiver.com"
-},
-{
 "name": "Cemex USA",
 "full_name": "",
 "aliases": [
@@ -21185,36 +21092,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.heidelbergmaterials.us"
-},
-{
-"name": "Holcim US",
-"full_name": "",
-"aliases": [
-"Holcim",
-"Lafarge"
-],
-"nature": "us.company",
-"industry": "Real Estate, Construction & Engineering",
-"sub": "Building products and materials",
-"parent": "",
-"hq": "Chicago",
-"cities": [
-"Chicago"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://resources.ripplematch.com/2025-campus-forward-award-winners",
-"system": "",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [
-"https://resources.ripplematch.com/2025-campus-forward-award-winners"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.holcim.us"
 },
 {
 "name": "Summit Materials",
@@ -21328,11 +21205,14 @@
 "funding": "",
 "campus_site": "https://jci.wd5.myworkdayjobs.com/en-US/JCI",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jci.wd5.myworkdayjobs.com/en-US/JCI"
+"https://jci.wd5.myworkdayjobs.com/en-US/JCI",
+"https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Public-Relations-and-Media-Intern_WD30285443"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -21357,11 +21237,14 @@
 "funding": "",
 "campus_site": "https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway"
+"https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway",
+"https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway/job/OT363-SO---Phoenix-AZ-4405-East-Baseline-Rd-Phoenix-AZ-85042-USA/Sales-Intern_20170789"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -22700,13 +22583,13 @@
 "campus_site": "https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs"
+"https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs",
+"https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Lakeville-MA/FSQA-Compliance---Systems-Intern_R5425"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -23681,13 +23564,13 @@
 "campus_site": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers"
+"https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers",
+"https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -25946,13 +25829,13 @@
 "campus_site": "https://lazboy.wd1.myworkdayjobs.com/en-US/LZBCareers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://lazboy.wd1.myworkdayjobs.com/en-US/LZBCareers"
+"https://lazboy.wd1.myworkdayjobs.com/en-US/LZBCareers",
+"https://lazboy.wd1.myworkdayjobs.com/LZBCareers/job/Monroe-MI/Finance-Intern_JR134419"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -28063,13 +27946,13 @@
 "campus_site": "https://saputo.wd5.myworkdayjobs.com/en-US/Saputo_External_Careers?locationCountry=a30a87ed25634629aa6c3958aa2b91ea",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://saputo.wd5.myworkdayjobs.com/en-US/Saputo_External_Careers?locationCountry=a30a87ed25634629aa6c3958aa2b91ea"
+"https://saputo.wd5.myworkdayjobs.com/en-US/Saputo_External_Careers?locationCountry=a30a87ed25634629aa6c3958aa2b91ea",
+"https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Waupun-WI/Health---Safety-Intern-_JR67439"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -30730,13 +30613,13 @@
 "campus_site": "https://movadogroup.wd1.myworkdayjobs.com/Careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://movadogroup.wd1.myworkdayjobs.com/Careers"
+"https://movadogroup.wd1.myworkdayjobs.com/Careers",
+"https://movadogroup.wd1.myworkdayjobs.com/Careers/job/Paramus-NJ/Intern---Human-Resources_JR00002535"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -33587,42 +33470,13 @@
 "website": "https://www.vailresorts.com"
 },
 {
-"name": "Six Flags Entertainment",
-"full_name": "Six Flags Entertainment Corporation",
-"aliases": [
-"Six Flags"
-],
-"nature": "us.company",
-"industry": "Consumer & Retail",
-"sub": "Theme parks",
-"parent": "",
-"hq": "Arlington",
-"cities": [
-"Arlington"
-],
-"listed": "NYSE FUN",
-"scale": "",
-"funding": "",
-"campus_site": "https://internal-cedarfair.icims.com",
-"system": "iCIMS",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://internal-cedarfair.icims.com",
-"https://jobs.sixflags.com/job/sandusky/human-resources-internships/42509/76048705776"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.sixflags.com"
-},
-{
 "name": "SeaWorld United Parks",
 "full_name": "United Parks & Resorts Inc.",
 "aliases": [
-"SeaWorld"
+"SeaWorld",
+"United Parks & Resorts",
+"Busch Gardens",
+"SeaWorld Entertainment"
 ],
 "nature": "us.company",
 "industry": "Consumer & Retail",
@@ -33648,38 +33502,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.unitedparksandresorts.com"
-},
-{
-"name": "Cedar Fair",
-"full_name": "Cedar Fair, L.P.",
-"aliases": [
-"Cedar Point"
-],
-"nature": "us.company",
-"industry": "Consumer & Retail",
-"sub": "Theme parks",
-"parent": "",
-"hq": "Sandusky",
-"cities": [
-"Sandusky"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://internal-cedarfair.icims.com",
-"system": "iCIMS",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://internal-cedarfair.icims.com",
-"https://jobs.sixflags.com/job/sandusky/human-resources-internships/42509/76048705776"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.cedarfair.com"
 },
 {
 "name": "Stitch Fix",
@@ -33774,38 +33596,6 @@
 "checked": "",
 "site_candidates": [],
 "website": "https://www.thredup.com"
-},
-{
-"name": "RealReal",
-"full_name": "The RealReal, Inc.",
-"aliases": [
-"The RealReal"
-],
-"nature": "us.company",
-"industry": "Consumer & Retail",
-"sub": "Luxury resale",
-"parent": "",
-"hq": "San Francisco",
-"cities": [
-"San Francisco"
-],
-"listed": "Nasdaq REAL",
-"scale": "",
-"funding": "",
-"campus_site": "https://careers.therealreal.com/us/en",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://careers.therealreal.com/us/en"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.therealreal.com"
 },
 {
 "name": "Revolve Group",
@@ -34146,13 +33936,13 @@
 "campus_site": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers"
+"https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
+"https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Digital---Technology-Associate_10128716"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -34627,7 +34417,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://conocophillips.wd1.myworkdayjobs.com/External/"
+"https://conocophillips.wd1.myworkdayjobs.com/External/",
+"https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Cadet_REQ-001696"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -35288,11 +35079,14 @@
 "funding": "",
 "campus_site": "https://permianres.wd12.myworkdayjobs.com/Permian_Resources_Careers",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://permianres.wd12.myworkdayjobs.com/Permian_Resources_Careers"
+"https://permianres.wd12.myworkdayjobs.com/Permian_Resources_Careers",
+"https://permianres.wd12.myworkdayjobs.com/Permian_Resources_Careers/job/Midland-Texas/Environmental-Engineering-Intern_R-100413"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -36849,13 +36643,13 @@
 "campus_site": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions"
+"https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions",
+"https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/45321"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -37102,7 +36896,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience"
+"https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience",
+"https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11859"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -37982,11 +37777,14 @@
 "funding": "",
 "campus_site": "https://nextdecade.wd501.myworkdayjobs.com/GlobalCareers",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://nextdecade.wd501.myworkdayjobs.com/GlobalCareers"
+"https://nextdecade.wd501.myworkdayjobs.com/GlobalCareers",
+"https://nextdecade.wd501.myworkdayjobs.com/GlobalCareers/job/Houston-Corporate/Intern--Finance---Investor-Relations_JR107"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -39949,13 +39747,13 @@
 "campus_site": "https://portlandgeneral.wd5.myworkdayjobs.com/pgn",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://portlandgeneral.wd5.myworkdayjobs.com/pgn"
+"https://portlandgeneral.wd5.myworkdayjobs.com/pgn",
+"https://portlandgeneral.wd5.myworkdayjobs.com/pgn/job/Tualatin-Oregon/PGE-Summer-Intern---Graduate-Business-or-Technical-Intern--Grid-Operations_R8563"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -40314,13 +40112,13 @@
 "campus_site": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers"
+"https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers",
+"https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Internship---Internal-Audit-SOX-Compliance-1_40017009"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -40820,11 +40618,14 @@
 "funding": "",
 "campus_site": "https://wgl.wd5.myworkdayjobs.com/AltaGas",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://wgl.wd5.myworkdayjobs.com/AltaGas"
+"https://wgl.wd5.myworkdayjobs.com/AltaGas",
+"https://wgl.wd5.myworkdayjobs.com/AltaGas/job/Ferndale-WA/AltaGas---Community---Indigenous-Relations-Intern--Ferndale_R7412"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -41066,7 +40867,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://atcllc.wd5.myworkdayjobs.com/atcllc/jobs"
+"https://atcllc.wd5.myworkdayjobs.com/atcllc/jobs",
+"https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -41178,11 +40980,14 @@
 "funding": "",
 "campus_site": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1036",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1036"
+"https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1036",
+"https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1036/job/1000326"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -43971,12 +43776,13 @@
 "campus_site": "https://www.governmentjobs.com/careers/saws",
 "system": "",
 "hires": [
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.governmentjobs.com/careers/saws"
+"https://www.governmentjobs.com/careers/saws",
+"https://www.governmentjobs.com/careers/saws/jobs/5558018/range-graduate-engineer-i-or-graduate-engineer-ii-pipelines-engineering"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44132,13 +43938,13 @@
 "campus_site": "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+"https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+"https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026499"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44346,13 +44152,13 @@
 "campus_site": "https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers"
+"https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers",
+"https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/Fremont-California/Equipment-Engineering-Intern_JR-25645-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45248,13 +45054,13 @@
 "campus_site": "https://ameresco.wd5.myworkdayjobs.com/Ameresco",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ameresco.wd5.myworkdayjobs.com/Ameresco"
+"https://ameresco.wd5.myworkdayjobs.com/Ameresco",
+"https://ameresco.wd5.myworkdayjobs.com/Ameresco/job/United-States---Kentucky---Remote-CST/DDC-Controls-Technician-Intern_R4139"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45332,7 +45138,8 @@
 "parent": "",
 "hq": "Waukesha",
 "cities": [
-"Waukesha"
+"Waukesha",
+"Whitewater"
 ],
 "listed": "NYSE GNRC",
 "scale": "",
@@ -45777,7 +45584,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers"
+"https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers",
+"https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/909"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -47267,13 +47075,13 @@
 "campus_site": "https://cfindustries.wd1.myworkdayjobs.com/en-US/careers/introduceYourself",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://cfindustries.wd1.myworkdayjobs.com/en-US/careers/introduceYourself"
+"https://cfindustries.wd1.myworkdayjobs.com/en-US/careers/introduceYourself",
+"https://cfindustries.wd1.myworkdayjobs.com/careers/job/ClaremoreOK/Intern--Instrumentation-and-Electrical-Technician_R0008017"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -48442,13 +48250,13 @@
 "campus_site": "https://alcoa.wd5.myworkdayjobs.com/Careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://alcoa.wd5.myworkdayjobs.com/Careers"
+"https://alcoa.wd5.myworkdayjobs.com/Careers",
+"https://alcoa.wd5.myworkdayjobs.com/Careers/job/United-States-PA-New-Kensington/XMLNAME-2027-Co-Op--Breakthrough-Technologies_Req-39265"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -49545,7 +49353,9 @@
 "full_name": "",
 "aliases": [
 "Amrize North America",
-"Holcim US"
+"Holcim US",
+"Holcim",
+"Lafarge"
 ],
 "nature": "us.company",
 "industry": "Energy, Utilities & Materials",
@@ -50025,13 +49835,13 @@
 "campus_site": "https://materion.wd5.myworkdayjobs.com/Materion",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://materion.wd5.myworkdayjobs.com/Materion"
+"https://materion.wd5.myworkdayjobs.com/Materion",
+"https://materion.wd5.myworkdayjobs.com/Materion/job/Elmore-OH/XMLNAME-2027-Elmore-Co-op-Program_2026-R8672"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -51734,13 +51544,13 @@
 "campus_site": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates"
+"https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates",
+"https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -52021,7 +51831,10 @@
 {
 "name": "Oppenheimer & Co.",
 "full_name": "Oppenheimer & Co.",
-"aliases": [],
+"aliases": [
+"Oppenheimer",
+"Oppenheimer Holdings Inc."
+],
 "nature": "us.company",
 "industry": "Banking & Financial Services",
 "sub": "Investment banking and brokerage",
@@ -53514,13 +53327,13 @@
 "campus_site": "https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002?gh_src=cb5581f42us",
 "system": "Greenhouse",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002?gh_src=cb5581f42us"
+"https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002?gh_src=cb5581f42us",
+"https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -54615,13 +54428,13 @@
 "campus_site": "https://baincapital.wd1.myworkdayjobs.com/External_Public",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://baincapital.wd1.myworkdayjobs.com/External_Public"
+"https://baincapital.wd1.myworkdayjobs.com/External_Public",
+"https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Summer-Analyst--Path-into-Private-Equity_REQ_108451-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -58438,7 +58251,9 @@
 "name": "Aon",
 "full_name": "Aon plc",
 "aliases": [
-"怡安"
+"怡安",
+"Aon US",
+"Aon Corporation"
 ],
 "nature": "us.company",
 "industry": "Banking & Financial Services",
@@ -58446,7 +58261,14 @@
 "parent": "",
 "hq": "Chicago",
 "cities": [
-"Chicago"
+"Chicago",
+"New York",
+"Philadelphia",
+"Atlanta",
+"Dallas",
+"Houston",
+"Los Angeles",
+"San Francisco"
 ],
 "listed": "NYSE AON",
 "scale": "",
@@ -58461,7 +58283,8 @@
 "notes": "",
 "sources": [
 "https://www.aon.com/careers/early-careers",
-"https://www.aon.com/careers/early-careers/us"
+"https://www.aon.com/careers/early-careers/us",
+"https://jobs.aon.com/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -58505,7 +58328,9 @@
 "full_name": "Arthur J. Gallagher",
 "aliases": [
 "Gallagher",
-"Arthur J. Gallagher & Co."
+"Arthur J. Gallagher & Co.",
+"AJG",
+"Gallagher Benefit Services"
 ],
 "nature": "us.company",
 "industry": "Banking & Financial Services",
@@ -58513,7 +58338,14 @@
 "parent": "",
 "hq": "Rolling Meadows",
 "cities": [
-"Rolling Meadows"
+"Rolling Meadows",
+"Chicago",
+"New York",
+"Atlanta",
+"Dallas",
+"Los Angeles",
+"Houston",
+"Boston"
 ],
 "listed": "NYSE AJG",
 "scale": "",
@@ -58888,13 +58720,13 @@
 "campus_site": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002081607",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002081607"
+"https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002081607",
+"https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214471"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -61113,14 +60945,18 @@
 {
 "name": "Green Dot",
 "full_name": "Green Dot",
-"aliases": [],
+"aliases": [
+"Green Dot Bank",
+"Green Dot Corporation"
+],
 "nature": "us.company",
 "industry": "Banking & Financial Services",
 "sub": "Prepaid and fintech",
 "parent": "",
 "hq": "Austin",
 "cities": [
-"Austin"
+"Austin",
+"Pasadena"
 ],
 "listed": "NYSE GDOT",
 "scale": "",
@@ -63077,40 +62913,6 @@
 "website": "https://www.usace.army.mil"
 },
 {
-"name": "Army DEVCOM Army Research Laboratory",
-"full_name": "U.S. Army Combat Capabilities Development Command Army Research Laboratory",
-"aliases": [
-"ARL",
-"DEVCOM ARL"
-],
-"nature": "us.research",
-"industry": "Government & Research",
-"sub": "Army research",
-"parent": "Department of the Army",
-"hq": "Adelphi",
-"cities": [
-"Adelphi",
-"Aberdeen"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://arl.devcom.army.mil/careers/students/",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "Citizens of the US, Australia, Canada, New Zealand or UK (SSEP internship); Security clearance required",
-"sources": [
-"https://arl.devcom.army.mil/careers/students/"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.arl.army.mil"
-},
-{
 "name": "Department of the Navy (civilian careers)",
 "full_name": "Department of the Navy",
 "aliases": [
@@ -63266,39 +63068,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.navwar.navy.mil"
-},
-{
-"name": "Naval Research Laboratory",
-"full_name": "U.S. Naval Research Laboratory",
-"aliases": [
-"NRL"
-],
-"nature": "us.research",
-"industry": "Government & Research",
-"sub": "Navy research",
-"parent": "Department of the Navy",
-"hq": "Washington",
-"cities": [
-"Washington",
-"Stennis Space Center",
-"Monterey"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.nrl.navy.mil/Careers/Students/Pathways-Internship-Program",
-"system": "",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "Federal Pathways programme: US citizens only",
-"sources": [
-"https://www.nrl.navy.mil/Careers/Students/Pathways-Internship-Program"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.nrl.navy.mil"
 },
 {
 "name": "Office of Naval Research",
@@ -67229,13 +66998,13 @@
 "campus_site": "https://rb.wd5.myworkdayjobs.com/FRS/?amp;locations=fd925bdfc7240138625c114524014608&hiringCompany=7186c32a743f01de20ccc2caaf016d0c",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://rb.wd5.myworkdayjobs.com/FRS/?amp;locations=fd925bdfc7240138625c114524014608&hiringCompany=7186c32a743f01de20ccc2caaf016d0c"
+"https://rb.wd5.myworkdayjobs.com/FRS/?amp;locations=fd925bdfc7240138625c114524014608&hiringCompany=7186c32a743f01de20ccc2caaf016d0c",
+"https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Credit-Risk-Management-Intern_R-0000033874"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -68736,13 +68505,13 @@
 "campus_site": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs"
+"https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs",
+"https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Greater-Denver-Area/Therapeutic-Recreation-Intern_R0083838"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -69491,36 +69260,6 @@
 "website": "https://www.miamidade.gov"
 },
 {
-"name": "Southeastern Pennsylvania Transportation Authority",
-"full_name": "Southeastern Pennsylvania Transportation Authority",
-"aliases": [
-"SEPTA"
-],
-"nature": "us.government",
-"industry": "Government & Research",
-"sub": "Transit agency",
-"parent": "",
-"hq": "Philadelphia",
-"cities": [
-"Philadelphia"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.septa.org"
-},
-{
 "name": "San Francisco Municipal Transportation Agency",
 "full_name": "San Francisco Municipal Transportation Agency",
 "aliases": [
@@ -69552,38 +69291,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.sfmta.com"
-},
-{
-"name": "Metropolitan Atlanta Rapid Transit Authority",
-"full_name": "Metropolitan Atlanta Rapid Transit Authority",
-"aliases": [
-"MARTA"
-],
-"nature": "us.government",
-"industry": "Government & Research",
-"sub": "Transit agency",
-"parent": "",
-"hq": "Atlanta",
-"cities": [
-"Atlanta"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://fa-evii-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
-"system": "Oracle",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://fa-evii-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
-"https://itsmarta.com/marta-internship-program.aspx"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.itsmarta.com"
 },
 {
 "name": "Denver Regional Transportation District",
@@ -71081,13 +70788,13 @@
 "campus_site": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers?workerSubType=2e88c140a2411000e8503b59f9a80000",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers?workerSubType=2e88c140a2411000e8503b59f9a80000"
+"https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers?workerSubType=2e88c140a2411000e8503b59f9a80000",
+"https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Electrical-Engineer--Advanced-Data-Capture_JR103913"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -71448,13 +71155,13 @@
 "campus_site": "https://ambarella.wd108.myworkdayjobs.com/Ambarella",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ambarella.wd108.myworkdayjobs.com/Ambarella"
+"https://ambarella.wd108.myworkdayjobs.com/Ambarella",
+"https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -71546,13 +71253,13 @@
 "campus_site": "https://job-boards.greenhouse.io/sitimecorporation",
 "system": "Greenhouse",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://job-boards.greenhouse.io/sitimecorporation"
+"https://job-boards.greenhouse.io/sitimecorporation",
+"https://job-boards.greenhouse.io/sitimecorporation/jobs/4452953009"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -71799,13 +71506,13 @@
 "campus_site": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/jobAlerts",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/jobAlerts"
+"https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/jobAlerts",
+"https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/Product-Marketing-Engineering-Intern_JR-22082"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -71898,13 +71605,13 @@
 "campus_site": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://formfactor.wd1.myworkdayjobs.com/FFI-Careers"
+"https://formfactor.wd1.myworkdayjobs.com/FFI-Careers",
+"https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Beaverton-OR/Intern--Quality-Systems--Analytics---Compliance_JR101372"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -72930,13 +72637,13 @@
 "campus_site": "https://jobs.ashbyhq.com/Etched/0f9c0162-97c6-4be6-9cb7-d9afdcf0fa7c",
 "system": "Ashby",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.ashbyhq.com/Etched/0f9c0162-97c6-4be6-9cb7-d9afdcf0fa7c"
+"https://jobs.ashbyhq.com/Etched/0f9c0162-97c6-4be6-9cb7-d9afdcf0fa7c",
+"https://jobs.ashbyhq.com/Etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73435,13 +73142,13 @@
 "campus_site": "https://polarsemi.wd501.myworkdayjobs.com/Polar",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://polarsemi.wd501.myworkdayjobs.com/Polar"
+"https://polarsemi.wd501.myworkdayjobs.com/Polar",
+"https://polarsemi.wd501.myworkdayjobs.com/Polar/job/Bloomington-MN-USA/Project-Management-Intern_R3834"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -73701,39 +73408,6 @@
 "website": "https://www.intevac.com"
 },
 {
-"name": "Nordson Corporation",
-"full_name": "Nordson Corporation",
-"aliases": [
-"Nordson"
-],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Electronics dispensing and test systems",
-"parent": "",
-"hq": "Westlake",
-"cities": [
-"Westlake",
-"Carlsbad"
-],
-"listed": "Nasdaq NDSN",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.nordson.com/en/About-Us/Careers/Grow-with-Us/Students",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://www.nordson.com/en/About-Us/Careers/Grow-with-Us/Students"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.nordson.com"
-},
-{
 "name": "EMD Electronics",
 "full_name": "EMD Electronics",
 "aliases": [
@@ -73917,7 +73591,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://recruiting2.ultipro.com/TTI1000TTI/JobBoard/b1d1c389-8ee3-4200-9571-90aab0c08f9b/?q=&o=postedDateDesc"
+"https://recruiting2.ultipro.com/TTI1000TTI/JobBoard/b1d1c389-8ee3-4200-9571-90aab0c08f9b/?q=&o=postedDateDesc",
+"https://recruiting2.ultipro.com/TTI1000TTI/JobBoard/b1d1c389-8ee3-4200-9571-90aab0c08f9b/OpportunityDetail?opportunityId=37a35666-bff1-4bdb-a3b8-346dab60f3cb"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74078,7 +73753,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://flir.wd1.myworkdayjobs.com/en-US/flircareers/jobs?q=LeCroy"
+"https://flir.wd1.myworkdayjobs.com/en-US/flircareers/jobs?q=LeCroy",
+"https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Technical-Sales-Engineer---Early-Career-Development-Program_REQ32619"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74271,13 +73947,13 @@
 "campus_site": "https://flextronics.wd1.myworkdayjobs.com/Careers?source=Flex_Career_Site&jobFamilyGroup=4f3d3af7b6144ed2a94d3a32a33e3619",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://flextronics.wd1.myworkdayjobs.com/Careers?source=Flex_Career_Site&jobFamilyGroup=4f3d3af7b6144ed2a94d3a32a33e3619"
+"https://flextronics.wd1.myworkdayjobs.com/Careers?source=Flex_Career_Site&jobFamilyGroup=4f3d3af7b6144ed2a94d3a32a33e3619",
+"https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Mechanical-Engineering-Co-op_WD226382"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74372,13 +74048,13 @@
 "campus_site": "https://plexus.eightfold.ai/careers?seniority=Intern&pid=1099537691802&domain=plexus.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true",
 "system": "Eightfold",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://plexus.eightfold.ai/careers?seniority=Intern&pid=1099537691802&domain=plexus.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true"
+"https://plexus.eightfold.ai/careers?seniority=Intern&pid=1099537691802&domain=plexus.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true",
+"https://plexus.eightfold.ai/careers?pid=1099557228588&domain=plexus.com"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -74600,13 +74276,13 @@
 "campus_site": "https://methode.wd5.myworkdayjobs.com/methode/",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://methode.wd5.myworkdayjobs.com/methode/"
+"https://methode.wd5.myworkdayjobs.com/methode/",
+"https://methode.wd5.myworkdayjobs.com/methode/job/Rolling-Meadows-IL/Manufacturing-Engineering-Intern_R27085-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -75906,39 +75582,6 @@
 "website": "https://www.vertiv.com"
 },
 {
-"name": "nVent Electric",
-"full_name": "nVent Electric plc",
-"aliases": [
-"nVent"
-],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Enclosures and cooling",
-"parent": "",
-"hq": "Minneapolis",
-"cities": [
-"Minneapolis"
-],
-"listed": "NYSE NVT",
-"scale": "",
-"funding": "",
-"campus_site": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/jobs",
-"system": "Workday",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://nvent.wd5.myworkdayjobs.com/en-US/nVent/jobs",
-"https://www.nvent.com/en-us/early-careers-nvent"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.nvent.com"
-},
-{
 "name": "Modine Manufacturing",
 "full_name": "Modine Manufacturing Company",
 "aliases": [
@@ -76123,13 +75766,13 @@
 "campus_site": "https://sonos.wd1.myworkdayjobs.com/sonos",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://sonos.wd1.myworkdayjobs.com/sonos"
+"https://sonos.wd1.myworkdayjobs.com/sonos",
+"https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/User-Experience-Intern_R2883-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -76661,20 +76304,15 @@
 "listed": "Nasdaq MRCY",
 "scale": "",
 "funding": "",
-"campus_site": "https://job-boards.greenhouse.io/mercury/jobs/6192352004",
-"system": "Greenhouse",
-"hires": [
-"graduate",
-"internship"
-],
+"campus_site": "",
+"system": "",
+"hires": [],
 "roles": [],
 "notes": "Many roles require US person status (export-controlled defence work)",
-"sources": [
-"https://job-boards.greenhouse.io/mercury/jobs/6192352004"
-],
-"checked": "2026-11",
+"sources": [],
+"checked": "",
 "site_candidates": [],
-"website": "https://www.mercury.com"
+"website": "https://www.mrcy.com"
 },
 {
 "name": "CAES",
@@ -77021,13 +76659,13 @@
 "campus_site": "https://apply.workable.com/coldquanta/",
 "system": "Workable",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://apply.workable.com/coldquanta/"
+"https://apply.workable.com/coldquanta/",
+"https://apply.workable.com/j/EB77DE8198"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77162,39 +76800,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://bostondynamics.com"
-},
-{
-"name": "Intuitive Surgical",
-"full_name": "Intuitive Surgical, Inc.",
-"aliases": [
-"Intuitive",
-"直觉外科"
-],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Surgical robotics",
-"parent": "",
-"hq": "Sunnyvale",
-"cities": [
-"Sunnyvale",
-"Peachtree Corners"
-],
-"listed": "Nasdaq ISRG",
-"scale": "",
-"funding": "",
-"campus_site": "https://careers.intuitive.com/en/career-opportunities/students-and-university/",
-"system": "",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "Applicants must be authorized to work in the country where the role is posted and returning to a degree programme afterwards",
-"sources": [
-"https://careers.intuitive.com/en/career-opportunities/students-and-university/"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.intuitive.com"
 },
 {
 "name": "Symbotic",
@@ -77402,7 +77007,8 @@
 "Costa Mesa",
 "Atlanta",
 "Boston",
-"Seattle"
+"Seattle",
+"Washington"
 ],
 "listed": "",
 "scale": "",
@@ -77570,7 +77176,6 @@
 "campus_site": "https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85",
 "system": "Ashby",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
@@ -78075,7 +77680,8 @@
 "name": "Azenta",
 "full_name": "Azenta, Inc.",
 "aliases": [
-"Brooks Automation"
+"Brooks Automation",
+"Azenta Life Sciences"
 ],
 "nature": "us.company",
 "industry": "Technology",
@@ -78083,7 +77689,9 @@
 "parent": "",
 "hq": "Chelmsford",
 "cities": [
-"Chelmsford"
+"Chelmsford",
+"Burlington",
+"South Plainfield"
 ],
 "listed": "Nasdaq AZTA",
 "scale": "",
@@ -78097,7 +77705,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://azenta.wd1.myworkdayjobs.com/AzentaJobs"
+"https://azenta.wd1.myworkdayjobs.com/AzentaJobs",
+"https://careers.azenta.com/job/200"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -79107,14 +78716,13 @@
 "campus_site": "https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue",
 "system": "Oracle",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue"
+"https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue",
+"https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue/job/42181"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -80431,14 +80039,13 @@
 "campus_site": "https://henryschein.wd1.myworkdayjobs.com/External_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://henryschein.wd1.myworkdayjobs.com/External_Careers"
+"https://henryschein.wd1.myworkdayjobs.com/External_Careers",
+"https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/West-Allis---Wisconsin/Field-Sales-Internship-Opportunities_R122614-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81573,12 +81180,13 @@
 "system": "Oracle",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/join-talent-community"
+"https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/join-talent-community",
+"https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/172212"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -81869,13 +81477,13 @@
 "campus_site": "https://boards.greenhouse.io/surgerypartners",
 "system": "Greenhouse",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://boards.greenhouse.io/surgerypartners"
+"https://boards.greenhouse.io/surgerypartners",
+"https://job-boards.greenhouse.io/surgerypartners/jobs/4503230009"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -82061,12 +81669,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/login"
+"https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/login",
+"https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Graceville-MN/New-Grad-RN---Nurse-Resident_R065485"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -85055,13 +84664,13 @@
 "campus_site": "https://careers-carenewengland.icims.com/jobs/login?loginOnly=1",
 "system": "iCIMS",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers-carenewengland.icims.com/jobs/login?loginOnly=1"
+"https://careers-carenewengland.icims.com/jobs/login?loginOnly=1",
+"https://careers-carenewengland.icims.com/jobs/8423/student-nurse-extern-cooperat./job"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89725,41 +89334,6 @@
 "website": "https://www.caci.com"
 },
 {
-"name": "Parsons",
-"full_name": "",
-"aliases": [
-"Parsons Corporation"
-],
-"nature": "us.company",
-"industry": "Industrials, Aerospace & Defense",
-"sub": "Defense, intelligence & infrastructure",
-"parent": "",
-"hq": "Centreville",
-"cities": [
-"Centreville",
-"Huntsville",
-"Colorado Springs",
-"Washington"
-],
-"listed": "NYSE PSN",
-"scale": "",
-"funding": "",
-"campus_site": "https://jobs.parsons.com/career-search?search=intern",
-"system": "",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "Many internships require US citizenship to be eligible for a security clearance",
-"sources": [
-"https://jobs.parsons.com/career-search?search=intern",
-"https://jobs.parsons.com/internships/north-america"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.parsons.com"
-},
-{
 "name": "Peraton",
 "full_name": "",
 "aliases": [],
@@ -90003,12 +89577,13 @@
 "campus_site": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External",
 "system": "Workday",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://radiancetech.wd12.myworkdayjobs.com/Radiance_External"
+"https://radiancetech.wd12.myworkdayjobs.com/Radiance_External",
+"https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -91022,9 +90597,11 @@
 },
 {
 "name": "Siemens Mobility",
-"full_name": "",
+"full_name": "Siemens Mobility, Inc.",
 "aliases": [
-"西门子交通"
+"西门子交通",
+"Siemens Mobility (US)",
+"Siemens Mobility, Inc."
 ],
 "nature": "us.company",
 "industry": "Industrials, Aerospace & Defense",
@@ -91048,7 +90625,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.siemens.com/en-us/company/jobs/early-career-programs/"
+"https://www.siemens.com/en-us/company/jobs/early-career-programs/",
+"https://siemens.dejobs.org/sacramento-ca/transit-project-internship-rolling-stock/B0AF36DEA3A94278B289BBE8C2456364/job/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -92055,9 +91633,10 @@
 },
 {
 "name": "Nordson",
-"full_name": "",
+"full_name": "Nordson Corporation",
 "aliases": [
-"诺信"
+"诺信",
+"Nordson Corporation"
 ],
 "nature": "us.company",
 "industry": "Industrials, Aerospace & Defense",
@@ -92066,7 +91645,8 @@
 "hq": "Westlake",
 "cities": [
 "Westlake",
-"Amherst"
+"Amherst",
+"Carlsbad"
 ],
 "listed": "Nasdaq NDSN",
 "scale": "",
@@ -92491,8 +92071,11 @@
 },
 {
 "name": "nVent",
-"full_name": "",
-"aliases": [],
+"full_name": "nVent Electric plc",
+"aliases": [
+"nVent Electric",
+"nVent Electric plc"
+],
 "nature": "us.company",
 "industry": "Industrials, Aerospace & Defense",
 "sub": "Electrical connection & protection",
@@ -92514,42 +92097,12 @@
 "notes": "",
 "sources": [
 "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/jobs",
-"https://tracer.nvent.com/us-internships"
+"https://tracer.nvent.com/us-internships",
+"https://www.nvent.com/en-us/early-careers-nvent"
 ],
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nvent.com"
-},
-{
-"name": "Generac",
-"full_name": "",
-"aliases": [],
-"nature": "us.company",
-"industry": "Industrials, Aerospace & Defense",
-"sub": "Generators & power products",
-"parent": "",
-"hq": "Waukesha",
-"cities": [
-"Waukesha",
-"Whitewater"
-],
-"listed": "NYSE GNRC",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.generacdealercareers.com/us/en/",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://www.generacdealercareers.com/us/en/"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.generac.com"
 },
 {
 "name": "A. O. Smith",
@@ -93276,12 +92829,13 @@
 "campus_site": "https://recruiting2.ultipro.com/FED1002FSC/JobBoard/d5675b81-d6f5-4226-9f8c-be296cda2308?q=&o=postedDateDesc&w=&wc=&we=&wpst=",
 "system": "",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://recruiting2.ultipro.com/FED1002FSC/JobBoard/d5675b81-d6f5-4226-9f8c-be296cda2308?q=&o=postedDateDesc&w=&wc=&we=&wpst="
+"https://recruiting2.ultipro.com/FED1002FSC/JobBoard/d5675b81-d6f5-4226-9f8c-be296cda2308?q=&o=postedDateDesc&w=&wc=&we=&wpst=",
+"https://recruiting2.ultipro.com/FED1002FSC/JobBoard/d5675b81-d6f5-4226-9f8c-be296cda2308/OpportunityDetail?opportunityId=42216ce0-492f-404e-b4c8-f544ab838862"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -95281,13 +94835,13 @@
 "campus_site": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
 "system": "Oracle",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+"https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+"https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120690"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -95312,12 +94866,13 @@
 "campus_site": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
 "system": "Oracle",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX"
+"https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+"https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114186"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -95626,12 +95181,13 @@
 "campus_site": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/pages/10010",
 "system": "Oracle",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/pages/10010"
+"https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/pages/10010",
+"https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10806"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -98961,7 +98517,9 @@
 {
 "name": "The RealReal",
 "full_name": "The RealReal, Inc.",
-"aliases": [],
+"aliases": [
+"RealReal"
+],
 "nature": "us.company",
 "industry": "Technology",
 "sub": "Luxury resale",
@@ -100651,34 +100209,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cameo.com"
-},
-{
-"name": "Peloton",
-"full_name": "Peloton Interactive, Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Connected fitness",
-"parent": "",
-"hq": "New York",
-"cities": [
-"New York"
-],
-"listed": "Nasdaq PTON",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.onepeloton.com"
 },
 {
 "name": "Indeed",
@@ -103003,66 +102533,6 @@
 "website": "https://www.baseten.co"
 },
 {
-"name": "Cerebras",
-"full_name": "Cerebras Systems Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "AI chips",
-"parent": "",
-"hq": "Sunnyvale",
-"cities": [
-"Sunnyvale"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.cerebras.ai/join-us",
-"system": "",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://www.cerebras.ai/join-us",
-"https://www.cerebras.ai/internships"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.cerebras.ai"
-},
-{
-"name": "SambaNova",
-"full_name": "SambaNova Systems, Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "AI chips and systems",
-"parent": "",
-"hq": "Palo Alto",
-"cities": [
-"Palo Alto"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://sambanova.ai/company/careers",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://sambanova.ai/company/careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://sambanova.ai"
-},
-{
 "name": "Sierra",
 "full_name": "Sierra Technologies, Inc.",
 "aliases": [],
@@ -103821,100 +103291,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.insitro.com"
-},
-{
-"name": "Recursion",
-"full_name": "Recursion Pharmaceuticals, Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Machine-learning drug discovery",
-"parent": "",
-"hq": "Salt Lake City",
-"cities": [
-"Salt Lake City"
-],
-"listed": "Nasdaq RXRX",
-"scale": "",
-"funding": "",
-"campus_site": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8334716",
-"system": "Greenhouse",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8334716",
-"https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.recursion.com"
-},
-{
-"name": "Anduril",
-"full_name": "Anduril Industries, Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Defense technology",
-"parent": "",
-"hq": "Costa Mesa",
-"cities": [
-"Costa Mesa",
-"Seattle",
-"Boston",
-"Washington",
-"Atlanta"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.anduril.com/early-careers",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "Defense work: some roles require US citizenship or US-person status (export control or security clearance)",
-"sources": [
-"https://www.anduril.com/early-careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.anduril.com"
-},
-{
-"name": "Saronic",
-"full_name": "Saronic Technologies, Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Autonomous naval vessels",
-"parent": "",
-"hq": "Austin",
-"cities": [
-"Austin"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.saronic.com/careers",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "Defense work: some roles require US citizenship or US-person status (export control or security clearance)",
-"sources": [
-"https://www.saronic.com/careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.saronic.com"
 },
 {
 "name": "Govini",
@@ -105487,38 +104863,6 @@
 "website": "https://nianticlabs.com"
 },
 {
-"name": "Unity Technologies",
-"full_name": "Unity Software Inc.",
-"aliases": [],
-"nature": "us.company",
-"industry": "Technology",
-"sub": "Game engine",
-"parent": "",
-"hq": "San Francisco",
-"cities": [
-"San Francisco",
-"Seattle",
-"Austin",
-"Montreal"
-],
-"listed": "NYSE U",
-"scale": "",
-"funding": "",
-"campus_site": "https://unity.com/cn/careers/positions?department=students-early-career",
-"system": "",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://unity.com/cn/careers/positions?department=students-early-career"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://unity.com"
-},
-{
 "name": "Roblox",
 "full_name": "Roblox Corporation",
 "aliases": [
@@ -106206,7 +105550,10 @@
 "name": "Pfizer",
 "full_name": "Pfizer Inc.",
 "aliases": [
-"辉瑞"
+"辉瑞",
+"Seagen",
+"Seagen Inc.",
+"Seattle Genetics"
 ],
 "nature": "us.company",
 "industry": "Healthcare & Life Sciences",
@@ -106219,7 +105566,8 @@
 "Collegeville",
 "Kalamazoo",
 "Andover",
-"Pearl River"
+"Pearl River",
+"Bothell"
 ],
 "listed": "NYSE PFE",
 "scale": "",
@@ -106472,7 +105820,10 @@
 "name": "Amgen",
 "full_name": "Amgen Inc.",
 "aliases": [
-"安进"
+"安进",
+"Horizon Therapeutics",
+"Horizon Therapeutics USA, Inc.",
+"Horizon"
 ],
 "nature": "us.company",
 "industry": "Healthcare & Life Sciences",
@@ -106485,7 +105836,9 @@
 "West Greenwich",
 "New Albany",
 "Holly Springs",
-"Cambridge"
+"Cambridge",
+"Deerfield",
+"Rockville"
 ],
 "listed": "Nasdaq AMGN",
 "scale": "",
@@ -107695,7 +107048,7 @@
 "Manufacturing engineer",
 "Systems engineer"
 ],
-"notes": "",
+"notes": "Applicants must be authorized to work in the country where the role is posted and returning to a degree programme afterwards",
 "sources": [
 "https://careers.intuitive.com/en/career-opportunities/students-and-university/"
 ],
@@ -109481,40 +108834,6 @@
 "website": "https://www.repligen.com"
 },
 {
-"name": "Azenta Life Sciences",
-"full_name": "Azenta, Inc.",
-"aliases": [
-"Brooks Automation"
-],
-"nature": "us.company",
-"industry": "Healthcare & Life Sciences",
-"sub": "Sample management and genomics services",
-"parent": "",
-"hq": "Burlington",
-"cities": [
-"Burlington",
-"South Plainfield",
-"Chelmsford"
-],
-"listed": "Nasdaq AZTA",
-"scale": "",
-"funding": "",
-"campus_site": "https://azenta.wd1.myworkdayjobs.com/AzentaJobs",
-"system": "Workday",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://azenta.wd1.myworkdayjobs.com/AzentaJobs",
-"https://careers.azenta.com/job/200"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.azenta.com"
-},
-{
 "name": "Sartorius US",
 "full_name": "Sartorius Stedim North America Inc.",
 "aliases": [
@@ -110998,37 +110317,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.kitepharma.com"
-},
-{
-"name": "Seagen",
-"full_name": "Seagen Inc.",
-"aliases": [
-"Seattle Genetics"
-],
-"nature": "us.company",
-"industry": "Healthcare & Life Sciences",
-"sub": "Oncology biotechnology",
-"parent": "Pfizer",
-"hq": "Bothell",
-"cities": [
-"Bothell"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/page/61cd8c398601100158e598894f100000",
-"system": "Workday",
-"hires": [
-"experienced"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/page/61cd8c398601100158e598894f100000"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.seagen.com"
 },
 {
 "name": "Genmab US",
@@ -115195,38 +114483,6 @@
 "website": "https://www.emdserono.com"
 },
 {
-"name": "Horizon Therapeutics",
-"full_name": "Horizon Therapeutics USA, Inc.",
-"aliases": [
-"Horizon"
-],
-"nature": "us.company",
-"industry": "Healthcare & Life Sciences",
-"sub": "Rare disease biopharmaceuticals",
-"parent": "Amgen",
-"hq": "Deerfield",
-"cities": [
-"Deerfield",
-"Rockville"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/login",
-"system": "Workday",
-"hires": [
-"experienced"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://amgen.wd1.myworkdayjobs.com/en-US/Careers/login"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.horizontherapeutics.com"
-},
-{
 "name": "Mirum Pharmaceuticals",
 "full_name": "Mirum Pharmaceuticals, Inc.",
 "aliases": [],
@@ -117327,7 +116583,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://livenation.wd503.myworkdayjobs.com/LNExternalSite"
+"https://livenation.wd503.myworkdayjobs.com/LNExternalSite",
+"https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac-Events---Paid-Spring-Music-Group-A-R-Intern_JR-94557-3"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -117770,13 +117027,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://myjobs.adp.com/hubbardbroadcasting/cx/job-details?rb=CareerSite&reqId=5001240030106",
 "system": "",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://myjobs.adp.com/hubbardbroadcasting/cx/job-details?rb=CareerSite&reqId=5001240030106"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://myjobs.adp.com/hubbardbroadcasting/cx/job-listing"
 ],
@@ -117808,7 +117069,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://nexstar.wd5.myworkdayjobs.com/nexstar"
+"https://nexstar.wd5.myworkdayjobs.com/nexstar",
+"https://nexstar.wd5.myworkdayjobs.com/nexstar/job/TX-Amarillo/Unpaid-Intern_REQ-43741"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -117833,11 +117095,14 @@
 "funding": "",
 "campus_site": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002"
+"https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002",
+"https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17614"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -118353,40 +117618,13 @@
 "website": "https://www.universalorlando.com"
 },
 {
-"name": "United Parks & Resorts",
-"full_name": "United Parks & Resorts Inc.",
-"aliases": [
-"SeaWorld",
-"Busch Gardens",
-"SeaWorld Entertainment"
-],
-"nature": "us.company",
-"industry": "Media, Telecom & Entertainment",
-"sub": "Theme parks",
-"parent": "",
-"hq": "Orlando",
-"cities": [
-"Orlando"
-],
-"listed": "NYSE PRKS",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://unitedparksandresorts.com"
-},
-{
 "name": "Six Flags",
 "full_name": "Six Flags Entertainment Corporation",
 "aliases": [
-"Six Flags Entertainment Corporation",
-"Cedar Fair"
+"Cedar Fair",
+"Cedar Fair, L.P.",
+"Cedar Point",
+"Six Flags Entertainment"
 ],
 "nature": "us.company",
 "industry": "Media, Telecom & Entertainment",
@@ -118394,7 +117632,8 @@
 "parent": "",
 "hq": "Arlington",
 "cities": [
-"Arlington"
+"Arlington",
+"Sandusky"
 ],
 "listed": "NYSE FUN",
 "scale": "",
@@ -118408,7 +117647,8 @@
 "notes": "",
 "sources": [
 "https://internal-cedarfair.icims.com",
-"https://jobs.sixflags.com/educational-partnerships"
+"https://jobs.sixflags.com/educational-partnerships",
+"https://jobs.sixflags.com/job/sandusky/human-resources-internships/42509/76048705776"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -119762,7 +119002,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://myworkdaycenter.wd5.myworkdayjobs.com/TPCO"
+"https://myworkdaycenter.wd5.myworkdayjobs.com/TPCO",
+"https://myworkdaycenter.wd5.myworkdayjobs.com/TPCO/job/Deerfield-Beach-Florida/Intern_R2935"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -120134,11 +119375,14 @@
 "funding": "",
 "campus_site": "https://publicmedia.wd1.myworkdayjobs.com/en-US/Interns",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://publicmedia.wd1.myworkdayjobs.com/en-US/Interns"
+"https://publicmedia.wd1.myworkdayjobs.com/en-US/Interns",
+"https://publicmedia.wd1.myworkdayjobs.com/Interns/job/Boston/Annual-Fund---Co-op_R003389"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -123893,7 +123137,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/?REC_-_CF_LRV_Recruiting_Agency__Job_Posting_Anchor__Extended=737cc862d4701000c8d601ad8fd30000"
+"https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/?REC_-_CF_LRV_Recruiting_Agency__Job_Posting_Anchor__Extended=737cc862d4701000c8d601ad8fd30000",
+"https://interpublic.wd5.myworkdayjobs.com/OMC/job/New-York-New-York-United-States-of-America/Healthcare-PR-Intern_R18232"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -129609,15 +128854,15 @@
 "campus_site": "https://app.eightfold.ai/careers?&domain=houstonisd.org",
 "system": "Eightfold",
 "hires": [
-"graduate",
-"experienced"
+"internship"
 ],
 "roles": [
 "Teacher"
 ],
 "notes": "",
 "sources": [
-"https://app.eightfold.ai/careers?&domain=houstonisd.org"
+"https://app.eightfold.ai/careers?&domain=houstonisd.org",
+"https://apply.houstonisd.org/careers/job/171840380555"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -132672,7 +131917,6 @@
 "campus_site": "https://huron.wd1.myworkdayjobs.com/huroncareers",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -132681,7 +131925,8 @@
 ],
 "notes": "",
 "sources": [
-"https://huron.wd1.myworkdayjobs.com/huroncareers"
+"https://huron.wd1.myworkdayjobs.com/huroncareers",
+"https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -134319,81 +133564,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.chartis.com"
-},
-{
-"name": "Cognizant Consulting",
-"full_name": "Cognizant Technology Solutions U.S. Corporation",
-"aliases": [
-"Cognizant"
-],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "IT and business consulting",
-"parent": "Cognizant",
-"hq": "Teaneck",
-"cities": [
-"Teaneck",
-"New York",
-"Dallas",
-"Chicago",
-"Atlanta",
-"Phoenix"
-],
-"listed": "Nasdaq CTSH",
-"scale": "",
-"funding": "",
-"campus_site": "https://careers.cognizant.com/us-en/pathways-to-cognizant/students-and-new-grads/",
-"system": "",
-"hires": [
-"internship",
-"graduate"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://careers.cognizant.com/us-en/pathways-to-cognizant/students-and-new-grads/"
-],
-"checked": "2026-11",
-"site_candidates": [
-"https://careers.cognizant.com/global-en/",
-"https://careers.cognizant.com/global/en/students"
-],
-"website": "https://www.cognizant.com/us/en"
-},
-{
-"name": "Genpact US",
-"full_name": "Genpact USA, Inc.",
-"aliases": [
-"Genpact"
-],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Professional services and operations",
-"parent": "Genpact",
-"hq": "New York",
-"cities": [
-"New York",
-"Charlotte",
-"Dallas",
-"Austin"
-],
-"listed": "NYSE G",
-"scale": "",
-"funding": "",
-"campus_site": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
-"system": "Workday",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://genpact.wd108.myworkdayjobs.com/External_Careers",
-"https://www.genpact.com/careers/campus/north-america"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.genpact.com"
 },
 {
 "name": "Perficient",
@@ -136307,7 +135477,8 @@
 "full_name": "Troutman Pepper Locke LLP",
 "aliases": [
 "Troutman Pepper",
-"Locke Lord"
+"Locke Lord",
+"Locke Lord LLP"
 ],
 "nature": "us.company",
 "industry": "Professional Services",
@@ -136322,7 +135493,9 @@
 "New York",
 "Houston",
 "Dallas",
-"Boston"
+"Boston",
+"Austin",
+"Chicago"
 ],
 "listed": "",
 "scale": "",
@@ -136339,7 +135512,8 @@
 "notes": "Summer associate programme is for law students (JD)",
 "sources": [
 "https://www.troutman.com/careers/",
-"https://www.troutman.com/law-students/"
+"https://www.troutman.com/law-students/",
+"https://lockelord.com/careers/law-students"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -137232,45 +136406,6 @@
 "https://www.haynesboone.com/careers"
 ],
 "website": "https://www.haynesboone.com"
-},
-{
-"name": "Locke Lord",
-"full_name": "Locke Lord LLP",
-"aliases": [],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Law firm",
-"parent": "",
-"hq": "Dallas",
-"cities": [
-"Dallas",
-"Houston",
-"Austin",
-"Chicago",
-"New York"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://lockelord.com/careers/law-students",
-"system": "",
-"hires": [
-"internship"
-],
-"roles": [
-"Summer Associate",
-"Associate"
-],
-"notes": "Summer associate programme is for law students (JD)",
-"sources": [
-"https://lockelord.com/careers/law-students"
-],
-"checked": "2026-11",
-"site_candidates": [
-"https://www.troutman.com/careers/",
-"https://www.lockelord.com/careers"
-],
-"website": "https://www.lockelord.com"
 },
 {
 "name": "Gibbons",
@@ -138820,50 +137955,6 @@
 "website": "https://www.milliman.com"
 },
 {
-"name": "Aon US",
-"full_name": "Aon Corporation",
-"aliases": [
-"Aon",
-"怡安"
-],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Risk, retirement and health consulting",
-"parent": "Aon plc",
-"hq": "Chicago",
-"cities": [
-"Chicago",
-"New York",
-"Philadelphia",
-"Atlanta",
-"Dallas",
-"Houston",
-"Los Angeles",
-"San Francisco"
-],
-"listed": "NYSE AON",
-"scale": "",
-"funding": "",
-"campus_site": "https://jobs.aon.com/",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [
-"Analyst",
-"Actuarial Analyst",
-"Risk Consulting Analyst"
-],
-"notes": "",
-"sources": [
-"https://jobs.aon.com/"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.aon.com/en-us"
-},
-{
 "name": "Korn Ferry",
 "full_name": "Korn Ferry",
 "aliases": [
@@ -139003,51 +138094,6 @@
 "website": "https://www.oliverwyman.com"
 },
 {
-"name": "Gallagher",
-"full_name": "Arthur J. Gallagher & Co.",
-"aliases": [
-"AJG",
-"Gallagher Benefit Services"
-],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Risk and benefits consulting",
-"parent": "",
-"hq": "Rolling Meadows",
-"cities": [
-"Rolling Meadows",
-"Chicago",
-"New York",
-"Atlanta",
-"Dallas",
-"Los Angeles",
-"Houston",
-"Boston"
-],
-"listed": "NYSE AJG",
-"scale": "",
-"funding": "",
-"campus_site": "https://jobs.ajg.com/ajg-students",
-"system": "",
-"hires": [
-"internship",
-"graduate"
-],
-"roles": [
-"Analyst",
-"Associate Consultant"
-],
-"notes": "",
-"sources": [
-"https://jobs.ajg.com/ajg-students"
-],
-"checked": "2026-11",
-"site_candidates": [
-"https://www.ajg.com/us/careers/"
-],
-"website": "https://www.ajg.com/us"
-},
-{
 "name": "Marsh McLennan Agency",
 "full_name": "Marsh & McLennan Agency LLC",
 "aliases": [
@@ -139081,42 +138127,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.marshmma.com"
-},
-{
-"name": "Abt Associates",
-"full_name": "Abt Global Inc.",
-"aliases": [
-"Abt Global",
-"Abt"
-],
-"nature": "us.company",
-"industry": "Professional Services",
-"sub": "Policy research and consulting",
-"parent": "",
-"hq": "Cambridge",
-"cities": [
-"Cambridge",
-"Rockville",
-"Durham",
-"Chicago"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions",
-"system": "Oracle",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions",
-"https://www.abtglobal.com/careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.abtglobal.com"
 },
 {
 "name": "ICF",
@@ -144108,7 +143118,9 @@
 "full_name": "US Naval Research Laboratory",
 "aliases": [
 "NRL",
-"海军研究实验室"
+"海军研究实验室",
+"Naval Research Laboratory",
+"U.S. Naval Research Laboratory"
 ],
 "nature": "us.government",
 "industry": "Government & Research",
@@ -144131,7 +143143,8 @@
 "roles": [],
 "notes": "Federal civil service positions require US citizenship",
 "sources": [
-"https://www.nrl.navy.mil/careers/students/volunteers"
+"https://www.nrl.navy.mil/careers/students/volunteers",
+"https://www.nrl.navy.mil/Careers/Students/Pathways-Internship-Program"
 ],
 "checked": "2026-11",
 "site_candidates": [
@@ -144178,7 +143191,10 @@
 "full_name": "US Army Combat Capabilities Development Command Army Research Laboratory",
 "aliases": [
 "ARL",
-"Army Research Laboratory"
+"Army Research Laboratory",
+"Army DEVCOM Army Research Laboratory",
+"U.S. Army Combat Capabilities Development Command Army Research Laboratory",
+"DEVCOM ARL"
 ],
 "nature": "us.government",
 "industry": "Government & Research",
@@ -144881,7 +143897,8 @@
 "name": "Abt Global",
 "full_name": "Abt Global Inc.",
 "aliases": [
-"Abt Associates"
+"Abt Associates",
+"Abt"
 ],
 "nature": "us.research",
 "industry": "Government & Research",
@@ -144890,7 +143907,9 @@
 "hq": "Rockville",
 "cities": [
 "Rockville",
-"Cambridge"
+"Cambridge",
+"Durham",
+"Chicago"
 ],
 "listed": "",
 "scale": "",
@@ -147575,14 +146594,13 @@
 "campus_site": "https://umd.wd1.myworkdayjobs.com/UMCP",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://umd.wd1.myworkdayjobs.com/UMCP"
+"https://umd.wd1.myworkdayjobs.com/UMCP",
+"https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -152561,7 +151579,8 @@
 "name": "Unity",
 "full_name": "Unity Software Inc.",
 "aliases": [
-"U"
+"U",
+"Unity Technologies"
 ],
 "nature": "us.company",
 "industry": "Technology",
@@ -152573,7 +151592,8 @@
 "Bellevue",
 "Austin",
 "Montreal",
-"New York"
+"New York",
+"Seattle"
 ],
 "listed": "NYSE U",
 "scale": "",
@@ -155229,7 +154249,8 @@
 ],
 "notes": "",
 "sources": [
-"https://aspentech.wd5.myworkdayjobs.com/aspentech"
+"https://aspentech.wd5.myworkdayjobs.com/aspentech",
+"https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Houston/Early-Careers-Electrical-Engineer---Power-Systems_R9781"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -155938,7 +154959,6 @@
 "campus_site": "https://vertexinc.wd1.myworkdayjobs.com/VertexInc",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -155946,7 +154966,8 @@
 ],
 "notes": "",
 "sources": [
-"https://vertexinc.wd1.myworkdayjobs.com/VertexInc"
+"https://vertexinc.wd1.myworkdayjobs.com/VertexInc",
+"https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote-USA/Corporate-Development-Intern_JR102784-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -158977,15 +157998,15 @@
 "campus_site": "https://manh.wd5.myworkdayjobs.com/en-US/External/jobs",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Software engineer"
 ],
 "notes": "",
 "sources": [
-"https://manh.wd5.myworkdayjobs.com/en-US/External/jobs"
+"https://manh.wd5.myworkdayjobs.com/en-US/External/jobs",
+"https://manh.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Staff-Accoutant_16909"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159248,7 +158269,9 @@
 "full_name": "Cognizant Technology Solutions Corporation",
 "aliases": [
 "CTSH",
-"高知特"
+"高知特",
+"Cognizant Consulting",
+"Cognizant Technology Solutions U.S. Corporation"
 ],
 "nature": "us.company",
 "industry": "Technology",
@@ -159261,7 +158284,8 @@
 "Phoenix",
 "Atlanta",
 "Chicago",
-"Tampa"
+"Tampa",
+"New York"
 ],
 "listed": "Nasdaq CTSH",
 "scale": "",
@@ -159279,7 +158303,8 @@
 "notes": "Does not sponsor work visas",
 "sources": [
 "https://www.cognizant.com/anz/en/cognizant-careers",
-"https://careers.cognizant.com/us-en/jobs/47904/cognizant-graduate-program-2027/"
+"https://careers.cognizant.com/us-en/jobs/47904/cognizant-graduate-program-2027/",
+"https://careers.cognizant.com/us-en/pathways-to-cognizant/students-and-new-grads/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -159734,7 +158759,8 @@
 "name": "Genpact",
 "full_name": "Genpact Limited (US operations)",
 "aliases": [
-"Genpact"
+"Genpact US",
+"Genpact USA, Inc."
 ],
 "nature": "us.company",
 "industry": "Technology",
@@ -159744,7 +158770,9 @@
 "cities": [
 "New York",
 "Dallas",
-"Atlanta"
+"Atlanta",
+"Charlotte",
+"Austin"
 ],
 "listed": "NYSE G",
 "scale": "",
@@ -159865,7 +158893,6 @@
 "campus_site": "https://unisys.wd5.myworkdayjobs.com/External",
 "system": "Workday",
 "hires": [
-"graduate",
 "internship"
 ],
 "roles": [
@@ -159874,7 +158901,8 @@
 ],
 "notes": "",
 "sources": [
-"https://unisys.wd5.myworkdayjobs.com/External"
+"https://unisys.wd5.myworkdayjobs.com/External",
+"https://unisys.wd5.myworkdayjobs.com/External/job/Blue-Bell-PA-United-States-of-America/Field-Marketing-Intern---US_REQ577240-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162301,7 +161329,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://adient.wd3.myworkdayjobs.com/External"
+"https://adient.wd3.myworkdayjobs.com/External",
+"https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/Engineering-Intern_R-29445"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -162654,11 +161683,14 @@
 "funding": "",
 "campus_site": "https://valeo.wd3.myworkdayjobs.com/en-EN/valeo_jobs",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://valeo.wd3.myworkdayjobs.com/en-EN/valeo_jobs"
+"https://valeo.wd3.myworkdayjobs.com/en-EN/valeo_jobs",
+"https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Reno-NV/Finance-Intern--Year-Round-_REQ2026079150"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -165424,37 +164456,6 @@
 "website": "https://www.lbfoster.com"
 },
 {
-"name": "Siemens Mobility (US)",
-"full_name": "Siemens Mobility, Inc.",
-"aliases": [
-"Siemens Mobility"
-],
-"nature": "us.company",
-"industry": "Transportation & Automotive",
-"sub": "Rail equipment",
-"parent": "Siemens",
-"hq": "Sacramento",
-"cities": [
-"Sacramento"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://siemens.dejobs.org/sacramento-ca/transit-project-internship-rolling-stock/B0AF36DEA3A94278B289BBE8C2456364/job/",
-"system": "",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://siemens.dejobs.org/sacramento-ca/transit-project-internship-rolling-stock/B0AF36DEA3A94278B289BBE8C2456364/job/"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.mobility.siemens.com/us"
-},
-{
 "name": "Metra",
 "full_name": "Northeast Illinois Regional Commuter Railroad Corporation",
 "aliases": [
@@ -165612,9 +164613,7 @@
 {
 "name": "SEPTA",
 "full_name": "Southeastern Pennsylvania Transportation Authority",
-"aliases": [
-"SEPTA"
-],
+"aliases": [],
 "nature": "us.government",
 "industry": "Transportation & Automotive",
 "sub": "Transit agency",
@@ -165775,9 +164774,7 @@
 {
 "name": "MARTA",
 "full_name": "Metropolitan Atlanta Rapid Transit Authority",
-"aliases": [
-"MARTA"
-],
+"aliases": [],
 "nature": "us.government",
 "industry": "Transportation & Automotive",
 "sub": "Transit agency",
@@ -165835,38 +164832,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.dart.org"
-},
-{
-"name": "Metropolitan Transit Authority of Harris County",
-"full_name": "Metropolitan Transit Authority of Harris County",
-"aliases": [
-"Houston METRO"
-],
-"nature": "us.government",
-"industry": "Transportation & Automotive",
-"sub": "Transit agency",
-"parent": "",
-"hq": "Houston",
-"cities": [
-"Houston"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=harrismetr&_s.crb=zj4Q%252f9lorQ2u8C83YIMB12EwJkM%252fAYOd45EdeuPTpLs%253d",
-"system": "SuccessFactors",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "Graduate students or graduates within one year",
-"sources": [
-"https://performancemanager4.successfactors.com/sf/careers/jobsearch?bplte_company=harrismetr&_s.crb=zj4Q%252f9lorQ2u8C83YIMB12EwJkM%252fAYOd45EdeuPTpLs%253d",
-"https://www.ridemetro.org/about/careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.ridemetro.org"
 },
 {
 "name": "King County Metro",
@@ -166401,11 +165366,14 @@
 "funding": "",
 "campus_site": "https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005",
 "system": "Oracle",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005"
+"https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005",
+"https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005/job/13714"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168419,38 +167387,6 @@
 "website": "https://shipveho.com"
 },
 {
-"name": "United States Postal Service",
-"full_name": "United States Postal Service",
-"aliases": [
-"USPS"
-],
-"nature": "us.state",
-"industry": "Transportation & Automotive",
-"sub": "Postal service",
-"parent": "",
-"hq": "Washington",
-"cities": [
-"Washington"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://about.usps.com/careers/career-opportunities/students-graduates.htm",
-"system": "",
-"hires": [
-"internship",
-"graduate"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://about.usps.com/careers/career-opportunities/students-graduates.htm"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.usps.com"
-},
-{
 "name": "Matson",
 "full_name": "Matson, Inc.",
 "aliases": [
@@ -168855,11 +167791,14 @@
 "funding": "",
 "campus_site": "https://uhaul.wd1.myworkdayjobs.com/fr-CA/UhaulJobs",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://uhaul.wd1.myworkdayjobs.com/fr-CA/UhaulJobs"
+"https://uhaul.wd1.myworkdayjobs.com/fr-CA/UhaulJobs",
+"https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-West-Arizona/Real-Estate-Acquisitions-Spring-Internship_R259986"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -168914,11 +167853,14 @@
 "funding": "",
 "campus_site": "https://wheels.wd5.myworkdayjobs.com/Wheels_Careers",
 "system": "Workday",
-"hires": [],
+"hires": [
+"internship"
+],
 "roles": [],
 "notes": "",
 "sources": [
-"https://wheels.wd5.myworkdayjobs.com/Wheels_Careers"
+"https://wheels.wd5.myworkdayjobs.com/Wheels_Careers",
+"https://wheels.wd5.myworkdayjobs.com/Wheels_Careers/job/Schaumburg-IL/Seasonal-Clerk--Temporary---Summer-_R5375"
 ],
 "checked": "2026-11",
 "site_candidates": [],

@@ -8,7 +8,8 @@ Each line is `name<TAB>action<TAB>value<TAB>reason`. Actions:
   merge      the same employer as the record named in value: that record takes this one's names as aliases, its
              cities, and any homepage / careers site it lacks; this line goes
   rename     value is {"name": …, "full_name": …}; the old names become aliases
-  full_name / parent / nature / hq / alias   set (or, for alias, add) that field
+  full_name / parent / nature / hq / website / campus_site / alias   set (or, for alias, add) that field;
+             "-" as the value empties it
   skip / missing   nothing
 Renames run first, so a merge or remove may name a record by its new name.
 """
@@ -20,7 +21,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ORDER = {"rename": 0, "full_name": 1, "parent": 1, "nature": 1, "hq": 1, "alias": 1, "merge": 2, "remove": 3}
+ORDER = {"rename": 0, "full_name": 1, "parent": 1, "nature": 1, "hq": 1, "alias": 1, "website": 1, "campus_site": 1, "merge": 2, "remove": 3}
 
 
 def main() -> int:
@@ -66,8 +67,8 @@ def main() -> int:
             by_name[r["name"]] = r
         elif act == "alias":
             r["aliases"] = list(dict.fromkeys([*(r.get("aliases") or []), value]))
-        elif act in ("full_name", "parent", "nature", "hq"):
-            r[act] = value
+        elif act in ("full_name", "parent", "nature", "hq", "website", "campus_site"):
+            r[act] = "" if value == "-" else value
             if act == "hq" and value not in (r.get("cities") or []):
                 r["cities"] = [value, *(r.get("cities") or [])]
         elif act == "merge":
@@ -78,9 +79,10 @@ def main() -> int:
             t["aliases"] = [a for a in dict.fromkeys([*(t.get("aliases") or []), r["name"], r.get("full_name") or "",
                                                       *(r.get("aliases") or [])]) if a and a not in (t["name"], t.get("full_name"))]
             t["cities"] = list(dict.fromkeys([*(t.get("cities") or []), *(r.get("cities") or [])]))
-            for k in ("website", "campus_site", "system"):
+            for k in ("website", "campus_site", "system", "notes", "hires", "checked", "full_name"):
                 if not t.get(k) and r.get(k):
                     t[k] = r[k]
+            t["sources"] = list(dict.fromkeys([*(t.get("sources") or []), *(r.get("sources") or [])]))
             gone.add(id(r))
             removed.append(f"{r['name']}\tmerged into {t['name']}\t{why}")
         elif act == "remove":
@@ -94,7 +96,12 @@ def main() -> int:
         for f, recs in content.items():
             f.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in recs if id(r) not in gone),
                          encoding="utf-8")
-        (ROOT / "dist" / ("removed.tsv" if cn else f"removed-{args.cc}.tsv")).write_text("employer\tchange\twhy\n" + "\n".join(removed) + "\n", encoding="utf-8")
+        listing = ROOT / "dist" / ("removed.tsv" if cn else f"removed-{args.cc}.tsv")
+        # an action file keeps every action ever applied; one applied before finds no record now, and its line
+        # in the listing stays
+        before = listing.read_text(encoding="utf-8").splitlines()[1:] if listing.is_file() else []
+        kept = list(dict.fromkeys([*before, *removed]))
+        listing.write_text("employer\tchange\twhy\n" + "\n".join(kept) + "\n", encoding="utf-8")
     return 0
 
 

@@ -491,12 +491,13 @@
 "campus_site": "https://www.bankaust.com.au/careers",
 "system": "",
 "hires": [
-"experienced"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Open to people facing barriers to employment, including refugees, people seeking asylum and people on temporary visas",
 "sources": [
-"https://www.bankaust.com.au/careers"
+"https://www.bankaust.com.au/careers",
+"https://www.bankaust.com.au/blog/kick-starting-rohullahs-career-in-banking-through-our-internship-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -1207,13 +1208,13 @@
 "campus_site": "https://careers.bankofamerica.com/en-us/students/campus-experience",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.bankofamerica.com/en-us/students/campus-experience"
+"https://careers.bankofamerica.com/en-us/students/campus-experience",
+"https://careers.bankofamerica.com/en-us/students/job-detail/15302/global-investment-banking-capital-markets-full-time-analyst-2027-sydney-sydney-australia"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -2218,7 +2219,8 @@
 "full_name": "Optiver Pty Ltd",
 "aliases": [
 "Optiver",
-"Optiver Sydney"
+"Optiver Sydney",
+"奥图"
 ],
 "nature": "au.company",
 "industry": "Banking & Financial Services",
@@ -2308,13 +2310,13 @@
 "campus_site": "https://apply.workable.com/tibra-capital-1",
 "system": "Workable",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://apply.workable.com/tibra-capital-1"
+"https://apply.workable.com/tibra-capital-1",
+"https://www.tibra.com/tibra-accelerator-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -2573,7 +2575,9 @@
 "full_name": "nib holdings limited",
 "aliases": [
 "nib",
-"nib Health Funds"
+"nib Health Funds",
+"nib Holdings",
+"nib health funds"
 ],
 "nature": "au.company",
 "industry": "Banking & Financial Services",
@@ -4012,15 +4016,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.visionsuper.com.au/about-us/careers",
 "system": "",
 "hires": [
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.visionsuper.com.au/about-us/careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.visionsuper.com.au/about-us/careers"
 ],
@@ -4336,12 +4342,13 @@
 "campus_site": "https://russell.wd5.myworkdayjobs.com/russellinvestments",
 "system": "Workday",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://russell.wd5.myworkdayjobs.com/russellinvestments"
+"https://russell.wd5.myworkdayjobs.com/russellinvestments",
+"https://russellinvestments.com/au/careers/student-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -4472,7 +4479,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.schroders.com/en/global/individual/careers/emerging-talent/"
+"https://www.schroders.com/en/global/individual/careers/emerging-talent/",
+"https://www.schroders.com/en-au/au/individual/about-us/careers/graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -5748,12 +5756,13 @@
 "campus_site": "https://cuscalpayments.wd105.myworkdayjobs.com/CuscalCareers",
 "system": "Workday",
 "hires": [
-"experienced"
+"graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens or permanent residents, or 485 Temporary Graduate visa holders with full working rights; IT degree completed within the past two years",
 "sources": [
-"https://cuscalpayments.wd105.myworkdayjobs.com/CuscalCareers"
+"https://cuscalpayments.wd105.myworkdayjobs.com/CuscalCareers",
+"https://www.cuscal.com/technology-graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -6452,42 +6461,6 @@
 "website": "https://www.iress.com"
 },
 {
-"name": "Computershare Australia",
-"full_name": "Computershare Limited",
-"aliases": [
-"Computershare",
-"Computershare Investor Services"
-],
-"nature": "au.company",
-"industry": "Banking & Financial Services",
-"sub": "Share registry and market services",
-"parent": "",
-"hq": "Melbourne",
-"cities": [
-"Melbourne",
-"Sydney",
-"Brisbane",
-"Perth"
-],
-"listed": "ASX CPU",
-"scale": "",
-"funding": "",
-"campus_site": "https://computershareams.avature.net/en_US/careers2",
-"system": "Avature",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://computershareams.avature.net/en_US/careers2"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.computershare.com"
-},
-{
 "name": "MUFG Pension & Market Services",
 "full_name": "MUFG Corporate Markets (AU) Limited",
 "aliases": [
@@ -6993,13 +6966,13 @@
 "campus_site": "https://www.liberty.com.au/about-us/recruitment-process",
 "system": "",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.liberty.com.au/about-us/recruitment-process"
+"https://www.liberty.com.au/about-us/recruitment-process",
+"https://www.liberty.com.au/about-us/current-opportunities/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -8495,12 +8468,13 @@
 "campus_site": "https://www.canstar.com.au/canstar-careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.canstar.com.au/canstar-careers/"
+"https://www.canstar.com.au/canstar-careers/",
+"https://www.canstar.com.au/graduate-programs-and-internships"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -9788,7 +9762,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.lovisa.com/"
+"https://careers.lovisa.com/",
+"https://careers.lovisa.com/jobs/8356292-graduate-accountant"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -10253,7 +10228,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.loreal.com/en"
+"https://careers.loreal.com/en",
+"https://loreal.com/en/australia/news/human-relations/loreal-offers-employment-opportunities"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -10460,7 +10436,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://ebpm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+"https://ebpm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+"https://ebpm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1005318"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -10489,12 +10466,13 @@
 "campus_site": "https://endeavourgroupcareers.com.au/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://endeavourgroupcareers.com.au/"
+"https://endeavourgroupcareers.com.au/",
+"https://endeavourgroupcareers.com.au/early-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -10555,9 +10533,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens or residents only; final-year students or graduated within the last two years",
 "sources": [
-"https://fonterrakf.avature.net/careers/Login?2574=100496&2574_format=1709&listFilterMode=1&jobRecordsPerPage=6"
+"https://fonterrakf.avature.net/careers/Login?2574=100496&2574_format=1709&listFilterMode=1&jobRecordsPerPage=6",
+"https://www.fonterra.com/au/en/careers/graduate-program.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -10811,9 +10790,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Open to applicants with unrestricted Australian working rights; final-year students or recent graduates",
 "sources": [
-"https://careers.jbssa.com.au/"
+"https://careers.jbssa.com.au/",
+"https://careers.jbssa.com.au/job/Toowoomba-Feedlot-Graduate-Beef-City-Feedlot-QLD-4350/1369587366/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -10844,7 +10824,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://teysgroupau.currentjobs.co/Job/"
+"https://teysgroupau.currentjobs.co/Job/",
+"https://au.teysgroup.com/people/graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -11148,15 +11129,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://tassalgroup.com.au/advance-your-career/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://tassalgroup.com.au/advance-your-career/"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://tassalgroup.com.au/join-our-team/",
 "http://tassalgroup.com.au/our-people/join-our-team/"
@@ -11464,12 +11447,13 @@
 "campus_site": "https://www.ebosgroup.com/careers/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "University students in Sydney or Melbourne only",
 "sources": [
-"https://www.ebosgroup.com/careers/"
+"https://www.ebosgroup.com/careers/",
+"https://www.eboshealthcare.com.au/internship-program-at-ebos-healthcare-australia/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -11501,7 +11485,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://mecca.wd3.myworkdayjobs.com/careers"
+"https://mecca.wd3.myworkdayjobs.com/careers",
+"https://www.mecca.com/en-au/help/does-mecca-have-a-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -11666,15 +11651,17 @@
 "listed": "ASX SHL",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://sullivan.applynow.net.au/jobs/310029-graduate-biomedical-engineer",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Open to applicants with permanent work rights in Australia",
+"sources": [
+"https://sullivan.applynow.net.au/jobs/310029-graduate-biomedical-engineer"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.sonichealthcare.com"
 },
@@ -11984,16 +11971,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.careers.jnj.com/en/locations/asia-pacific/australia/",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.careers.jnj.com/en/locations/asia-pacific/australia/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.jnj.com.au"
 },
@@ -12210,39 +12198,6 @@
 "website": "https://www.sigmahealthcare.com.au"
 },
 {
-"name": "nib Holdings",
-"full_name": "nib holdings limited",
-"aliases": [
-"nib",
-"nib health funds"
-],
-"nature": "au.company",
-"industry": "Consumer, Health & Transport",
-"sub": "Health insurance",
-"parent": "",
-"hq": "Newcastle",
-"cities": [
-"Newcastle",
-"Sydney"
-],
-"listed": "ASX NHF",
-"scale": "",
-"funding": "",
-"campus_site": "https://nib.wd105.myworkdayjobs.com/careers",
-"system": "Workday",
-"hires": [
-"graduate"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://nib.wd105.myworkdayjobs.com/careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.nib.com.au"
-},
-{
 "name": "Healthscope",
 "full_name": "Healthscope Limited",
 "aliases": [],
@@ -12306,7 +12261,8 @@
 ],
 "notes": "",
 "sources": [
-"https://svha.wd3.myworkdayjobs.com/SVHA_SVHA"
+"https://svha.wd3.myworkdayjobs.com/SVHA_SVHA",
+"https://www.svhm.org.au/education/nursing-education/graduate-nurse-program/about-the-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -12329,7 +12285,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs.smartrecruiters.com/Epworth/744000053031285-2025-graduate-support-program-for-enrolled-nurses",
 "system": "",
 "hires": [
 "graduate"
@@ -12337,9 +12293,11 @@
 "roles": [
 "Graduate nurse"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents, or visa holders with unrestricted work rights",
+"sources": [
+"https://jobs.smartrecruiters.com/Epworth/744000053031285-2025-graduate-support-program-for-enrolled-nurses"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.epworth.org.au"
 },
@@ -12538,7 +12496,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://ekac.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/"
+"https://ekac.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/",
+"https://ekac.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1007492"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -12596,9 +12555,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Registered nurses in Victoria and New South Wales only",
 "sources": [
-"https://estiahealth.wd105.myworkdayjobs.com/Estia_Health_Careers"
+"https://estiahealth.wd105.myworkdayjobs.com/Estia_Health_Careers",
+"https://www.estiahealth.com.au/careers/develop-your-career/nurse-graduate-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -12630,9 +12590,10 @@
 "roles": [
 "Graduate dentist"
 ],
-"notes": "",
+"notes": "Graduates of an Australian university in 2024 only",
 "sources": [
-"https://pacificsmiles.wd105.myworkdayjobs.com/en-US/External_PSG"
+"https://pacificsmiles.wd105.myworkdayjobs.com/en-US/External_PSG",
+"https://pacificsmilesgroup.com.au/dental-practitioners/graduate-dental-practitioners/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -12793,12 +12754,13 @@
 "campus_site": "https://melbourneairportjoblink.com.au/",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://melbourneairportjoblink.com.au/"
+"https://melbourneairportjoblink.com.au/",
+"https://melbourneairport.com.au/community/careers-in-aviation"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -12822,15 +12784,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.bne.com.au/blog/people-bne/people-bne-careertrackers",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Indigenous university students only, through CareerTrackers",
+"sources": [
+"https://www.bne.com.au/blog/people-bne/people-bne-careertrackers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.bne.com.au"
 },
@@ -12990,13 +12954,13 @@
 "campus_site": "https://careers.pageuppeople.com/493/new/en/subscribe",
 "system": "PageUp",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://careers.pageuppeople.com/493/new/en/subscribe"
+"https://careers.pageuppeople.com/493/new/en/subscribe",
+"https://www.aurizon.com.au/careers/working-at-aurizon/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -13071,32 +13035,28 @@
 "full_name": "John Holland Group Pty Ltd",
 "aliases": [],
 "nature": "au.company",
-"industry": "Resources, Energy & Engineering",
-"sub": "Civil, rail and infrastructure contractor",
+"industry": "Consumer, Health & Transport",
+"sub": "Rail & transport construction",
 "parent": "CCCC International",
 "hq": "Melbourne",
 "cities": [
 "Melbourne",
-"Sydney",
-"Brisbane",
-"Perth"
+"Sydney"
 ],
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.johnholland.com.au/join-us/graduate-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
-"roles": [
-"Engineering graduate",
-"Commercial graduate"
+"roles": [],
+"notes": "Australian or New Zealand citizens and permanent residents, or holders of full Australian or New Zealand working rights",
+"sources": [
+"https://www.johnholland.com.au/join-us/graduate-program"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.johnholland.com.au"
 },
@@ -13118,15 +13078,17 @@
 "listed": "ASX QUB",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://qube.com.au/careers/cadet-program/",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://qube.com.au/careers/cadet-program/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.qube.com.au"
 },
@@ -13215,12 +13177,14 @@
 "campus_site": "https://www.portauthoritynsw.com.au/careers",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.portauthoritynsw.com.au/careers"
+"https://www.portauthoritynsw.com.au/careers",
+"https://www.portauthoritynsw.com.au/careers/learning-and-development"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -13316,7 +13280,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.auspost.com.au/en_GB/careers"
+"https://jobs.auspost.com.au/en_GB/careers",
+"https://jobs.auspost.com.au/en_GB/careers/StartingOut"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -13383,7 +13348,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.transport.nsw.gov.au/about-us/careers/apprentice-and-trainee-programs"
+"https://www.transport.nsw.gov.au/about-us/careers/apprentice-and-trainee-programs",
+"https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/careers-at-transport"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -13412,9 +13378,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Applicants with unrestricted working rights only",
 "sources": [
-"https://www.metrotrains.com.au/careers/"
+"https://www.metrotrains.com.au/careers/",
+"https://www.metrotrains.com.au/explore-careers/graduates/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -17938,13 +17905,13 @@
 "campus_site": "https://diageo.wd3.myworkdayjobs.com/en-US/Diageo_Careers/jobAlerts",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://diageo.wd3.myworkdayjobs.com/en-US/Diageo_Careers/jobAlerts"
+"https://diageo.wd3.myworkdayjobs.com/en-US/Diageo_Careers/jobAlerts",
+"https://www.diageo.com/en/careers/early-careers/graduates/sales-graduate-programme"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -27657,38 +27624,6 @@
 "website": "https://hmri.org.au"
 },
 {
-"name": "George Institute for Global Health",
-"full_name": "The George Institute for Global Health",
-"aliases": [
-"George Institute"
-],
-"nature": "au.research",
-"industry": "Government & Research",
-"sub": "Medical research institute",
-"parent": "",
-"hq": "Sydney",
-"cities": [
-"Sydney"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.georgeinstitute.org/about-us/careers",
-"system": "",
-"hires": [
-"graduate",
-"experienced"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://www.georgeinstitute.org/about-us/careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.georgeinstitute.org.au"
-},
-{
 "name": "Orygen",
 "full_name": "Orygen, The National Centre of Excellence in Youth Mental Health",
 "aliases": [
@@ -33981,13 +33916,13 @@
 "campus_site": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers",
 "system": "Workday",
 "hires": [
-"graduate",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers"
+"https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers",
+"https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Sydney/Fund-Administration-Associate-Graduate-Program---Multiple-Positions_JR-0027224"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -34698,12 +34633,13 @@
 "system": "Workday",
 "hires": [
 "graduate",
-"experienced"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://wellington.wd5.myworkdayjobs.com/Campus"
+"https://wellington.wd5.myworkdayjobs.com/Campus",
+"https://wellington.wd5.myworkdayjobs.com/Campus/job/Sydney-Australia/Business-Associate--ANZ-Institutional_R94890"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44109,14 +44045,16 @@
 "campus_site": "https://www.jobs.wa.gov.au/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate analyst"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only; tertiary degree completed between December 2025 and December 2027",
 "sources": [
-"https://www.jobs.wa.gov.au/"
+"https://www.jobs.wa.gov.au/",
+"https://www.wa.gov.au/organisation/department-of-treasury-and-finance/careers-treasury-and-finance"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -44374,7 +44312,9 @@
 {
 "name": "TasNetworks",
 "full_name": "Tasmanian Networks Pty Ltd (TasNetworks)",
-"aliases": [],
+"aliases": [
+"Tasmanian Networks"
+],
 "nature": "au.state",
 "industry": "Government & Research",
 "sub": "State-owned electricity network",
@@ -44609,9 +44549,10 @@
 "Graduate planner",
 "Graduate policy officer"
 ],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://www.planning.nsw.gov.au/news/thousands-homes-and-jobs-green-lit-orchard-hills"
+"https://www.planning.nsw.gov.au/news/thousands-homes-and-jobs-green-lit-orchard-hills",
+"https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure/nsw-valuer-general/value-nsw-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45673,9 +45614,10 @@
 "New graduate allied health",
 "Junior medical officer"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
+"notes": "Australian citizens or holders of a visa allowing ongoing full-time employment in Australia; nursing or midwifery degree completed between 1 June 2026 and 31 May 2027",
 "sources": [
-"https://healthnswgov.taleo.net/careersection/in/profile.ftl?lang=en"
+"https://healthnswgov.taleo.net/careersection/in/profile.ftl?lang=en",
+"https://www.swslhd.health.nsw.gov.au/nursing_tpp.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45710,9 +45652,10 @@
 "New graduate allied health",
 "Junior medical officer"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
+"notes": "Australian citizens and permanent residents only",
 "sources": [
-"https://jobs.health.nsw.gov.au/wslhd"
+"https://jobs.health.nsw.gov.au/wslhd",
+"https://www.nsw.gov.au/departments-and-agencies/wslhd/work-us/management-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45736,7 +45679,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nsw.gov.au/departments-and-agencies/nbmlhd/work-us/nursing-midwifery",
 "system": "",
 "hires": [
 "graduate"
@@ -45748,8 +45691,10 @@
 "Junior medical officer"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.nsw.gov.au/departments-and-agencies/nbmlhd/work-us/nursing-midwifery"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.nsw.gov.au/careers/grow-with-us",
 "https://iworkfor.nsw.gov.au/",
@@ -45825,9 +45770,10 @@
 "New graduate allied health",
 "Junior medical officer"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
+"notes": "Australian citizens or holders of a visa allowing ongoing full-time employment in Australia; nursing or midwifery degree completed between 1 June 2026 and 31 May 2027",
 "sources": [
-"https://www.cclhd.health.nsw.gov.au/careers/student-information"
+"https://www.cclhd.health.nsw.gov.au/careers/student-information",
+"https://www.cclhd.health.nsw.gov.au/careers/career-opportunities/nursing/gradstart/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45864,7 +45810,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://healthnswgov.taleo.net/careersection/in/profile.ftl?lang=en"
+"https://healthnswgov.taleo.net/careersection/in/profile.ftl?lang=en",
+"https://www.islhd.health.nsw.gov.au/your-career/career-paths/nursing-and-midwifery-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45900,9 +45847,10 @@
 "New graduate allied health",
 "Junior medical officer"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
+"notes": "Australian citizens or holders of a visa allowing ongoing full-time employment in Australia; nursing or midwifery degree completed between 1 June 2026 and 31 May 2027",
 "sources": [
-"https://jobs.health.nsw.gov.au/hnelhd"
+"https://jobs.health.nsw.gov.au/hnelhd",
+"https://www.nsw.gov.au/departments-and-agencies/hnelhd/work-us/nursing-and-midwifery-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -45961,7 +45909,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://nnswlhd.health.nsw.gov.au/services/nursing-and-midwifery-services-our-NAMS/gradstart",
 "system": "",
 "hires": [
 "graduate"
@@ -45970,9 +45918,11 @@
 "Graduate registered nurse",
 "New graduate allied health"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"notes": "Australian citizens or holders of a visa permitting ongoing full-time employment in Australia",
+"sources": [
+"https://nnswlhd.health.nsw.gov.au/services/nursing-and-midwifery-services-our-NAMS/gradstart"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nnswlhd.health.nsw.gov.au"
 },
@@ -46006,7 +45956,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.nsw.gov.au/departments-and-agencies/wnswlhd/careers/student-placement"
+"https://www.nsw.gov.au/departments-and-agencies/wnswlhd/careers/student-placement",
+"https://www.nsw.gov.au/departments-and-agencies/wnswlhd/careers/nursing-careers/gradstart-western-nsw"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46029,7 +45980,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nsw.gov.au/departments-and-agencies/mlhd/work-us/nursing-midwifery-careers",
 "system": "",
 "hires": [
 "graduate"
@@ -46039,8 +45990,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.nsw.gov.au/departments-and-agencies/mlhd/work-us/nursing-midwifery-careers"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.nsw.gov.au/careers/grow-with-us",
 "https://iworkfor.nsw.gov.au/",
@@ -46079,7 +46032,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://jobs.health.nsw.gov.au/"
+"https://jobs.health.nsw.gov.au/",
+"https://www.nsw.gov.au/departments-and-agencies/snswlhd/work-us/nursing-careers"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46102,7 +46056,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nsw.gov.au/departments-and-agencies/fwlhd/work-us",
 "system": "",
 "hires": [
 "graduate"
@@ -46112,8 +46066,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.nsw.gov.au/departments-and-agencies/fwlhd/work-us"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.fwlhd.health.nsw.gov.au"
 },
@@ -46135,7 +46091,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.schn.health.nsw.gov.au/about/work-us/nurses/gradstart-nursing-program",
 "system": "",
 "hires": [
 "graduate"
@@ -46145,8 +46101,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.schn.health.nsw.gov.au/about/work-us/nurses/gradstart-nursing-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.schn.health.nsw.gov.au"
 },
@@ -46167,7 +46125,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nsw.gov.au/health/justicehealth/work-us/professional-pathway-programs",
 "system": "",
 "hires": [
 "graduate"
@@ -46176,9 +46134,11 @@
 "Graduate registered nurse",
 "New graduate allied health"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"notes": "Open to international nurses holding a visa that allows them to work in Australia for the programme's duration",
+"sources": [
+"https://www.nsw.gov.au/health/justicehealth/work-us/professional-pathway-programs"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.nsw.gov.au/careers/grow-with-us",
 "https://iworkfor.nsw.gov.au/",
@@ -46505,7 +46465,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.easternhealth.org.au/careers-volunteers/work-experience-program-for-secondary-school-students/"
+"https://www.easternhealth.org.au/careers-volunteers/work-experience-program-for-secondary-school-students/",
+"https://ehlearners.easternhealth.org.au/graduates/registered-nurses/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46542,7 +46503,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://monashhealth.org/news/aboriginal-and-torres-strait-islander-careers-graduate-nurse-constantly-growing-and-learning/"
+"https://monashhealth.org/news/aboriginal-and-torres-strait-islander-careers-graduate-nurse-constantly-growing-and-learning/",
+"https://monashhealth.org/careers/nursing-and-midwifery/graduate-program/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46580,7 +46542,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.thermh.org.au/health-professionals/careers/moving-to-melbourne/international-recruitment"
+"https://www.thermh.org.au/health-professionals/careers/moving-to-melbourne/international-recruitment",
+"https://www.thermh.org.au/health-professionals/careers/nursing-at-the-rmh/nursing-education/graduate-nurse-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46615,7 +46578,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://performancemanager10.successfactors.com/login?company=theroyalch"
+"https://performancemanager10.successfactors.com/login?company=theroyalch",
+"https://www.rch.org.au/nursing-education/graduate-nurses/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46651,7 +46615,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.thewomens.org.au/careers/international-applicants"
+"https://www.thewomens.org.au/careers/international-applicants",
+"https://www.thewomens.org.au/health-professionals/clinical-education-training/nursing-midwifery-edtraining/graduate-midwife-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46685,7 +46650,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://eyeandear.org.au/careers/"
+"https://eyeandear.org.au/careers/",
+"https://careers.eyeandear.org.au/job/Soansville-2027-Graduate-Registered-Nurse-Program-VIC-3002/1360880066/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46709,7 +46675,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.wh.org.au/job/2027-Combined-Graduate-NurseMidwife-Program/1361688966/",
 "system": "",
 "hires": [
 "graduate"
@@ -46721,8 +46687,10 @@
 "Junior medical officer"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://careers.wh.org.au/job/2027-Combined-Graduate-NurseMidwife-Program/1361688966/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.westernhealth.org.au"
 },
@@ -46756,7 +46724,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.nh.org.au/careers/"
+"https://www.nh.org.au/careers/",
+"https://www.nh.org.au/education-and-training/nursing-and-midwifery/graduate-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -46894,7 +46863,8 @@
 "campus_site": "https://career10.successfactors.com/career?company=grampiansh&site=&lang=en_GB&requestParams=&login_ns=register&jobPipeline=Direct&clientId=jobs2web&navBarLevel=MY%5fPROFILE&_s.crb=7DOgllNmpjzKY0Kf0kUHR6d4Czq%2bGjudWg4gmOVMB4c%3d",
 "system": "SuccessFactors",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate registered nurse",
@@ -46902,7 +46872,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://career10.successfactors.com/career?company=grampiansh&site=&lang=en_GB&requestParams=&login_ns=register&jobPipeline=Direct&clientId=jobs2web&navBarLevel=MY%5fPROFILE&_s.crb=7DOgllNmpjzKY0Kf0kUHR6d4Czq%2bGjudWg4gmOVMB4c%3d"
+"https://career10.successfactors.com/career?company=grampiansh&site=&lang=en_GB&requestParams=&login_ns=register&jobPipeline=Direct&clientId=jobs2web&navBarLevel=MY%5fPROFILE&_s.crb=7DOgllNmpjzKY0Kf0kUHR6d4Czq%2bGjudWg4gmOVMB4c%3d",
+"https://www.gh.org.au/careers-and-training/nursing-and-midwifery/graduate-transition-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -47031,18 +47002,21 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://southwesthealthcare.com.au/careers-volunteers/graduates",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Graduate registered nurse",
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://southwesthealthcare.com.au/careers-volunteers/graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.swh.net.au"
 },
@@ -47127,7 +47101,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://wghg.com.au/graduate-programs/",
 "system": "",
 "hires": [
 "graduate"
@@ -47137,8 +47111,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://wghg.com.au/graduate-programs/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.wghg.com.au"
 },
@@ -47291,7 +47267,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mbph.org.au/careers/nursing-and-midwifery-graduate-programs",
 "system": "",
 "hires": [
 "graduate"
@@ -47301,8 +47277,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.mbph.org.au/careers/nursing-and-midwifery-graduate-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": ""
 },
@@ -47426,9 +47404,10 @@
 "roles": [
 "Graduate paramedic"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://www.ambulance.vic.gov.au/careers"
+"https://www.ambulance.vic.gov.au/careers",
+"https://www.ambulance.vic.gov.au/become-a-paramedic"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -47534,7 +47513,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://mercyagedcare.wd105.myworkdayjobs.com/External"
+"https://mercyagedcare.wd105.myworkdayjobs.com/External",
+"https://health-services.mercyhealth.com.au/health-professionals/education-training/postgraduate-graduate-programs-clinical-placements/graduate-programs/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -47607,7 +47587,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://metronorth.health.qld.gov.au/careers"
+"https://metronorth.health.qld.gov.au/careers",
+"https://metronorth.health.qld.gov.au/careers/nursing-midwifery/graduate-registered-nurses-midwives"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -47632,7 +47613,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/new-graduate-physiotherapist",
 "system": "",
 "hires": [
 "graduate"
@@ -47643,9 +47624,11 @@
 "New graduate allied health",
 "Junior medical officer"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens, Australian permanent residents, or visa holders with unrestricted working rights",
+"sources": [
+"https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/new-graduate-physiotherapist"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://metrosouth.health.qld.gov.au"
 },
@@ -47668,7 +47651,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.childrens.health.qld.gov.au/careers/nursing-graduate-program",
 "system": "",
 "hires": [
 "graduate"
@@ -47678,8 +47661,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.childrens.health.qld.gov.au/careers/nursing-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.childrens.health.qld.gov.au"
 },
@@ -47714,7 +47699,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.goldcoast.health.qld.gov.au/careers/recruitment/international-recruitment"
+"https://www.goldcoast.health.qld.gov.au/careers/recruitment/international-recruitment",
+"https://www.goldcoast.health.qld.gov.au/careers/careers-at-gold-coast-health/nursing-and-midwifery-careers/nursing-and-midwifery-student-gateway"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -47738,7 +47724,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.sunshinecoast.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -47750,8 +47736,10 @@
 "Junior medical officer"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.sunshinecoast.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/sunshinecoast"
 },
@@ -47773,7 +47761,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/allied-health",
 "system": "",
 "hires": [
 "graduate"
@@ -47784,9 +47772,11 @@
 "New graduate allied health",
 "Junior medical officer"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens, Australian permanent residents, or visa holders with unrestricted working rights",
+"sources": [
+"https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/allied-health"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/westmoreton"
 },
@@ -47808,7 +47798,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.darlingdowns.health.qld.gov.au/careers/graduate-opportunities",
 "system": "",
 "hires": [
 "graduate"
@@ -47818,8 +47808,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.darlingdowns.health.qld.gov.au/careers/graduate-opportunities"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/darlingdowns"
 },
@@ -47878,7 +47870,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cairns-hinterland.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -47890,8 +47882,10 @@
 "Junior medical officer"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cairns-hinterland.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/cairns_hinterland"
 },
@@ -47912,7 +47906,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.mackay.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -47922,8 +47916,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.mackay.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/mackay"
 },
@@ -47946,7 +47942,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cq.health.qld.gov.au/careers/nursing-and-midwifery/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -47956,8 +47952,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cq.health.qld.gov.au/careers/nursing-and-midwifery/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/centralqld"
 },
@@ -47980,7 +47978,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.widebay.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -47990,8 +47988,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.widebay.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/widebay"
 },
@@ -48013,7 +48013,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.northwest.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -48023,8 +48023,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.northwest.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/northwest"
 },
@@ -48046,7 +48048,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.southwest.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -48056,8 +48058,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.southwest.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/southwest"
 },
@@ -48078,7 +48082,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.centralwest.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -48088,8 +48092,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.centralwest.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/centralwest"
 },
@@ -48111,7 +48117,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.torres-cape.health.qld.gov.au/careers/nursing-and-midwifery-graduates",
 "system": "",
 "hires": [
 "graduate"
@@ -48121,8 +48127,10 @@
 "New graduate allied health"
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.torres-cape.health.qld.gov.au/careers/nursing-and-midwifery-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.health.qld.gov.au/torres-cape"
 },
@@ -48146,7 +48154,7 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/queensland-ambulance-service",
 "system": "",
 "hires": [
 "graduate"
@@ -48154,9 +48162,11 @@
 "roles": [
 "Paramedic"
 ],
-"notes": "Paramedic roles require AHPRA registration",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens, Australian permanent residents, or visa holders with unrestricted working rights",
+"sources": [
+"https://www.qld.gov.au/jobs/graduates/graduate-programs/programs/queensland-ambulance-service"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ambulance.qld.gov.au"
 },
@@ -48295,7 +48305,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://cahs.health.wa.gov.au/For-health-professionals/Work-with-us/Careers-at-CAHS"
+"https://cahs.health.wa.gov.au/For-health-professionals/Work-with-us/Careers-at-CAHS",
+"https://www.cahs.health.wa.gov.au/For-health-professionals/Work-with-us/Careers-at-CAHS/Nursing/Nursing-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -48333,7 +48344,8 @@
 ],
 "notes": "Clinical graduate roles require AHPRA registration",
 "sources": [
-"https://www.wacountry.health.wa.gov.au/Our-workforce/Students/Career-prospects"
+"https://www.wacountry.health.wa.gov.au/Our-workforce/Students/Career-prospects",
+"https://wacountry.health.wa.gov.au/Our-workforce/Work-with-us/Nursing-and-midwifery-careers/Nursing-and-midwifery-graduate-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -48896,7 +48908,8 @@
 ],
 "notes": "Paramedic roles require AHPRA registration",
 "sources": [
-"https://careers.pageuppeople.com/532/caw/en/subscribe"
+"https://careers.pageuppeople.com/532/caw/en/subscribe",
+"https://saambulance.sa.gov.au/work-with-us/who-we-employ/paramedic-internship/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -49065,9 +49078,10 @@
 "New graduate allied health",
 "Junior medical officer"
 ],
-"notes": "Clinical graduate roles require AHPRA registration",
+"notes": "Open to Australian citizens, permanent residents and visa holders with full working rights",
 "sources": [
-"https://acthealth.taleo.net/careersection/external/jobsearch.ftl?lang=en"
+"https://acthealth.taleo.net/careersection/external/jobsearch.ftl?lang=en",
+"https://www.canberrahealthservices.act.gov.au/careers/nursing-and-midwifery-careers/graduate-nursing-and-midwifery-programs"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -49444,42 +49458,11 @@
 "website": "https://www.publichospitalfunding.gov.au"
 },
 {
-"name": "Walter and Eliza Hall Institute of Medical Research",
-"full_name": "",
-"aliases": [
-"WEHI"
-],
-"nature": "au.research",
-"industry": "Consumer, Health & Transport",
-"sub": "Medical research institute",
-"parent": "",
-"hq": "Melbourne",
-"cities": [
-"Melbourne"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://wehi.wd3.myworkdayjobs.com/WEHI",
-"system": "Workday",
-"hires": [
-"internship"
-],
-"roles": [],
-"notes": "Working rights in Australia required for casual laboratory roles",
-"sources": [
-"https://wehi.wd3.myworkdayjobs.com/WEHI",
-"https://www.wehi.edu.au/education/undergraduate/"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.wehi.edu.au"
-},
-{
 "name": "The George Institute for Global Health",
-"full_name": "",
+"full_name": "The George Institute for Global Health",
 "aliases": [
-"George Institute"
+"George Institute",
+"George Institute for Global Health"
 ],
 "nature": "au.research",
 "industry": "Consumer, Health & Transport",
@@ -54170,15 +54153,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://careers.moretonbay.qld.gov.au/jobs/2026-university-student-opportunities-city-of-moreton-bay-qld-australia",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Students enrolled in a university course in 2027 only",
+"sources": [
+"https://careers.moretonbay.qld.gov.au/jobs/2026-university-student-opportunities-city-of-moreton-bay-qld-australia"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.moretonbay.qld.gov.au"
 },
@@ -54663,15 +54648,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.cityofparramatta.nsw.gov.au/council/work-at-council/early-careers",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.cityofparramatta.nsw.gov.au/council/work-at-council/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.cityofparramatta.nsw.gov.au"
 },
@@ -54690,15 +54678,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.blacktown.nsw.gov.au/About-Council/Career-opportunities/Graduate-careers-at-Blacktown-City-Council",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Degree completed within the last two years in the chosen stream",
+"sources": [
+"https://www.blacktown.nsw.gov.au/About-Council/Career-opportunities/Graduate-careers-at-Blacktown-City-Council"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.blacktown.nsw.gov.au"
 },
@@ -54720,10 +54710,10 @@
 "campus_site": "https://www.penrithcity.nsw.gov.au/council/careers/traineeships-work-experience",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "University students studying in the field of the traineeship only",
 "sources": [
 "https://www.penrithcity.nsw.gov.au/council/careers/traineeships-work-experience"
 ],
@@ -55779,7 +55769,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://fa-ewfo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location"
+"https://fa-ewfo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location",
+"https://fa-ewfo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1060"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -56231,7 +56222,8 @@
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.wyndham.vic.gov.au/careers"
+"https://www.wyndham.vic.gov.au/careers",
+"https://www.wyndham.vic.gov.au/node/7252"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -59903,15 +59895,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.nsw.gov.au/careers/grow-with-us",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Degree completed within the last two years",
+"sources": [
+"https://www.nsw.gov.au/careers/grow-with-us"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.nsw.gov.au/departments-and-agencies/dcs"
 },
@@ -60359,9 +60353,10 @@
 "graduate"
 ],
 "roles": [],
-"notes": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
 "sources": [
-"https://www.dffh.vic.gov.au/jobs"
+"https://www.dffh.vic.gov.au/jobs",
+"https://www.vic.gov.au/victorian-government-graduate-program"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -60384,15 +60379,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.vic.gov.au/victorian-government-graduate-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
+"sources": [
+"https://www.vic.gov.au/victorian-government-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.vic.gov.au/school-jobs",
 "https://www.vic.gov.au/jobs",
@@ -60417,15 +60414,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.vic.gov.au/victorian-government-graduate-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
+"sources": [
+"https://www.vic.gov.au/victorian-government-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.vic.gov.au/school-jobs",
 "https://www.vic.gov.au/jobs",
@@ -60452,15 +60451,17 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.vic.gov.au/victorian-government-graduate-program",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
+"sources": [
+"https://www.vic.gov.au/victorian-government-graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.djsir.vic.gov.au"
 },
@@ -76520,7 +76521,8 @@
 "name": "Rider Levett Bucknall Australia",
 "full_name": "",
 "aliases": [
-"RLB"
+"RLB",
+"Rider Levett Bucknall"
 ],
 "nature": "au.company",
 "industry": "Professional Services",
@@ -76540,7 +76542,7 @@
 "internship"
 ],
 "roles": [],
-"notes": "",
+"notes": "Applicants must be at least in the second year of a relevant degree",
 "sources": [
 "https://www.rlb.com/oceania/careers/early-careers/"
 ],
@@ -77654,11 +77656,10 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://jobs-au.pwc.com/au/en/graduate-program",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Assurance graduate",
@@ -77667,9 +77668,11 @@
 "Deals graduate",
 "Technology graduate"
 ],
-"notes": "Requires full Australian work rights",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
+"sources": [
+"https://jobs-au.pwc.com/au/en/graduate-program"
+],
+"checked": "2026-11",
 "site_candidates": [
 "https://www.pwc.com.au/careers.html"
 ],
@@ -77801,7 +77804,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.deloittedigital.com/au/en/careers.html"
+"https://www.deloittedigital.com/au/en/careers.html",
+"https://www.deloitte.com/au/en/careers/students.html"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -77944,17 +77948,20 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.ey.com/en_au/careers/student-entry-level-programs",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [
 "Strategy consultant"
 ],
-"notes": "",
-"sources": [],
-"checked": "",
+"notes": "Australian or New Zealand citizens and Australian permanent residents only",
+"sources": [
+"https://www.ey.com/en_au/careers/student-entry-level-programs"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.ey.com/en_au/strategy"
 },
@@ -81877,18 +81884,19 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.finity.com.au/careers/graduate-programs/actuarial-analytics-graduates",
 "system": "",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [
 "Actuarial graduate"
 ],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.finity.com.au/careers/graduate-programs/actuarial-analytics-graduates"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.finity.com.au"
 },
@@ -86124,40 +86132,6 @@
 "website": "https://www.sapowernetworks.com.au"
 },
 {
-"name": "Tasmanian Networks",
-"full_name": "TasNetworks",
-"aliases": [
-"TasNetworks"
-],
-"nature": "au.state",
-"industry": "Resources, Energy & Engineering",
-"sub": "Electricity network",
-"parent": "",
-"hq": "Hobart",
-"cities": [
-"Hobart",
-"Launceston"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://career10.successfactors.com/career?company=tasmaniannP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&site=VjItekU2b1RxaW9LendsLzhXY0dPZ1cxUT09&_s.crb=%2fjJe0CBv7vnqVvr1l3qQtewjQ",
-"system": "SuccessFactors",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://career10.successfactors.com/career?company=tasmaniannP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&site=VjItekU2b1RxaW9LendsLzhXY0dPZ1cxUT09&_s.crb=%2fjJe0CBv7vnqVvr1l3qQtewjQ",
-"https://www.tasnetworks.com.au/Careers/Graduate-Program"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.tasnetworks.com.au"
-},
-{
 "name": "APA Group",
 "full_name": "APA Group",
 "aliases": [
@@ -86323,39 +86297,6 @@
 "checked": "",
 "site_candidates": [],
 "website": "https://www.atco.com.au"
-},
-{
-"name": "Stanwell",
-"full_name": "Stanwell Corporation Limited",
-"aliases": [],
-"nature": "au.state",
-"industry": "Resources, Energy & Engineering",
-"sub": "Electricity generation",
-"parent": "",
-"hq": "Brisbane",
-"cities": [
-"Brisbane",
-"Rockhampton"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.stanwell.com/info-hub/article/tarong-overhaul-to-support-reliability-jobs-and-local-economy",
-"system": "",
-"hires": [
-"graduate"
-],
-"roles": [
-"Engineering graduate"
-],
-"notes": "",
-"sources": [
-"https://www.stanwell.com/info-hub/article/tarong-overhaul-to-support-reliability-jobs-and-local-economy",
-"https://careers.stanwell.com/early-careers-program"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.stanwell.com"
 },
 {
 "name": "CleanCo Queensland",
@@ -86979,15 +86920,18 @@
 "listed": "",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.richardcrookes.com.au/cadets-graduates/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.richardcrookes.com.au/cadets-graduates/"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.crookes.com.au"
 },
@@ -88814,12 +88758,14 @@
 "campus_site": "https://career5.successfactors.eu/portalcareer?company=C0020126214P&career_company=C0020126214P&site=&lang=en_GB&navBarLevel=HOME",
 "system": "SuccessFactors",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://career5.successfactors.eu/portalcareer?company=C0020126214P&career_company=C0020126214P&site=&lang=en_GB&navBarLevel=HOME"
+"https://career5.successfactors.eu/portalcareer?company=C0020126214P&career_company=C0020126214P&site=&lang=en_GB&navBarLevel=HOME",
+"https://www.babcock.com.au/careers/early-careers/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89272,12 +89218,13 @@
 "campus_site": "https://jobs.nyrstar.com",
 "system": "",
 "hires": [
-"graduate"
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jobs.nyrstar.com"
+"https://jobs.nyrstar.com",
+"https://jobs.nyrstar.com/job/Port-Pirie-Vacation-Student-Program-%28202627-Summer%29/1365442357/"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89501,7 +89448,8 @@
 ],
 "notes": "",
 "sources": [
-"https://www.hancockironore.com.au/join-us/"
+"https://www.hancockironore.com.au/join-us/",
+"https://careers.hancockironore.com.au/go/Graduates-and-Interns/9531401"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89525,12 +89473,14 @@
 "campus_site": "https://www.futureaustralianjobs.com/",
 "system": "",
 "hires": [
-"graduate"
+"graduate",
+"internship"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://www.futureaustralianjobs.com/"
+"https://www.futureaustralianjobs.com/",
+"https://careers.hancockironore.com.au/go/Graduates-and-Interns/9531401"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -89612,15 +89562,17 @@
 "listed": "ASX WGX",
 "scale": "",
 "funding": "",
-"campus_site": "",
+"campus_site": "https://www.westgold.com.au/early-careers",
 "system": "",
 "hires": [
 "graduate"
 ],
 "roles": [],
 "notes": "",
-"sources": [],
-"checked": "",
+"sources": [
+"https://www.westgold.com.au/early-careers"
+],
+"checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.westgold.com.au"
 },
@@ -90423,9 +90375,10 @@
 "roles": [
 "Graduate engineer"
 ],
-"notes": "",
+"notes": "Open to international students with full working rights",
 "sources": [
-"https://www.pageuppeople.com/powered-by-pageup/"
+"https://www.pageuppeople.com/powered-by-pageup/",
+"https://www.hydro.com.au/careers/graduates"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -96686,36 +96639,6 @@
 "website": "https://www.gpcl.com.au"
 },
 {
-"name": "North Queensland Bulk Ports",
-"full_name": "",
-"aliases": [
-"NQBP"
-],
-"nature": "au.state",
-"industry": "Resources, Energy & Engineering",
-"sub": "Port operations",
-"parent": "",
-"hq": "Mackay",
-"cities": [
-"Mackay",
-"Townsville"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [
-"experienced"
-],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [],
-"website": "https://www.nqbp.com.au"
-},
-{
 "name": "Luerssen Australia",
 "full_name": "",
 "aliases": [
@@ -96773,37 +96696,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.pumaenergy.com"
-},
-{
-"name": "Energy Developments",
-"full_name": "",
-"aliases": [
-"EDL"
-],
-"nature": "au.company",
-"industry": "Resources, Energy & Engineering",
-"sub": "Gas-to-energy and waste-to-energy",
-"parent": "",
-"hq": "Brisbane",
-"cities": [
-"Brisbane"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://fa-exrw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
-"system": "Oracle",
-"hires": [
-"experienced"
-],
-"roles": [],
-"notes": "",
-"sources": [
-"https://fa-exrw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.edlenergy.com"
 },
 {
 "name": "Zinfra",
@@ -97971,13 +97863,13 @@
 "campus_site": "https://jci.wd5.myworkdayjobs.com/en-US/JCI",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://jci.wd5.myworkdayjobs.com/en-US/JCI"
+"https://jci.wd5.myworkdayjobs.com/en-US/JCI",
+"https://jci.wd5.myworkdayjobs.com/JCI/job/Melbourne-Victoria-Australia/Graduate-Engineer--Gordon-Brothers-_WD30278023-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -104533,14 +104425,13 @@
 "campus_site": "https://ricohrap.wd3.myworkdayjobs.com/Ricoh_Careers",
 "system": "Workday",
 "hires": [
-"graduate",
-"internship",
-"experienced"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://ricohrap.wd3.myworkdayjobs.com/Ricoh_Careers"
+"https://ricohrap.wd3.myworkdayjobs.com/Ricoh_Careers",
+"https://ricohrap.wd3.myworkdayjobs.com/Ricoh_Careers/job/Adelaide-Branch/Sales-Cadet_R0002616-1"
 ],
 "checked": "2026-11",
 "site_candidates": [],
@@ -107005,7 +106896,8 @@
 "name": "Computershare",
 "full_name": "Computershare Limited",
 "aliases": [
-"Computershare Australia"
+"Computershare Australia",
+"Computershare Investor Services"
 ],
 "nature": "au.company",
 "industry": "Technology & Telecommunications",
@@ -107014,7 +106906,9 @@
 "hq": "Melbourne",
 "cities": [
 "Melbourne",
-"Sydney"
+"Sydney",
+"Brisbane",
+"Perth"
 ],
 "listed": "ASX CPU",
 "scale": "",
@@ -108286,44 +108180,6 @@
 "checked": "2026-11",
 "site_candidates": [],
 "website": "https://www.kyndryl.com/au/en"
-},
-{
-"name": "Optiver",
-"full_name": "Optiver Pty Ltd",
-"aliases": [
-"Optiver Australia",
-"奥图"
-],
-"nature": "au.company",
-"industry": "Technology & Telecommunications",
-"sub": "Quantitative trading",
-"parent": "Optiver",
-"hq": "Sydney",
-"cities": [
-"Sydney"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.optiver.com/join-us/jobs/?level=early-careers&level=early-careers",
-"system": "",
-"hires": [
-"graduate",
-"internship",
-"experienced"
-],
-"roles": [
-"Graduate trader",
-"Graduate software engineer",
-"Graduate quantitative researcher"
-],
-"notes": "",
-"sources": [
-"https://www.optiver.com/join-us/jobs/?level=early-careers&level=early-careers"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://optiver.com"
 },
 {
 "name": "Citadel Securities Australia",
@@ -113146,7 +113002,8 @@
 "NQBP",
 "Port of Mackay",
 "Port of Hay Point",
-"Port of Abbot Point"
+"Port of Abbot Point",
+"North Queensland Bulk Ports"
 ],
 "nature": "au.state",
 "industry": "Consumer, Health & Transport",
@@ -113154,7 +113011,8 @@
 "parent": "",
 "hq": "Mackay",
 "cities": [
-"Mackay"
+"Mackay",
+"Townsville"
 ],
 "listed": "",
 "scale": "",
@@ -119886,38 +119744,6 @@
 "website": "https://www.costinroe.com.au"
 },
 {
-"name": "Rider Levett Bucknall",
-"full_name": "",
-"aliases": [
-"RLB"
-],
-"nature": "au.company",
-"industry": "Resources, Energy & Engineering",
-"sub": "Cost management and quantity surveying",
-"parent": "",
-"hq": "Sydney",
-"cities": [
-"Sydney"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "https://www.rlb.com/oceania/careers/early-careers/",
-"system": "",
-"hires": [
-"graduate",
-"internship"
-],
-"roles": [],
-"notes": "Applicants must be at least in the second year of a relevant degree",
-"sources": [
-"https://www.rlb.com/oceania/careers/early-careers/"
-],
-"checked": "2026-11",
-"site_candidates": [],
-"website": "https://www.rlb.com"
-},
-{
 "name": "Turner & Townsend Australia",
 "full_name": "",
 "aliases": [
@@ -121082,35 +120908,6 @@
 "website": "https://www.goldcoastairport.com.au"
 },
 {
-"name": "Hobart Airport",
-"full_name": "",
-"aliases": [],
-"nature": "au.company",
-"industry": "Resources, Energy & Engineering",
-"sub": "Airport operator",
-"parent": "",
-"hq": "Hobart",
-"cities": [
-"Hobart"
-],
-"listed": "",
-"scale": "",
-"funding": "",
-"campus_site": "",
-"system": "",
-"hires": [
-"graduate"
-],
-"roles": [],
-"notes": "",
-"sources": [],
-"checked": "",
-"site_candidates": [
-"https://youtu.be/DpYeD9S2A_o?si=2p0UHKjeoxbXFyTu"
-],
-"website": "https://www.hobartairport.com.au"
-},
-{
 "name": "Cairns Airport",
 "full_name": "",
 "aliases": [],
@@ -121215,13 +121012,13 @@
 "campus_site": "https://hdr.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233",
 "system": "Taleo",
 "hires": [
-"graduate",
-"internship"
+"graduate"
 ],
 "roles": [],
 "notes": "",
 "sources": [
-"https://hdr.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233"
+"https://hdr.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233",
+"https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197109&lang=en"
 ],
 "checked": "2026-11",
 "site_candidates": [],

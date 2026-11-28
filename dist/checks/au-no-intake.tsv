@@ -1,21 +1,17 @@
 employer	page	file
-ING Australia		banking-finance-01.jsonl
-Beyond Bank Australia		banking-finance-01.jsonl
-Teachers Mutual Bank		banking-finance-01.jsonl
-Newcastle Permanent		banking-finance-01.jsonl
-Greater Bank		banking-finance-01.jsonl
-Bank Australia		banking-finance-01.jsonl
-Heritage Bank		banking-finance-01.jsonl
-Queensland Country Bank		banking-finance-01.jsonl
-MyState		banking-finance-01.jsonl
-Auswide Bank		banking-finance-01.jsonl
-Athena Home Loans		banking-finance-01.jsonl
+ING Australia	https://careers.ing.com/en/early-careers	banking-finance-01.jsonl
+Beyond Bank Australia	https://beyondbank.com.au/careers	banking-finance-01.jsonl
+Newcastle Permanent	https://www.ngmgroup.com.au/careers	banking-finance-01.jsonl
+Greater Bank	https://www.ngmgroup.com.au/careers	banking-finance-01.jsonl
+Queensland Country Bank	https://www.queenslandcountry.bank/help-info/about-us/careers/	banking-finance-01.jsonl
+MyState	https://mystate.com.au/about-us/careers/	banking-finance-01.jsonl
+Auswide Bank	https://www.auswidebank.com.au/about/careers/	banking-finance-01.jsonl
+Ubank	https://www.ubank.com.au/why-ubank/join-our-team	banking-finance-01.jsonl
 Bank of Sydney		banking-finance-01.jsonl
 Hume Bank		banking-finance-01.jsonl
 Australian Military Bank		banking-finance-01.jsonl
 J.P. Morgan Australia		banking-finance-02.jsonl
 Deutsche Bank Australia		banking-finance-02.jsonl
-Bank of America Australia		banking-finance-02.jsonl
 Barclays Australia		banking-finance-02.jsonl
 MUFG Bank Australia		banking-finance-02.jsonl
 Mizuho Australia		banking-finance-02.jsonl
@@ -24,7 +20,6 @@ DBS Bank Australia		banking-finance-02.jsonl
 Standard Chartered Australia		banking-finance-02.jsonl
 State Street Australia		banking-finance-02.jsonl
 Jefferies Australia		banking-finance-03.jsonl
-Rothschild & Co Australia		banking-finance-03.jsonl
 Lazard Australia		banking-finance-03.jsonl
 Houlihan Lokey Australia		banking-finance-03.jsonl
 Wilsons Advisory and Stockbroking		banking-finance-03.jsonl
@@ -34,19 +29,18 @@ Taylor Collison		banking-finance-03.jsonl
 Petra Capital		banking-finance-03.jsonl
 CMC Markets Australia		banking-finance-03.jsonl
 IG Markets Australia		banking-finance-03.jsonl
-Pepperstone		banking-finance-03.jsonl
-Interactive Brokers Australia		banking-finance-03.jsonl
-Optiver Australia		banking-finance-03.jsonl
-Tibra Capital		banking-finance-03.jsonl
-AIA Australia		banking-finance-04.jsonl
+Pepperstone	https://pepperstonecareers.com/	banking-finance-03.jsonl
+Optiver Australia	https://www.optiver.com/join-us/locations/sydney/	banking-finance-03.jsonl
+AIA Australia	https://www.aia.com.au/en/about-aia/careers.html	banking-finance-04.jsonl
 nib Group		banking-finance-04.jsonl
-HCF		banking-finance-04.jsonl
-HBF		banking-finance-04.jsonl
+HCF	https://www.hcf.com.au/about-us/careers	banking-finance-04.jsonl
+HBF	https://www.hbf.com.au/careers	banking-finance-04.jsonl
 Teachers Health		banking-finance-04.jsonl
 AUB Group		banking-finance-04.jsonl
 Steadfast Group		banking-finance-04.jsonl
 Marsh Australia		banking-finance-04.jsonl
 Lockton Australia		banking-finance-04.jsonl
+Willis Towers Watson Australia		banking-finance-04.jsonl
 Youi		banking-finance-04.jsonl
 Auto & General		banking-finance-04.jsonl
 RACQ		banking-finance-04.jsonl
@@ -64,19 +58,14 @@ UniSuper		banking-finance-05.jsonl
 Hostplus		banking-finance-05.jsonl
 Rest Super		banking-finance-05.jsonl
 HESTA		banking-finance-05.jsonl
-Equip Super		banking-finance-06.jsonl
-Active Super		banking-finance-06.jsonl
+Equip Super	https://www.equipsuper.com.au/about-us/careers	banking-finance-06.jsonl
 Brighter Super		banking-finance-06.jsonl
-Media Super		banking-finance-06.jsonl
 First Super		banking-finance-06.jsonl
-legalsuper		banking-finance-06.jsonl
-Telstra Super		banking-finance-06.jsonl
-Mercer Australia		banking-finance-06.jsonl
-JANA Investment Advisers		banking-finance-06.jsonl
-Russell Investments Australia		banking-finance-06.jsonl
-Vanguard Australia		banking-finance-06.jsonl
-Fidelity International Australia		banking-finance-06.jsonl
-Schroders Australia		banking-finance-06.jsonl
+legalsuper	https://www.legalsuper.com.au/about-us/careers	banking-finance-06.jsonl
+Mercer Australia	https://careers.marsh.com/global/en/people-and-investments-students-and-early-career-opportunities	banking-finance-06.jsonl
+Frontier Advisors	https://www.frontieradvisors.com.au/careers	banking-finance-06.jsonl
+JANA Investment Advisers	https://jana.com.au/people/careers/	banking-finance-06.jsonl
+Fidelity International Australia	https://www.fidelity.com.au/contact-fidelity-australia/careers/	banking-finance-06.jsonl
 Magellan Financial Group		banking-finance-06.jsonl
 Platinum Asset Management		banking-finance-06.jsonl
 First Sentier Investors		banking-finance-06.jsonl
@@ -104,12 +93,11 @@ CVC Capital Partners Australia		banking-finance-07.jsonl
 KKR Australia		banking-finance-07.jsonl
 TPG Capital Australia		banking-finance-07.jsonl
 Quadrant Private Equity		banking-finance-07.jsonl
-Morrison & Co		banking-finance-07.jsonl
 IFM Investors		banking-finance-07.jsonl
 Cboe Australia		banking-finance-08.jsonl
 National Stock Exchange of Australia		banking-finance-08.jsonl
 Australian Payments Plus		banking-finance-08.jsonl
-Indue		banking-finance-08.jsonl
+Mastercard Australia		banking-finance-08.jsonl
 American Express Australia		banking-finance-08.jsonl
 PayPal Australia		banking-finance-08.jsonl
 Block Australia		banking-finance-08.jsonl
@@ -126,7 +114,6 @@ CreditorWatch		banking-finance-08.jsonl
 Moody's Australia		banking-finance-08.jsonl
 Morningstar Australasia		banking-finance-08.jsonl
 Iress		banking-finance-08.jsonl
-Computershare Australia		banking-finance-08.jsonl
 MUFG Pension & Market Services		banking-finance-08.jsonl
 Boardroom		banking-finance-08.jsonl
 HUB24		banking-finance-09.jsonl
@@ -135,10 +122,9 @@ Praemium		banking-finance-09.jsonl
 Class Limited		banking-finance-09.jsonl
 FNZ Australia		banking-finance-09.jsonl
 Count Financial		banking-finance-09.jsonl
+Latitude Financial Services		banking-finance-09.jsonl
 humm group		banking-finance-09.jsonl
 Pepper Money		banking-finance-09.jsonl
-Liberty Financial		banking-finance-09.jsonl
-Resimac Group		banking-finance-09.jsonl
 La Trobe Financial		banking-finance-09.jsonl
 Firstmac		banking-finance-09.jsonl
 Metrics Credit Partners		banking-finance-09.jsonl
@@ -149,7 +135,6 @@ Connective Group		banking-finance-09.jsonl
 Equity Trustees		banking-finance-10.jsonl
 Perennial Value Management		banking-finance-10.jsonl
 Fiducian Group		banking-finance-10.jsonl
-Generation Life		banking-finance-10.jsonl
 T. Rowe Price Australia		banking-finance-10.jsonl
 CLSA Australia		banking-finance-10.jsonl
 Money3 Corporation		banking-finance-10.jsonl
@@ -160,106 +145,73 @@ Mason Stevens		banking-finance-10.jsonl
 Pin Payments		banking-finance-10.jsonl
 Global Payments Australia		banking-finance-10.jsonl
 Fiserv Australia		banking-finance-10.jsonl
+FIS Australia		banking-finance-10.jsonl
 Adyen Australia		banking-finance-10.jsonl
-Cover-More		banking-finance-10.jsonl
 SCOR Australia		banking-finance-10.jsonl
 Gen Re Australia		banking-finance-10.jsonl
 Guild Insurance		banking-finance-10.jsonl
-Honan Insurance Group		banking-finance-10.jsonl
 CBHS Health Fund		banking-finance-10.jsonl
-Peoplecare		banking-finance-10.jsonl
-St.LukesHealth		banking-finance-10.jsonl
-Navy Health		banking-finance-10.jsonl
-Westfund		banking-finance-11.jsonl
-ESSSuper		banking-finance-11.jsonl
-Lendi Group		banking-finance-11.jsonl
-Canstar		banking-finance-11.jsonl
-Square Peg Capital		banking-finance-11.jsonl
-Blackbird Ventures		banking-finance-11.jsonl
+Peoplecare	https://www.peoplecare.com.au/about-us/careers/	banking-finance-10.jsonl
+St.LukesHealth	https://www.stlukes.com.au/healthiest-island/careers	banking-finance-10.jsonl
+Westfund	https://www.westfund.com.au/about/careers/	banking-finance-11.jsonl
+Lendi Group	https://jobs.smartrecruiters.com/LendiGroup1	banking-finance-11.jsonl
+Square Peg Capital	https://www.squarepeg.vc/careers	banking-finance-11.jsonl
+Blackbird Ventures	https://www.blackbird.vc/careers-at-blackbird	banking-finance-11.jsonl
 AirTree Ventures		banking-finance-11.jsonl
-Stake		banking-finance-11.jsonl
-Raiz Invest		banking-finance-11.jsonl
-Spaceship		banking-finance-11.jsonl
-Cooper Investors		banking-finance-11.jsonl
-Regal Funds Management		banking-finance-11.jsonl
-Bennelong Funds Management		banking-finance-11.jsonl
-P&N Bank		banking-finance-11.jsonl
-Unity Bank		banking-finance-11.jsonl
-Mainstream Group		banking-finance-11.jsonl
-VanEck Australia		banking-finance-11.jsonl
-Global X Australia		banking-finance-11.jsonl
-Wesfarmers		consumer-health-transport-01.jsonl
-Bunnings		consumer-health-transport-01.jsonl
-Officeworks		consumer-health-transport-01.jsonl
-Wesfarmers Health		consumer-health-transport-01.jsonl
-JB Hi-Fi		consumer-health-transport-01.jsonl
-Harvey Norman		consumer-health-transport-01.jsonl
-Metcash		consumer-health-transport-01.jsonl
-Super Retail Group		consumer-health-transport-01.jsonl
-Premier Investments		consumer-health-transport-01.jsonl
+Stake	https://hellostake.com/au/careers	banking-finance-11.jsonl
+Raiz Invest	https://raizinvest.com.au/careers	banking-finance-11.jsonl
+Spaceship	https://www.spaceship.com.au/careers/	banking-finance-11.jsonl
+Australian Financial Complaints Authority	https://careers.smartrecruiters.com/AFCA	banking-finance-11.jsonl
+P&N Bank	https://www.pnbank.com.au/careers/	banking-finance-11.jsonl
+Community First Credit Union	https://communityfirst.com.au/careers/	banking-finance-11.jsonl
+Global X Australia	https://www.globalxetfs.com.au/about/careers/	banking-finance-11.jsonl
+Wesfarmers	https://www.wesfarmers.com.au/util/careers/current-opportunities	consumer-health-transport-01.jsonl
+Bunnings	https://www.bunnings.com.au/jobs	consumer-health-transport-01.jsonl
+Officeworks	https://mycareer.officeworks.com.au/	consumer-health-transport-01.jsonl
+Wesfarmers Health	https://careers.wesfarmershealth.com.au/	consumer-health-transport-01.jsonl
+JB Hi-Fi	https://www.jbhifi.com.au/pages/jobs	consumer-health-transport-01.jsonl
+Metcash	https://metcashcareers.com/	consumer-health-transport-01.jsonl
+Super Retail Group	https://superretailgroup.com.au/join-us/	consumer-health-transport-01.jsonl
 Accent Group	https://www.accentgr.com.au/careers	consumer-health-transport-01.jsonl
 Universal Store	https://www.universalstore.com/pages/careers	consumer-health-transport-01.jsonl
-Cotton On Group	https://ekxm.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX	consumer-health-transport-01.jsonl
-Country Road Group	https://www.countryroadgroup.com.au	consumer-health-transport-01.jsonl
+Cotton On Group		consumer-health-transport-01.jsonl
+Country Road Group	https://careers.countryroadgroup.com.au/	consumer-health-transport-01.jsonl
 Michael Hill	https://www.michaelhill.com.au/careers	consumer-health-transport-01.jsonl
-Lovisa	https://careers.lovisa.com/	consumer-health-transport-01.jsonl
-Bapcor	https://www.bapcor.com.au	consumer-health-transport-01.jsonl
 Adairs	https://www.adairs.com.au/careers/	consumer-health-transport-01.jsonl
 Nick Scali	https://careers.smartrecruiters.com/NickScali/nick-scali-au	consumer-health-transport-01.jsonl
-IKEA Australia	https://www.ikea.com/au/en/this-is-ikea/work-with-us/	consumer-health-transport-01.jsonl
+IKEA Australia	https://www.ikea.com/au/en/customer-service/knowledge/articles/52eb80d5-0065-4934-9f9c-d54cge52e22c.html	consumer-health-transport-01.jsonl
 Reckitt Australia	https://www.reckitt.com/careers/students-and-graduates/	consumer-health-transport-02.jsonl
-L'Oréal Australia	https://careers.loreal.com/en/internship-apprenticeship	consumer-health-transport-02.jsonl
 Estée Lauder Australia	https://www.elcompanies.com/en/careers/students	consumer-health-transport-02.jsonl
 Beiersdorf Australia	https://www.beiersdorf.com.au/career/our-care-culture/overview	consumer-health-transport-02.jsonl
-Treasury Wine Estates	https://www.tweglobal.com/life-at-twe	consumer-health-transport-02.jsonl
-Endeavour Group	https://endeavourgroupcareers.com.au/early-careers	consumer-health-transport-02.jsonl
-Fonterra Australia	https://careers.fonterra.com/careers/Future-Leaders-Programme	consumer-health-transport-02.jsonl
-Saputo Dairy Australia	https://www.saputodairyaustralia.com.au	consumer-health-transport-02.jsonl
-a2 Milk Company	https://careers.thea2milkcompany.com/careers/	consumer-health-transport-02.jsonl
-Inghams	https://inghams.com.au/working-with-us/	consumer-health-transport-03.jsonl
-JBS Australia	https://jbsfoodsgroup.com/businesses/jbs-foods-australia	consumer-health-transport-03.jsonl
-Teys Australia	https://teysgroupau.currentjobs.co/Job/	consumer-health-transport-03.jsonl
-Australian Agricultural Company	https://aaco.com.au/people-careers	consumer-health-transport-03.jsonl
-Select Harvests	https://www.selectharvests.com.au	consumer-health-transport-03.jsonl
-Tassal	https://tassalgroup.com.au/join-our-team/	consumer-health-transport-03.jsonl
-Webster	https://websters.com.au/	consumer-health-transport-03.jsonl
+Saputo Dairy Australia	https://www.saputodairyaustralia.com.au/en/careers	consumer-health-transport-02.jsonl
+Inghams		consumer-health-transport-03.jsonl
+Louis Dreyfus Company Australia	https://www.ldc.com/careers/	consumer-health-transport-03.jsonl
+Australian Agricultural Company		consumer-health-transport-03.jsonl
+Select Harvests	https://ats.rippling.com/select-harvests-limited/jobs	consumer-health-transport-03.jsonl
+Webster		consumer-health-transport-03.jsonl
 Ridley Corporation	https://www.ridley.com.au/careers/	consumer-health-transport-03.jsonl
-Sanitarium Health Food Company	https://www.sanitarium.com/au	consumer-health-transport-03.jsonl
 Blackmores	https://www.blackmores.com.au/about-us/our-careers	consumer-health-transport-03.jsonl
-EBOS Group Australia	https://www.ebosgroup.com/careers/	consumer-health-transport-03.jsonl
-Mecca Brands		consumer-health-transport-03.jsonl
-ResMed		consumer-health-transport-04.jsonl
-Sonic Healthcare		consumer-health-transport-04.jsonl
-Healius		consumer-health-transport-04.jsonl
+Healius	https://careers.healius.com.au/gb/en/healius-faq	consumer-health-transport-04.jsonl
 Australian Clinical Labs		consumer-health-transport-04.jsonl
-Pfizer Australia		consumer-health-transport-04.jsonl
+Pfizer Australia	https://www.pfizer.com.au/careers	consumer-health-transport-04.jsonl
+Roche Australia		consumer-health-transport-04.jsonl
 AstraZeneca Australia		consumer-health-transport-04.jsonl
 Sanofi Australia		consumer-health-transport-04.jsonl
+MSD Australia		consumer-health-transport-04.jsonl
+Abbott Australia		consumer-health-transport-04.jsonl
+Medtronic Australasia		consumer-health-transport-04.jsonl
+Baxter Healthcare Australia		consumer-health-transport-04.jsonl
 Telix Pharmaceuticals		consumer-health-transport-04.jsonl
 Ansell		consumer-health-transport-04.jsonl
 Sigma Healthcare		consumer-health-transport-04.jsonl
-nib Holdings		consumer-health-transport-05.jsonl
-St Vincent's Health Australia		consumer-health-transport-05.jsonl
-Integral Diagnostics		consumer-health-transport-05.jsonl
-I-MED Radiology Network		consumer-health-transport-05.jsonl
 Aveo Group		consumer-health-transport-05.jsonl
-Estia Health		consumer-health-transport-05.jsonl
-Pacific Smiles Group		consumer-health-transport-05.jsonl
 Virgin Australia		consumer-health-transport-06.jsonl
 Sydney Airport		consumer-health-transport-06.jsonl
-Melbourne Airport		consumer-health-transport-06.jsonl
-Brisbane Airport Corporation		consumer-health-transport-06.jsonl
-Aurizon		consumer-health-transport-06.jsonl
-Pacific National		consumer-health-transport-06.jsonl
 Australian Rail Track Corporation		consumer-health-transport-06.jsonl
 DP World Australia		consumer-health-transport-06.jsonl
 Port of Melbourne		consumer-health-transport-06.jsonl
-Port Authority of New South Wales		consumer-health-transport-06.jsonl
 Port of Brisbane		consumer-health-transport-06.jsonl
 Fremantle Ports		consumer-health-transport-06.jsonl
-Australia Post		consumer-health-transport-07.jsonl
-Sydney Trains		consumer-health-transport-07.jsonl
-Metro Trains Melbourne		consumer-health-transport-07.jsonl
 Keolis Downer		consumer-health-transport-07.jsonl
 Transdev Australasia		consumer-health-transport-07.jsonl
 V/Line		consumer-health-transport-07.jsonl
@@ -272,7 +224,6 @@ Svitzer Australia		consumer-health-transport-07.jsonl
 Flight Centre Travel Group		consumer-health-transport-07.jsonl
 Corporate Travel Management		consumer-health-transport-07.jsonl
 Kelsian Group		consumer-health-transport-07.jsonl
-Scentre Group		consumer-health-transport-08.jsonl
 Centuria Capital Group		consumer-health-transport-08.jsonl
 Satterley Property Group		consumer-health-transport-08.jsonl
 Meriton		consumer-health-transport-08.jsonl
@@ -339,7 +290,6 @@ Jurlique		consumer-more-02.jsonl
 Drakes Supermarkets		consumer-more-02.jsonl
 Ritchies Stores		consumer-more-02.jsonl
 Coopers Brewery		consumer-more-02.jsonl
-Diageo Australia		consumer-more-02.jsonl
 Brown-Forman Australia		consumer-more-02.jsonl
 Beam Suntory Australia		consumer-more-02.jsonl
 Moet Hennessy Australia		consumer-more-02.jsonl
@@ -536,7 +486,6 @@ Black Dog Institute		education-05.jsonl
 Ingham Institute for Applied Medical Research		education-05.jsonl
 Translational Research Institute		education-05.jsonl
 Hunter Medical Research Institute		education-05.jsonl
-George Institute for Global Health		education-05.jsonl
 Orygen		education-05.jsonl
 Sax Institute		education-05.jsonl
 Cancer Institute NSW		education-05.jsonl
@@ -675,7 +624,6 @@ Sumitomo Mitsui Trust Bank Sydney Branch	https://www.smtb.jp/recruit/new-graduat
 BNY Mellon Australia	https://www.bny.com/corporate/global/en/about-us/careers/students.html	finance-more-04.jsonl
 Northern Trust Australia	https://www.northerntrust.com/australia-newzealand/about-us/careers	finance-more-04.jsonl
 SS&C Australia	https://www.ssctech.com/careers/why-ssc	finance-more-04.jsonl
-Apex Group Australia	https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers	finance-more-04.jsonl
 Australian Executor Trustees	https://www.aetlimited.com.au	finance-more-04.jsonl
 Fundhost	https://www.fundhost.com.au/careers	finance-more-04.jsonl
 Madison Financial Group	https://madisonfg.com.au/	finance-more-04.jsonl
@@ -691,7 +639,6 @@ Kapstream Capital	https://www.kapstream.com	finance-more-05.jsonl
 Daintree Capital	https://daintreecapital.com.au/	finance-more-05.jsonl
 Eley Griffiths Group	https://www.eleygriffithsgroup.com/	finance-more-05.jsonl
 Spheria Asset Management	https://spheria.com.au/	finance-more-05.jsonl
-Wellington Management Australia	https://www.wellington.com/en/about-us/campus-programs	finance-more-05.jsonl
 Capital Group Australia	https://www.capitalgroup.com/au/en/	finance-more-05.jsonl
 AllianceBernstein Australia	https://www.alliancebernstein.com/corporate/en/careers/students.html	finance-more-05.jsonl
 Morgan Stanley Investment Management Australia	https://www.morganstanley.com/people-opportunities/students-graduates	finance-more-05.jsonl
@@ -826,11 +773,9 @@ VicTrack		government-04.jsonl
 South East Water		government-04.jsonl
 Yarra Valley Water		government-04.jsonl
 Queensland Urban Utilities	https://www.urbanutilities.com.au/about-us/careers	government-05.jsonl
-Western Australian Department of Treasury	https://www.jobs.wa.gov.au/job-opportunities-and-industries-western-australia	government-05.jsonl
 Landcom	https://www.landcom.com.au/careers	government-06.jsonl
-NSW Department of Planning, Housing and Infrastructure	https://www.planning.nsw.gov.au/about-us/careers	government-06.jsonl
 City of Melbourne	https://www.melbourne.vic.gov.au/recruitment-process-application-tips	government-06.jsonl
-Brisbane City Council	https://www.brisbane.qld.gov.au/about-council/careers-at-council	government-06.jsonl
+Brisbane City Council	https://www.brisbane.qld.gov.au/about-council/careers-at-council/apprenticeships-and-training-programs	government-06.jsonl
 Australian Antarctic Division	https://jobs.antarctica.gov.au/	government-06.jsonl
 Food Standards Australia New Zealand	https://www.foodstandards.gov.au/about-us/careers	government-07.jsonl
 Tertiary Education Quality and Standards Agency	https://www.teqsa.gov.au/about-us/careers	government-07.jsonl
@@ -839,39 +784,11 @@ Independent Health and Aged Care Pricing Authority	https://www.ihacpa.gov.au/car
 Australian Commission on Safety and Quality in Health Care	https://www.safetyandquality.gov.au/about-us/working-us	government-07.jsonl
 Australian War Memorial	https://www.awm.gov.au/get-involved/careers	government-07.jsonl
 Aged Care Quality and Safety Commission		government-07.jsonl
-South Western Sydney Local Health District		health-01.jsonl
-Western Sydney Local Health District		health-01.jsonl
-Nepean Blue Mountains Local Health District		health-01.jsonl
-Central Coast Local Health District		health-01.jsonl
-Illawarra Shoalhaven Local Health District		health-01.jsonl
-Hunter New England Local Health District		health-01.jsonl
-Western NSW Local Health District		health-01.jsonl
-Murrumbidgee Local Health District		health-01.jsonl
-Southern NSW Local Health District		health-01.jsonl
-Sydney Children's Hospitals Network		health-01.jsonl
-Justice Health NSW		health-01.jsonl
 NSW Health Pathology		health-01.jsonl
-Eastern Health		health-01.jsonl
-Monash Health		health-01.jsonl
-Melbourne Health		health-01.jsonl
-The Royal Children's Hospital Melbourne		health-02.jsonl
-The Royal Women's Hospital		health-02.jsonl
-Royal Victorian Eye and Ear Hospital		health-02.jsonl
-Northern Health		health-02.jsonl
-Grampians Health		health-02.jsonl
-Ambulance Victoria		health-02.jsonl
-Mercy Health		health-02.jsonl
 cohealth		health-02.jsonl
-Metro North Hospital and Health Service		health-03.jsonl
-Gold Coast Hospital and Health Service		health-03.jsonl
-Child and Adolescent Health Service		health-03.jsonl
-WA Country Health Service		health-03.jsonl
 PathWest Laboratory Medicine WA		health-03.jsonl
-St John Ambulance Western Australia		health-03.jsonl
-Women's and Children's Health Network		health-03.jsonl
-SA Ambulance Service		health-04.jsonl
+St John Ambulance Western Australia	https://careers.stjohnwa.com.au/	health-03.jsonl
 SA Pathology		health-04.jsonl
-Canberra Health Services		health-04.jsonl
 National Blood Authority		health-04.jsonl
 Cancer Australia		health-04.jsonl
 Organ and Tissue Authority		health-04.jsonl
@@ -881,7 +798,6 @@ Hearing Australia		health-04.jsonl
 Healthdirect Australia		health-04.jsonl
 National Health Funding Body		health-04.jsonl
 The George Institute for Global Health		health-05.jsonl
-UnitingCare Queensland		health-05.jsonl
 Montserrat Day Hospitals		health-05.jsonl
 Vision Eye Institute		health-05.jsonl
 Aspen Medical		health-05.jsonl
@@ -964,14 +880,12 @@ B. Braun Australia		health-10.jsonl
 Fresenius Kabi Australia		health-10.jsonl
 Henry Schein Halas		health-10.jsonl
 Health Insurance Fund of Australia		health-10.jsonl
-Logan City Council		local-government-01.jsonl
-Ipswich City Council		local-government-01.jsonl
+Logan City Council	https://www.logan.qld.gov.au/about-council/careers/traineeships-and-apprenticeships	local-government-01.jsonl
+Ipswich City Council	https://www.ipswich.qld.gov.au/About-Council/Careers/Finding-Your-Future	local-government-01.jsonl
 Mackay Regional Council		local-government-01.jsonl
 Lockyer Valley Regional Council		local-government-01.jsonl
 Mount Isa City Council		local-government-01.jsonl
 Somerset Regional Council		local-government-01.jsonl
-Penrith City Council		local-government-01.jsonl
-Central Coast Council		local-government-01.jsonl
 City of Newcastle		local-government-01.jsonl
 Northern Beaches Council		local-government-02.jsonl
 Georges River Council		local-government-02.jsonl
@@ -991,8 +905,7 @@ Queanbeyan-Palerang Regional Council	https://www.qprc.nsw.gov.au/Council/Careers
 Burwood Council	https://www.burwood.nsw.gov.au/Our-Council/Careers	local-government-03.jsonl
 Snowy Monaro Regional Council	https://www.snowymonaro.nsw.gov.au/Careers	local-government-03.jsonl
 City of Casey	https://www.casey.vic.gov.au/careers	local-government-03.jsonl
-City of Wyndham	https://www.wyndham.vic.gov.au/careers	local-government-03.jsonl
-City of Greater Geelong	https://www.geelongcity.vic.gov.au/	local-government-03.jsonl
+City of Greater Geelong	https://www.geelongcity.vic.gov.au/council/employment/student-placements	local-government-03.jsonl
 City of Ballarat	https://www.ballarat.vic.gov.au/about-us/careers/work-experience-and-tertiary-student-placements	local-government-03.jsonl
 City of Greater Bendigo	https://www.bendigo.vic.gov.au/about-us/working-city/our-recruitment-process	local-government-03.jsonl
 Melton City Council	https://www.melton.vic.gov.au/Council/Working-with-Council/Work-Experience-at-Council	local-government-03.jsonl
@@ -1018,7 +931,7 @@ City of Wodonga		local-government-04.jsonl
 Mildura Rural City Council		local-government-04.jsonl
 Wellington Shire Council		local-government-04.jsonl
 Hepburn Shire		local-government-04.jsonl
-City of Stirling		local-government-04.jsonl
+City of Stirling	https://www.stirling.wa.gov.au/city-and-council/careers	local-government-04.jsonl
 City of Wanneroo		local-government-04.jsonl
 City of Joondalup		local-government-04.jsonl
 City of Cockburn		local-government-04.jsonl
@@ -1084,9 +997,6 @@ Independent Broad-based Anti-corruption Commission		local-government-08.jsonl
 Environment Protection Authority Victoria		local-government-08.jsonl
 Victorian Planning Authority		local-government-08.jsonl
 Victorian Managed Insurance Authority		local-government-08.jsonl
-Victorian Department of Families, Fairness and Housing		local-government-08.jsonl
-Victorian Department of Premier and Cabinet		local-government-08.jsonl
-Victorian Department of Government Services		local-government-08.jsonl
 Fire Rescue Victoria		local-government-08.jsonl
 Country Fire Authority		local-government-08.jsonl
 Parks Victoria		local-government-08.jsonl
@@ -1396,7 +1306,6 @@ Resolve Strategic		pro-more-08.jsonl
 The Social Research Centre		pro-more-08.jsonl
 JWS Research		pro-more-08.jsonl
 Q&A Market Research		pro-more-08.jsonl
-Deloitte Digital Australia		professional-services-01.jsonl
 Strategy& Australia		professional-services-01.jsonl
 Stantons		professional-services-01.jsonl
 Bentleys		professional-services-01.jsonl
@@ -1431,13 +1340,12 @@ Madgwicks		professional-services-04.jsonl
 Moores		professional-services-04.jsonl
 Hamilton Locke		professional-services-04.jsonl
 Milliman Australia		professional-services-05.jsonl
-Finity Consulting		professional-services-05.jsonl
 Korn Ferry Australia		professional-services-05.jsonl
 NERA Economic Consulting Australia		professional-services-05.jsonl
 Charles River Associates Australia		professional-services-05.jsonl
 Compass Lexecon Australia		professional-services-05.jsonl
 Synergies Economic Consulting		professional-services-05.jsonl
-ACIL Allen		professional-services-05.jsonl
+ACIL Allen	https://acilallen.com.au/early-career-consultants-and-professionals	professional-services-05.jsonl
 Oxford Economics Australia		professional-services-05.jsonl
 The Centre for International Economics		professional-services-05.jsonl
 Lateral Economics		professional-services-05.jsonl
@@ -1473,14 +1381,12 @@ Marque Lawyers	https://marquelawyers.com.au/work-with-us	professional-services-0
 Gilchrist Connell	https://www.gclegal.com.au/careers	professional-services-07.jsonl
 Stanmore Resources	https://careers.stanmore.au/	resources-engineering-01.jsonl
 Australian Gas Networks		resources-engineering-03.jsonl
-ATCO Australia		resources-engineering-03.jsonl
 CleanCo Queensland		resources-engineering-03.jsonl
 Iberdrola Australia		resources-engineering-03.jsonl
 Neoen Australia		resources-engineering-03.jsonl
 Squadron Energy		resources-engineering-03.jsonl
 Pacific Hydro		resources-engineering-03.jsonl
 Lightsource bp Australia		resources-engineering-03.jsonl
-Richard Crookes Constructions		resources-engineering-04.jsonl
 Grocon		resources-engineering-04.jsonl
 SRG Global		resources-engineering-04.jsonl
 Primero Group		resources-engineering-05.jsonl
@@ -1490,26 +1396,23 @@ Hanwha Defense Australia		resources-engineering-06.jsonl
 Northrop Grumman Australia		resources-engineering-06.jsonl
 Leonardo Australia		resources-engineering-06.jsonl
 Airbus Australia Pacific		resources-engineering-06.jsonl
-Babcock Australasia		resources-engineering-06.jsonl
 EOS Defence Systems		resources-engineering-06.jsonl
 Ultra Electronics Australia		resources-engineering-06.jsonl
 Boral		resources-engineering-06.jsonl
 CSR		resources-engineering-06.jsonl
 Brickworks		resources-engineering-06.jsonl
 James Hardie		resources-engineering-06.jsonl
-Nyrstar Australia		resources-engineering-06.jsonl
 Sims Limited		resources-engineering-06.jsonl
 Liontown Resources		resources-engineering-07.jsonl
 Albemarle Australia		resources-engineering-07.jsonl
 Paladin Energy		resources-engineering-07.jsonl
-Roy Hill		resources-engineering-07.jsonl
-Hancock Prospecting		resources-engineering-07.jsonl
 Perseus Mining		resources-engineering-07.jsonl
-Westgold Resources		resources-engineering-07.jsonl
 Austin Engineering		resources-engineering-07.jsonl
 Mining One		resources-engineering-07.jsonl
 WesTrac		resources-engineering-08.jsonl
 Hitachi Construction Machinery Australia		resources-engineering-08.jsonl
+Epiroc Australia		resources-engineering-08.jsonl
+Sandvik Australia		resources-engineering-08.jsonl
 Weir Minerals Australia		resources-engineering-08.jsonl
 FLSmidth Australia		resources-engineering-08.jsonl
 Metso Australia		resources-engineering-08.jsonl
@@ -1518,7 +1421,6 @@ Schlumberger Australia		resources-engineering-08.jsonl
 Halliburton Australia		resources-engineering-08.jsonl
 Baker Hughes Australia		resources-engineering-08.jsonl
 Technip Energies Australia		resources-engineering-08.jsonl
-Entura		resources-engineering-09.jsonl
 Amcor		resources-engineering-09.jsonl
 Visy		resources-engineering-09.jsonl
 GE Vernova Australia		resources-engineering-09.jsonl
@@ -1663,7 +1565,6 @@ Sherwin-Williams Australia		resources-more-07.jsonl
 Nordex Australia		resources-more-07.jsonl
 Siemens Gamesa Australia		resources-more-07.jsonl
 Danfoss Australia		resources-more-07.jsonl
-Johnson Controls Australia		resources-more-08.jsonl
 Carrier Australia		resources-more-08.jsonl
 Daikin Australia		resources-more-08.jsonl
 Techtronic Industries Australia		resources-more-08.jsonl
@@ -1804,7 +1705,6 @@ Firmus Technologies		tech-more-07.jsonl
 Hitachi Vantara Australia		tech-more-07.jsonl
 Trimble Australia		tech-more-07.jsonl
 Garmin Australia		tech-more-07.jsonl
-Ricoh Australia		tech-more-07.jsonl
 Xerox Australia		tech-more-07.jsonl
 Epson Australia		tech-more-07.jsonl
 Konica Minolta Australia		tech-more-07.jsonl
@@ -1863,7 +1763,6 @@ Aussie Broadband		tech-telecom-04.jsonl
 DXC Technology Australia		tech-telecom-04.jsonl
 CSG		tech-telecom-04.jsonl
 NTT DATA Australia		tech-telecom-04.jsonl
-Optiver		tech-telecom-05.jsonl
 Akuna Capital Australia		tech-telecom-05.jsonl
 Halfbrick Studios		tech-telecom-05.jsonl
 Mighty Kingdom		tech-telecom-05.jsonl
@@ -2125,10 +2024,8 @@ Standards Australia		utilities-06.jsonl
 ARRB Group		utilities-06.jsonl
 National Transport Commission		utilities-07.jsonl
 Gold Coast Airport		utilities-07.jsonl
-Hobart Airport		utilities-07.jsonl
 Cairns Airport		utilities-07.jsonl
 Black & Veatch Australia		utilities-07.jsonl
 Burns & McDonnell Australia		utilities-07.jsonl
-HDR Australia		utilities-07.jsonl
 Vast Solar		utilities-07.jsonl
 RayGen Resources		utilities-07.jsonl

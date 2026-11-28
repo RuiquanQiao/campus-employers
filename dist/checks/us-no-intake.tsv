@@ -1,13 +1,9 @@
 employer	page	file
-Evercore		banking-01.jsonl
 Barclays US		banking-01.jsonl
-Huntington Bank		banking-02.jsonl
-Webster Bank		banking-02.jsonl
-First Horizon		banking-02.jsonl
-East West Bank		banking-02.jsonl
+Webster Bank	https://www.websterbank.com/webster-bank-careers/	banking-02.jsonl
+East West Bank	https://careers-eastwestbank.icims.com/jobs/intro	banking-02.jsonl
 Prosperity Bank		banking-03.jsonl
 Commerce Bancshares		banking-03.jsonl
-UMB Financial		banking-03.jsonl
 First Interstate BancSystem		banking-03.jsonl
 Bank OZK		banking-03.jsonl
 Seacoast Bank		banking-03.jsonl
@@ -15,7 +11,6 @@ BankFirst Capital		banking-03.jsonl
 First Bancorp		banking-03.jsonl
 Cathay Bank		banking-03.jsonl
 Hope Bank		banking-04.jsonl
-First Hawaiian Bank		banking-04.jsonl
 Banner Bank		banking-04.jsonl
 Washington Federal		banking-04.jsonl
 Santander Consumer USA		banking-04.jsonl
@@ -25,7 +20,6 @@ Synchrony		banking-04.jsonl
 Bread Financial		banking-04.jsonl
 Navient		banking-04.jsonl
 SLM Corporation		banking-04.jsonl
-OneMain Financial		banking-04.jsonl
 Cowen		banking-04.jsonl
 B. Riley Securities		banking-04.jsonl
 Canaccord Genuity US		banking-04.jsonl
@@ -33,7 +27,6 @@ Needham & Company		banking-04.jsonl
 Greenhill		banking-04.jsonl
 Qatalyst Partners		banking-04.jsonl
 Craig-Hallum		banking-05.jsonl
-Northland Securities		banking-05.jsonl
 Ladenburg Thalmann		banking-05.jsonl
 Hovde Group		banking-05.jsonl
 Live Oak Bank		banking-05.jsonl
@@ -66,7 +59,6 @@ Citi Private Bank		banking-06.jsonl
 Glenmede		banking-07.jsonl
 Fiduciary Trust International		banking-07.jsonl
 Edward Jones		banking-07.jsonl
-State Employees Credit Union		banking-07.jsonl
 BECU		banking-07.jsonl
 SchoolsFirst Federal Credit Union		banking-07.jsonl
 Alliant Credit Union		banking-07.jsonl
@@ -80,8 +72,7 @@ Federal Home Loan Bank of Pittsburgh		banking-08.jsonl
 Federal Home Loan Bank of Indianapolis		banking-08.jsonl
 Federal Home Loan Bank of Topeka		banking-08.jsonl
 Cross River Bank		banking-08.jsonl
-Pathward		banking-08.jsonl
-Green Dot Bank		banking-08.jsonl
+Pathward	https://job-boards.greenhouse.io/pathward	banking-08.jsonl
 Sutton Bank		banking-08.jsonl
 Lead Bank		banking-08.jsonl
 Evolve Bank & Trust		banking-08.jsonl
@@ -89,15 +80,11 @@ Blue Ridge Bank		banking-08.jsonl
 Celtic Bank		banking-08.jsonl
 Stride Bank		banking-08.jsonl
 Arvest Bank		banking-08.jsonl
-Hilltop Holdings		banking-08.jsonl
 International Bancshares	https://www.ibc.com/careers	banking-08.jsonl
-BancFirst		banking-08.jsonl
-Tompkins Financial		banking-08.jsonl
+Tompkins Financial	https://www.tompkinsfinancial.com/corporate-social-responsibility/human-resource-initiatives	banking-08.jsonl
 WesBanco		banking-08.jsonl
 Park National		banking-08.jsonl
-Mercantile Bank		banking-09.jsonl
 Byline Bank		banking-09.jsonl
-Origin Bank		banking-09.jsonl
 Home Bank		banking-09.jsonl
 Eagle Bancorp		banking-09.jsonl
 Burke & Herbert Bank		banking-09.jsonl
@@ -112,7 +99,6 @@ Univest		banking-10.jsonl
 Zachry Group		built-01.jsonl
 Okland Construction		built-02.jsonl
 Lendlease Americas		built-02.jsonl
-Structure Tone		built-02.jsonl
 Tutor Perini		built-02.jsonl
 Sterling Infrastructure		built-02.jsonl
 EMCOR Group		built-02.jsonl
@@ -120,27 +106,21 @@ Comfort Systems USA		built-02.jsonl
 MasTec		built-02.jsonl
 Dycom Industries		built-02.jsonl
 Orion Group Holdings		built-02.jsonl
-Construction Partners		built-02.jsonl
-Arcosa		built-02.jsonl
-IES Holdings		built-02.jsonl
-Argan		built-02.jsonl
-Matrix Service Company		built-02.jsonl
+Arcosa	https://www.arcosa.com/jobs/	built-02.jsonl
+IES Holdings	https://www.ies-co.com/Careers.html	built-02.jsonl
+Matrix Service Company	https://matrixservicecompany.com/careers/	built-02.jsonl
 Haskell		built-02.jsonl
-Ryan Companies		built-02.jsonl
 Sellen Construction		built-03.jsonl
 Shawmut Design and Construction		built-03.jsonl
-Consigli Construction		built-03.jsonl
 Power Construction		built-03.jsonl
 Hathaway Dinwiddie		built-04.jsonl
 Plaza Construction		built-04.jsonl
-KBR		built-04.jsonl
+KBR	https://careers.kbr.com/us/en/intern-page	built-04.jsonl
 Sargent & Lundy		built-04.jsonl
 Burns & McDonnell		built-04.jsonl
 Pike Corporation		built-04.jsonl
 IEA Infrastructure and Energy Alternatives		built-04.jsonl
-Tetra Tech		built-04.jsonl
 Mott MacDonald (US)		built-04.jsonl
-STV		built-05.jsonl
 Kleinfelder		built-05.jsonl
 GEI Consultants		built-05.jsonl
 Smith Seckman Reid		built-05.jsonl
@@ -148,7 +128,7 @@ Buro Happold (US)		built-05.jsonl
 Affiliated Engineers		built-05.jsonl
 Hazen and Sawyer		built-06.jsonl
 NV5 Global		built-06.jsonl
-Willdan Group		built-06.jsonl
+Willdan Group	https://www.willdan.com/join-us.aspx	built-06.jsonl
 Wood Rodgers		built-06.jsonl
 Psomas		built-06.jsonl
 LMN Architects		built-06.jsonl
@@ -165,23 +145,20 @@ Torti Gallas and Partners		built-07.jsonl
 Clark Nexsen		built-07.jsonl
 Rockwell Group		built-07.jsonl
 IA Interior Architects		built-07.jsonl
-Jones Lang LaSalle		built-07.jsonl
 Avison Young (US)		built-08.jsonl
 Lee & Associates		built-08.jsonl
 Kidder Mathews		built-08.jsonl
 Stream Realty Partners		built-08.jsonl
-RE/MAX		built-08.jsonl
+RE/MAX	https://www.remax.com/careers	built-08.jsonl
 FirstService Residential		built-08.jsonl
 Coldwell Banker Realty		built-08.jsonl
-Douglas Elliman		built-08.jsonl
+Douglas Elliman	https://www.elliman.com/careers	built-08.jsonl
 Corcoran Group		built-08.jsonl
 Weichert Realtors		built-08.jsonl
 Realogy		built-08.jsonl
 Digital Realty		built-08.jsonl
-Public Storage		built-09.jsonl
+Public Storage	https://www.publicstoragejobs.com/	built-09.jsonl
 Ventas		built-09.jsonl
-Realty Income		built-09.jsonl
-BXP		built-09.jsonl
 Vornado Realty Trust		built-09.jsonl
 SL Green Realty		built-09.jsonl
 Kilroy Realty		built-09.jsonl
@@ -198,10 +175,8 @@ EastGroup Properties		built-09.jsonl
 W. P. Carey		built-10.jsonl
 VICI Properties		built-10.jsonl
 Gaming and Leisure Properties		built-10.jsonl
-Cousins Properties		built-10.jsonl
-Douglas Emmett		built-10.jsonl
-NNN REIT		built-10.jsonl
-Park Hotels & Resorts		built-10.jsonl
+Douglas Emmett	https://www.douglasemmett.com/careers	built-10.jsonl
+NNN REIT	https://www.nnnreit.com/careers/current-job-opportunities/	built-10.jsonl
 Apple Hospitality REIT		built-10.jsonl
 Silverstein Properties		built-10.jsonl
 The Durst Organization		built-10.jsonl
@@ -210,14 +185,13 @@ Irvine Company		built-11.jsonl
 Wood Partners		built-11.jsonl
 Mill Creek Residential		built-11.jsonl
 Clarion Partners		built-11.jsonl
-JBG SMITH		built-11.jsonl
+JBG SMITH	https://careers-jbgsmith.icims.com/jobs/search	built-11.jsonl
 Paramount Group		built-11.jsonl
 Terreno Realty		built-11.jsonl
-Healthcare Realty		built-11.jsonl
-Sabra Health Care REIT		built-11.jsonl
-NVR		built-11.jsonl
-Century Communities		built-12.jsonl
-LGI Homes		built-12.jsonl
+Healthcare Realty	https://www.healthcarerealty.com/careers	built-11.jsonl
+Sabra Health Care REIT	https://sabrahealth.com/about/careers/	built-11.jsonl
+Century Communities	https://www.centurycommunities.com/Careers/	built-12.jsonl
+LGI Homes	https://apply.workable.com/lgihomes/	built-12.jsonl
 Tri Pointe Homes		built-12.jsonl
 Green Brick Partners		built-12.jsonl
 Shea Homes		built-12.jsonl
@@ -225,7 +199,6 @@ Ashton Woods		built-12.jsonl
 Drees Homes		built-12.jsonl
 Cavco Industries		built-12.jsonl
 Skyline Champion		built-12.jsonl
-Brookfield Residential		built-12.jsonl
 Eagle Materials		built-12.jsonl
 Trex Company		built-12.jsonl
 Simpson Manufacturing		built-13.jsonl
@@ -239,10 +212,7 @@ Interface		built-13.jsonl
 Cornerstone Building Brands		built-13.jsonl
 Boise Cascade		built-13.jsonl
 CRH Americas		built-13.jsonl
-Holcim US		built-13.jsonl
 Summit Materials		built-13.jsonl
-Johnson Controls		built-13.jsonl
-Otis Worldwide		built-14.jsonl
 PPG Industries		built-14.jsonl
 RPM International		built-14.jsonl
 Watsco		built-14.jsonl
@@ -267,14 +237,12 @@ Cologix		built-15.jsonl
 Element Critical		built-15.jsonl
 Procter & Gamble		consumer-01.jsonl
 Celsius Holdings		consumer-01.jsonl
-Ocean Spray Cranberries		consumer-01.jsonl
 Mars, Incorporated		consumer-01.jsonl
 L'Oreal USA		consumer-01.jsonl
 Coty		consumer-01.jsonl
 Sally Beauty Holdings		consumer-01.jsonl
 Lululemon		consumer-02.jsonl
 VF Corporation		consumer-02.jsonl
-Tapestry		consumer-02.jsonl
 Skechers USA		consumer-02.jsonl
 Deckers Brands		consumer-02.jsonl
 Foot Locker		consumer-02.jsonl
@@ -297,7 +265,6 @@ TJX Companies		consumer-04.jsonl
 Dollar Tree		consumer-04.jsonl
 Ollie's Bargain Outlet		consumer-04.jsonl
 IKEA US		consumer-04.jsonl
-La-Z-Boy		consumer-04.jsonl
 Sleep Number		consumer-04.jsonl
 Spectrum Brands		consumer-04.jsonl
 Energizer Holdings		consumer-04.jsonl
@@ -317,7 +284,6 @@ Wyndham Hotels & Resorts		consumer-05.jsonl
 InterContinental Hotels Group Americas		consumer-05.jsonl
 Accor North America		consumer-05.jsonl
 Post Holdings		consumer-06.jsonl
-Saputo USA		consumer-06.jsonl
 Leprino Foods		consumer-06.jsonl
 Dole Food Company		consumer-06.jsonl
 Fresh Del Monte Produce		consumer-06.jsonl
@@ -342,7 +308,6 @@ Peloton Interactive		consumer-09.jsonl
 Planet Fitness		consumer-09.jsonl
 Life Time Group		consumer-09.jsonl
 Signet Jewelers		consumer-09.jsonl
-Movado Group		consumer-09.jsonl
 Steve Madden		consumer-09.jsonl
 Caleres		consumer-09.jsonl
 Designer Brands		consumer-09.jsonl
@@ -388,18 +353,14 @@ Norwegian Cruise Line Holdings		consumer-12.jsonl
 Stitch Fix		consumer-12.jsonl
 Rent the Runway		consumer-12.jsonl
 ThredUp		consumer-12.jsonl
-RealReal		consumer-12.jsonl
 Temu Whaleco		consumer-12.jsonl
 B&H Photo Video		consumer-12.jsonl
 Central Garden & Pet		consumer-13.jsonl
-Blue Buffalo		consumer-13.jsonl
 Sun-Maid Growers		consumer-13.jsonl
-ConocoPhillips		energy-01.jsonl
 BP America		energy-01.jsonl
 SLB		energy-01.jsonl
 APA Corporation		energy-01.jsonl
 Ovintiv		energy-01.jsonl
-Permian Resources		energy-01.jsonl
 Chord Energy		energy-01.jsonl
 Murphy Oil		energy-01.jsonl
 Antero Resources		energy-01.jsonl
@@ -424,11 +385,9 @@ Petrobras America		energy-03.jsonl
 Eni US Operating		energy-03.jsonl
 Vitol Inc		energy-03.jsonl
 Freepoint Commodities		energy-03.jsonl
-NOV		energy-03.jsonl
 Liberty Energy		energy-03.jsonl
 ProPetro Holding		energy-03.jsonl
 Nabors Industries		energy-03.jsonl
-Oceaneering International		energy-03.jsonl
 Oil States International		energy-03.jsonl
 Select Water Solutions		energy-03.jsonl
 RPC Inc		energy-03.jsonl
@@ -449,7 +408,6 @@ Plains All American Pipeline		energy-04.jsonl
 Kinetik Holdings		energy-04.jsonl
 Sunoco LP		energy-04.jsonl
 Venture Global		energy-04.jsonl
-NextDecade		energy-04.jsonl
 New Fortress Energy		energy-04.jsonl
 Excelerate Energy		energy-04.jsonl
 Antero Midstream		energy-04.jsonl
@@ -472,25 +430,20 @@ CMS Energy		energy-06.jsonl
 CenterPoint Energy		energy-06.jsonl
 Berkshire Hathaway Energy		energy-06.jsonl
 NV Energy		energy-06.jsonl
-Portland General Electric		energy-06.jsonl
 Avista		energy-06.jsonl
 Otter Tail Corporation		energy-07.jsonl
 ALLETE		energy-07.jsonl
 TXNM Energy		energy-07.jsonl
 Duquesne Light Company		energy-07.jsonl
-Vistra		energy-07.jsonl
 Talen Energy		energy-07.jsonl
 AES Corporation		energy-07.jsonl
 Atmos Energy		energy-07.jsonl
 New Jersey Resources		energy-07.jsonl
 Northwest Natural		energy-07.jsonl
 Chesapeake Utilities		energy-07.jsonl
-Washington Gas		energy-07.jsonl
 Piedmont Natural Gas		energy-07.jsonl
 Central Hudson Gas & Electric		energy-08.jsonl
-American Transmission Company		energy-08.jsonl
 Green Mountain Power		energy-08.jsonl
-Orange and Rockland Utilities		energy-08.jsonl
 Pedernales Electric Cooperative		energy-08.jsonl
 Chugach Electric Association		energy-08.jsonl
 Burbank Water and Power		energy-09.jsonl
@@ -507,16 +460,13 @@ Essential Utilities		energy-10.jsonl
 Middlesex Water		energy-10.jsonl
 Artesian Resources		energy-10.jsonl
 Hampton Roads Sanitation District		energy-11.jsonl
-San Antonio Water System		energy-11.jsonl
 Invenergy		energy-11.jsonl
 Orsted US		energy-11.jsonl
 Fluence Energy		energy-11.jsonl
-First Solar		energy-11.jsonl
 Sunrun		energy-11.jsonl
 Array Technologies		energy-11.jsonl
 Shoals Technologies Group		energy-11.jsonl
 Plug Power		energy-11.jsonl
-Bloom Energy		energy-11.jsonl
 RWE Clean Energy		energy-11.jsonl
 Enel North America		energy-11.jsonl
 Recurrent Energy		energy-12.jsonl
@@ -539,7 +489,6 @@ Vestas Americas		energy-12.jsonl
 TPI Composites		energy-12.jsonl
 Sage Geosystems		energy-13.jsonl
 TerraPower		energy-13.jsonl
-Centrus Energy		energy-13.jsonl
 Lightbridge Corporation		energy-13.jsonl
 Urenco USA		energy-13.jsonl
 Qnity Electronics		energy-13.jsonl
@@ -550,7 +499,6 @@ Stepan Company		energy-14.jsonl
 Innospec		energy-14.jsonl
 NewMarket Corporation		energy-14.jsonl
 Kronos Worldwide		energy-14.jsonl
-CF Industries		energy-14.jsonl
 Orion Engineered Carbons		energy-15.jsonl
 Brenntag North America		energy-15.jsonl
 Nouryon USA		energy-15.jsonl
@@ -562,7 +510,6 @@ Ascend Performance Materials		energy-15.jsonl
 LSB Industries		energy-15.jsonl
 Intrepid Potash		energy-16.jsonl
 Compass Minerals		energy-16.jsonl
-Alcoa		energy-16.jsonl
 Newmont		energy-16.jsonl
 Silgan Holdings		energy-16.jsonl
 Clearwater Paper		energy-16.jsonl
@@ -582,7 +529,6 @@ Century Aluminum		energy-18.jsonl
 Gerdau Long Steel North America		energy-18.jsonl
 Metallus		energy-18.jsonl
 Radius Recycling		energy-18.jsonl
-Materion		energy-18.jsonl
 Haynes International		energy-18.jsonl
 Quikrete		energy-18.jsonl
 Enbridge US		energy-18.jsonl
@@ -602,7 +548,6 @@ Ariel Investments		finance-02.jsonl
 MacKay Shields		finance-02.jsonl
 Allspring Global Investments		finance-02.jsonl
 John Hancock		finance-02.jsonl
-Cambridge Associates		finance-02.jsonl
 NEPC		finance-02.jsonl
 Envestnet		finance-02.jsonl
 AssetMark		finance-03.jsonl
@@ -622,7 +567,6 @@ Coatue Management		finance-05.jsonl
 Third Point		finance-05.jsonl
 Pershing Square Capital Management		finance-05.jsonl
 Paulson & Co.		finance-05.jsonl
-ExodusPoint Capital Management		finance-05.jsonl
 Davidson Kempner Capital Management		finance-05.jsonl
 Lone Pine Capital		finance-05.jsonl
 Cerberus Capital Management		finance-05.jsonl
@@ -641,7 +585,6 @@ Crescent Capital Group		finance-06.jsonl
 Comvest Partners		finance-06.jsonl
 Carlyle Group		finance-06.jsonl
 Warburg Pincus		finance-06.jsonl
-Bain Capital		finance-06.jsonl
 Thoma Bravo		finance-06.jsonl
 Silver Lake		finance-06.jsonl
 Advent International		finance-07.jsonl
@@ -702,7 +645,6 @@ Guy Carpenter		finance-11.jsonl
 Brown & Brown		finance-11.jsonl
 Acrisure		finance-11.jsonl
 The Baldwin Group		finance-11.jsonl
-DTCC		finance-11.jsonl
 Options Clearing Corporation		finance-11.jsonl
 MarketAxess		finance-11.jsonl
 Broadridge Financial Solutions		finance-11.jsonl
@@ -771,7 +713,6 @@ Administrative Office of the U.S. Courts		government-05.jsonl
 U.S. Sentencing Commission		government-05.jsonl
 U.S. Institute of Peace		government-05.jsonl
 Bureau of Land and Natural Resource Revenue (ONRR)		government-05.jsonl
-Federal Reserve Bank of Minneapolis		government-06.jsonl
 State of California		government-06.jsonl
 State of Texas		government-06.jsonl
 State of Florida		government-06.jsonl
@@ -790,7 +731,6 @@ City of Los Angeles		government-07.jsonl
 City of Dallas		government-07.jsonl
 City and County of San Francisco		government-07.jsonl
 District of Columbia Government		government-07.jsonl
-City and County of Denver		government-07.jsonl
 Metropolitan Government of Nashville and Davidson County		government-07.jsonl
 City of Baltimore		government-07.jsonl
 City of Las Vegas		government-08.jsonl
@@ -798,7 +738,6 @@ City of Detroit		government-08.jsonl
 City of Cambridge		government-08.jsonl
 Cook County Government		government-08.jsonl
 Montgomery County Government (Maryland)		government-08.jsonl
-Southeastern Pennsylvania Transportation Authority		government-08.jsonl
 Denver Regional Transportation District		government-08.jsonl
 TriMet		government-08.jsonl
 San Diego Metropolitan Transit System		government-08.jsonl
@@ -806,16 +745,11 @@ Virginia Port Authority		government-08.jsonl
 Broadcom		hardware-01.jsonl
 Samsung Austin Semiconductor		hardware-01.jsonl
 Dell Technologies		hardware-02.jsonl
-Zebra Technologies		hardware-02.jsonl
 Amkor Technology		hardware-02.jsonl
 Lattice Semiconductor		hardware-02.jsonl
-Ambarella		hardware-02.jsonl
-SiTime		hardware-02.jsonl
 Synaptics		hardware-02.jsonl
 Power Integrations		hardware-02.jsonl
 Allegro MicroSystems		hardware-02.jsonl
-Vishay Intertechnology		hardware-02.jsonl
-FormFactor		hardware-03.jsonl
 Ultra Clean Holdings		hardware-03.jsonl
 Photronics		hardware-03.jsonl
 Navitas Semiconductor		hardware-03.jsonl
@@ -830,7 +764,6 @@ STMicroelectronics Americas		hardware-03.jsonl
 SiFive		hardware-03.jsonl
 Groq		hardware-04.jsonl
 SambaNova Systems		hardware-04.jsonl
-Etched		hardware-04.jsonl
 d-Matrix		hardware-04.jsonl
 Lightmatter		hardware-04.jsonl
 Mythic		hardware-04.jsonl
@@ -840,23 +773,17 @@ Achronix Semiconductor		hardware-04.jsonl
 Arteris		hardware-04.jsonl
 Movellus		hardware-04.jsonl
 Atomera		hardware-04.jsonl
-Polar Semiconductor		hardware-04.jsonl
 GlobalWafers America		hardware-04.jsonl
 ACM Research		hardware-04.jsonl
 Amtech Systems		hardware-04.jsonl
 Plasma-Therm		hardware-04.jsonl
 Mouser Electronics		hardware-05.jsonl
-TTI, Inc.		hardware-05.jsonl
-Teledyne LeCroy		hardware-05.jsonl
 Lake Shore Cryotronics		hardware-05.jsonl
-Flex		hardware-05.jsonl
 Benchmark Electronics		hardware-05.jsonl
-Plexus		hardware-05.jsonl
 Kimball Electronics		hardware-05.jsonl
 Nortech Systems		hardware-05.jsonl
 OSI Systems		hardware-05.jsonl
 Vicor		hardware-05.jsonl
-Methode Electronics		hardware-05.jsonl
 Bel Fuse		hardware-05.jsonl
 Universal Display		hardware-06.jsonl
 IPG Photonics		hardware-06.jsonl
@@ -875,7 +802,6 @@ VAST Data		hardware-07.jsonl
 Kingston Technology		hardware-07.jsonl
 Vertiv		hardware-07.jsonl
 Logitech		hardware-07.jsonl
-Sonos		hardware-07.jsonl
 GoPro		hardware-07.jsonl
 Wyze Labs		hardware-07.jsonl
 Kopin		hardware-07.jsonl
@@ -889,13 +815,11 @@ Luminar Technologies		hardware-08.jsonl
 Aeva Technologies		hardware-08.jsonl
 IonQ		hardware-08.jsonl
 PsiQuantum		hardware-08.jsonl
-Infleqtion		hardware-08.jsonl
 Atom Computing		hardware-08.jsonl
 Agility Robotics		hardware-08.jsonl
 Saronic Technologies		hardware-08.jsonl
 Epirus		hardware-08.jsonl
 Zipline		hardware-08.jsonl
-Gecko Robotics		hardware-08.jsonl
 Path Robotics		hardware-09.jsonl
 Aurora Innovation		hardware-09.jsonl
 Carbon Robotics	https://carbonrobotics.com/careers	hardware-09.jsonl
@@ -909,7 +833,6 @@ Bright Machines	https://jobs.lever.co/brightmachines	hardware-09.jsonl
 Hadrian	https://www.hadrian.co/careers	hardware-09.jsonl
 RightHand Robotics	https://righthandrobotics.com/careers	hardware-09.jsonl
 Palladyne AI	https://www.palladyneai.com/careers/	hardware-09.jsonl
-Florida Blue	https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue	healthcare-01.jsonl
 Regence	https://www.regence.com/careers	healthcare-01.jsonl
 Blue Cross and Blue Shield of Kansas	https://www.bcbsks.com/careers	healthcare-02.jsonl
 EmblemHealth		healthcare-02.jsonl
@@ -919,20 +842,16 @@ NeueHealth		healthcare-02.jsonl
 Devoted Health		healthcare-02.jsonl
 Point32Health		healthcare-02.jsonl
 Harvard Pilgrim Health Care		healthcare-02.jsonl
-Henry Schein		healthcare-03.jsonl
 Owens & Minor		healthcare-03.jsonl
 Premier Inc		healthcare-03.jsonl
 Vizient		healthcare-03.jsonl
 Omnicell		healthcare-03.jsonl
 Penn Medicine		healthcare-03.jsonl
-Community Health Systems		healthcare-04.jsonl
 Prime Healthcare		healthcare-04.jsonl
 Ardent Health		healthcare-04.jsonl
 ScionHealth		healthcare-04.jsonl
 Acadia Healthcare		healthcare-04.jsonl
-Surgery Partners		healthcare-04.jsonl
 US Renal Care		healthcare-04.jsonl
-Essentia Health		healthcare-04.jsonl
 M Health Fairview		healthcare-04.jsonl
 Children's Wisconsin		healthcare-05.jsonl
 Henry Ford Health		healthcare-05.jsonl
@@ -942,7 +861,6 @@ UNC Health		healthcare-06.jsonl
 Temple Health		healthcare-07.jsonl
 Albany Medical Center		healthcare-07.jsonl
 Tufts Medicine		healthcare-07.jsonl
-Care New England		healthcare-08.jsonl
 University of Vermont Health Network		healthcare-08.jsonl
 El Camino Health		healthcare-08.jsonl
 MultiCare Health System		healthcare-08.jsonl
@@ -969,7 +887,6 @@ Evolent Health		healthcare-11.jsonl
 Progyny		healthcare-11.jsonl
 Phreesia		healthcare-11.jsonl
 Health Catalyst		healthcare-11.jsonl
-Accolade		healthcare-11.jsonl
 Sonic Healthcare USA		healthcare-11.jsonl
 OPKO Health		healthcare-11.jsonl
 Radiology Partners		healthcare-11.jsonl
@@ -979,20 +896,17 @@ VITAS Healthcare		healthcare-11.jsonl
 Ensign Group		healthcare-11.jsonl
 AdaptHealth		healthcare-12.jsonl
 SOSi		industrial-02.jsonl
-Radiance Technologies		industrial-02.jsonl
 Sentar		industrial-02.jsonl
 Kratos Defense & Security Solutions		industrial-02.jsonl
 Kubota North America		industrial-03.jsonl
 PACCAR		industrial-03.jsonl
 Union Tank Car Company		industrial-04.jsonl
 MSC Industrial Supply		industrial-04.jsonl
-Generac		industrial-04.jsonl
 AAON		industrial-04.jsonl
 Goodman Manufacturing		industrial-04.jsonl
 Franklin Electric		industrial-05.jsonl
 ESAB	https://esabcorporation.com/careers	industrial-05.jsonl
 EnPro	https://careers.enpro.com/homepage	industrial-05.jsonl
-Federal Signal	https://www.federalsignal.com	industrial-05.jsonl
 Blue Bird Corporation	https://www.blue-bird.com/careers	industrial-05.jsonl
 Middleby Corporation	https://www.middleby.com/careers/	industrial-05.jsonl
 Astec Industries	https://astecindustries.com/about/careers/	industrial-06.jsonl
@@ -1013,12 +927,9 @@ True Anomaly	https://www.trueanomaly.space/careers	industrial-07.jsonl
 Muon Space	https://www.muonspace.com/careers/	industrial-07.jsonl
 Reliable Robotics	https://reliable.co/careers	industrial-07.jsonl
 Merlin Labs	https://merlinlabs.com/careers/	industrial-07.jsonl
-Howmet Aerospace	https://www.howmet.com/joinus/	industrial-07.jsonl
-Arconic	https://www.arconic.com/joinus	industrial-07.jsonl
 HEICO	https://heico.com/	industrial-07.jsonl
 Ducommun	https://www.ducommun.com/careers/CareersHome.aspx	industrial-08.jsonl
 Astronics	https://www.astronics.com/careers	industrial-08.jsonl
-StandardAero	https://standardaero.com/	industrial-08.jsonl
 Loar Holdings	https://loargroup.com/	industrial-08.jsonl
 Allegheny Technologies (ATI)	https://careers.atimaterials.com/us/en	industrial-08.jsonl
 Kaman	https://kaman.com/contact/careers/	industrial-08.jsonl
@@ -1091,7 +1002,6 @@ Calm	https://job-boards.greenhouse.io/calm	internet-03.jsonl
 Headspace		internet-03.jsonl
 Noom	https://www.noom.com/careers/	internet-03.jsonl
 Cameo	https://careers.cameo.com/	internet-03.jsonl
-Peloton	https://careers.onepeloton.com/	internet-04.jsonl
 Handshake	https://joinhandshake.com/careers/	internet-04.jsonl
 Eventbrite		internet-04.jsonl
 Meetup		internet-04.jsonl
@@ -1127,7 +1037,6 @@ CoreWeave		internet-06.jsonl
 Weights & Biases		internet-06.jsonl
 Pinecone		internet-07.jsonl
 Baseten		internet-07.jsonl
-SambaNova		internet-07.jsonl
 Hebbia		internet-07.jsonl
 Rogo		internet-07.jsonl
 Ambience Healthcare		internet-07.jsonl
@@ -1142,7 +1051,6 @@ Thinking Machines Lab		internet-07.jsonl
 Surge AI		internet-07.jsonl
 Contextual AI		internet-08.jsonl
 Insitro		internet-08.jsonl
-Saronic		internet-08.jsonl
 Take-Two Interactive		internet-08.jsonl
 Valve		internet-08.jsonl
 Bungie		internet-08.jsonl
@@ -1210,7 +1118,6 @@ Editas Medicine		lifesci-05.jsonl
 Agios Pharmaceuticals		lifesci-05.jsonl
 Apellis Pharmaceuticals		lifesci-05.jsonl
 Revolution Medicines		lifesci-05.jsonl
-Seagen		lifesci-06.jsonl
 Genmab US		lifesci-06.jsonl
 argenx US		lifesci-06.jsonl
 BeOne Medicines US		lifesci-06.jsonl
@@ -1286,7 +1193,6 @@ Shockwave Medical		lifesci-10.jsonl
 Outset Medical		lifesci-10.jsonl
 Pulmonx		lifesci-10.jsonl
 Paragon 28		lifesci-10.jsonl
-Horizon Therapeutics		lifesci-10.jsonl
 Mirum Pharmaceuticals		lifesci-10.jsonl
 Generate Biomedicines		lifesci-10.jsonl
 Scholar Rock		lifesci-10.jsonl
@@ -1308,20 +1214,15 @@ Liberty Media		media-02.jsonl
 Lucasfilm		media-02.jsonl
 CBS News		media-02.jsonl
 Tubi		media-02.jsonl
-Live Nation Entertainment		media-03.jsonl
 Ticketmaster		media-03.jsonl
 Cumulus Media		media-03.jsonl
 Townsquare Media		media-03.jsonl
 Salem Media Group		media-03.jsonl
 Entravision		media-03.jsonl
-Hubbard Broadcasting		media-03.jsonl
-Nexstar Media Group		media-03.jsonl
-Sinclair		media-03.jsonl
 AMC Entertainment		media-04.jsonl
 Regal Cinemas		media-04.jsonl
 Blumhouse Productions		media-04.jsonl
 Universal Pictures		media-04.jsonl
-United Parks & Resorts		media-04.jsonl
 TKO Group Holdings		media-04.jsonl
 UFC		media-04.jsonl
 William Morris Endeavor		media-04.jsonl
@@ -1339,8 +1240,6 @@ Axel Springer US		media-05.jsonl
 Condé Nast		media-05.jsonl
 Advance Publications		media-05.jsonl
 News Corp		media-05.jsonl
-Chicago Tribune		media-05.jsonl
-GBH		media-06.jsonl
 WNET		media-06.jsonl
 PRX		media-06.jsonl
 CalMatters	https://calmatters.org/about/internships/	media-06.jsonl
@@ -1382,7 +1281,6 @@ Lamar Advertising		media-10.jsonl
 Cardlytics		media-10.jsonl
 Weber Shandwick		media-10.jsonl
 FleishmanHillard		media-10.jsonl
-Golin		media-10.jsonl
 ICR		media-10.jsonl
 Padilla		media-10.jsonl
 Circana		media-10.jsonl
@@ -1442,7 +1340,6 @@ Democracy Prep Public Schools		nonprofit-05.jsonl
 Los Angeles Unified School District		nonprofit-05.jsonl
 Chicago Public Schools		nonprofit-05.jsonl
 Miami-Dade County Public Schools		nonprofit-05.jsonl
-Houston Independent School District		nonprofit-05.jsonl
 Clark County School District		nonprofit-05.jsonl
 Broward County Public Schools		nonprofit-06.jsonl
 Austin Independent School District		nonprofit-06.jsonl
@@ -1464,15 +1361,11 @@ Roland Berger US		pro-01.jsonl
 Simon-Kucher		pro-01.jsonl
 Dalberg Advisors		pro-01.jsonl
 FSG		pro-01.jsonl
-Huron Consulting Group		pro-01.jsonl
 Chartis Group	https://www.chartis.com/about/careers	pro-03.jsonl
 Hackett Group	https://www.thehackettgroup.com/careers/	pro-03.jsonl
-Waller Lansden Dortch & Davis		pro-07.jsonl
-Lane Powell		pro-07.jsonl
 Buchalter		pro-07.jsonl
 Procopio		pro-07.jsonl
 Mercer US		pro-08.jsonl
-Aon US		pro-08.jsonl
 Buck		pro-08.jsonl
 Oliver Wyman Actuarial		pro-08.jsonl
 Ennead Architects		pro-09.jsonl
@@ -1519,7 +1412,6 @@ University of Illinois Urbana-Champaign		research-05.jsonl
 Purdue University		research-05.jsonl
 Indiana University Bloomington		research-05.jsonl
 The Ohio State University		research-05.jsonl
-University of Maryland, College Park		research-05.jsonl
 University of Virginia		research-05.jsonl
 Georgia Institute of Technology		research-05.jsonl
 Texas A&M University		research-05.jsonl
@@ -1620,7 +1512,6 @@ Alation		software-04.jsonl
 Couchbase		software-04.jsonl
 Redis		software-04.jsonl
 Neo4j US		software-04.jsonl
-Aspen Technology		software-05.jsonl
 Applied Systems		software-05.jsonl
 Vertafore		software-05.jsonl
 Majesco		software-05.jsonl
@@ -1628,7 +1519,6 @@ Insurity		software-05.jsonl
 CCC Intelligent Solutions		software-05.jsonl
 Coupa		software-05.jsonl
 Anaplan		software-05.jsonl
-Vertex Inc		software-05.jsonl
 Zuora		software-05.jsonl
 Acumatica		software-05.jsonl
 Paycor		software-06.jsonl
@@ -1672,7 +1562,6 @@ Axon		software-09.jsonl
 RealPage		software-09.jsonl
 AppFolio		software-09.jsonl
 MRI Software		software-09.jsonl
-Manhattan Associates		software-09.jsonl
 Descartes US		software-09.jsonl
 Amdocs US		software-09.jsonl
 Synchronoss		software-09.jsonl
@@ -1684,7 +1573,6 @@ Virtusa		software-09.jsonl
 EPAM Systems		software-09.jsonl
 Endava US		software-10.jsonl
 DXC Technology		software-10.jsonl
-Unisys		software-10.jsonl
 Sopra Steria US		software-10.jsonl
 CDW		software-10.jsonl
 ePlus		software-10.jsonl
@@ -1710,7 +1598,6 @@ Xos		transport-02.jsonl
 Workhorse Group		transport-02.jsonl
 DENSO International America		transport-02.jsonl
 Visteon		transport-02.jsonl
-Adient		transport-02.jsonl
 Garrett Motion		transport-02.jsonl
 Cooper-Standard		transport-02.jsonl
 Stoneridge		transport-02.jsonl
@@ -1718,7 +1605,6 @@ Superior Industries		transport-02.jsonl
 Commercial Vehicle Group		transport-02.jsonl
 Standard Motor Products		transport-02.jsonl
 Dorman Products		transport-02.jsonl
-Valeo North America		transport-02.jsonl
 Hitachi Astemo Americas		transport-03.jsonl
 OPENLANE		transport-03.jsonl
 ACV Auctions		transport-03.jsonl
@@ -1741,7 +1627,6 @@ Brightline		transport-05.jsonl
 Genesee & Wyoming		transport-05.jsonl
 FirstGroup America		transport-06.jsonl
 FlixBus USA		transport-06.jsonl
-Virginia Department of Transportation		transport-06.jsonl
 RXO		transport-07.jsonl
 Old Dominion Freight Line		transport-07.jsonl
 Landstar System		transport-07.jsonl
@@ -1762,7 +1647,5 @@ Mallory Alexander International Logistics		transport-08.jsonl
 Radiant Logistics		transport-08.jsonl
 Veho		transport-09.jsonl
 TOTE Maritime		transport-09.jsonl
-U-Haul		transport-09.jsonl
 Element Fleet Management (US)		transport-09.jsonl
-Wheels		transport-09.jsonl
 Getaround		transport-09.jsonl

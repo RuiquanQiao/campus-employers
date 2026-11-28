@@ -65,18 +65,25 @@ def recheck(cc: str, size: int, listed: bool) -> int:
     return 0
 
 
-def latest(cc: str) -> dict[str, dict]:
-    """Each employer's latest line: the first pass (<cc>-NN), then the second (<cc>-rNN) over it."""
+def latest(cc: str, skip: str = "") -> dict[str, dict]:
+    """Each employer's latest line: the first pass (<cc>-NN), then the second (<cc>-ats, <cc>-rNN) over it."""
     results: dict[str, dict] = {}
     for f in sorted(OUT.glob(f"{cc}-*.out.jsonl")):
+        if f.name == skip:
+            continue
         for line in f.read_text(encoding="utf-8-sig").splitlines():
             try:
                 r = json.loads(line) if line.strip() else None
             except json.JSONDecodeError:
                 r = None
-            if r:
+            if r and keep(results.get(r.get("name", "")), r):
                 results[r.get("name", "")] = r
     return results
+
+
+def keep(old: dict | None, new: dict) -> bool:
+    """A later line replaces an earlier one, except that a confirmation stays until another confirmation."""
+    return old is None or old.get("status") != "confirmed" or new.get("status") == "confirmed"
 
 
 def apply(cc: str, dry: bool) -> int:
@@ -92,7 +99,8 @@ def apply(cc: str, dry: bool) -> int:
             except json.JSONDecodeError:
                 bad += 1
                 continue
-            results[r.get("name", "")] = r
+            if keep(results.get(r.get("name", "")), r):
+                results[r.get("name", "")] = r
     month = time.strftime("%Y-%m")
     stats = {"confirmed": 0, "notes": 0, "site": 0, "no_intake": 0, "unreachable": 0, "unmatched": 0}
     seen = set()
