@@ -335,6 +335,7 @@ Redcape Hotel Group		consumer-more-04.jsonl
 Solotel Group		consumer-more-04.jsonl
 Delaware North Australia		consumer-more-04.jsonl
 Entain Australia		consumer-more-04.jsonl
+Sportsbet		consumer-more-04.jsonl
 PointsBet		consumer-more-04.jsonl
 Victoria Racing Club		consumer-more-04.jsonl
 Mounties Group		consumer-more-04.jsonl
@@ -407,6 +408,7 @@ BIG4 Holiday Parks		consumer-more-08.jsonl
 University of Sydney		education-01.jsonl
 UNSW Sydney		education-01.jsonl
 Australian National University		education-01.jsonl
+Monash University		education-01.jsonl
 University of Queensland		education-01.jsonl
 University of Adelaide		education-01.jsonl
 University of Western Australia		education-01.jsonl
@@ -440,7 +442,6 @@ Australian Institute of Music		education-02.jsonl
 SAE Institute Australia		education-02.jsonl
 Holmes Institute		education-02.jsonl
 South Australian Department for Education		education-02.jsonl
-Tasmanian Department for Education, Children and Young People		education-02.jsonl
 ACT Education Directorate		education-02.jsonl
 Catholic Schools NSW		education-03.jsonl
 Catholic Schools Parramatta Diocese		education-03.jsonl
@@ -504,7 +505,6 @@ Australian Research Data Commons	https://ardc.edu.au/about-us/careers/	education
 Australian Genome Research Facility	https://www.agrf.org.au/careers/	education-06.jsonl
 Bioplatforms Australia		education-06.jsonl
 Intersect Australia		education-06.jsonl
-International Centre for Radio Astronomy Research	https://www.icrar.org/jobs/	education-06.jsonl
 Lowy Institute	https://www.lowyinstitute.org/about/careers	education-06.jsonl
 Australia Institute	https://australiainstitute.org.au/about/jobs/	education-06.jsonl
 Climate Council	https://www.climatecouncil.org.au/about/jobs/	education-06.jsonl
@@ -569,6 +569,7 @@ Gallagher Bassett Australia		finance-more-01.jsonl
 Beazley Australia		finance-more-01.jsonl
 Berkshire Hathaway Specialty Insurance Australia		finance-more-01.jsonl
 Tokio Marine & Nichido Fire Insurance Australia		finance-more-01.jsonl
+FM Global Australia		finance-more-01.jsonl
 HDI Global Australia		finance-more-02.jsonl
 Markel Australia		finance-more-02.jsonl
 Everest Re Australia		finance-more-02.jsonl
@@ -740,19 +741,13 @@ Western Australian Treasury Corporation		finance-more-10.jsonl
 South Australian Government Financing Authority		finance-more-10.jsonl
 Tasmanian Public Finance Corporation		finance-more-10.jsonl
 Victorian Funds Management Corporation		finance-more-10.jsonl
-Department of Home Affairs	https://www.homeaffairs.gov.au/about-us/careers	government-01.jsonl
-Office of National Intelligence	https://www.oni.gov.au/careers/recruitment-journey/eligibility	government-01.jsonl
-IP Australia	https://www.ipaustralia.gov.au/careers/work-at-ip-australia	government-01.jsonl
-Australian Public Service Commission		government-02.jsonl
-AUSTRAC		government-02.jsonl
-Australian Criminal Intelligence Commission	https://www.acic.gov.au/careers/apply-job	government-02.jsonl
+IP Australia	https://www.ipaustralia.gov.au/careers/become-a-patent-examiner	government-01.jsonl
 Fair Work Ombudsman	https://www.fairwork.gov.au/about-us/careers	government-02.jsonl
 Clean Energy Finance Corporation	https://www.cefc.com.au/about-us/who-we-are/careers/	government-02.jsonl
 Export Finance Australia	https://www.exportfinance.gov.au/our-organisation/careers/	government-02.jsonl
 eSafety Commissioner	https://www.esafety.gov.au/about-us/jobs	government-02.jsonl
 NDIS Quality and Safeguards Commission	https://www.ndiscommission.gov.au/workforce/your-career-disability	government-02.jsonl
 Australian Office of Financial Management	https://www.aofm.gov.au/about/careers/how-apply	government-02.jsonl
-Commonwealth Director of Public Prosecutions	https://www.cdpp.gov.au/careers/eligibility-requirements	government-03.jsonl
 Australian Transport Safety Bureau	https://www.atsb.gov.au/jobs	government-03.jsonl
 Australian Maritime Safety Authority		government-03.jsonl
 NOPSEMA		government-03.jsonl
@@ -762,16 +757,12 @@ Therapeutic Goods Administration		government-03.jsonl
 Infrastructure Australia		government-03.jsonl
 Australian Charities and Not-for-profits Commission		government-03.jsonl
 Defence Housing Australia		government-03.jsonl
-Australian Defence Force	https://www.adfcareers.gov.au/careers/joining/eligibility	government-03.jsonl
-Western Australian Public Sector Graduate Program		government-04.jsonl
 Service NSW		government-04.jsonl
-NSW Department of Education		government-04.jsonl
 icare		government-04.jsonl
-Hunter Water		government-04.jsonl
+WaterNSW	https://careers.waternsw.com.au/search/?q=graduate	government-04.jsonl
 WorkSafe Victoria		government-04.jsonl
 VicTrack		government-04.jsonl
-South East Water		government-04.jsonl
-Yarra Valley Water		government-04.jsonl
+South East Water	https://jobs.southeastwater.com.au/search/?q=graduate	government-04.jsonl
 Queensland Urban Utilities	https://www.urbanutilities.com.au/about-us/careers	government-05.jsonl
 Landcom	https://www.landcom.com.au/careers	government-06.jsonl
 City of Melbourne	https://www.melbourne.vic.gov.au/recruitment-process-application-tips	government-06.jsonl
@@ -1310,13 +1301,10 @@ Strategy& Australia		professional-services-01.jsonl
 Stantons		professional-services-01.jsonl
 Bentleys		professional-services-01.jsonl
 Kroll Australia		professional-services-01.jsonl
-Boston Consulting Group Australia		professional-services-02.jsonl
-Accenture Song Australia		professional-services-02.jsonl
 Kearney Australia		professional-services-02.jsonl
 Oliver Wyman Australia		professional-services-02.jsonl
 L.E.K. Consulting Australia		professional-services-02.jsonl
 Roland Berger Australia		professional-services-02.jsonl
-Nous Group		professional-services-02.jsonl
 ZS Australia		professional-services-02.jsonl
 Simon-Kucher Australia		professional-services-02.jsonl
 Slalom Australia		professional-services-02.jsonl
@@ -1329,11 +1317,8 @@ Mantel Group		professional-services-02.jsonl
 Telstra Purple		professional-services-02.jsonl
 Baringa Australia		professional-services-02.jsonl
 PA Consulting Australia		professional-services-02.jsonl
-Dentons Australia		professional-services-03.jsonl
-K&L Gates Australia		professional-services-03.jsonl
 Jackson McDonald		professional-services-04.jsonl
 Clifford Chance Australia		professional-services-04.jsonl
-A&O Shearman Australia		professional-services-04.jsonl
 Latham & Watkins Australia		professional-services-04.jsonl
 Maurice Blackburn		professional-services-04.jsonl
 Madgwicks		professional-services-04.jsonl
@@ -1455,7 +1440,6 @@ Thungela Resources Australia		resources-more-01.jsonl
 Idemitsu Australia Resources		resources-more-01.jsonl
 Centennial Coal		resources-more-01.jsonl
 Malabar Resources		resources-more-01.jsonl
-BMA		resources-more-01.jsonl
 Jellinbah Group		resources-more-02.jsonl
 Bowen Coking Coal		resources-more-02.jsonl
 Bloomfield Group		resources-more-02.jsonl
@@ -1667,7 +1651,6 @@ AC3		tech-more-05.jsonl
 DiUS		tech-more-06.jsonl
 Elabor8		tech-more-06.jsonl
 SSW		tech-more-06.jsonl
-Planit		tech-more-06.jsonl
 Eliiza		tech-more-06.jsonl
 Max Kelsen		tech-more-06.jsonl
 Mutinex		tech-more-06.jsonl
@@ -1760,7 +1743,6 @@ SAP Australia		tech-telecom-03.jsonl
 HP Australia		tech-telecom-03.jsonl
 Superloop		tech-telecom-04.jsonl
 Aussie Broadband		tech-telecom-04.jsonl
-DXC Technology Australia		tech-telecom-04.jsonl
 CSG		tech-telecom-04.jsonl
 NTT DATA Australia		tech-telecom-04.jsonl
 Akuna Capital Australia		tech-telecom-05.jsonl
@@ -1816,8 +1798,6 @@ Healthengine		tech-telecom-09.jsonl
 Edrolo		tech-telecom-09.jsonl
 Studiosity		tech-telecom-09.jsonl
 AgriWebb		tech-telecom-09.jsonl
-News Corp Australia		tech-telecom-09.jsonl
-Australian Broadcasting Corporation		tech-telecom-09.jsonl
 Southern Cross Austereo		tech-telecom-09.jsonl
 ARN		tech-telecom-10.jsonl
 Brennan IT		tech-telecom-10.jsonl

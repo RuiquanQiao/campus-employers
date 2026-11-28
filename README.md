@@ -26,28 +26,40 @@ unless someone already works there. This list is meant to be that someone.
 | Where | Employers | Careers site confirmed | Recruiting system known |
 |---|---|---|---|
 | Mainland China (`cn`) | 7,750 | 1,973 | 1,074 |
-| Australia (`au`) | 3,822 | 2,182 | 449 |
-| United States (`us`) | 5,234 | 4,358 | 1,334 |
+| Australia (`au`) | 3,811 | 2,233 | 444 |
+| United States (`us`) | 5,189 | 4,367 | 1,319 |
 | Singapore (`sg`) | 588 | 367 | 101 |
 | Hong Kong (`hk`) | 391 | 180 | 45 |
 
 Many state-owned employers' sites in mainland China answer only from inside it and still wait for a browser pass.
 
 **Who may apply.** Outside China, `notes` says who may apply (citizenship, permanent residency, work rights). For
-Australia each employer's graduate page was read (`CHECK_BRIEF.md`): 773 employers have their graduate or intern
-programme confirmed from their own site, 265 of them with a rule the page states, quoted in
-`dist/checks/au-*.out.jsonl`; `scripts/verify_notes.py` reopened each page and found the quoted sentence on 221 of
-the 265 (the rest are pages that build their text in the browser, or could not be reopened). For the United States
-the same check found the programme on the employer's own site for 3,089 employers, 446 of them with a rule the page
-states (most often US citizens only, or no work-visa sponsorship); the quoted sentence was found again on 250 of the
-447 pages, 97 could not be reopened, and on 100 it was not found (pages built in the browser, and sentences an agent
-took from a search result's summary rather than the page). Each is listed in `dist/checks/us-notes-verify.tsv`.
+Australia each employer's graduate page was read (`CHECK_BRIEF.md`, then a second look described below): 960
+employers have their graduate or intern programme confirmed from their own site, 324 of them with a rule the page
+states, quoted in `dist/checks/au-*.out.jsonl`; `scripts/verify_notes.py` reopened each page and found the quoted
+sentence on 267 of 326, 26 could not be reopened, and on 33 it was not found (pages that build their text in the
+browser). For the United States the same checks found the programme on the employer's own site for 3,239 employers,
+473 of them with a rule the page states (most often US citizens only, or no work-visa sponsorship); the quoted
+sentence was found again on 271 of 479 pages, 101 could not be reopened, and on 107 it was not found (pages built in
+the browser, and sentences an agent took from a search result's summary rather than the page). Each is listed in
+`dist/checks/<cc>-notes-verify.tsv`.
 The United Kingdom, Japan and Germany come next.
 
 How the check runs: `scripts/checks.py split <cc>` cuts a country into batches; `scripts/grad_pages.py` opens each
 employer's careers and graduate pages with no AI and keeps the sentences about an intake and about eligibility; an
 agent decides from those and from the employer's own pages; `scripts/checks.py apply <cc>` writes only confirmed
 results from the employer's own site (a job board's listing is not taken).
+
+The employers the first check found no programme for get a second look, cheapest first:
+`scripts/ats_check.py <cc>` reads the job list of each one's recruiting system (Workday, Greenhouse, Oracle,
+SuccessFactors and some 150 more, through the career-ops providers Resume Studio's scan uses) and keeps a current
+intern or graduate posting in the country, with no AI; an agent then marks from what it knows which of the rest run
+a programme (`FLAG_BRIEF.md`, `scripts/flag_lists.py`), and only those are looked for again on their own sites
+(`RECHECK_BRIEF.md`, `scripts/checks.py recheck`). A page about an intake of 2023 or earlier is not taken, and a later
+check never undoes a confirmation. Sites that answer only a browser (Queensland Health, several federal agencies)
+were read in one (`dist/checks/au-browser.out.jsonl`). Takeovers and closures the agents recalled wait in
+`dist/search/<cc>-leads.tsv` until a search confirms them; those confirmed are merged or removed by
+`scripts/apply_changes.py --cc <cc>` and listed with why in `dist/removed-<cc>.tsv`.
 
 ## How it is built
 

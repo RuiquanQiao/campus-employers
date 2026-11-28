@@ -217,7 +217,7 @@ Health Net	unreadable	https://jobs.centene.com/us/en/career-areas/internships/	S
 McKesson	found	https://careers.mckesson.com/en/early-talent	Authorized to work in the United States without the need for employer support or sponsorship now or in the future
 Memorial Healthcare System	found	https://www.mhs.net/medical-professionals/nursing/professional-development/nurse-residency	Have graduated from an accredited nursing program in the previous 12 months
 Atlantic Health System	found	https://www.atlantichealth.org/professionals/internship-programs/summer-internship	they must be currently pursuing a degree (Associate, Bachelor's, Master's, Ph.D., etc.) and not have graduated prior to the end of the internship program
-Roswell Park Comprehensive Cancer Center	unreadable	https://www.roswellpark.org/education/internship-opportunities	Eligibility requirements: US Citizens or Permanent Residents
+Roswell Park Comprehensive Cancer Center	found	https://www.roswellpark.org/education/internship-opportunities	Eligibility requirements: US Citizens or Permanent Residents
 Hartford HealthCare	found	https://hartfordhealthcare.org/health-professionals/education/residencies-fellowships/administrative-graduate-internship	Hartford HealthCare does not provide visa sponsorships for the internship program
 Northrop Grumman	not found	https://jobs.northropgrumman.com/careers/job/1340074488862-2027-college-technical-intern-mclean-va-united-states-virginia-mclean	applicants must be able to obtain a U.S. Government security clearance, and U.S. citizenship is a pre-requisite
 General Dynamics Mission Systems	not found	https://gdmissionsystems.com/careers/students-and-recent-graduates	citizenship is generally required
@@ -284,7 +284,7 @@ Pfizer	found	https://www.pfizer.com/en/about/careers/mba-summer-associate-progra
 Bristol Myers Squibb	found	https://careers.bms.com/internships-co-ops/research-internships/	All students must be authorized to work in the United States without requiring sponsorship now or in the future
 Gilead Sciences	found	https://www.gilead.com/careers/opportunities/early-career-opportunities/gilead-internship-program	Be authorized to work in the United States without sponsorship
 Biogen	found	https://www.biogen.com/careers/students-and-graduates.html	Be legally authorized to work in the U.S
-Sanofi US	found	https://jobs.sanofi.com/en/job/waltham/2027-summer-co-op-drug-substance-process-development-waltham-ma/2649/47089967808	and not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future
+Sanofi US	unreadable	https://jobs.sanofi.com/en/job/waltham/2027-summer-co-op-drug-substance-process-development-waltham-ma/2649/47089967808	and not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future
 Abbott	found	https://www.abbott.com/en-us/careers/students	Students must be eligible to work in the United States without Abbott sponsorship
 BD	unreadable	https://jobs.bd.com/en/job/franklin-lakes/bd-2027-summer-internship-edge-program-technology-and-digital-services-tds/159/99991853376	BD is unable to sponsor or take over sponsorship of employment visas at this time
 Dexcom	found	https://careers.dexcom.com/careers	eligible to work in the U.S. without Dexcom sponsorship
@@ -307,7 +307,7 @@ Sanofi Genzyme	unreadable	https://jobs.sanofi.com/en/job/swiftwater/summer-2026-
 Kyowa Kirin North America	not found	https://job-boards.greenhouse.io/kyowakirinusa90	Authorized to work in the United States on a permanent and ongoing basis without sponsorship
 CSL Behring US	unreadable	https://www.csl.com/careers/early-careers-at-csl/internships/internships-in-the-us	Interns must be authorized to work in the U.S. for the whole program
 Ferring Pharmaceuticals US	found	https://ferringusa.com/join-us/your-life-at-ferring/summer-intern-program/	Legally authorized to work in the U.S
-Sanofi Pasteur US	found	https://jobs.sanofi.com/en/job/waltham/2027-summer-co-op-drug-substance-process-development-waltham-ma/2649/47089967808	Must be permanently authorized to work in the U.S and not require sponsorship of an employment visa (e.g., H-1B or green card)
+Sanofi Pasteur US	unreadable	https://jobs.sanofi.com/en/job/waltham/2027-summer-co-op-drug-substance-process-development-waltham-ma/2649/47089967808	Must be permanently authorized to work in the U.S and not require sponsorship of an employment visa (e.g., H-1B or green card)
 Walt Disney Company	found	https://join.disneycareers.com/global/en/disney-internships	Possess unrestricted work authorization
 ESPN	found	https://join.disneycareers.com/global/en/disney-internships	Possess unrestricted work authorization
 Disney Experiences	found	https://join.disneycareers.com/global/en/disney-internships	Possess unrestricted work authorization
@@ -408,7 +408,7 @@ Cold Spring Harbor Laboratory	found	https://www.cshl.edu/education/undergraduate
 Bigelow Laboratory for Ocean Sciences	found	https://www.bigelow.org/education/reu/how-to-apply.html	international students and graduating seniors are not eligible for this program
 Gladstone Institutes	found	https://gladstone.org/pumas-summer-internship-program/	Be a United States citizen or permanent resident
 Buck Institute for Research on Aging	found	https://www.buckinstitute.org/education-training/undergraduate-postbacc/	Participants must be legally authorized to work in the U.S
-Institute for Systems Biology	found	https://isbscience.org/careers/internships/summer-undergraduate-research-experiences-program/	Authorized to work in the US
+Institute for Systems Biology	unreadable	https://isbscience.org/careers/internships/summer-undergraduate-research-experiences-program/	Authorized to work in the US
 University of Wisconsin-Madison	found	https://hr.wisc.edu/postdoc-and-research-intern-vacancies/	Must be legally authorized to work in the US without visa sponsorhip by start date
 Wake Forest University	not found	https://fellows.president.wfu.edu	All Wake Forest seniors in good standing are eligible to apply
 Atlassian US	not found	https://www.atlassian.com/company/careers/earlycareers	not open to F1 or J1 students
@@ -446,3 +446,35 @@ Total Quality Logistics	found	https://careers.tql.com/en_US/TQLexternalcareers/J
 DSV (US)	found	https://www.dsv.com/en-us/careers/trainee-program	DSV does not sponsor relocation or work permits for this program
 CMA CGM America	not found	https://jobs.cmacgm-group.com/CMACGM/job/Norfolk-Va-Digital-Innovation-Specialist-Internship/1056864201/	CMA CGM will only consider candidates who are presently authorized to work for any employer in the United States
 Merchants Fleet	found	https://www.merchantsfleet.com/early-careers/	Open to students (GPA 3.0+) graduating in 2027 or 2028.
+Hilltop Holdings	found	https://www.hilltop.com/careers/student-intern/	Authorized to work in the U.S. without the need for employer-sponsored work authorization now or in the future
+Synchrony	found	https://www.synchronycareers.com/about-us-blp	Must be pursuing a Bachelor's degree, enrolled in an accredited college or university with a cumulative GPA of 3.0 or better ... have legal authorization to work in the U.S. to be considered
+Mars, Incorporated	found	https://careers.mars.com/us/en/mars-internship-and-co-op-experience	As we are unable to sponsor visas for our Early Talent programs
+Mars Wrigley	found	https://careers.mars.com/us/en/mars-internship-and-co-op-experience	As we are unable to sponsor visas for our Early Talent programs
+Nestle Purina PetCare	found	https://www.nestlejobs.com/early-careers	Employment sponsorship for work authorization is not available for this internship program.
+The Wonderful Company	found	https://careers.wonderful.com/jobs/744000048835125	Must be a current Wonderful Scholar
+E. & J. Gallo Winery	found	https://gallocareers.com/undergrad/	You're a current college student
+CMS Energy	found	https://careers.consumersenergy.com/go/Internship-Opportunities/3026700/	you should be enrolled in a 2 or 4-year college program with a preferred 2.7 GPA or better
+Neuberger Berman	found	https://jobs.workable.com/jobs/f7335fc5-7fcf-4049-8565-7557100b4c1d.md	Applicants must be authorized and have the right to work in the country where the role is located
+IMC Trading US	found	https://www.imc.com/us/careers/students-graduates/internships	Our internship is open to ambitious, high-performing undergraduates in their penultimate year
+StepStone Group	not found	https://www.stepstonegroup.com/current-opportunities/?gh_jid=8094340	Must be able to work legally in the U.S. without requiring visa sponsorship now or in the future
+MarketAxess	found	https://www.marketaxess.com/careers/early-careers	Open to penultimate-year students worldwide
+PayPal	unreadable	https://careers.pypl.com/university-hiring/north-america-latin-america/default.aspx	Must be attending a US-based university for position in the US.
+Block	found	https://block.xyz/careers/jobs/5108007008?gh_jid=5108007008	Currently enrolled in an MS or PhD program in Computer Science, Machine Learning, Statistics, ... and returning to that program after the co-op.
+Stripe	found	https://stripe.com/jobs/search?gh_jid=8194291	with the expectation of graduating in December 2027 or spring/summer 2028
+U.S. Army Corps of Engineers	found	https://www.usajobs.gov/job/887602200	the intern must be a U.S. citizen.
+California State Legislature (fellowships)	found	https://www.assembly.ca.gov/fellowship	Be authorized to work in the United States for the duration of the program
+Marvell Technology	found	https://cn.marvell.com/company/careers/university-recruiting.html	Early career positions are for individuals hired within one year of graduating with a Bachelor's, Master's, MBA or PhD.
+Seagate Technology	unreadable	https://www.seagate.com/careers/students/	Internships are for students currently enrolled in a university, college or polytechnic program.
+Teradyne	found	https://jobs.teradyne.com/Teradyne/job/North-Reading-Technical-Writer-Co-Op%2C-Spring-2027%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1447301800/	This position is not eligible for visa sponsorship.
+Arista Networks	found	https://jobs.smartrecruiters.com/AristaNetworks/744000160961018	Enrolled in a graduate degree program with exposure to data analytics and statistics coursework
+Juniper Networks	found	https://careers.hpe.com/us/en/students	Candidates for our university hiring programs must have completed at least one year of college
+Hewlett Packard Enterprise	found	https://careers.hpe.com/us/en/global-it-early-careers	To apply to a specific job role, you must be located in the same state as the hiring location
+Silicon Labs	not found	https://silabs.wd1.myworkdayjobs.com/en-US/SiliconLabsCareers/job/Summer-2027-Internships_21056-1	An anticipated graduation date of December 2027 or later
+Digi-Key Electronics	not found	https://digikey.wd5.myworkdayjobs.com/en-US/Digi-Key/job/Talent-Acquisition-Intern_R5826	Must be authorized to work in the U.S. without the need for employment-based immigration sponsorship, now or in the future.
+Cardinal Health	found	https://jobs.cardinalhealth.com/search/jobdetails/category-management-internship-summer-2027/2eb38c84-8bb9-463d-b172-775496fe88b6	Must have unlimited work authorization in the United States without the need for employer sponsorship
+Bosch Rexroth US	found	https://jobs.smartrecruiters.com/BoschGroup/744000156311682	Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization unavailable.
+Raytheon Technologies Research Center	not found	https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/Additive-Manufacturing-Process-Intern--Summer-2027----Onsite_01889149	U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.
+Nintendo of America	not found	https://careers.nintendo.com/jobs/	Visa sponsorship is not available for this role.
+L.E.K. Consulting	found	https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/so/pm/1/pl/6/opp/4097-U-S-Summer-Consultant-2027/en-GB	International candidates will be considered.
+CDW	not found	https://cdw.wd5.myworkdayjobs.com/en-US/Careers/job/XMLNAME-2027-Sales-Internship---Cherry-Hill_R26_00002842	Authorization to work in the U.S. without sponsorship as a full-time coworker
+Nissan North America	not found	https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Finance-Intern---Summer-2027---Franklin--TN_R00214239	Sponsorship: Not Available
